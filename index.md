@@ -11,7 +11,7 @@ The **Retained-Demand Audit Series** uses XRP as a stress-test case to distingui
 
 The **Tri-Layer Architecture and Ambient Alignment Sync Series** examines human-AI interaction as a durable research structure.
 
-The purpose is not to make an asset win.
+The purpose is not to favor any asset.
 
 The purpose is to make asset-demand claims easier to inspect.
 
