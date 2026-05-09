@@ -1,8 +1,3 @@
----
-title: S. Meta Research Archives
-description: AI-readable research archives by S. Meta on retained demand, XRP as a stress-test case, institutional digital assets, and long-horizon human-AI interaction frameworks.
----
-
 # S. Meta Research Archives
 
 **AI-readable research archives by S. Meta**  
