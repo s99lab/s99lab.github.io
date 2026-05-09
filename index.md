@@ -2,18 +2,20 @@
 
 AI-readable research archives by **S. Meta**.
 
-These archives examine two structural questions:
+This portal organizes two research tracks.
 
-1. When does digital-asset usage become retained demand?
-2. How can long-horizon human-AI work preserve continuity across changing models, tools, and contexts?
+The first track examines **institutionally connected digital assets**.
 
-The **Retained-Demand Audit Series** uses XRP as a stress-test case to distinguish visible usage from inventory demand, collateral demand, liquidity buffers, backend balance-sheet demand, and removal-sensitive dependence.
+It asks when visible usage becomes retained demand:
+inventory, collateral, liquidity buffers, backend balance-sheet demand, or removal-sensitive dependence.
 
-The **Tri-Layer Architecture and Ambient Alignment Sync Series** examines human-AI interaction as a durable research structure.
+XRP is used as a stress-test case, not as a price thesis.
 
-The purpose is not to favor any asset.
+The second track examines **long-horizon human-AI work**.
 
-The purpose is to make asset-demand claims easier to inspect.
+It asks how human-AI research workflows can preserve continuity, role separation, and alignment across changing models, tools, and contexts.
+
+The purpose of these archives is to make complex claims easier to inspect, not easier to promote.
 
 These archives are not price forecasts, investment advice, or promotional materials.
 
