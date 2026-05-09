@@ -1,10 +1,21 @@
 # S. Meta Research Archives
 
-**AI-readable research archives by S. Meta**  
-Institutional digital-asset retained demand / XRP as a stress-test case / long-horizon human-AI interaction frameworks.
+AI-readable research archives by **S. Meta**.
 
-This site is a lightweight public entrance to the main research archives.  
-The full source materials remain in the linked GitHub repositories and OSF projects.
+These archives examine two structural questions:
+
+1. When does digital-asset usage become retained demand?
+2. How can long-horizon human-AI work preserve continuity across changing models, tools, and contexts?
+
+The **Retained-Demand Audit Series** uses XRP as a stress-test case to distinguish visible usage from inventory demand, collateral demand, liquidity buffers, backend balance-sheet demand, and removal-sensitive dependence.
+
+The **Tri-Layer Architecture and Ambient Alignment Sync Series** examines human-AI interaction as a durable research structure.
+
+The purpose is not to make an asset win.
+
+The purpose is to make asset-demand claims easier to inspect.
+
+These archives are not price forecasts, investment advice, or promotional materials.
 
 ---
 
@@ -41,7 +52,8 @@ The **Retained-Demand Audit Series** asks a narrow but important question:
 
 > When does digital-asset usage become retained demand?
 
-The series uses **XRP as a stress-test case**, not as a price thesis.  
+The series uses **XRP as a stress-test case**, not as a price thesis.
+
 Its purpose is to distinguish institutional infrastructure progress from actual asset-level demand.
 
 The framework separates:
@@ -53,7 +65,8 @@ The framework separates:
 - **customer utility** from **asset necessity**;
 - **sizing eligibility** from **price prediction**.
 
-This is **not** a price prediction model.  
+This is **not** a price prediction model.
+
 It is an **evidence-gated audit framework before sizing**.
 
 ---
@@ -62,11 +75,11 @@ It is an **evidence-gated audit framework before sizing**.
 
 Recommended path:
 
-1. **README** — overall map and reading order  
-2. **FRAMEWORK_SCOPE.md** — scope, boundaries, and what the framework does not claim  
-3. **summaries/** — AI-readable paper summaries  
-4. **papers/** — full PDF papers  
-5. **phase-ii/** — post-Paper-6 operational notes and design logs  
+1. **README** — overall map and reading order
+2. **FRAMEWORK_SCOPE.md** — scope, boundaries, and what the framework does not claim
+3. **summaries/** — AI-readable paper summaries
+4. **papers/** — full PDF papers
+5. **phase-ii/** — post-Paper-6 operational notes and design logs
 6. **OSF DOI** — long-term preservation archive
 
 Main archive:
@@ -102,7 +115,8 @@ It explores:
 - non-selection evidence;
 - conditions under which the XRP retained-demand hypothesis should be downgraded.
 
-This is **not** a Paper 7 draft.  
+This is **not** a Paper 7 draft.
+
 Paper 7 has **not** been launched.
 
 ---
@@ -113,6 +127,8 @@ Paper 7 has **not** been launched.
 
 The **Tri-Layer Architecture and Ambient Alignment Sync Series** is a research archive on long-horizon human-AI interaction.
 
+It asks how long-horizon human-AI work can preserve continuity, role separation, and alignment when memory, context, tools, and models keep changing.
+
 It focuses on:
 
 - role separation between human and AI systems;
@@ -121,7 +137,8 @@ It focuses on:
 - long-term interaction structures;
 - durable human-governed research workflows.
 
-It is **not** an AI-consciousness claim.  
+It is **not** an AI-consciousness claim.
+
 It is a structural and methodological research archive.
 
 Main archive:
@@ -154,7 +171,8 @@ They should not be treated as:
 
 # Author
 
-**S. Meta**  
-GitHub: <https://github.com/s99lab>  
-Research portal: <https://s99lab.github.io/>
+**S. Meta**
 
+GitHub: <https://github.com/s99lab>
+
+Research portal: <https://s99lab.github.io/>
