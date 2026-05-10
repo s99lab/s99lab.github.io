@@ -37,7 +37,7 @@ A research series using **XRP as a stress-test case** to distinguish visible usa
 - GitHub archive: <https://github.com/s99lab/retained-demand-audit-series>
 - OSF DOI: <https://doi.org/10.17605/OSF.IO/VQDUJ>
 - OSF project page: <https://osf.io/vqduj/>
-- Phase II Materials DOI: <https://doi.org/10.17605/OSF.IO/78AT>
+- Phase II Materials DOI: <https://doi.org/10.17605/OSF.IO/7R8AT>
 
 New to this research?
 
@@ -117,8 +117,8 @@ Current Phase II design log:
 Operator-Layer Cost Compression, Inventory Formation, and Non-Selection Evidence: A Boundary Model for Backend Retained Demand
 
 - PDF: <https://github.com/s99lab/retained-demand-audit-series/blob/main/phase-ii/paper-7-candidate-a-design-log-v0.1.pdf>
-- Phase II Materials DOI: <https://doi.org/10.17605/OSF.IO/78AT>
-- OSF Phase II component: <https://osf.io/78at/>
+- Phase II Materials DOI: <https://doi.org/10.17605/OSF.IO/7R8AT>
+- OSF Phase II component: <https://osf.io/7r8at/>
 
 This design log asks:
 
