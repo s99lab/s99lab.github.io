@@ -7,7 +7,12 @@ This portal organizes two research tracks.
 The first track examines **institutionally connected digital assets**.
 
 It asks when visible usage becomes retained demand:
-inventory, collateral, liquidity buffers, backend balance-sheet demand, or removal-sensitive dependence.
+
+- inventory;
+- collateral;
+- liquidity buffers;
+- backend balance-sheet demand;
+- removal-sensitive dependence.
 
 XRP is used as a stress-test case, not as a price thesis.
 
@@ -25,20 +30,28 @@ These archives are not price forecasts, investment advice, or promotional materi
 
 ### For digital-asset infrastructure, XRP, stablecoins, RWA, settlement, and retained demand
 
-Start with:
+Start with: **Retained-Demand Audit Series**
 
-**Retained-Demand Audit Series**  
 A research series using **XRP as a stress-test case** to distinguish visible usage from retained demand in institutionally connected digital assets.
 
 - GitHub archive: <https://github.com/s99lab/retained-demand-audit-series>
 - OSF DOI: <https://doi.org/10.17605/OSF.IO/VQDUJ>
 - OSF project page: <https://osf.io/vqduj/>
 
+New to this research?
+
+Start with the repository README, then read the short paper summaries before opening the PDFs.
+
+The central idea is simple:
+
+> usage is not the same as retained demand.
+
+The series asks when institutionally connected digital assets are actually held as inventory, collateral, liquidity buffers, or operational working balances — rather than merely being supported, displayed, or routed through infrastructure.
+
 ### For human-AI interaction, research workflows, and alignment structures
 
-Start with:
+Start with: **Tri-Layer Architecture and Ambient Alignment Sync Series**
 
-**Tri-Layer Architecture and Ambient Alignment Sync Series**  
 A research series on long-horizon human-AI interaction, role separation, ambient alignment, and bounded archive reconstruction.
 
 - GitHub archive: <https://github.com/s99lab/aas-trilayer-ambient-alignment>
@@ -98,9 +111,9 @@ After Paper 6, the series enters a Phase II operational-audit layer.
 
 Current Phase II design log:
 
-**Paper 7 Candidate A Design Log v0.1**  
-Operator-Layer Cost Compression, Inventory Formation, and Non-Selection Evidence:  
-A Boundary Model for Backend Retained Demand
+**Paper 7 Candidate A Design Log v0.1**
+
+Operator-Layer Cost Compression, Inventory Formation, and Non-Selection Evidence: A Boundary Model for Backend Retained Demand
 
 - PDF: <https://github.com/s99lab/retained-demand-audit-series/blob/main/phase-ii/paper-7-candidate-a-design-log-v0.1.pdf>
 
@@ -117,9 +130,10 @@ It explores:
 - non-selection evidence;
 - conditions under which the XRP retained-demand hypothesis should be downgraded.
 
-This is **not** a Paper 7 draft.
-
-Paper 7 has **not** been launched.
+> **Status:** Design log only.  
+> This is **not** a Paper 7 draft.  
+> Paper 7 has **not** been launched.  
+> It is not a retained-demand finding or investment thesis.
 
 ---
 
@@ -175,6 +189,10 @@ They should not be treated as:
 
 **S. Meta**
 
-GitHub: <https://github.com/s99lab>
+GitHub:
 
-Research portal: <https://s99lab.github.io/>
+<https://github.com/s99lab>
+
+Research portal:
+
+<https://s99lab.github.io/>
