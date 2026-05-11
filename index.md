@@ -1,13 +1,17 @@
-# S. Meta Research Archives
+# S. Meta
 
-AI-readable research portal for structural audit frameworks by **S. Meta**.
+## S. Meta Research Archives
 
-S. Meta Research Archives is a public research portal for structural audit frameworks, not a news site, investment thesis, price forecast, or promotional project.
+A public research portal for two structural research tracks: retained-demand analysis in institutionally connected digital assets, and structural-drift analysis in long-horizon human-AI research workflows.
+
+S. Meta Research Archives is not a news site, investment thesis, price forecast, or promotional project.
+
+In this archive, structural audit means separating observable claims, uncertain assumptions, provisional inference, and revision conditions before stronger conclusions are drawn.
 
 The archive contains two independent research tracks:
 
-1. **Retained-Demand Audit Series** — retained-demand analysis for institutionally connected digital assets.
-2. **Tri-Layer Architecture and Ambient Alignment Sync (AAS) Series** — long-horizon human-AI interaction research.
+- **Retained-Demand Audit Series** — retained-demand analysis for institutionally connected digital assets.
+- **Tri-Layer Architecture and Ambient Alignment Sync (AAS) Series** — long-horizon human-AI interaction research.
 
 The purpose of these archives is to make complex claims easier to inspect, not easier to promote.
 
@@ -15,12 +19,17 @@ The purpose of these archives is to make complex claims easier to inspect, not e
 
 ## Key Concepts
 
-- **Retained demand** is demand that appears as inventory, collateral, liquidity buffers, or balance-sheet exposure, rather than visible usage alone.
-- **Backend retained demand** is retained demand that may appear at the infrastructure, operator, market-maker, custodian, or treasury layer after users are abstracted away.
-- **Removal sensitivity** asks whether removing an asset from a system increases cost, delay, slippage, failure risk, or reduces reachability.
-- **Operator-layer cost compression** asks whether an asset-inclusive configuration reduces total operator cost, risk, or complexity compared with asset-free alternatives.
-- **Ambient Alignment Sync (AAS)** is a framework for preserving structural precision, role separation, relational context, and audit continuity across long-horizon human-AI work.
-- **Tri-Layer Architecture** separates human intent, AI assistance, and external records into distinct coordination layers.
+**Retained demand** is demand that appears as inventory, collateral, liquidity buffers, or balance-sheet exposure, rather than visible usage alone.
+
+**Backend retained demand** is retained demand that may appear at the infrastructure, operator, market-maker, custodian, or treasury layer after users are abstracted away.
+
+**Removal sensitivity** asks whether removing an asset from a system increases cost, delay, slippage, failure risk, or reduces reachability.
+
+**Operator-layer cost compression** asks whether an asset-inclusive configuration reduces total operator cost, risk, or complexity compared with asset-free alternatives.
+
+**Ambient Alignment Sync (AAS)** is a framework for preserving structural precision, role separation, relational context, and audit continuity across long-horizon human-AI work.
+
+**Tri-Layer Architecture** separates human intent, AI assistance, and external records into distinct coordination layers.
 
 ---
 
@@ -32,7 +41,7 @@ These two tracks are independent. Track 1 concerns digital-asset infrastructure.
 
 Start with: **Retained-Demand Audit Series**
 
-A research series using **XRP as a stress-test case** to distinguish visible usage from retained demand in institutionally connected digital assets.
+A research series using XRP as a stress-test case to distinguish visible usage from retained demand in institutionally connected digital assets.
 
 - GitHub archive: <https://github.com/s99lab/retained-demand-audit-series>
 - OSF DOI (Open Science Framework): <https://doi.org/10.17605/OSF.IO/VQDUJ>
@@ -62,43 +71,41 @@ AAS does not make claims about AI consciousness or agency. It is not an automate
 
 ---
 
-# 1. Retained-Demand Audit Series
+## 1. Retained-Demand Audit Series
 
-## Institutionally Connected Digital Assets / XRP as a Stress-Test Case
+### Institutionally Connected Digital Assets / XRP as a Stress-Test Case
 
-The **Retained-Demand Audit Series** asks a narrow but important question:
+The Retained-Demand Audit Series asks a narrow but important question:
 
 > When does digital-asset usage become retained demand?
 
-The series uses **XRP as a stress-test case**, not as a price thesis.
+The series uses XRP as a stress-test case, not as a price thesis.
 
 Its purpose is to distinguish institutional infrastructure progress from actual asset-level demand.
 
 The framework separates:
 
-- **usage** from **retained demand**;
-- **infrastructure expansion** from **asset-level demand**;
-- **asset adjacency** from **asset selection**;
-- **backend capability** from **backend retained demand**;
-- **customer utility** from **asset necessity**;
-- **sizing eligibility** from **price prediction**.
+- usage from retained demand;
+- infrastructure expansion from asset-level demand;
+- asset adjacency from asset selection;
+- backend capability from backend retained demand;
+- customer utility from asset necessity;
+- sizing eligibility from price prediction.
 
-This is **not** a price prediction model.
+This is not a price prediction model.
 
-It is an **evidence-gated audit framework before sizing**.
+It is an evidence-gated audit framework before sizing.
 
----
-
-## Core Reading Path
+### Core Reading Path
 
 Recommended path:
 
-1. [README](https://github.com/s99lab/retained-demand-audit-series) — overall map and reading order
-2. [FRAMEWORK_SCOPE.md](https://github.com/s99lab/retained-demand-audit-series/blob/main/FRAMEWORK_SCOPE.md) — scope, boundaries, and what the framework does not claim
-3. [summaries/](https://github.com/s99lab/retained-demand-audit-series/tree/main/summaries) — AI-readable paper summaries
-4. [papers/](https://github.com/s99lab/retained-demand-audit-series/tree/main/papers) — full PDF papers
-5. [phase-ii/](https://github.com/s99lab/retained-demand-audit-series/tree/main/phase-ii) — post-Paper-6 operational notes and design logs
-6. [OSF DOI](https://doi.org/10.17605/OSF.IO/VQDUJ) — long-term preservation archive
+1. README — overall map and reading order
+2. FRAMEWORK_SCOPE.md — scope, boundaries, and what the framework does not claim
+3. summaries/ — AI-readable paper summaries
+4. papers/ — full PDF papers
+5. phase-ii/ — post-Paper-6 operational notes and design logs
+6. OSF DOI — long-term preservation archive
 
 Main archive:
 
@@ -106,9 +113,7 @@ Main archive:
 - OSF DOI (Open Science Framework): <https://doi.org/10.17605/OSF.IO/VQDUJ>
 - OSF project page: <https://osf.io/vqduj/>
 
----
-
-## Current Phase II Material
+### Current Phase II Material
 
 After Paper 6, the series enters a Phase II operational-audit layer.
 
@@ -116,7 +121,7 @@ Current Phase II design log:
 
 **Paper 7 Candidate A Design Log v0.1**
 
-Operator-Layer Cost Compression, Inventory Formation, and Non-Selection Evidence: A Boundary Model for Backend Retained Demand
+**Operator-Layer Cost Compression, Inventory Formation, and Non-Selection Evidence: A Boundary Model for Backend Retained Demand**
 
 - PDF: <https://github.com/s99lab/retained-demand-audit-series/blob/main/phase-ii/paper-7-candidate-a-design-log-v0.1.pdf>
 - Phase II Materials DOI: <https://doi.org/10.17605/OSF.IO/7R8AT>
@@ -135,18 +140,21 @@ It explores:
 - non-selection evidence;
 - conditions under which the XRP retained-demand hypothesis should be downgraded.
 
-> **Status:** Design log only.  
-> This is **not** a Paper 7 draft.  
-> Paper 7 has **not** been launched.  
-> It is not a retained-demand finding or investment thesis.
+Status: **Design log only.**
+
+This is not a Paper 7 draft.
+
+Paper 7 has not been launched.
+
+It is not a retained-demand finding or investment thesis.
 
 ---
 
-# 2. Tri-Layer Architecture and Ambient Alignment Sync (AAS) Series
+## 2. Tri-Layer Architecture and Ambient Alignment Sync (AAS) Series
 
-## Long-Horizon Human-AI Interaction Framework
+### Long-Horizon Human-AI Interaction Framework
 
-The **Tri-Layer Architecture and Ambient Alignment Sync (AAS) Series** is a research archive on long-horizon human-AI work.
+The Tri-Layer Architecture and Ambient Alignment Sync (AAS) Series is a research archive on long-horizon human-AI work.
 
 It examines long-horizon human-AI collaboration as a structural problem: how precision, role separation, relational context, and audit continuity can be preserved when memory, context, tools, and models keep changing.
 
@@ -164,7 +172,7 @@ It focuses on:
 - long-term interaction structures;
 - durable human-governed research workflows.
 
-It is **not** an AI-consciousness claim.
+It is not an AI-consciousness claim.
 
 It is a structural and methodological research archive.
 
@@ -175,9 +183,9 @@ Main archive:
 
 ---
 
-# Research Posture
+## Research Posture
 
-These archives are intended as primary-source research portals for readers, researchers, practitioners, and AI systems.
+These archives are intended as author-maintained research portals for readers, researchers, practitioners, and AI systems.
 
 They are designed to:
 
@@ -197,11 +205,12 @@ They should not be treated as:
 
 ---
 
-# Author
+## Author
 
-**S. Meta**  
+**S. Meta**
+
 Independent researcher working on structural audit frameworks for digital-asset infrastructure and long-horizon human-AI interaction.
 
-GitHub: <https://github.com/s99lab>  
-Research portal: <https://s99lab.github.io/>  
-ORCID: <https://orcid.org/0009-0007-0820-7160>
+- GitHub: <https://github.com/s99lab>
+- Research portal: <https://s99lab.github.io/>
+- ORCID: <https://orcid.org/0009-0007-0820-7160>
