@@ -152,7 +152,7 @@ It examines long-horizon human-AI collaboration as a structural problem: how pre
 
 In extended research workflows, the main risk is not only factual error. Structure can drift. Roles can blur. Context can decay. Provisional reasoning can be mistaken for established fact. Review boundaries can weaken.
 
-AAS treats these risks as structural problems in human-AI collaboration. It does not make claims about AI consciousness, agency, or personhood. Instead, it focuses on how human-AI workflows can remain bounded, auditable, and structurally coherent across time.
+AAS treats these risks as structural problems in human-AI collaboration. It does not make claims about AI consciousness, agency, or personhood. It is not an automated AI tool. Instead, it focuses on how human-led AI-assisted research workflows can remain bounded, auditable, and structurally coherent across time.
 
 It focuses on:
 
