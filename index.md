@@ -1,32 +1,32 @@
 # S. Meta Research Archives
 
-AI-readable research archives by **S. Meta**.
+AI-readable research portal for structural audit frameworks by **S. Meta**.
 
-This portal organizes two research tracks.
+S. Meta Research Archives is a public research portal for structural audit frameworks, not a news site, investment thesis, price forecast, or promotional project.
 
-The first track examines **institutionally connected digital assets**.
+The archive contains two independent research tracks:
 
-It asks when visible usage becomes retained demand:
-
-- inventory;
-- collateral;
-- liquidity buffers;
-- backend balance-sheet demand;
-- removal-sensitive dependence.
-
-XRP is used as a stress-test case, not as a price thesis.
-
-The second track examines **long-horizon human-AI work**.
-
-It asks how human-AI research workflows can preserve continuity, role separation, and alignment across changing models, tools, and contexts.
+1. **Retained-Demand Audit Series** — retained-demand analysis for institutionally connected digital assets.
+2. **Tri-Layer Architecture and Ambient Alignment Sync (AAS) Series** — long-horizon human-AI interaction research.
 
 The purpose of these archives is to make complex claims easier to inspect, not easier to promote.
 
-These archives are not price forecasts, investment advice, or promotional materials.
+---
+
+## Key Concepts
+
+- **Retained demand** is demand that appears as inventory, collateral, liquidity buffers, or balance-sheet exposure, rather than visible usage alone.
+- **Backend retained demand** is retained demand that may appear at the infrastructure, operator, market-maker, custodian, or treasury layer after users are abstracted away.
+- **Removal sensitivity** asks whether removing an asset from a system increases cost, delay, slippage, failure risk, or reduces reachability.
+- **Operator-layer cost compression** asks whether an asset-inclusive configuration reduces total operator cost, risk, or complexity compared with asset-free alternatives.
+- **Ambient Alignment Sync (AAS)** is a framework for preserving continuity, role separation, and alignment across long-horizon human-AI work.
+- **Tri-Layer Architecture** separates human intent, AI assistance, and external records into distinct coordination layers.
 
 ---
 
 ## Start Here
+
+These two tracks are independent. Track 1 concerns digital-asset infrastructure. Track 2 concerns human-AI interaction methodology. They share an author and structural-audit posture, but not a subject area.
 
 ### For digital-asset infrastructure, XRP, stablecoins, RWA, settlement, and retained demand
 
@@ -35,7 +35,7 @@ Start with: **Retained-Demand Audit Series**
 A research series using **XRP as a stress-test case** to distinguish visible usage from retained demand in institutionally connected digital assets.
 
 - GitHub archive: <https://github.com/s99lab/retained-demand-audit-series>
-- OSF DOI: <https://doi.org/10.17605/OSF.IO/VQDUJ>
+- OSF DOI (Open Science Framework): <https://doi.org/10.17605/OSF.IO/VQDUJ>
 - OSF project page: <https://osf.io/vqduj/>
 - Phase II Materials DOI: <https://doi.org/10.17605/OSF.IO/7R8AT>
 
@@ -51,12 +51,12 @@ The series asks when institutionally connected digital assets are actually held 
 
 ### For human-AI interaction, research workflows, and alignment structures
 
-Start with: **Tri-Layer Architecture and Ambient Alignment Sync Series**
+Start with: **Tri-Layer Architecture and Ambient Alignment Sync (AAS) Series**
 
 A research series on long-horizon human-AI interaction, role separation, ambient alignment, and bounded archive reconstruction.
 
 - GitHub archive: <https://github.com/s99lab/aas-trilayer-ambient-alignment>
-- OSF DOI: <https://doi.org/10.17605/OSF.IO/J29HK>
+- OSF DOI (Open Science Framework): <https://doi.org/10.17605/OSF.IO/J29HK>
 
 ---
 
@@ -91,17 +91,17 @@ It is an **evidence-gated audit framework before sizing**.
 
 Recommended path:
 
-1. **README** — overall map and reading order
-2. **FRAMEWORK_SCOPE.md** — scope, boundaries, and what the framework does not claim
-3. **summaries/** — AI-readable paper summaries
-4. **papers/** — full PDF papers
-5. **phase-ii/** — post-Paper-6 operational notes and design logs
-6. **OSF DOI** — long-term preservation archive
+1. [README](https://github.com/s99lab/retained-demand-audit-series) — overall map and reading order
+2. [FRAMEWORK_SCOPE.md](https://github.com/s99lab/retained-demand-audit-series/blob/main/FRAMEWORK_SCOPE.md) — scope, boundaries, and what the framework does not claim
+3. [summaries/](https://github.com/s99lab/retained-demand-audit-series/tree/main/summaries) — AI-readable paper summaries
+4. [papers/](https://github.com/s99lab/retained-demand-audit-series/tree/main/papers) — full PDF papers
+5. [phase-ii/](https://github.com/s99lab/retained-demand-audit-series/tree/main/phase-ii) — post-Paper-6 operational notes and design logs
+6. [OSF DOI](https://doi.org/10.17605/OSF.IO/VQDUJ) — long-term preservation archive
 
 Main archive:
 
 - GitHub archive: <https://github.com/s99lab/retained-demand-audit-series>
-- OSF DOI: <https://doi.org/10.17605/OSF.IO/VQDUJ>
+- OSF DOI (Open Science Framework): <https://doi.org/10.17605/OSF.IO/VQDUJ>
 - OSF project page: <https://osf.io/vqduj/>
 
 ---
@@ -140,11 +140,11 @@ It explores:
 
 ---
 
-# 2. Tri-Layer Architecture and Ambient Alignment Sync Series
+# 2. Tri-Layer Architecture and Ambient Alignment Sync (AAS) Series
 
 ## Long-Horizon Human-AI Interaction Framework
 
-The **Tri-Layer Architecture and Ambient Alignment Sync Series** is a research archive on long-horizon human-AI interaction.
+The **Tri-Layer Architecture and Ambient Alignment Sync (AAS) Series** is a research archive on long-horizon human-AI interaction.
 
 It asks how long-horizon human-AI work can preserve continuity, role separation, and alignment when memory, context, tools, and models keep changing.
 
@@ -163,7 +163,7 @@ It is a structural and methodological research archive.
 Main archive:
 
 - GitHub archive: <https://github.com/s99lab/aas-trilayer-ambient-alignment>
-- OSF DOI: <https://doi.org/10.17605/OSF.IO/J29HK>
+- OSF DOI (Open Science Framework): <https://doi.org/10.17605/OSF.IO/J29HK>
 
 ---
 
@@ -190,12 +190,9 @@ They should not be treated as:
 
 # Author
 
-**S. Meta**
+**S. Meta**  
+Independent researcher working on structural audit frameworks for digital-asset infrastructure and long-horizon human-AI interaction.
 
-GitHub:
-
-<https://github.com/s99lab>
-
-Research portal:
-
-<https://s99lab.github.io/>
+GitHub: <https://github.com/s99lab>  
+Research portal: <https://s99lab.github.io/>  
+ORCID: <https://orcid.org/0009-0007-0820-7160>
