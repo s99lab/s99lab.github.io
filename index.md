@@ -19,7 +19,7 @@ The purpose of these archives is to make complex claims easier to inspect, not e
 - **Backend retained demand** is retained demand that may appear at the infrastructure, operator, market-maker, custodian, or treasury layer after users are abstracted away.
 - **Removal sensitivity** asks whether removing an asset from a system increases cost, delay, slippage, failure risk, or reduces reachability.
 - **Operator-layer cost compression** asks whether an asset-inclusive configuration reduces total operator cost, risk, or complexity compared with asset-free alternatives.
-- **Ambient Alignment Sync (AAS)** is a framework for preserving continuity, role separation, and alignment across long-horizon human-AI work.
+- **Ambient Alignment Sync (AAS)** is a framework for preserving structural precision, role separation, relational context, and audit continuity across long-horizon human-AI work.
 - **Tri-Layer Architecture** separates human intent, AI assistance, and external records into distinct coordination layers.
 
 ---
@@ -53,7 +53,9 @@ The series asks when institutionally connected digital assets are actually held 
 
 Start with: **Tri-Layer Architecture and Ambient Alignment Sync (AAS) Series**
 
-A research series on long-horizon human-AI interaction, role separation, ambient alignment, and bounded archive reconstruction.
+A research series on long-horizon human-AI work as a structural problem: how to preserve precision, role separation, relational context, and audit continuity over time.
+
+AAS does not make claims about AI consciousness or agency. Instead, it studies how human-AI collaboration can avoid structural drift across extended research, review, and decision workflows.
 
 - GitHub archive: <https://github.com/s99lab/aas-trilayer-ambient-alignment>
 - OSF DOI (Open Science Framework): <https://doi.org/10.17605/OSF.IO/J29HK>
@@ -144,14 +146,20 @@ It explores:
 
 ## Long-Horizon Human-AI Interaction Framework
 
-The **Tri-Layer Architecture and Ambient Alignment Sync (AAS) Series** is a research archive on long-horizon human-AI interaction.
+The **Tri-Layer Architecture and Ambient Alignment Sync (AAS) Series** is a research archive on long-horizon human-AI work.
 
-It asks how long-horizon human-AI work can preserve continuity, role separation, and alignment when memory, context, tools, and models keep changing.
+It examines long-horizon human-AI collaboration as a structural problem: how precision, role separation, relational context, and audit continuity can be preserved when memory, context, tools, and models keep changing.
+
+In extended research workflows, the main risk is not only factual error. Structure can drift. Roles can blur. Context can decay. Provisional reasoning can be mistaken for established fact. Review boundaries can weaken.
+
+AAS treats these risks as structural problems in human-AI collaboration. It does not make claims about AI consciousness, agency, or personhood. Instead, it focuses on how human-AI workflows can remain bounded, auditable, and structurally coherent across time.
 
 It focuses on:
 
+- structural precision across long-horizon work;
 - role separation between human and AI systems;
-- ambient alignment;
+- relational context and continuity;
+- audit continuity across extended workflows;
 - bounded archive reconstruction;
 - long-term interaction structures;
 - durable human-governed research workflows.
