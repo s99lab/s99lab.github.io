@@ -4,6 +4,14 @@
 
 A public research portal for two structural research tracks: retained-demand analysis in institutionally connected digital assets, and structural-drift analysis in long-horizon human-AI research workflows.
 
+Modern research and infrastructure arguments often fail in similar ways: claims move faster than evidence, assumptions become hidden, and long workflows lose track of what was observed, what was inferred, and what would change the conclusion.
+
+S. Meta Research Archives is organized around a simple structural question: what is visible on the surface, and what is actually carrying the burden underneath?
+
+Retained-Demand applies this question to institutionally connected digital assets: when does visible use become actual asset-held demand?
+
+AAS applies it to long-horizon human-AI research workflows: when does extended interaction preserve, or lose, role separation, context, responsibility, and audit continuity?
+
 S. Meta Research Archives is not a news site, investment thesis, price forecast, or promotional project.
 
 In this archive, structural audit means separating observable claims, uncertain assumptions, provisional inference, and revision conditions before stronger conclusions are drawn.
