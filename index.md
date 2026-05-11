@@ -55,7 +55,7 @@ Start with: **Tri-Layer Architecture and Ambient Alignment Sync (AAS) Series**
 
 A research series on long-horizon human-AI work as a structural problem: how to preserve precision, role separation, relational context, and audit continuity over time.
 
-AAS does not make claims about AI consciousness or agency. Instead, it studies how human-AI collaboration can avoid structural drift across extended research, review, and decision workflows.
+AAS does not make claims about AI consciousness or agency. It is not an automated AI tool. Instead, it studies how human-led AI-assisted research workflows can avoid structural drift across extended research, review, and decision processes.
 
 - GitHub archive: <https://github.com/s99lab/aas-trilayer-ambient-alignment>
 - OSF DOI (Open Science Framework): <https://doi.org/10.17605/OSF.IO/J29HK>
@@ -192,6 +192,7 @@ They should not be treated as:
 - investment advice;
 - price forecasts;
 - promotional materials;
+- automated AI products;
 - claims beyond the stated scope of each archive.
 
 ---
