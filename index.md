@@ -29,9 +29,7 @@ The two tracks in this archive remain independent in subject area, but they shar
 
 Both tracks ask a similar underlying question:
 
-```text
-What is visible on the surface, and what is actually carrying the burden underneath?
-```
+> What is visible on the surface, and what is actually carrying the burden underneath?
 
 In the Retained-Demand Audit Series, this question is applied to digital-asset infrastructure: visible usage, support, or routing does not by itself show whether an asset is actually held as inventory, collateral, liquidity buffer, or balance-sheet exposure.
 
@@ -82,9 +80,7 @@ Start with the repository README, then read the short paper summaries before ope
 
 The central idea is simple:
 
-```text
-usage is not the same as retained demand.
-```
+> usage is not the same as retained demand.
 
 The series asks when institutionally connected digital assets are actually held as inventory, collateral, liquidity buffers, or operational working balances — rather than merely being supported, displayed, or routed through infrastructure.
 
@@ -115,9 +111,7 @@ The AAS archive also includes AI-readable key concepts and a candidate v2.0 desi
 
 The Retained-Demand Audit Series asks a narrow but important question:
 
-```text
-When does digital-asset usage become retained demand?
-```
+> When does digital-asset usage become retained demand?
 
 The series uses XRP as a stress-test case, not as a price thesis.
 
@@ -173,9 +167,7 @@ Current Phase II design log:
 
 This design log asks:
 
-```text
-After user abstraction, who must hold the asset in the background?
-```
+> After user abstraction, who must hold the asset in the background?
 
 It explores:
 
