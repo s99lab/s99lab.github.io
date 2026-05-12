@@ -21,9 +21,7 @@ Structural audit means separating visible surface signals from the underlying st
 
 It asks:
 
-```text
-What is visible on the surface, and what is actually carrying the burden underneath?
-```
+> What is visible on the surface, and what is actually carrying the burden underneath?
 
 In the Retained-Demand Audit Series, structural audit is applied to institutionally connected digital assets.
 
@@ -41,9 +39,7 @@ A system may use, support, display, or route through an asset without generating
 
 Core distinction:
 
-```text
-Usage is not the same as retained demand.
-```
+> Usage is not the same as retained demand.
 
 ---
 
@@ -55,9 +51,7 @@ It focuses on where asset exposure is held in the background, not whether end us
 
 Core question:
 
-```text
-After user abstraction, who must hold the asset in the background?
-```
+> After user abstraction, who must hold the asset in the background?
 
 ---
 
@@ -139,9 +133,7 @@ It does not mean mixed responsibility.
 
 Core distinction:
 
-```text
-Mixed formation does not mean mixed responsibility.
-```
+> Mixed formation does not mean mixed responsibility.
 
 The human author retains judgment, selection, authorship, and responsibility.
 
