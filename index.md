@@ -51,10 +51,10 @@ Start with: **Retained-Demand Audit Series**
 
 A research series using XRP as a stress-test case to distinguish visible usage from retained demand in institutionally connected digital assets.
 
-- GitHub archive: https://github.com/s99lab/retained-demand-audit-series
-- OSF DOI (Open Science Framework): https://doi.org/10.17605/OSF.IO/VQDUJ
-- OSF project page: https://osf.io/vqduj/
-- Phase II Materials DOI: https://doi.org/10.17605/OSF.IO/7R8AT
+- GitHub archive: [Retained-Demand Audit Series](https://github.com/s99lab/retained-demand-audit-series)
+- OSF DOI: [https://doi.org/10.17605/OSF.IO/VQDUJ](https://doi.org/10.17605/OSF.IO/VQDUJ)
+- OSF project page: [https://osf.io/vqduj/](https://osf.io/vqduj/)
+- Phase II Materials DOI: [https://doi.org/10.17605/OSF.IO/7R8AT](https://doi.org/10.17605/OSF.IO/7R8AT)
 
 ### New to this research?
 
@@ -82,8 +82,10 @@ AAS is a conceptual and methodological research archive, not a software tool, RA
 
 The AAS archive also includes AI-readable key concepts and a candidate v2.0 design log. These materials clarify emerging concepts such as mixed concept formation, governance of formation, structural externalization, and the public/private boundary around operational methodology. They are candidate archive materials, not revised papers or operational instructions.
 
-- GitHub archive: https://github.com/s99lab/aas-trilayer-ambient-alignment
-- OSF DOI (Open Science Framework): https://doi.org/10.17605/OSF.IO/J29HK
+- GitHub archive: [Tri-Layer Architecture and Ambient Alignment Sync Series](https://github.com/s99lab/aas-trilayer-ambient-alignment)
+- OSF DOI: [https://doi.org/10.17605/OSF.IO/J29HK](https://doi.org/10.17605/OSF.IO/J29HK)
+- Key concepts: [KEY_CONCEPTS.md](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/KEY_CONCEPTS.md)
+- Candidate design log: [AAS_V2_CANDIDATE_SEEDS.md](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/AAS_V2_CANDIDATE_SEEDS.md)
 
 ---
 
@@ -120,18 +122,18 @@ It is an evidence-gated audit framework before sizing.
 
 Recommended path:
 
-1. README — overall map and reading order
-2. FRAMEWORK_SCOPE.md — scope, boundaries, and what the framework does not claim
-3. summaries/ — AI-readable paper summaries
-4. papers/ — full PDF papers
-5. phase-ii/ — post-Paper-6 operational notes and design logs
-6. OSF DOI — long-term preservation archive
+1. [README](https://github.com/s99lab/retained-demand-audit-series/blob/main/README.md) — overall map and reading order
+2. [FRAMEWORK_SCOPE.md](https://github.com/s99lab/retained-demand-audit-series/blob/main/FRAMEWORK_SCOPE.md) — scope, boundaries, and what the framework does not claim
+3. [summaries/](https://github.com/s99lab/retained-demand-audit-series/tree/main/summaries) — AI-readable paper summaries
+4. [papers/](https://github.com/s99lab/retained-demand-audit-series/tree/main/papers) — full PDF papers
+5. [phase-ii/](https://github.com/s99lab/retained-demand-audit-series/tree/main/phase-ii) — post-Paper-6 operational notes and design logs
+6. [OSF DOI](https://doi.org/10.17605/OSF.IO/VQDUJ) — long-term preservation archive
 
 Main archive:
 
-- GitHub archive: https://github.com/s99lab/retained-demand-audit-series
-- OSF DOI (Open Science Framework): https://doi.org/10.17605/OSF.IO/VQDUJ
-- OSF project page: https://osf.io/vqduj/
+- GitHub archive: [Retained-Demand Audit Series](https://github.com/s99lab/retained-demand-audit-series)
+- OSF DOI: [https://doi.org/10.17605/OSF.IO/VQDUJ](https://doi.org/10.17605/OSF.IO/VQDUJ)
+- OSF project page: [https://osf.io/vqduj/](https://osf.io/vqduj/)
 
 ---
 
@@ -145,9 +147,9 @@ Current Phase II design log:
 
 **Operator-Layer Cost Compression, Inventory Formation, and Non-Selection Evidence: A Boundary Model for Backend Retained Demand**
 
-- PDF: https://github.com/s99lab/retained-demand-audit-series/blob/main/phase-ii/paper-7-candidate-a-design-log-v0.1.pdf
-- Phase II Materials DOI: https://doi.org/10.17605/OSF.IO/7R8AT
-- OSF Phase II component: https://osf.io/7r8at/
+- PDF: [paper-7-candidate-a-design-log-v0.1.pdf](https://github.com/s99lab/retained-demand-audit-series/blob/main/phase-ii/paper-7-candidate-a-design-log-v0.1.pdf)
+- Phase II Materials DOI: [https://doi.org/10.17605/OSF.IO/7R8AT](https://doi.org/10.17605/OSF.IO/7R8AT)
+- OSF Phase II component: [https://osf.io/7r8at/](https://osf.io/7r8at/)
 
 This design log asks:
 
@@ -207,8 +209,10 @@ It is a structural and methodological research archive.
 
 Main archive:
 
-- GitHub archive: https://github.com/s99lab/aas-trilayer-ambient-alignment
-- OSF DOI (Open Science Framework): https://doi.org/10.17605/OSF.IO/J29HK
+- GitHub archive: [Tri-Layer Architecture and Ambient Alignment Sync Series](https://github.com/s99lab/aas-trilayer-ambient-alignment)
+- OSF DOI: [https://doi.org/10.17605/OSF.IO/J29HK](https://doi.org/10.17605/OSF.IO/J29HK)
+- Key concepts: [KEY_CONCEPTS.md](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/KEY_CONCEPTS.md)
+- Candidate design log: [AAS_V2_CANDIDATE_SEEDS.md](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/AAS_V2_CANDIDATE_SEEDS.md)
 
 ---
 
@@ -244,6 +248,6 @@ They should not be treated as:
 
 Independent researcher working on structural audit frameworks for digital-asset infrastructure and long-horizon human-AI interaction.
 
-- GitHub: https://github.com/s99lab
-- Research portal: https://s99lab.github.io/
-- ORCID: https://orcid.org/0009-0007-0820-7160
+- GitHub: [https://github.com/s99lab](https://github.com/s99lab)
+- Research portal: [https://s99lab.github.io/](https://s99lab.github.io/)
+- ORCID: [https://orcid.org/0009-0007-0820-7160](https://orcid.org/0009-0007-0820-7160)
