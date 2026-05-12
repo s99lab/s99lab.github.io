@@ -23,6 +23,24 @@ The purpose of these archives is to make complex claims easier to inspect, not e
 
 ---
 
+## Common Foundation
+
+The two tracks in this archive remain independent in subject area, but they share a common structural-audit foundation.
+
+Both tracks ask a similar underlying question:
+
+```text
+What is visible on the surface, and what is actually carrying the burden underneath?
+```
+
+In the Retained-Demand Audit Series, this question is applied to digital-asset infrastructure: visible usage, support, or routing does not by itself show whether an asset is actually held as inventory, collateral, liquidity buffer, or balance-sheet exposure.
+
+In the AAS Series, the same structural-audit posture is applied to long-horizon human-AI research workflows: visible output continuity does not by itself show whether role separation, responsibility boundaries, context, and revision conditions have remained intact.
+
+The connection between the two tracks is methodological, not evidentiary. AAS does not prove the Retained-Demand claims, and the Retained-Demand series does not depend on AAS as a subject-area framework. They are separate applications of a shared structural-audit posture.
+
+---
+
 ## Key Concepts
 
 Retained demand is demand that appears as inventory, collateral, liquidity buffers, or balance-sheet exposure, rather than visible usage alone.
@@ -41,7 +59,7 @@ Tri-Layer Architecture separates human intent, AI assistance, and external recor
 
 ## Start Here
 
-These two tracks are independent. Track 1 concerns digital-asset infrastructure. Track 2 concerns human-AI interaction methodology. They share an author and structural-audit posture, but not a subject area.
+These two tracks are independent in subject area. Track 1 concerns digital-asset infrastructure. Track 2 concerns human-AI interaction methodology. They do not depend on each other as evidence, but they share a common structural-audit foundation: separating visible surface signals from the underlying structures that carry burden, risk, responsibility, or demand.
 
 ---
 
