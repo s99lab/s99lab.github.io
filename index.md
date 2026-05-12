@@ -55,6 +55,8 @@ Ambient Alignment Sync (AAS) is a framework for preserving structural precision,
 
 Tri-Layer Architecture separates human intent, AI assistance, and external records into distinct coordination layers.
 
+For canonical terminology used across both tracks, see [S. Meta Research Lexicon](./LEXICON.md).
+
 ---
 
 ## Start Here
