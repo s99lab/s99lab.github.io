@@ -1,6 +1,6 @@
 # S. Meta Research Lexicon
 
-Canonical Terms for Structural-Audit Research
+## Canonical Terms for Structural-Audit Research
 
 This document defines key terms used across the S. Meta Research Archives.
 
@@ -31,7 +31,25 @@ Structural audit is not promotion, price prediction, general commentary, or auto
 
 ---
 
-## 2. Retained Demand
+## 2. Structural Drift
+
+Structural drift means the gradual degradation of role separation, contextual continuity, claim boundaries, and auditability in long-horizon human-AI work.
+
+It does not mean that an individual AI output is necessarily wrong. Instead, it refers to a workflow-level failure mode in which the structure of collaboration becomes less clear over time.
+
+Examples include:
+
+- provisional ideas hardening into claims;
+- uncertainty disappearing from the record;
+- human and AI roles becoming blurred;
+- revision conditions becoming difficult to reconstruct;
+- external records no longer preserving the reasoning boundary.
+
+In the AAS Series, structural drift is the core failure mode that Tri-Layer Architecture and Ambient Alignment Sync are designed to reduce.
+
+---
+
+## 3. Retained Demand
 
 Retained demand means demand that appears as inventory, collateral, liquidity buffers, working balances, margin, or balance-sheet exposure, rather than visible usage alone.
 
@@ -43,7 +61,7 @@ Core distinction:
 
 ---
 
-## 3. Backend Retained Demand
+## 4. Backend Retained Demand
 
 Backend retained demand means retained demand that may appear at the infrastructure, operator, market-maker, custodian, treasury, or prime-broker layer after users are abstracted away.
 
@@ -55,7 +73,7 @@ Core question:
 
 ---
 
-## 4. Removal Sensitivity
+## 5. Removal Sensitivity
 
 Removal sensitivity asks whether removing an asset from a system increases cost, delay, slippage, failure risk, or reduces reachability.
 
@@ -63,7 +81,7 @@ If removing an asset does not materially degrade the system, then visible suppor
 
 ---
 
-## 5. Operator-Layer Cost Compression
+## 6. Operator-Layer Cost Compression
 
 Operator-layer cost compression asks whether an asset-inclusive configuration reduces total operator cost, risk, or complexity compared with asset-free alternatives.
 
@@ -71,7 +89,7 @@ The relevant comparison is not simply whether a system can work without an asset
 
 ---
 
-## 6. Evidence-Gated Sizing
+## 7. Evidence-Gated Sizing
 
 Evidence-gated sizing means that market sizing, valuation, or liquidity-density analysis should only proceed after evidence gates are satisfied.
 
@@ -87,7 +105,7 @@ Sizing is not a price thesis by itself.
 
 ---
 
-## 7. Required Liquidity Density
+## 8. Required Liquidity Density
 
 Required liquidity density means the depth, working liquidity, and usable float required for an asset to support institutional-scale flows under bounded market impact, execution risk, and failure tolerance.
 
@@ -95,7 +113,7 @@ It is not the same as total supply or circulating supply.
 
 ---
 
-## 8. Customer Utility Does Not Imply Asset Necessity
+## 9. Customer Utility Does Not Imply Asset Necessity
 
 Customer utility does not imply asset necessity means that a product or infrastructure stack may deliver value to customers without requiring retained demand for a specific asset.
 
@@ -103,7 +121,7 @@ A service can be useful, adopted, or profitable while still bypassing, compressi
 
 ---
 
-## 9. Ambient Alignment Sync
+## 10. Ambient Alignment Sync
 
 Ambient Alignment Sync, or AAS, means a framework for preserving structural precision, role separation, relational context, and audit continuity across long-horizon human-AI work.
 
@@ -113,7 +131,7 @@ It is not an automated AI tool, RAG system, agent architecture, productivity gui
 
 ---
 
-## 10. Tri-Layer Architecture
+## 11. Tri-Layer Architecture
 
 Tri-Layer Architecture separates long-horizon human-AI work into three coordination layers:
 
@@ -125,7 +143,7 @@ The purpose is to preserve role separation, responsibility boundaries, context c
 
 ---
 
-## 11. Mixed Concept Formation
+## 12. Mixed Concept Formation
 
 Mixed concept formation means that, in long-horizon human-AI research workflows, concepts may emerge through interaction between human intuition, AI-assisted verbalization, external review, and later human acceptance or revision.
 
@@ -139,7 +157,7 @@ The human author retains judgment, selection, authorship, and responsibility.
 
 ---
 
-## 12. Governance of Formation
+## 13. Governance of Formation
 
 Governance of formation means auditing how a concept was stabilized, accepted, rejected, revised, bounded, and made externally inspectable during a long-horizon human-AI workflow.
 
@@ -147,7 +165,7 @@ It shifts the focus from proving pure idea origin to preserving responsibility, 
 
 ---
 
-## 13. AI as a Structural Mirror
+## 14. AI as a Structural Mirror
 
 AI as a structural mirror means that AI may help externalize, compare, stabilize, and refine a human author's latent structural intuition.
 
@@ -157,7 +175,7 @@ The value lies in making human structural intuition more inspectable, revisable,
 
 ---
 
-## 14. Bounded Archive Reconstruction
+## 15. Bounded Archive Reconstruction
 
 Bounded archive reconstruction means reconstructing the state, scope, and reasoning boundaries of a long-horizon research workflow from available records without pretending that all original context can be perfectly recovered.
 
@@ -165,7 +183,7 @@ It treats gaps, uncertainty, and version boundaries as part of the audit.
 
 ---
 
-## 15. Public/Private Boundary
+## 16. Public/Private Boundary
 
 Public/private boundary means separating public research outputs from private operational methodology.
 
