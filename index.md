@@ -230,9 +230,13 @@ Main archive:
 
 ## Academic-Facing AAS Working Paper
 
+**Updated:** May 2026 — academic-facing entry point added after OSF publication.
+
 **Structural Drift and Audit Continuity in Long-Horizon Human-AI Research: A Tri-Layer Architecture**
 
 This working paper introduces structural drift as a workflow-level risk in long-horizon human-AI research and proposes a Tri-Layer Architecture for preserving audit continuity across human judgment, AI assistance, and external records.
+
+This working paper serves as an academic-facing entry point to the AAS series, connecting the structural drift problem to the Tri-Layer Architecture and Ambient Alignment Sync framework. It is not Part V of the original series.
 
 Ambient Alignment Sync (AAS) is presented as a workflow-level condition for maintaining reviewability and revisability over time, not as a claim about model-internal AI alignment, consciousness, agency, authorship, formal certification, or correctness guarantees.
 
