@@ -229,22 +229,24 @@ Main archive:
 
 ---
 
-## Academic-Facing AAS Working Paper
+## Structural Drift Research Note
 
-**Updated:** May 2026 — academic-facing entry point added after OSF publication.
+**Updated:** May 2026 — public research note added after OSF publication.
 
-**Structural Drift and Audit Continuity in Long-Horizon Human-AI Research: A Tri-Layer Architecture**
+**Structural Drift in AI-Assisted Knowledge Work: A Research Note on Workflow Reviewability and Audit Continuity**
 
-This working paper introduces structural drift as a workflow-level risk in long-horizon human-AI research and proposes a Tri-Layer Architecture for preserving audit continuity across human judgment, AI assistance, and external records.
+This research note introduces structural drift as a workflow-level risk in long-horizon human-AI research and describes a Tri-Layer Architecture for preserving audit continuity across human judgment, AI assistance, and external records.
 
-This working paper serves as an academic-facing entry point to the AAS series, connecting the structural drift problem to the Tri-Layer Architecture and Ambient Alignment Sync framework. It is not Part V of the original series.
+This note serves as a research-facing entry point to the AAS series. It connects the structural drift problem to the Tri-Layer Architecture and Ambient Alignment Sync framework, but it is not Part V of the original series.
 
 Ambient Alignment Sync (AAS) is presented as a workflow-level condition for maintaining reviewability and revisability over time, not as a claim about model-internal AI alignment, consciousness, agency, authorship, formal certification, or correctness guarantees.
 
+This material is maintained as part of a public research archive and concept-development record. It should be read as a research note, not as a peer-reviewed academic publication.
+
 - OSF record: [https://doi.org/10.17605/OSF.IO/J29HK](https://doi.org/10.17605/OSF.IO/J29HK)
 - GitHub archive: [Tri-Layer Architecture and Ambient Alignment Sync Series](https://github.com/s99lab/aas-trilayer-ambient-alignment)
-- Markdown paper: [working_paper_structural_drift_tri_layer_aas_v0_4_1.md](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/papers/working_paper_structural_drift_tri_layer_aas_v0_4_1.md)
-- PDF mirror: [working_paper_structural_drift_tri_layer_aas_v0_4_1.pdf](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/papers/working_paper_structural_drift_tri_layer_aas_v0_4_1.pdf)
+- Markdown note: [STRUCTURAL_DRIFT_RESEARCH_NOTE.md](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/STRUCTURAL_DRIFT_RESEARCH_NOTE.md)
+- PDF mirror: [STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf)
 
 ---
 
@@ -265,6 +267,7 @@ They should not be treated as:
 - investment advice;
 - price forecasts;
 - promotional materials;
+- peer-reviewed academic publications;
 - automated AI products;
 - software libraries;
 - RAG systems;
@@ -283,3 +286,7 @@ Independent researcher working on structural audit frameworks for digital-asset 
 - GitHub: [https://github.com/s99lab](https://github.com/s99lab)
 - Research portal: [https://s99lab.github.io/](https://s99lab.github.io/)
 - ORCID: [https://orcid.org/0009-0007-0820-7160](https://orcid.org/0009-0007-0820-7160)
+
+This repository is a public research archive developed through long-term dialogue with AI and concept formation.
+
+AI assistance was used to organize the content.
