@@ -23,6 +23,13 @@ The purpose of these archives is to make complex claims easier to inspect, not e
 
 ---
 
+## General Reader Entry Points
+
+For readers who are new to these research tracks, these short guides provide a non-technical entry point before moving into the full research archives.
+
+- [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
+- [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
+
 ## Common Foundation
 
 The two tracks in this archive remain independent in subject area, but they share a common structural-audit foundation.
