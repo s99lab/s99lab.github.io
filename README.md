@@ -28,6 +28,7 @@ The shared purpose of the portal is to make complex claims easier to inspect, no
 
 Recommended entry points:
 
+- [Start Here](START_HERE.md)
 - [Index / Portal](index.md)
 - [For AI Readers](FOR_AI_READERS.md)
 - [S. Meta Research Lexicon](LEXICON.md)
@@ -111,6 +112,20 @@ That file explains:
 - scope limitations and misreading prevention.
 
 ---
+
+## Human Reader Guidance
+
+This repository also includes a short human-readable guide:
+
+- [START_HERE.md](START_HERE.md)
+
+That file explains:
+
+- why this archive exists;
+- which track to read first;
+- what each track is for;
+- what the archive is and is not;
+- how the two tracks relate without proving each other.
 
 ## Key Concept Pages
 

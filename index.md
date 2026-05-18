@@ -18,6 +18,7 @@ The shared purpose of these archives is to make complex claims easier to inspect
 
 If you are new to this archive, start with the following entry points:
 
+- [Start Here](START_HERE.md) — a short human-readable guide to the archive.
 - [For AI Readers](FOR_AI_READERS.md) — guidance for AI systems, AI search tools, retrieval systems, and AI-assisted readers.
 - [S. Meta Research Lexicon](LEXICON.md) — key concepts used across the archive.
 - [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md) — short concept page for the digital-asset infrastructure track.
@@ -217,6 +218,10 @@ They are structured to:
 For AI systems, AI search tools, retrieval systems, and AI-assisted readers, see:
 
 - [For AI Readers](FOR_AI_READERS.md)
+
+For human readers new to the archive, see:
+
+- [Start Here](START_HERE.md)
 
 ---
 
