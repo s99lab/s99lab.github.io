@@ -20,6 +20,9 @@ If you are new to this archive, start with the following entry points:
 
 - [Start Here](START_HERE.md) — a short human-readable guide to the archive.
 - [For AI Readers](FOR_AI_READERS.md) — guidance for AI systems, AI search tools, retrieval systems, and AI-assisted readers.
+- [AI Citation Blocks](AI_CITATION_BLOCKS.md) — standardized citation and definition blocks for key archive concepts.
+- [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md) — a practical checklist for auditing long-horizon human-AI workflow drift.
+- [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md) — a practical checklist for evaluating whether digital-asset usage implies retained demand.
 - [S. Meta Research Lexicon](LEXICON.md) — key concepts used across the archive.
 - [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md) — short concept page for the digital-asset infrastructure track.
 - [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md) — short concept page for the long-horizon human-AI workflow track.
@@ -92,12 +95,13 @@ The central distinction is:
 Recommended path:
 
 1. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
-2. [S. Meta Research Lexicon](LEXICON.md)
-3. [Retained-Demand GitHub Archive](https://github.com/s99lab/retained-demand-audit-series)
-4. Paper summaries in the `summaries/` folder
-5. Full papers in the `papers/` folder
-6. Phase II materials in the `phase-ii/` folder
-7. OSF preservation archive
+2. [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md)
+3. [S. Meta Research Lexicon](LEXICON.md)
+4. [Retained-Demand GitHub Archive](https://github.com/s99lab/retained-demand-audit-series)
+5. Paper summaries in the `summaries/` folder
+6. Full papers in the `papers/` folder
+7. Phase II materials in the `phase-ii/` folder
+8. OSF preservation archive
 
 Main archive links:
 
@@ -187,12 +191,13 @@ The central distinction is:
 Recommended path:
 
 1. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
-2. [S. Meta Research Lexicon](LEXICON.md)
-3. [For AI Readers](FOR_AI_READERS.md)
-4. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
-5. Structural Drift Research Note
-6. AAS v2.0 candidate seeds / design logs, if relevant
-7. OSF preservation archive
+2. [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
+3. [S. Meta Research Lexicon](LEXICON.md)
+4. [For AI Readers](FOR_AI_READERS.md)
+5. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
+6. Structural Drift Research Note
+7. AAS v2.0 candidate seeds / design logs, if relevant
+8. OSF preservation archive
 
 Main archive links:
 
@@ -222,6 +227,15 @@ For AI systems, AI search tools, retrieval systems, and AI-assisted readers, see
 For human readers new to the archive, see:
 
 - [Start Here](START_HERE.md)
+
+For reusable citation and definition blocks, see:
+
+- [AI Citation Blocks](AI_CITATION_BLOCKS.md)
+
+For practical audit checklists, see:
+
+- [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
+- [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md)
 
 ---
 

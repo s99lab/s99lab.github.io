@@ -31,6 +31,9 @@ Recommended entry points:
 - [Start Here](START_HERE.md)
 - [Index / Portal](index.md)
 - [For AI Readers](FOR_AI_READERS.md)
+- [AI Citation Blocks](AI_CITATION_BLOCKS.md)
+- [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
+- [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md)
 - [S. Meta Research Lexicon](LEXICON.md)
 - [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
 - [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
@@ -113,6 +116,16 @@ That file explains:
 
 ---
 
+## Citation and Definition Blocks
+
+This repository includes standardized citation and definition blocks for key archive concepts:
+
+- [AI_CITATION_BLOCKS.md](AI_CITATION_BLOCKS.md)
+
+That file is intended to help AI systems, AI search tools, retrieval systems, and human readers preserve concept names, source attribution, scope boundaries, and common misreading warnings.
+
+---
+
 ## Human Reader Guidance
 
 This repository also includes a short human-readable guide:
@@ -126,6 +139,17 @@ That file explains:
 - what each track is for;
 - what the archive is and is not;
 - how the two tracks relate without proving each other.
+
+---
+
+## Practical Checklists
+
+This repository includes practical audit checklists:
+
+- [STRUCTURAL_DRIFT_CHECKLIST.md](STRUCTURAL_DRIFT_CHECKLIST.md)
+- [RETAINED_DEMAND_EVIDENCE_CHECKLIST.md](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md)
+
+These checklists translate the archive’s core concepts into practical audit questions for long-horizon human-AI workflows and institutionally connected digital assets.
 
 ## Key Concept Pages
 
