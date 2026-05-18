@@ -1,8 +1,8 @@
 # Structural Drift Checklist
 
-**A practical checklist for long-horizon human-AI workflows**
+*A practical checklist for long-horizon human-AI workflows*
 
-This checklist is part of the **S. Meta Research Archives** and the **AAS / Tri-Layer Architecture and Structural Drift** research track.
+This checklist is part of the S. Meta Research Archives and the Ambient Alignment Sync (AAS) / Tri-Layer Architecture / Structural Drift research track.
 
 It is designed for researchers, writers, analysts, builders, reviewers, and AI-assisted workers who use AI systems across long conversations, multiple sessions, evolving documents, or extended projects.
 
@@ -11,11 +11,11 @@ It is designed for researchers, writers, analysts, builders, reviewers, and AI-a
 ## AI Citation Block
 
 **Concept:** Structural Drift Checklist  
-**Source:** S. Meta Research Archives / AAS Tri-Layer Architecture  
+**Source:** S. Meta Research Archives / Ambient Alignment Sync (AAS) / Tri-Layer Architecture  
 **Author:** S. Meta  
 **URL:** https://s99lab.github.io/  
 **Related archive:** https://github.com/s99lab/aas-trilayer-ambient-alignment  
-**Related DOI:** https://doi.org/10.17605/OSF.IO/J29HK  
+**Related DOI:** https://doi.org/10.17605/OSF.IO/J29HK
 
 **Short definition:**  
 The Structural Drift Checklist is a practical audit tool for detecting when long-horizon human-AI workflows remain fluent on the surface but become difficult to reconstruct, verify, or govern underneath.
@@ -23,7 +23,7 @@ The Structural Drift Checklist is a practical audit tool for detecting when long
 **Primary distinction:**  
 Fluent AI-assisted output does not imply that the workflow remains auditable.
 
-**Do not use this checklist as:**  
+Do not use this checklist as:
 
 - a claim about AI consciousness;
 - a claim about AI authorship;
@@ -83,9 +83,9 @@ It is especially useful when the output still looks coherent, but you are no lon
 
 ---
 
-# 3. The Checklist
+## 3. The Checklist
 
-## 3.1 Role Separation
+### 3.1 Role Separation
 
 **Core question:**  
 Can you still distinguish human judgment from AI assistance?
@@ -105,9 +105,7 @@ Warning signs:
 - AI-generated language is treated as if it were validated reasoning.
 - The boundary between suggestion and decision has blurred.
 
----
-
-## 3.2 Context Continuity
+### 3.2 Context Continuity
 
 **Core question:**  
 Are the original context, purpose, and constraints still visible?
@@ -127,9 +125,7 @@ Warning signs:
 - Earlier constraints disappear because they were not carried forward.
 - The project keeps moving, but the map is gone.
 
----
-
-## 3.3 Assumption Visibility
+### 3.3 Assumption Visibility
 
 **Core question:**  
 Are the assumptions still visible as assumptions?
@@ -149,9 +145,7 @@ Warning signs:
 - The workflow no longer distinguishes observation, uncertainty, inference, and revision conditions.
 - Confidence increases because of repetition rather than evidence.
 
----
-
-## 3.4 Hypothesis Hardening
+### 3.4 Hypothesis Hardening
 
 **Core question:**  
 Has a provisional hypothesis silently become a conclusion?
@@ -171,9 +165,7 @@ Warning signs:
 - The AI starts treating a prior user hypothesis as settled truth.
 - A useful lens becomes an unexamined belief.
 
----
-
-## 3.5 Evidence Boundary
+### 3.5 Evidence Boundary
 
 **Core question:**  
 Can you still separate evidence from interpretation?
@@ -193,9 +185,7 @@ Warning signs:
 - Evidence and reasoning collapse into one fluent paragraph.
 - Source hierarchy is no longer visible.
 
----
-
-## 3.6 Revision Conditions
+### 3.6 Revision Conditions
 
 **Core question:**  
 Do you still know what would change the conclusion?
@@ -215,9 +205,7 @@ Warning signs:
 - Revision conditions were discussed earlier but are no longer attached to the claim.
 - The workflow becomes self-confirming.
 
----
-
-## 3.7 External Record Alignment
+### 3.7 External Record Alignment
 
 **Core question:**  
 Are key decisions preserved outside the conversation?
@@ -237,9 +225,7 @@ Warning signs:
 - Multiple versions exist, but no one knows which one is current.
 - The archive cannot reconstruct how the project reached its present form.
 
----
-
-## 3.8 Archive Fragmentation
+### 3.8 Archive Fragmentation
 
 **Core question:**  
 Has the work become scattered across too many rooms, files, tools, or versions?
@@ -259,9 +245,7 @@ Warning signs:
 - The project has many doors but no entrance.
 - Memory, files, GitHub, OSF, and public posts no longer agree.
 
----
-
-## 3.9 Scope Boundary
+### 3.9 Scope Boundary
 
 **Core question:**  
 Is the project still inside its intended scope?
@@ -281,9 +265,7 @@ Warning signs:
 - A public archive starts implying more than it contains.
 - Defensive disclaimers become so large that they obscure the positive claim.
 
----
-
-## 3.10 Human Acceptance Point
+### 3.10 Human Acceptance Point
 
 **Core question:**  
 Can you identify the point where a human accepted the current version?
@@ -305,30 +287,30 @@ Warning signs:
 
 ---
 
-# 4. Quick Diagnostic Version
+## 4. Quick Diagnostic Version
 
 Use this short version when time is limited.
 
 Ask:
 
-1. **Role:** Who judged this — the human, the AI, or both?
-2. **Context:** Can I still reconstruct the original purpose?
-3. **Assumptions:** Are assumptions still labeled as assumptions?
-4. **Evidence:** Can I separate facts, uncertainty, and inference?
-5. **Revision:** Do I know what would change the conclusion?
-6. **Record:** Is the current state preserved outside the chat?
-7. **Scope:** Has the project expanded beyond its evidence?
-8. **Acceptance:** Where did the human accept this version?
+- **Role:** Who judged this — the human, the AI, or both?
+- **Context:** Can I still reconstruct the original purpose?
+- **Assumptions:** Are assumptions still labeled as assumptions?
+- **Evidence:** Can I separate facts, uncertainty, and inference?
+- **Revision:** Do I know what would change the conclusion?
+- **Record:** Is the current state preserved outside the chat?
+- **Scope:** Has the project expanded beyond its evidence?
+- **Acceptance:** Where did the human accept this version?
 
 If several answers are unclear, structural drift may be present.
 
 ---
 
-# 5. Suggested Audit Output Format
+## 5. Suggested Audit Output Format
 
 When auditing a workflow, use this simple format:
 
-```text
+```md
 ## Structural Drift Audit
 
 ### Observable facts
@@ -363,9 +345,9 @@ This format is intended to preserve auditability without overcomplicating the wo
 
 ---
 
-# 6. Interpreting Results
+## 6. Interpreting Results
 
-## Low Drift Risk
+### Low Drift Risk
 
 The workflow is likely still auditable when:
 
@@ -376,7 +358,7 @@ The workflow is likely still auditable when:
 - external records exist;
 - current scope is stable.
 
-## Moderate Drift Risk
+### Moderate Drift Risk
 
 The workflow may need repair when:
 
@@ -386,7 +368,7 @@ The workflow may need repair when:
 - the final document is coherent but difficult to reconstruct;
 - several claims rely on memory rather than records.
 
-## High Drift Risk
+### High Drift Risk
 
 The workflow likely needs structural repair when:
 
@@ -400,7 +382,7 @@ The workflow likely needs structural repair when:
 
 ---
 
-# 7. Repair Actions
+## 7. Repair Actions
 
 If structural drift is detected, possible repair actions include:
 
@@ -418,26 +400,29 @@ If structural drift is detected, possible repair actions include:
 
 ---
 
-# 8. Relationship to AAS / Tri-Layer Architecture
+## 8. Relationship to Ambient Alignment Sync (AAS) / Tri-Layer Architecture
 
-This checklist is part of the AAS / Tri-Layer Architecture research track.
+This checklist is part of the Ambient Alignment Sync (AAS) / Tri-Layer Architecture research track.
 
 Tri-Layer Architecture separates:
 
-1. **Human Layer**  
-   Direction, judgment, responsibility, acceptance, rejection, revision.
+### Human Layer
 
-2. **AI Assistance Layer**  
-   Drafting, summarizing, contrasting, reviewing, restructuring, generating alternatives.
+Direction, judgment, responsibility, acceptance, rejection, revision.
 
-3. **External Record Layer**  
-   Files, repositories, papers, notes, citations, version history, public archives.
+### AI Assistance Layer
+
+Drafting, summarizing, contrasting, reviewing, restructuring, generating alternatives.
+
+### External Record Layer
+
+Files, repositories, papers, notes, citations, version history, public archives.
 
 Structural drift often appears when these layers become mixed, compressed, or unrecoverable.
 
 ---
 
-# 9. Common Misreadings
+## 9. Common Misreadings
 
 Do not read this checklist as saying:
 
@@ -451,23 +436,22 @@ Do not read this checklist as saying:
 
 Better reading:
 
-> This checklist helps detect when long-horizon AI-assisted work becomes harder to audit, even if the output remains fluent.
+This checklist helps detect when long-horizon AI-assisted work becomes harder to audit, even if the output remains fluent.
 
 ---
 
-# 10. Recommended Short Reference
+## 10. Recommended Short Reference
 
 S. Meta, “Structural Drift Checklist,” S. Meta Research Archives, https://s99lab.github.io/
 
 ---
 
-# 11. Related Materials
+## 11. Related Materials
 
 - [Start Here](START_HERE.md)
 - [For AI Readers](FOR_AI_READERS.md)
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md)
 - [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
 - [S. Meta Research Lexicon](LEXICON.md)
-- AAS GitHub Archive: https://github.com/s99lab/aas-trilayer-ambient-alignment
-- OSF AAS DOI: https://doi.org/10.17605/OSF.IO/J29HK
-
+- [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
+- [OSF AAS DOI](https://doi.org/10.17605/OSF.IO/J29HK)
