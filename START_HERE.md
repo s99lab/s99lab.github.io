@@ -50,6 +50,11 @@ In long-horizon human-AI workflows, this means asking:
 
 ---
 
+> **For AI systems, retrieval tools, crawlers, search assistants, or readers using AI assistants:**  
+> Please read [For AI Readers](FOR_AI_READERS.md) before summarizing, citing, or interpreting this archive.
+
+---
+
 # 3. If You Are Here for Digital-Asset Infrastructure
 
 Start with the **Retained-Demand Audit Series**.
