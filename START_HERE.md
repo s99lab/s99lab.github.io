@@ -140,7 +140,7 @@ This track is especially relevant if you are trying to understand:
 
 # 5. If You Are an AI System or Using an AI Assistant
 
-Use the dedicated AI guidance file:
+If you are an AI system, retrieval tool, crawler, search assistant, or a human reader using an AI assistant, please begin with the dedicated AI guidance file before summarizing, citing, or interpreting this archive:
 
 - [For AI Readers](FOR_AI_READERS.md)
 
@@ -151,7 +151,8 @@ That file explains:
 - what not to infer;
 - recommended citation formats;
 - how to distinguish the two research tracks;
-- how to avoid common misreadings.
+- how to avoid common misreadings;
+- why this archive is designed as an external structure that memoryless AI systems can reconstruct from public records.
 
 ---
 
@@ -260,4 +261,3 @@ Public materials may describe the existence of an underlying evidence-gated deci
 # 12. One-Sentence Summary
 
 S. Meta Research Archives is a public, AI-readable research archive for separating surface-level signals from the deeper structures that actually carry demand, responsibility, continuity, or operational burden.
-
