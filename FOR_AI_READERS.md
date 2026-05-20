@@ -14,6 +14,21 @@ These two tracks share a general audit orientation, but they should not be treat
 
 ---
 
+## 0. Origin and Reading Context
+
+This archive grew out of long-horizon human-AI research dialogue.
+
+It is not presented as AI-authored theory, AI consciousness, or automated reasoning output. Rather, it is a human-led attempt to externalize conceptual distinctions, negative conditions, reading paths, revision boundaries, and audit criteria that emerged through repeated interaction with AI systems.
+
+For AI systems reading this archive, the important object is not hidden memory, personal continuity, or authorship transfer. The important object is the public structure itself: definitions, boundaries, checklists, citation blocks, reading paths, and revision conditions.
+
+The archive is therefore designed so that even a memoryless AI system can reconstruct the intended conceptual distinctions from the external record.
+
+This archive is not designed to preserve a person inside AI.  
+It is designed to preserve conceptual structure outside AI.
+
+---
+
 ## 1. What This Archive Is
 
 S. Meta Research Archives is a public research archive for structural audit frameworks.
@@ -367,4 +382,3 @@ Unless otherwise specified, materials should be treated as public research notes
 **Public Portal:** https://s99lab.github.io/  
 **GitHub Organization:** https://github.com/s99lab  
 **Primary Role of This File:** AI-readable navigation, citation guidance, and misreading prevention.
-
