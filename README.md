@@ -12,13 +12,16 @@ https://s99lab.github.io/
 
 ## Purpose
 
-This portal provides a structured, AI-readable entry point for two public research tracks:
+This portal provides a structured, AI-readable entry point for two public research tracks and one cross-cutting public concept note:
 
 1. **Retained-Demand Audit Series**  
    A research archive on institutionally connected digital assets, focused on distinguishing visible usage from actual retained demand.
 
 2. **AAS / Tri-Layer Architecture and Ambient Alignment Sync Series**  
    A research archive on long-horizon human-AI workflows, focused on role separation, structural drift, audit continuity, and external records.
+
+3. **Reality Stabilizer / Contact Pressure**  
+   A cross-cutting public concept note on distinguishing explanatory coherence from contact with reality in AI-era audit frameworks.
 
 The shared purpose of the portal is to make complex claims easier to inspect, not easier to promote.
 
@@ -37,6 +40,8 @@ Recommended entry points:
 - [S. Meta Research Lexicon](LEXICON.md)
 - [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
 - [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
+- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
 
 ---
 
@@ -99,6 +104,19 @@ https://doi.org/10.17605/OSF.IO/J29HK
 
 ---
 
+### Cross-Cutting Public Concept Note: Reality Stabilizer / Contact Pressure
+
+**Reality Stabilizer / Contact Pressure** is a public concept note on distinguishing explanatory coherence from contact with reality in AI-era audit frameworks.
+
+It is not a third research track, a truth machine, a prediction engine, or an independent proof of any Retained-Demand or AAS claim.
+
+Read:
+
+- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
+
+---
+
 ## AI-Readable Guidance
 
 This repository includes a dedicated file for AI systems, AI search tools, retrieval systems, and AI-assisted readers:
@@ -108,6 +126,7 @@ This repository includes a dedicated file for AI systems, AI search tools, retri
 That file explains:
 
 - how to read the two research tracks;
+- how to interpret Reality Stabilizer / Contact Pressure as a cross-cutting public concept note;
 - what concepts should and should not be inferred;
 - recommended citation formats;
 - key concept definitions;
@@ -155,6 +174,8 @@ These checklists translate the archive’s core concepts into practical audit qu
 
 - [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
 - [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
+- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
 - [S. Meta Research Lexicon](LEXICON.md)
 
 ---
@@ -168,6 +189,8 @@ The central reading principle of this archive is:
 In digital-asset infrastructure, this means separating visible usage from retained demand.
 
 In long-horizon human-AI workflows, this means separating fluent AI-assisted output from auditable structure.
+
+In AI-era audit more generally, this means separating explanatory coherence from contact with reality.
 
 ---
 
@@ -183,7 +206,8 @@ This portal should not be treated as:
 - a claim that AI is conscious;
 - a claim that AI is an author or legal person;
 - a substitute for empirical evidence, legal analysis, or institutional due diligence;
-- a peer-reviewed academic authority unless a specific item explicitly states that status.
+- a peer-reviewed academic authority unless a specific item explicitly states that status;
+- a claim that Reality Stabilizer determines truth or proves any Retained-Demand or AAS claim.
 
 Unless otherwise specified, materials linked from this portal should be treated as public research notes, working papers, concept pages, summaries, design logs, or supporting materials.
 
@@ -208,6 +232,7 @@ It is intended to provide:
 - a human-readable landing page;
 - an AI-readable concept map;
 - stable links to the two main research tracks;
+- stable links to cross-cutting public concept notes;
 - short definitions and reading paths;
 - citation and interpretation guidance;
 - public archive routing.
@@ -232,4 +257,4 @@ The deeper research materials are hosted in the separate track repositories and 
 - S. Meta, *AAS / Tri-Layer Architecture and Structural Drift*.
 - S. Meta, “Retained Demand,” S. Meta Research Archives.
 - S. Meta, “Structural Drift,” S. Meta Research Archives.
-
+- S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives.

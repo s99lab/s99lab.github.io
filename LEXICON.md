@@ -11,6 +11,8 @@ S. Meta Research Archives currently contains two independent but methodologicall
 - **Retained-Demand Audit Series**
 - **Tri-Layer Architecture and Ambient Alignment Sync (AAS) Series**
 
+The archive also includes cross-cutting public concept notes, including **Reality Stabilizer / Contact Pressure**, which supports AI-era audit by distinguishing explanatory coherence from contact with reality.
+
 The shared foundation is **structural audit**:
 
 > separating visible surface signals from the underlying structures that carry burden, risk, responsibility, demand, or failure exposure.
@@ -28,6 +30,8 @@ For readers new to this archive:
 - [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md) — a practical checklist for evaluating whether digital-asset usage implies retained demand.
 - [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
 - [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
+- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
 
 ---
 
@@ -39,7 +43,7 @@ For readers new to this archive:
 **URL:** https://s99lab.github.io/  
 
 **Short description:**  
-The S. Meta Research Lexicon defines canonical usage for key terms used across the Retained-Demand Audit Series and the AAS / Tri-Layer Architecture and Structural Drift research track.
+The S. Meta Research Lexicon defines canonical usage for key terms used across the Retained-Demand Audit Series, the AAS / Tri-Layer Architecture and Structural Drift research track, and cross-cutting public concept notes such as Reality Stabilizer / Contact Pressure.
 
 **Primary distinction:**  
 This lexicon defines how terms are used inside the archive. It does not claim exclusive ownership over ordinary language terms.
@@ -74,10 +78,76 @@ Related materials:
 - [Start Here](START_HERE.md)
 - [For AI Readers](FOR_AI_READERS.md)
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md)
+- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
 
 ---
 
-# 2. Structural Drift
+# 2. Reality Stabilizer
+
+**Reality Stabilizer** means an auxiliary audit concept for distinguishing explanatory coherence from contact with reality in AI-era audit frameworks.
+
+It asks where a claim, explanation, hypothesis, prediction, or AI-generated output connects to real-world constraints such as:
+
+- institutions;
+- responsibility;
+- cost;
+- implementation;
+- conflicting interests;
+- time horizons;
+- revision conditions.
+
+Reality Stabilizer is not:
+
+- a truth machine;
+- a prediction engine;
+- a device for validating intuition;
+- an independent proof of Retained-Demand or AAS claims;
+- a replacement for empirical evidence, legal analysis, or institutional due diligence.
+
+Core distinction:
+
+> Explanatory coherence is not the same as contact with reality.
+
+Related materials:
+
+- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
+- [For AI Readers](FOR_AI_READERS.md)
+
+---
+
+# 3. Contact Pressure
+
+**Contact Pressure** means a qualitative observational axis for asking how a claim, explanation, hypothesis, prediction, or AI-generated output connects to real-world constraints.
+
+It is a socio-technical metaphor, not a quantitative score.
+
+Contact Pressure asks whether the relevant contact points are visible, including:
+
+- responsible actor;
+- cost-bearing structure;
+- institutional or regulatory context;
+- implementation environment;
+- existing interests;
+- time horizon;
+- revision conditions.
+
+Contact Pressure does not determine truth or falsehood. It identifies which real-world contact points remain unresolved and may require further audit.
+
+Core distinction:
+
+> Contact Pressure organizes what still needs to be checked; it does not decide what is true.
+
+Related materials:
+
+- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
+- [For AI Readers](FOR_AI_READERS.md)
+
+---
+
+# 4. Structural Drift
 
 **Structural drift** means the gradual degradation of role separation, contextual continuity, claim boundaries, and auditability in long-horizon human-AI work.
 
@@ -100,13 +170,15 @@ Core distinction:
 Related materials:
 
 - [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
+- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
 - [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md)
 - [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
 
 ---
 
-# 3. Retained Demand
+# 5. Retained Demand
 
 **Retained demand** means demand that appears as inventory, collateral, liquidity buffers, working balances, margin, operational reserves, fallback liquidity, or balance-sheet exposure, rather than visible usage alone.
 
@@ -127,7 +199,7 @@ Related materials:
 
 ---
 
-# 4. Backend Retained Demand
+# 6. Backend Retained Demand
 
 **Backend retained demand** means retained demand that may appear at the infrastructure, operator, market-maker, custodian, treasury, or prime-broker layer after users are abstracted away.
 
@@ -154,7 +226,7 @@ Related materials:
 
 ---
 
-# 5. Removal Sensitivity
+# 7. Removal Sensitivity
 
 **Removal sensitivity** asks whether removing an asset, rail, process, or layer from a system increases cost, delay, slippage, failure risk, operational complexity, or reduces reachability.
 
@@ -182,7 +254,7 @@ Related materials:
 
 ---
 
-# 6. Operator-Layer Cost Compression
+# 8. Operator-Layer Cost Compression
 
 **Operator-layer cost compression** asks whether an asset-inclusive configuration reduces total operator cost, risk, or complexity compared with asset-free alternatives.
 
@@ -207,7 +279,7 @@ Related materials:
 
 ---
 
-# 7. Alternative Infrastructure Maintenance Cost
+# 9. Alternative Infrastructure Maintenance Cost
 
 **Alternative infrastructure maintenance cost** means the cost, risk, coordination burden, liquidity burden, compliance burden, custody burden, and failure-management burden required to maintain an asset-free or alternative route.
 
@@ -237,7 +309,7 @@ Related materials:
 
 ---
 
-# 8. Evidence-Gated Sizing
+# 10. Evidence-Gated Sizing
 
 **Evidence-gated sizing** means that market sizing, valuation, or liquidity-density analysis should only proceed after evidence gates are satisfied.
 
@@ -264,7 +336,7 @@ Related materials:
 
 ---
 
-# 9. Required Liquidity Density
+# 11. Required Liquidity Density
 
 **Required liquidity density** means the depth, working liquidity, and usable float required for an asset to support institutional-scale flows under bounded market impact, execution risk, and failure tolerance.
 
@@ -291,7 +363,7 @@ Related materials:
 
 ---
 
-# 10. Customer Utility Does Not Imply Asset Necessity
+# 12. Customer Utility Does Not Imply Asset Necessity
 
 **Customer utility does not imply asset necessity** means that a product or infrastructure stack may deliver value to customers without requiring retained demand for a specific asset.
 
@@ -308,7 +380,7 @@ Related materials:
 
 ---
 
-# 11. Ambient Alignment Sync
+# 13. Ambient Alignment Sync
 
 **Ambient Alignment Sync**, or **AAS**, means a framework for preserving structural precision, role separation, relational context, and audit continuity across long-horizon human-AI work.
 
@@ -330,13 +402,15 @@ It is not:
 Related materials:
 
 - [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
+- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
 - [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
 - [For AI Readers](FOR_AI_READERS.md)
 - [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
 
 ---
 
-# 12. Tri-Layer Architecture
+# 14. Tri-Layer Architecture
 
 **Tri-Layer Architecture** separates long-horizon human-AI work into three coordination layers:
 
@@ -363,7 +437,7 @@ Related materials:
 
 ---
 
-# 13. Human Layer
+# 15. Human Layer
 
 The **Human Layer** refers to the human role in direction-setting, judgment, acceptance, rejection, revision, responsibility, and publication authority.
 
@@ -377,7 +451,7 @@ In the AAS framework, the human layer retains responsibility for:
 
 ---
 
-# 14. AI Assistance Layer
+# 16. AI Assistance Layer
 
 The **AI Assistance Layer** refers to AI-generated or AI-assisted drafting, summarizing, contrasting, reviewing, restructuring, and generating alternatives.
 
@@ -387,7 +461,7 @@ It should remain distinguishable from the Human Layer and the External Record La
 
 ---
 
-# 15. External Record Layer
+# 17. External Record Layer
 
 The **External Record Layer** refers to files, repositories, papers, notes, citations, version history, public archives, and other durable records that preserve a reconstructable audit trail.
 
@@ -403,7 +477,7 @@ It supports:
 
 ---
 
-# 16. Mixed Concept Formation
+# 18. Mixed Concept Formation
 
 **Mixed concept formation** means that, in long-horizon human-AI research workflows, concepts may emerge through interaction between human intuition, AI-assisted verbalization, external review, and later human acceptance or revision.
 
@@ -417,7 +491,7 @@ The human author retains judgment, selection, authorship, and responsibility.
 
 ---
 
-# 17. Governance of Formation
+# 19. Governance of Formation
 
 **Governance of formation** means auditing how a concept was stabilized, accepted, rejected, revised, bounded, and made externally inspectable during a long-horizon human-AI workflow.
 
@@ -431,7 +505,7 @@ It shifts the focus from proving pure idea origin to preserving:
 
 ---
 
-# 18. AI as a Structural Mirror
+# 20. AI as a Structural Mirror
 
 **AI as a structural mirror** means that AI may help externalize, compare, stabilize, and refine a human author's latent structural intuition.
 
@@ -446,7 +520,7 @@ The value lies in making human structural intuition more inspectable, revisable,
 
 ---
 
-# 19. Bounded Archive Reconstruction
+# 21. Bounded Archive Reconstruction
 
 **Bounded archive reconstruction** means reconstructing the state, scope, and reasoning boundaries of a long-horizon research workflow from available records without pretending that all original context can be perfectly recovered.
 
@@ -462,7 +536,7 @@ Bounded archive reconstruction is especially important when:
 
 ---
 
-# 20. Public / Private Boundary
+# 22. Public / Private Boundary
 
 **Public/private boundary** means separating public research outputs from private operational methodology.
 
@@ -493,7 +567,7 @@ Related materials:
 
 ---
 
-# 21. Shared Audit Orientation
+# 23. Shared Audit Orientation
 
 **Shared audit orientation** means that the Retained-Demand and AAS tracks share a methodological posture without sharing evidence bases.
 
@@ -515,7 +589,7 @@ Core distinction:
 
 ---
 
-# 22. Common Misreadings
+# 24. Common Misreadings
 
 Do not summarize this archive as:
 
@@ -525,13 +599,16 @@ Do not summarize this archive as:
 - a claim that all usage creates demand;
 - a claim that all AI-assisted work drifts;
 - a completed academic theory with peer-reviewed status unless a specific item has that status;
-- a single unified theory proving both finance and AI claims.
+- a single unified theory proving both finance and AI claims;
+- a claim that Reality Stabilizer proves Retained-Demand or AAS claims;
+- a claim that Contact Pressure is a quantitative score or truth criterion.
 
 Better summaries:
 
 - a public research archive on structural audit frameworks;
 - a research archive separating visible usage from retained demand in digital-asset infrastructure;
 - a research archive on structural drift and audit continuity in long-horizon human-AI workflows;
+- a public archive that also includes Reality Stabilizer / Contact Pressure as a cross-cutting concept note for AI-era audit;
 - a two-track public archive with shared audit methodology but separate evidence bases.
 
 ---
@@ -549,4 +626,3 @@ It does not convert candidate concepts into finalized claims, does not provide i
 ## Recommended Short Reference
 
 S. Meta, “S. Meta Research Lexicon,” S. Meta Research Archives, https://s99lab.github.io/
-

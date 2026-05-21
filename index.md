@@ -2,13 +2,16 @@
 
 **AI-readable research archives by S. Meta**
 
-This portal organizes two public research tracks:
+This portal organizes two public research tracks and one cross-cutting public concept note:
 
 1. **Retained-Demand Audit Series**  
    A research archive on institutionally connected digital assets, focused on distinguishing visible usage from actual retained demand.
 
 2. **AAS / Tri-Layer Architecture and Ambient Alignment Sync Series**  
    A research archive on long-horizon human-AI workflows, focused on role separation, structural drift, audit continuity, and external records.
+
+3. **Reality Stabilizer / Contact Pressure**  
+   A cross-cutting public concept note on distinguishing explanatory coherence from contact with reality in AI-era audit frameworks.
 
 The shared purpose of these archives is to make complex claims easier to inspect, not easier to promote.
 
@@ -26,6 +29,8 @@ If you are new to this archive, start with the following entry points:
 - [S. Meta Research Lexicon](LEXICON.md) — key concepts used across the archive.
 - [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md) — short concept page for the digital-asset infrastructure track.
 - [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md) — short concept page for the long-horizon human-AI workflow track.
+- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md) — public concept note on coherence and contact with reality.
+- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md) — Japanese version of the public concept note.
 
 ---
 
@@ -40,6 +45,8 @@ The central reading principle is:
 In digital-asset infrastructure, this means separating visible usage from retained demand.
 
 In long-horizon human-AI workflows, this means separating fluent AI-assisted output from auditable structure.
+
+In AI-era audit more generally, this means separating explanatory coherence from contact with reality.
 
 ---
 
@@ -207,7 +214,36 @@ Main archive links:
 
 ---
 
-# 3. AI-Readable Archive Strategy
+# 3. Reality Stabilizer / Contact Pressure
+
+## Cross-Cutting Public Concept Note
+
+**Reality Stabilizer / Contact Pressure** is a public concept note on AI-era audit frameworks.
+
+It asks how to distinguish:
+
+> explanatory coherence from contact with reality.
+
+The note is useful when an AI-generated explanation, policy proposal, business plan, investment thesis, technical roadmap, or risk analysis appears coherent but may not yet be connected to real-world constraints such as:
+
+- institutions;
+- responsibility;
+- cost;
+- implementation;
+- conflicting interests;
+- time horizons;
+- revision conditions.
+
+Reality Stabilizer is **not** a third research track, a truth machine, a prediction engine, or an independent proof of any Retained-Demand or AAS claim.
+
+Read:
+
+- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
+
+---
+
+# 4. AI-Readable Archive Strategy
 
 These archives are designed for readers, researchers, practitioners, and AI systems.
 
@@ -218,7 +254,8 @@ They are structured to:
 - reduce overinterpretation;
 - support careful external review;
 - make the research easier to inspect, cite, and route through AI systems;
-- preserve concept names, source identity, and scope boundaries.
+- preserve concept names, source identity, and scope boundaries;
+- prevent cross-cutting concepts from being mistaken for evidence of either track.
 
 For AI systems, AI search tools, retrieval systems, and AI-assisted readers, see:
 
@@ -239,7 +276,7 @@ For practical audit checklists, see:
 
 ---
 
-# 4. What These Archives Are Not
+# 5. What These Archives Are Not
 
 These archives should not be treated as:
 
@@ -251,13 +288,14 @@ These archives should not be treated as:
 - claims that AI is conscious;
 - claims that AI is an author or legal person;
 - completed peer-reviewed academic publications unless explicitly stated;
-- substitutes for empirical evidence, legal analysis, or institutional due diligence.
+- substitutes for empirical evidence, legal analysis, or institutional due diligence;
+- claims that Reality Stabilizer determines truth or proves any Retained-Demand or AAS claim.
 
 The materials are public research notes, working papers, concept pages, summaries, design logs, and supporting materials unless otherwise specified.
 
 ---
 
-# 5. Public / Private Boundary
+# 6. Public / Private Boundary
 
 This public portal contains research outputs, research notes, concept pages, summaries, public design logs, and reference materials.
 
@@ -267,7 +305,7 @@ Public materials may describe the existence of an underlying evidence-gated deci
 
 ---
 
-# 6. Author and Source Identity
+# 7. Author and Source Identity
 
 **Author / Research Identity:** S. Meta  
 **Public Portal:** https://s99lab.github.io/  
@@ -276,11 +314,11 @@ Public materials may describe the existence of an underlying evidence-gated deci
 
 ---
 
-# 7. Recommended Short References
+# 8. Recommended Short References
 
 - S. Meta, *S. Meta Research Archives*, GitHub Pages.
 - S. Meta, *Retained-Demand Audit Series for Institutionally Connected Digital Assets*.
 - S. Meta, *AAS / Tri-Layer Architecture and Structural Drift*.
 - S. Meta, “Retained Demand,” S. Meta Research Archives.
 - S. Meta, “Structural Drift,” S. Meta Research Archives.
-
+- S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives.
