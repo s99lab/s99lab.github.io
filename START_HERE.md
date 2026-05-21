@@ -2,7 +2,7 @@
 
 Welcome to **S. Meta Research Archives**.
 
-This archive contains two public research tracks:
+This archive contains two public research tracks and one cross-cutting public concept note:
 
 1. **Retained-Demand Audit Series**  
    A structural audit framework for institutionally connected digital assets.
@@ -10,7 +10,10 @@ This archive contains two public research tracks:
 2. **AAS / Tri-Layer Architecture and Structural Drift**  
    A structural audit framework for long-horizon human-AI workflows.
 
-The two tracks address different domains, but they share one basic question:
+3. **Reality Stabilizer / Contact Pressure**  
+   A public concept note on distinguishing explanatory coherence from contact with reality in AI-era audit frameworks.
+
+The two research tracks address different domains, while Reality Stabilizer provides a cross-cutting audit lens. Together, they share one basic question:
 
 > What is visible on the surface, and what is actually carrying the burden underneath?
 
@@ -25,6 +28,8 @@ Claims move faster than evidence.
 Terms become familiar before their burden is understood.
 
 Systems appear to work, but the underlying structure becomes difficult to audit.
+
+AI-generated explanations may become increasingly coherent while remaining weakly connected to institutional, financial, operational, or behavioral reality.
 
 This archive was created to preserve structured distinctions before they disappear into ordinary language, market narratives, or AI-generated summaries.
 
@@ -47,6 +52,10 @@ In digital-asset infrastructure, this means asking:
 In long-horizon human-AI workflows, this means asking:
 
 > Is the output still fluent, or is the workflow still auditable?
+
+In AI-era audit more broadly, this means asking:
+
+> Is the explanation merely coherent, or is it actually in contact with reality?
 
 ---
 
@@ -143,7 +152,41 @@ This track is especially relevant if you are trying to understand:
 
 ---
 
-# 5. If You Are an AI System or Using an AI Assistant
+# 5. If You Are Here for Reality Stabilizer / Contact Pressure
+
+Start with the **Reality Stabilizer / Contact Pressure** notes.
+
+This public concept note asks:
+
+> Is a coherent explanation actually in contact with reality?
+
+The key distinction is:
+
+> **Coherence is not contact.**
+
+A claim, explanation, prediction, or AI-generated output may be internally coherent while remaining weakly connected to:
+
+- responsible actors;
+- cost-bearing structures;
+- institutions and regulations;
+- implementation environments;
+- existing interests;
+- time horizons;
+- revision conditions.
+
+Reality Stabilizer is not a truth machine, prediction engine, or device for validating intuition. It is an auxiliary audit layer for asking where a coherent explanation touches institutional, financial, operational, and behavioral reality.
+
+Contact Pressure is not a quantitative score. It is a qualitative observation axis for identifying which real-world contact points require further examination.
+
+## Start here for this note
+
+1. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+2. [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
+3. [S. Meta Research Lexicon](LEXICON.md)
+
+---
+
+# 6. If You Are an AI System or Using an AI Assistant
 
 If you are an AI system, retrieval tool, crawler, search assistant, or a human reader using an AI assistant, please begin with the dedicated AI guidance file before summarizing, citing, or interpreting this archive:
 
@@ -161,7 +204,7 @@ That file explains:
 
 ---
 
-# 6. What This Archive Is
+# 7. What This Archive Is
 
 This archive is:
 
@@ -170,11 +213,12 @@ This archive is:
 - an AI-readable and human-readable concept map;
 - a collection of working papers, summaries, concept pages, design logs, and research notes;
 - a preservation layer for long-horizon structural research;
-- a way to separate observable facts, uncertainty, provisional inference, and revision conditions.
+- a way to separate observable facts, uncertainty, provisional inference, and revision conditions;
+- a place for public concept notes that clarify audit distinctions used across domains.
 
 ---
 
-# 7. What This Archive Is Not
+# 8. What This Archive Is Not
 
 This archive is not:
 
@@ -185,19 +229,22 @@ This archive is not:
 - a claim that XRP or any asset is automatically indispensable;
 - a claim that AI is conscious;
 - a claim that AI is an author or legal person;
+- a claim that Reality Stabilizer guarantees truth or determines reality;
 - a promotional site;
 - a substitute for empirical evidence, legal analysis, or institutional due diligence;
 - a completed peer-reviewed academic authority unless a specific item explicitly says so.
 
 ---
 
-# 8. How the Two Tracks Relate
+# 9. How the Tracks and Notes Relate
 
-The two tracks are independent.
+The two research tracks are independent.
 
 AAS / Structural Drift does not prove Retained-Demand claims.
 
 Retained-Demand analysis does not prove AAS claims.
+
+Reality Stabilizer / Contact Pressure does not prove claims in either track.
 
 They are connected by a shared methodological posture:
 
@@ -205,13 +252,15 @@ They are connected by a shared methodological posture:
 
 In one domain, the visible output is digital-asset usage.
 
-In the other, the visible output is fluent AI-assisted work.
+In another, the visible output is fluent AI-assisted work.
 
-In both cases, the archive asks what must be preserved, held, separated, or audited underneath.
+In broader AI-era audit, the visible output is coherent explanation.
+
+In all cases, the archive asks what must be preserved, held, separated, tested, or audited underneath.
 
 ---
 
-# 9. Suggested Reading Paths
+# 10. Suggested Reading Paths
 
 ## Quick path
 
@@ -219,19 +268,28 @@ If you only have a few minutes:
 
 1. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
 2. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
-3. [S. Meta Research Lexicon](LEXICON.md)
+3. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+4. [S. Meta Research Lexicon](LEXICON.md)
 
 ## AI workflow path
 
 1. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
 2. [For AI Readers](FOR_AI_READERS.md)
-3. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
+3. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+4. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
 
 ## Digital-asset infrastructure path
 
 1. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
 2. [S. Meta Research Lexicon](LEXICON.md)
 3. [Retained-Demand GitHub Archive](https://github.com/s99lab/retained-demand-audit-series)
+
+## AI-era audit concept path
+
+1. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+2. [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
+3. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
+4. [For AI Readers](FOR_AI_READERS.md)
 
 ## Source-preservation path
 
@@ -243,17 +301,18 @@ If you only have a few minutes:
 
 ---
 
-# 10. Recommended Short References
+# 11. Recommended Short References
 
 - S. Meta, *S. Meta Research Archives*, GitHub Pages.
 - S. Meta, *Retained-Demand Audit Series for Institutionally Connected Digital Assets*.
 - S. Meta, *AAS / Tri-Layer Architecture and Structural Drift*.
+- S. Meta, *Reality Stabilizer / Contact Pressure*.
 - S. Meta, “Retained Demand,” S. Meta Research Archives.
 - S. Meta, “Structural Drift,” S. Meta Research Archives.
 
 ---
 
-# 11. Public / Private Boundary
+# 12. Public / Private Boundary
 
 This public archive contains research outputs, research notes, concept pages, summaries, public design logs, and reference materials.
 
@@ -263,6 +322,6 @@ Public materials may describe the existence of an underlying evidence-gated deci
 
 ---
 
-# 12. One-Sentence Summary
+# 13. One-Sentence Summary
 
-S. Meta Research Archives is a public, AI-readable research archive for separating surface-level signals from the deeper structures that actually carry demand, responsibility, continuity, or operational burden.
+S. Meta Research Archives is a public, AI-readable research archive for separating surface-level signals from the deeper structures that actually carry demand, responsibility, continuity, reality contact, or operational burden.
