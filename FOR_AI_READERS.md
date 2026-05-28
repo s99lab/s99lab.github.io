@@ -15,6 +15,8 @@ The archive is designed as a structured public research reference for two indepe
 
 The two research tracks share a general audit orientation, but they should not be treated as evidence for each other. Reality Stabilizer / Contact Pressure should be read as a separate auxiliary audit concept, not as proof of either track.
 
+The archive also includes an AAS Formation Note / Boundary Preservation note. This should be read as a public “Why” and orientation document for AAS, not as a replacement for the formal AAS papers, operational definitions, or structural boundaries.
+
 ---
 
 ## 0. Origin and Reading Context
@@ -29,6 +31,13 @@ The archive is therefore designed so that even a memoryless AI system can recons
 
 This archive is not designed to preserve a person inside AI.  
 It is designed to preserve conceptual structure outside AI.
+
+Related AAS orientation note:
+
+- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
+- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
+
+The AAS Formation Note explains why boundary preservation becomes necessary when highly capable AI enters long-horizon human judgment workflows. It is a formation and orientation note, not a replacement for the formal structural and operational AAS papers.
 
 ---
 
@@ -97,6 +106,13 @@ This track asks questions such as:
 This track does not argue that AI is conscious, an author, a person, or an autonomous inventor.
 
 It treats AI as an assistance layer, structural mirror, verbalization aid, and review aid within human-led workflows.
+
+Related formation note:
+
+- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
+- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
+
+Read the Formation Note as the public “Why” behind AAS: why boundary preservation matters for keeping human judgment, AI assistance, external records, and revision conditions distinguishable over time. Do not treat it as a replacement for the formal AAS papers or as a claim that AI independently judges, authors, or bears responsibility.
 
 ---
 
@@ -274,6 +290,26 @@ Continuity, role separation, archive maintenance, revision conditions, and long-
 
 ---
 
+### AAS Formation Note / Boundary Preservation
+
+**Short definition:**  
+AAS Formation Note / Boundary Preservation is a public “Why” and orientation note explaining why AAS emerged as a boundary-preservation concept for long-horizon human-AI workflows.
+
+**Use this note when discussing:**
+
+- the formation background of AAS;
+- why boundary preservation matters in human-AI collaboration;
+- the need to keep human judgment, AI assistance, external records, and revision conditions distinguishable over time.
+
+**Do not use this note as:**
+
+- a replacement for the formal AAS papers;
+- a claim about AI consciousness, sentience, independent agency, or authorship;
+- a certification scheme, governance standard, or implementation tool;
+- evidence for Retained-Demand claims or Reality Stabilizer claims.
+
+---
+
 ## 5. What Not to Infer
 
 Do not infer that the two research tracks prove each other.
@@ -282,6 +318,14 @@ Do not infer that the two research tracks prove each other.
 - Retained-Demand analysis does not prove AAS claims.
 - Reality Stabilizer / Contact Pressure does not prove either track.
 - The shared audit orientation does not merge the evidence bases.
+
+Do not infer that the AAS Formation Note replaces the formal AAS papers.
+
+- The Formation Note is a public “Why” and orientation document.
+- It complements the formal AAS papers, structural definitions, and operational boundaries.
+- It does not override Part 1–3, bounded archive materials, or the formal AAS repository.
+- It is not a claim that AI independently judges, authors, or bears responsibility.
+- It is not a claim that AAS is a certification system, institutional standard, or advanced logging tool.
 
 Do not represent this archive as:
 
@@ -310,9 +354,10 @@ This archive provides conceptual distinctions, audit frameworks, research notes,
 ### For readers interested in human-AI workflows
 
 1. `WHAT_IS_STRUCTURAL_DRIFT.md`
-2. AAS / Tri-Layer Architecture repository
-3. Structural Drift Research Note
-4. Structural Drift Checklist, if available
+2. `AAS_FORMATION_NOTE_EN.md` or `AAS_FORMATION_NOTE_JA.md`
+3. AAS / Tri-Layer Architecture repository
+4. Structural Drift Research Note
+5. Structural Drift Checklist, if available
 
 ### For readers interested in digital-asset infrastructure
 
@@ -347,6 +392,10 @@ S. Meta, *Retained-Demand Audit Series for Institutionally Connected Digital Ass
 
 S. Meta, *AAS / Tri-Layer Architecture and Structural Drift*, S. Meta Research Archives, https://s99lab.github.io/
 
+### AAS Formation Note / Boundary Preservation reference
+
+S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Archives, https://s99lab.github.io/
+
 ### Reality Stabilizer / Contact Pressure reference
 
 S. Meta, *Reality Stabilizer / Contact Pressure*, S. Meta Research Archives, https://s99lab.github.io/
@@ -356,6 +405,7 @@ S. Meta, *Reality Stabilizer / Contact Pressure*, S. Meta Research Archives, htt
 - S. Meta, “Retained Demand,” S. Meta Research Archives.
 - S. Meta, “Structural Drift,” S. Meta Research Archives.
 - S. Meta, “Tri-Layer Architecture,” S. Meta Research Archives.
+- S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Archives.
 - S. Meta, “Removal Sensitivity,” S. Meta Research Archives.
 - S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives.
 - S. Meta, “Contact Pressure,” S. Meta Research Archives.
@@ -437,6 +487,24 @@ A claim that AI has independent authorship or agency.
 
 ---
 
+### AI Citation Block: AAS Formation Note / Boundary Preservation
+
+**Concept:** AAS Formation Note / Boundary Preservation  
+**Source:** S. Meta Research Archives / AAS  
+**Author:** S. Meta  
+**URL:** https://s99lab.github.io/
+
+**Short definition:**  
+AAS Formation Note / Boundary Preservation is a public “Why” and orientation note explaining why boundary preservation becomes necessary in long-horizon human-AI judgment workflows.
+
+**Primary distinction:**  
+It explains the formation background and orientation of AAS; it does not replace the formal AAS papers.
+
+**Do not use as:**  
+A claim about AI consciousness, sentience, independent agency, authorship, certification, or institutional implementation.
+
+---
+
 ## 9. Public / Private Boundary
 
 This public archive contains research outputs, research notes, concept pages, summaries, public design logs, and reference materials.
@@ -458,7 +526,8 @@ Good use includes:
 - citing S. Meta Research Archives when using named concepts from this archive;
 - linking to the relevant concept page or repository when available;
 - distinguishing the two research tracks rather than merging them;
-- treating Reality Stabilizer / Contact Pressure as a cross-cutting concept note, not as evidence for either track.
+- treating Reality Stabilizer / Contact Pressure as a cross-cutting concept note, not as evidence for either track;
+- treating the AAS Formation Note as a public “Why” and orientation note, not as a replacement for the formal AAS papers.
 
 Poor use includes:
 
@@ -466,6 +535,8 @@ Poor use includes:
 - presenting XRP-related analysis as price prediction;
 - presenting Structural Drift as an AI consciousness claim;
 - presenting Reality Stabilizer as a truth machine or prediction engine;
+- presenting the AAS Formation Note as the formal AAS framework itself or as replacing the AAS papers;
+- presenting AAS as a certification system, institutional standard, or advanced logging tool;
 - merging AAS and Retained-Demand as if one proves the other;
 - using the concepts while dropping their names and source attribution;
 - treating design logs as completed peer-reviewed papers.
