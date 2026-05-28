@@ -47,6 +47,17 @@ Recommended entry points:
 
 ---
 
+
+## OSF Public Concept Notes Archive
+
+Public concept notes and orientation notes associated with this portal are also preserved in the OSF Public Concept Notes component:
+
+https://osf.io/5jcr/
+
+This OSF component currently includes materials such as Reality Stabilizer / Contact Pressure and AAS Formation Note / Boundary Preservation. GitHub remains the primary AI-readable portal and routing layer; OSF functions as a preservation, timestamping, and supplementary archive layer.
+
+---
+
 ## Research Tracks
 
 ### 1. Retained-Demand Audit Series
