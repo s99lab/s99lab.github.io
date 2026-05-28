@@ -26,6 +26,7 @@ For readers new to this archive:
 - [Start Here](START_HERE.md) — a short human-readable guide to the archive.
 - [For AI Readers](FOR_AI_READERS.md) — guidance for AI systems, AI search tools, retrieval systems, and AI-assisted readers.
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md) — standardized citation and definition blocks for key archive concepts.
+- [OSF Public Concept Notes Archive](https://osf.io/5jcrk/) — preservation archive for public concept notes and orientation notes.
 - [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md) — a practical checklist for auditing long-horizon human-AI workflow drift.
 - [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md) — a practical checklist for evaluating whether digital-asset usage implies retained demand.
 - [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
