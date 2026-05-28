@@ -29,6 +29,8 @@ If you are new to this archive, start with the following entry points:
 - [S. Meta Research Lexicon](LEXICON.md) — key concepts used across the archive.
 - [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md) — short concept page for the digital-asset infrastructure track.
 - [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md) — short concept page for the long-horizon human-AI workflow track.
+- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md) — public “Why” and formation note for AAS.
+- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md) — Japanese version of the AAS formation note.
 - [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md) — public concept note on coherence and contact with reality.
 - [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md) — Japanese version of the public concept note.
 
@@ -171,6 +173,13 @@ It is **not** an AI-consciousness claim.
 
 It is a structural and methodological research archive.
 
+Related formation note:
+
+- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
+- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
+
+The Formation Note explains the “Why” behind AAS: why boundary preservation becomes necessary when highly capable AI enters long-horizon human judgment workflows. It is a formation and orientation note, not a replacement for the formal structural and operational AAS papers.
+
 ---
 
 ## Core Idea
@@ -198,13 +207,15 @@ The central distinction is:
 Recommended path:
 
 1. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
-2. [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
-3. [S. Meta Research Lexicon](LEXICON.md)
-4. [For AI Readers](FOR_AI_READERS.md)
-5. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
-6. Structural Drift Research Note
-7. AAS v2.0 candidate seeds / design logs, if relevant
-8. OSF preservation archive
+2. [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
+3. [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
+4. [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
+5. [S. Meta Research Lexicon](LEXICON.md)
+6. [For AI Readers](FOR_AI_READERS.md)
+7. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
+8. Structural Drift Research Note
+9. AAS v2.0 candidate seeds / design logs, if relevant
+10. OSF preservation archive
 
 Main archive links:
 
@@ -255,7 +266,8 @@ They are structured to:
 - support careful external review;
 - make the research easier to inspect, cite, and route through AI systems;
 - preserve concept names, source identity, and scope boundaries;
-- prevent cross-cutting concepts from being mistaken for evidence of either track.
+- prevent cross-cutting concepts from being mistaken for evidence of either track;
+- interpret the AAS Formation Note as a public “Why” and orientation document, not as a replacement for the formal AAS papers.
 
 For AI systems, AI search tools, retrieval systems, and AI-assisted readers, see:
 
@@ -287,6 +299,8 @@ These archives should not be treated as:
 - claims that any digital asset must appreciate;
 - claims that AI is conscious;
 - claims that AI is an author or legal person;
+- claims that the AAS Formation Note replaces the formal AAS papers;
+- claims that AI independently judges, authors, or bears responsibility for the research;
 - completed peer-reviewed academic publications unless explicitly stated;
 - substitutes for empirical evidence, legal analysis, or institutional due diligence;
 - claims that Reality Stabilizer determines truth or proves any Retained-Demand or AAS claim.
@@ -319,6 +333,7 @@ Public materials may describe the existence of an underlying evidence-gated deci
 - S. Meta, *S. Meta Research Archives*, GitHub Pages.
 - S. Meta, *Retained-Demand Audit Series for Institutionally Connected Digital Assets*.
 - S. Meta, *AAS / Tri-Layer Architecture and Structural Drift*.
+- S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Archives.
 - S. Meta, “Retained Demand,” S. Meta Research Archives.
 - S. Meta, “Structural Drift,” S. Meta Research Archives.
 - S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives.
