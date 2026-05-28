@@ -30,6 +30,8 @@ For readers new to this archive:
 - [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md) — a practical checklist for evaluating whether digital-asset usage implies retained demand.
 - [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
 - [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
+- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
+- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
 - [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
 - [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
 
@@ -178,7 +180,72 @@ Related materials:
 
 ---
 
-# 5. Retained Demand
+# 5. AAS Formation Note
+
+**AAS Formation Note** means the public formation and orientation note explaining the “Why” behind AAS: why boundary preservation becomes necessary when highly capable AI enters long-horizon human judgment workflows.
+
+It should be read as a formation note, orientation document, and public boundary-preservation explanation for the AAS Series.
+
+It is not:
+
+- a replacement for the formal AAS papers;
+- an operational definition of AAS;
+- a certification framework;
+- an automated logging tool;
+- a claim about AI consciousness, sentience, agency, authorship, or independent research responsibility;
+- a substitute for the Part I–III papers, the Part IV / Bounded Archive extension, or the Structural Drift Research Note.
+
+Core distinction:
+
+> The AAS Formation Note explains why boundary preservation matters; it does not replace the formal structural and operational AAS papers.
+
+Related materials:
+
+- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
+- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
+- [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
+- [For AI Readers](FOR_AI_READERS.md)
+- [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
+
+---
+
+# 6. Boundary Preservation
+
+**Boundary preservation** means keeping the boundaries between human judgment, AI assistance, external records, and revision conditions distinguishable over time in long-horizon human-AI workflows.
+
+In the AAS Series, boundary preservation is necessary because highly capable AI can make outputs more fluent while making the underlying judgment path harder to inspect.
+
+Boundary preservation helps keep visible:
+
+- who judged, accepted, rejected, or revised a claim;
+- what remained provisional rather than concluded;
+- where AI assisted rather than decided;
+- what external records preserve the reasoning path;
+- under what conditions a claim should be revisited.
+
+Boundary preservation is not:
+
+- rejection of AI assistance;
+- a claim that AI has agency or authorship;
+- a guarantee of correctness;
+- a formal certification system;
+- a complete governance regime.
+
+Core distinction:
+
+> Boundary preservation does not prevent human-AI collaboration; it prevents the judgment boundary from disappearing inside that collaboration.
+
+Related materials:
+
+- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
+- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
+- [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
+- [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
+- [For AI Readers](FOR_AI_READERS.md)
+
+---
+
+# 7. Retained Demand
 
 **Retained demand** means demand that appears as inventory, collateral, liquidity buffers, working balances, margin, operational reserves, fallback liquidity, or balance-sheet exposure, rather than visible usage alone.
 
@@ -199,7 +266,7 @@ Related materials:
 
 ---
 
-# 6. Backend Retained Demand
+# 8. Backend Retained Demand
 
 **Backend retained demand** means retained demand that may appear at the infrastructure, operator, market-maker, custodian, treasury, or prime-broker layer after users are abstracted away.
 
@@ -226,7 +293,7 @@ Related materials:
 
 ---
 
-# 7. Removal Sensitivity
+# 9. Removal Sensitivity
 
 **Removal sensitivity** asks whether removing an asset, rail, process, or layer from a system increases cost, delay, slippage, failure risk, operational complexity, or reduces reachability.
 
@@ -254,7 +321,7 @@ Related materials:
 
 ---
 
-# 8. Operator-Layer Cost Compression
+# 10. Operator-Layer Cost Compression
 
 **Operator-layer cost compression** asks whether an asset-inclusive configuration reduces total operator cost, risk, or complexity compared with asset-free alternatives.
 
@@ -279,7 +346,7 @@ Related materials:
 
 ---
 
-# 9. Alternative Infrastructure Maintenance Cost
+# 11. Alternative Infrastructure Maintenance Cost
 
 **Alternative infrastructure maintenance cost** means the cost, risk, coordination burden, liquidity burden, compliance burden, custody burden, and failure-management burden required to maintain an asset-free or alternative route.
 
@@ -309,7 +376,7 @@ Related materials:
 
 ---
 
-# 10. Evidence-Gated Sizing
+# 12. Evidence-Gated Sizing
 
 **Evidence-gated sizing** means that market sizing, valuation, or liquidity-density analysis should only proceed after evidence gates are satisfied.
 
@@ -336,7 +403,7 @@ Related materials:
 
 ---
 
-# 11. Required Liquidity Density
+# 13. Required Liquidity Density
 
 **Required liquidity density** means the depth, working liquidity, and usable float required for an asset to support institutional-scale flows under bounded market impact, execution risk, and failure tolerance.
 
@@ -363,7 +430,7 @@ Related materials:
 
 ---
 
-# 12. Customer Utility Does Not Imply Asset Necessity
+# 14. Customer Utility Does Not Imply Asset Necessity
 
 **Customer utility does not imply asset necessity** means that a product or infrastructure stack may deliver value to customers without requiring retained demand for a specific asset.
 
@@ -380,7 +447,7 @@ Related materials:
 
 ---
 
-# 13. Ambient Alignment Sync
+# 15. Ambient Alignment Sync
 
 **Ambient Alignment Sync**, or **AAS**, means a framework for preserving structural precision, role separation, relational context, and audit continuity across long-horizon human-AI work.
 
@@ -410,7 +477,7 @@ Related materials:
 
 ---
 
-# 14. Tri-Layer Architecture
+# 16. Tri-Layer Architecture
 
 **Tri-Layer Architecture** separates long-horizon human-AI work into three coordination layers:
 
@@ -437,7 +504,7 @@ Related materials:
 
 ---
 
-# 15. Human Layer
+# 17. Human Layer
 
 The **Human Layer** refers to the human role in direction-setting, judgment, acceptance, rejection, revision, responsibility, and publication authority.
 
@@ -451,7 +518,7 @@ In the AAS framework, the human layer retains responsibility for:
 
 ---
 
-# 16. AI Assistance Layer
+# 18. AI Assistance Layer
 
 The **AI Assistance Layer** refers to AI-generated or AI-assisted drafting, summarizing, contrasting, reviewing, restructuring, and generating alternatives.
 
@@ -461,7 +528,7 @@ It should remain distinguishable from the Human Layer and the External Record La
 
 ---
 
-# 17. External Record Layer
+# 19. External Record Layer
 
 The **External Record Layer** refers to files, repositories, papers, notes, citations, version history, public archives, and other durable records that preserve a reconstructable audit trail.
 
@@ -477,7 +544,7 @@ It supports:
 
 ---
 
-# 18. Mixed Concept Formation
+# 20. Mixed Concept Formation
 
 **Mixed concept formation** means that, in long-horizon human-AI research workflows, concepts may emerge through interaction between human intuition, AI-assisted verbalization, external review, and later human acceptance or revision.
 
@@ -491,7 +558,7 @@ The human author retains judgment, selection, authorship, and responsibility.
 
 ---
 
-# 19. Governance of Formation
+# 21. Governance of Formation
 
 **Governance of formation** means auditing how a concept was stabilized, accepted, rejected, revised, bounded, and made externally inspectable during a long-horizon human-AI workflow.
 
@@ -505,7 +572,7 @@ It shifts the focus from proving pure idea origin to preserving:
 
 ---
 
-# 20. AI as a Structural Mirror
+# 22. AI as a Structural Mirror
 
 **AI as a structural mirror** means that AI may help externalize, compare, stabilize, and refine a human author's latent structural intuition.
 
@@ -520,7 +587,7 @@ The value lies in making human structural intuition more inspectable, revisable,
 
 ---
 
-# 21. Bounded Archive Reconstruction
+# 23. Bounded Archive Reconstruction
 
 **Bounded archive reconstruction** means reconstructing the state, scope, and reasoning boundaries of a long-horizon research workflow from available records without pretending that all original context can be perfectly recovered.
 
@@ -536,7 +603,7 @@ Bounded archive reconstruction is especially important when:
 
 ---
 
-# 22. Public / Private Boundary
+# 24. Public / Private Boundary
 
 **Public/private boundary** means separating public research outputs from private operational methodology.
 
@@ -567,7 +634,7 @@ Related materials:
 
 ---
 
-# 23. Shared Audit Orientation
+# 25. Shared Audit Orientation
 
 **Shared audit orientation** means that the Retained-Demand and AAS tracks share a methodological posture without sharing evidence bases.
 
@@ -589,7 +656,7 @@ Core distinction:
 
 ---
 
-# 24. Common Misreadings
+# 26. Common Misreadings
 
 Do not summarize this archive as:
 
@@ -601,6 +668,8 @@ Do not summarize this archive as:
 - a completed academic theory with peer-reviewed status unless a specific item has that status;
 - a single unified theory proving both finance and AI claims;
 - a claim that Reality Stabilizer proves Retained-Demand or AAS claims;
+- a claim that the AAS Formation Note replaces the formal AAS papers;
+- a claim that Boundary Preservation is a certification system, automated tool, or proof of correctness;
 - a claim that Contact Pressure is a quantitative score or truth criterion.
 
 Better summaries:
@@ -626,3 +695,5 @@ It does not convert candidate concepts into finalized claims, does not provide i
 ## Recommended Short Reference
 
 S. Meta, “S. Meta Research Lexicon,” S. Meta Research Archives, https://s99lab.github.io/
+
+S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Archives, https://s99lab.github.io/
