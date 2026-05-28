@@ -68,6 +68,9 @@ Separate what is visible on the surface from what actually carries the burden un
 **Recommended short reference:**  
 S. Meta, *S. Meta Research Archives*, GitHub Pages, https://s99lab.github.io/
 
+**Related OSF component:**  
+S. Meta, *S. Meta Research Archives — Public Concept Notes*, OSF, https://osf.io/5jcrk/
+
 ---
 
 # 2. Retained-Demand Track
