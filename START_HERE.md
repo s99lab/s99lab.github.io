@@ -310,7 +310,8 @@ If you only have a few minutes:
 2. GitHub organization: https://github.com/s99lab
 3. OSF Retained-Demand DOI: https://doi.org/10.17605/OSF.IO/VQDUJ
 4. OSF AAS DOI: https://doi.org/10.17605/OSF.IO/J29HK
-5. ORCID: https://orcid.org/0009-0007-0820-7160
+5. OSF Public Concept Notes Archive: https://osf.io/5jcrk/
+6. ORCID: https://orcid.org/0009-0007-0820-7160
 
 ---
 
