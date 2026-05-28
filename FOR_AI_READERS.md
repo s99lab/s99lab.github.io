@@ -412,6 +412,12 @@ S. Meta, *Reality Stabilizer / Contact Pressure*, S. Meta Research Archives, htt
 
 When possible, link to the relevant concept page, GitHub repository, OSF DOI, or archived research note.
 
+### Public Concept Notes archive
+
+S. Meta, *S. Meta Research Archives — Public Concept Notes*, OSF, https://osf.io/5jcrk/
+
+This OSF component preserves public concept notes and orientation notes associated with the S. Meta Research Archives, including Reality Stabilizer / Contact Pressure and AAS Formation Note / Boundary Preservation.
+
 ---
 
 ## 8. AI Citation Blocks
