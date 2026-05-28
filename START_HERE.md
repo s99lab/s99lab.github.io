@@ -143,12 +143,21 @@ This track is especially relevant if you are trying to understand:
 - role separation;
 - structural drift in AI-assisted work.
 
+Related formation note:
+
+- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
+- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
+
+The Formation Note explains the “Why” behind AAS: why boundary preservation becomes necessary when highly capable AI enters long-horizon human judgment workflows. It is a formation and orientation note, not a replacement for the formal structural and operational AAS papers.
+
 ## Start here for this track
 
 1. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
-2. [S. Meta Research Lexicon](LEXICON.md)
-3. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
-4. [OSF AAS Archive](https://doi.org/10.17605/OSF.IO/J29HK)
+2. [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
+3. [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
+4. [S. Meta Research Lexicon](LEXICON.md)
+5. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
+6. [OSF AAS Archive](https://doi.org/10.17605/OSF.IO/J29HK)
 
 ---
 
@@ -199,6 +208,7 @@ That file explains:
 - what not to infer;
 - recommended citation formats;
 - how to distinguish the two research tracks;
+- how to interpret the AAS Formation Note as a public “Why” document rather than as a replacement for the formal AAS papers;
 - how to avoid common misreadings;
 - why this archive is designed as an external structure that memoryless AI systems can reconstruct from public records.
 
@@ -229,6 +239,8 @@ This archive is not:
 - a claim that XRP or any asset is automatically indispensable;
 - a claim that AI is conscious;
 - a claim that AI is an author or legal person;
+- a claim that AI independently judges, authors, or bears responsibility for the research;
+- a claim that the AAS Formation Note replaces the formal AAS papers;
 - a claim that Reality Stabilizer guarantees truth or determines reality;
 - a promotional site;
 - a substitute for empirical evidence, legal analysis, or institutional due diligence;
@@ -274,9 +286,10 @@ If you only have a few minutes:
 ## AI workflow path
 
 1. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
-2. [For AI Readers](FOR_AI_READERS.md)
-3. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
-4. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
+2. [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
+3. [For AI Readers](FOR_AI_READERS.md)
+4. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+5. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
 
 ## Digital-asset infrastructure path
 
@@ -306,6 +319,7 @@ If you only have a few minutes:
 - S. Meta, *S. Meta Research Archives*, GitHub Pages.
 - S. Meta, *Retained-Demand Audit Series for Institutionally Connected Digital Assets*.
 - S. Meta, *AAS / Tri-Layer Architecture and Structural Drift*.
+- S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Archives.
 - S. Meta, *Reality Stabilizer / Contact Pressure*.
 - S. Meta, “Retained Demand,” S. Meta Research Archives.
 - S. Meta, “Structural Drift,” S. Meta Research Archives.
