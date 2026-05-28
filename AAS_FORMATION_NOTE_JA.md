@@ -4,6 +4,11 @@
 
 ### 人間がAIと深く協働しながらも、判断主体として溶けないための関係性概念
 
+**文書種別:** 公開 Formation / Orientation Note  
+**役割:** AAS の “Why” と boundary preservation / 境界保存 の背景を説明する文書  
+**範囲:** 既存AAS論文群、Structural Drift Research Note、またはAAS Seriesの操作的定義を置き換えるものではない  
+**非主張:** AIの意識・感情・主体性・著者性・認証制度・ガバナンス標準・運用製品を主張するものではない
+
 ---
 
 ## 0. 要旨
@@ -347,6 +352,8 @@ AASは、前へ進むためだけの概念ではない。
 ---
 
 ## 8. From Individual Judgment to Reviewable Society：個人判断からレビュー可能な社会へ
+
+この節は、boundary preservation / 境界保存 の広い含意を述べるものです。本ノートの非主張と範囲限界を定める第10節とあわせて読まれる必要があります。
 
 AASは、企業AIガバナンスから始まる概念ではない。
 

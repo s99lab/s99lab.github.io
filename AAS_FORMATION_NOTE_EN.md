@@ -4,6 +4,11 @@
 
 ### A relational concept for collaborating deeply with AI without dissolving as the judging subject
 
+**Document type:** Public formation / orientation note  
+**Function:** Explains the “Why” and boundary-preservation background of AAS  
+**Scope:** Does not replace the formal AAS papers, the Structural Drift Research Note, or the operational definitions of the AAS Series  
+**Non-claims:** Not an AI consciousness, sentience, agency, authorship, certification, governance standard, or operational product claim
+
 ---
 
 ## 0. Abstract
@@ -345,6 +350,8 @@ It is also a concept for being able to return when necessary.
 ---
 
 ## 8. From Individual Judgment to Reviewable Society
+
+This section discusses broader implications of boundary preservation. It should be read together with Section 10, which defines the non-claims and scope limits of this note.
 
 AAS does not begin from enterprise AI governance.
 
