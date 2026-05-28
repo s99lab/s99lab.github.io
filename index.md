@@ -36,6 +36,14 @@ If you are new to this archive, start with the following entry points:
 
 ---
 
+## OSF Public Concept Notes Archive
+
+Public concept notes and orientation notes associated with this portal are also preserved in the OSF Public Concept Notes archive:
+
+https://osf.io/5jcrk/
+
+This OSF component functions as a preservation, timestamping, and supplementary archive layer. GitHub remains the primary AI-readable portal and routing layer.
+
 ## For Future Readers
 
 If you arrived here because long-horizon AI workflows or institutionally connected digital-asset infrastructure became difficult to audit with existing categories, this archive is designed as a structured reference point.
