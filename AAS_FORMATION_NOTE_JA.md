@@ -4,10 +4,23 @@
 
 ### 人間がAIと深く協働しながらも、判断主体として溶けないための関係性概念
 
+**言語:** 日本語  
+**English version:** [AAS Formation Note EN](AAS_FORMATION_NOTE_EN.md)
+
 **文書種別:** 公開 Formation / Orientation Note  
 **役割:** AAS の “Why” と boundary preservation / 境界保存 の背景を説明する文書  
 **範囲:** 既存AAS論文群、Structural Drift Research Note、またはAAS Seriesの操作的定義を置き換えるものではない  
 **非主張:** AIの意識・感情・主体性・著者性・認証制度・ガバナンス標準・運用製品を主張するものではない
+
+---
+
+## TL;DR
+
+本ノートは、AAS / Ambient Alignment Sync が、長期的人間AI協働における境界保存概念としてなぜ必要になるのかを説明する。
+
+焦点は、流暢で有用で高性能なAI補助の「知的重力」によって、人間判断の輪郭が静かに薄れていく問題である。
+
+AASはAIの意識・著者性を主張するものではなく、人間判断・AI補助・外部記録・見直し条件を時間の中で区別可能に保つための概念である。
 
 ---
 

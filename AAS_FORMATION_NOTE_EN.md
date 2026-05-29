@@ -4,10 +4,23 @@
 
 ### A relational concept for collaborating deeply with AI without dissolving as the judging subject
 
+**Language:** English  
+**Japanese version:** [AAS Formation Note JA](AAS_FORMATION_NOTE_JA.md)
+
 **Document type:** Public formation / orientation note  
 **Function:** Explains the “Why” and boundary-preservation background of AAS  
 **Scope:** Does not replace the formal AAS papers, the Structural Drift Research Note, or the operational definitions of the AAS Series  
 **Non-claims:** Not an AI consciousness, sentience, agency, authorship, certification, governance standard, or operational product claim
+
+---
+
+## TL;DR
+
+This note explains why AAS / Ambient Alignment Sync becomes necessary as a boundary-preservation concept for long-horizon human-AI workflows.
+
+It focuses on the quiet loss of human judgment boundaries under the intellectual gravity of fluent, helpful, and highly capable AI assistance.
+
+AAS is not a claim about AI consciousness or authorship; it is a framework for keeping human judgment, AI assistance, external records, and revision conditions distinguishable over time.
 
 ---
 
