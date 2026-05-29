@@ -1,8 +1,8 @@
 # 説明の整合性と、現実への接触は別物である
 ## AI時代の監査フレームワークにおける Reality Stabilizer
 
-**言語:** 日本語  
-**English version:** [Reality Stabilizer EN](REALITY_STABILIZER_EN.md)
+**Language:** Japanese  
+**English version / 英語版:** [Reality Stabilizer EN](REALITY_STABILIZER_EN.md)
 
 **S. Meta**  
 **Public Concept Note / Method Note Draft v0.5**

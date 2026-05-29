@@ -4,8 +4,8 @@
 
 ### 人間がAIと深く協働しながらも、判断主体として溶けないための関係性概念
 
-**言語:** 日本語  
-**English version:** [AAS Formation Note EN](AAS_FORMATION_NOTE_EN.md)
+**Language:** Japanese  
+**English version / 英語版:** [AAS Formation Note EN](AAS_FORMATION_NOTE_EN.md)
 
 **文書種別:** 公開 Formation / Orientation Note  
 **役割:** AAS の “Why” と boundary preservation / 境界保存 の背景を説明する文書  

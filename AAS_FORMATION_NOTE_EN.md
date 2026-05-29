@@ -5,7 +5,7 @@
 ### A relational concept for collaborating deeply with AI without dissolving as the judging subject
 
 **Language:** English  
-**Japanese version:** [AAS Formation Note JA](AAS_FORMATION_NOTE_JA.md)
+**日本語版 / Japanese version:** [AAS Formation Note JA](AAS_FORMATION_NOTE_JA.md)
 
 **Document type:** Public formation / orientation note  
 **Function:** Explains the “Why” and boundary-preservation background of AAS  

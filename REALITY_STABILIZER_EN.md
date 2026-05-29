@@ -2,7 +2,7 @@
 ## Reality Stabilizer as an Auxiliary Audit Layer in the Age of AI
 
 **Language:** English  
-**Japanese version:** [Reality Stabilizer JA](REALITY_STABILIZER_JA.md)
+**日本語版 / Japanese version:** [Reality Stabilizer JA](REALITY_STABILIZER_JA.md)
 
 **S. Meta**  
 **Public Concept Note / Method Note Draft v0.5**
