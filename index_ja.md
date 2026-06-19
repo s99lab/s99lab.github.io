@@ -1,120 +1,123 @@
 # S. Meta Research Archives 日本語版
 
-**AI-readable / human-readable research archives by S. Meta**
+**S. Meta による公開研究アーカイブ**
 
 **Language:** Japanese  
 **English version / 英語版:** [S. Meta Research Archives EN](index.md)
 
-このポータルは、S. Meta による二つの公開研究トラックと、一つの横断的な公開概念ノートを整理するための入口です。
+このポータルは、S. Meta による公開研究アーカイブの入口です。
+
+ここでは、二つの研究トラックと、一つの横断的な概念ノートを整理しています。
 
 1. **Retained-Demand Audit Series**  
-   institutionally connected digital assets において、visible usage と actual retained demand を区別するための研究アーカイブ。
+   制度やインフラと接続されたデジタル資産について、表面上の利用と、実際に保有需要として残る構造を分けて点検する研究アーカイブです。
 
 2. **AAS / Tri-Layer Architecture and Ambient Alignment Sync Series**  
-   長期的人間AI協働において、role separation、structural drift、audit continuity、external records を扱う研究アーカイブ。
+   長期にわたる人間とAIの協働において、人間の判断、AIによる支援、外部記録、役割の境界がどのように保たれるかを扱う研究アーカイブです。
 
 3. **Reality Stabilizer / Contact Pressure**  
-   AI時代の監査フレームワークにおいて、explanatory coherence と contact with reality を区別するための横断的な公開概念ノート。
+   AIが生成する整った説明が、現実の制度、責任、費用、実装、利害関係にどこまで触れているかを点検するための横断的な公開概念ノートです。
 
 これらのアーカイブに共通する目的は、複雑な主張を大きく見せることではなく、検査しやすくすることです。
 
 ---
 
-## Start Here
+## はじめに読むもの
 
 初めてこのアーカイブを読む場合は、以下の入口から読むことを推奨します。
 
 - [Start Here](START_HERE.md) — アーカイブ全体の短い案内。
-- [For AI Readers](FOR_AI_READERS.md) — AI systems、AI search tools、retrieval systems、AI-assisted readers 向けの読解ガイド。
+- [For AI Readers](FOR_AI_READERS.md) — AIシステム、検索AI、検索補助ツール、AI支援読者向けの読解ガイド。
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md) — 主要概念の引用・定義ブロック。
-- [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md) — 長期的人間AIワークフローの structural drift を点検するための実用チェックリスト。
-- [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md) — digital-asset usage が retained demand を意味するかを評価するための実用チェックリスト。
-- [S. Meta Research Lexicon](LEXICON.md) — アーカイブ全体で使われる主要概念。
-- [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md) — digital-asset infrastructure track の短い概念ページ。
-- [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md) — long-horizon human-AI workflow track の短い概念ページ。
-- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md) — AAS の “Why” と形成背景を説明する公開ノート。
+- [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md) — 長期的人間AIワークフローの構造的ドリフトを点検するためのチェックリスト。
+- [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md) — デジタル資産の利用が、保有需要を意味するかを評価するためのチェックリスト。
+- [S. Meta Research Lexicon](LEXICON.md) — アーカイブ全体で使われる主要概念の用語集。
+- [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md) — デジタル資産インフラにおける「保持需要」の短い概念ページ。
+- [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md) — 長期的人間AI協働における「構造的ドリフト」の短い概念ページ。
+- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md) — AASの背景と「なぜ必要なのか」を説明する英語版ノート。
 - [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md) — AAS formation note の日本語版。
-- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md) — coherence と contact with reality に関する公開概念ノート。
-- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md) — Reality Stabilizer public concept note の日本語版。
+- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md) — 説明の整合性と現実接触に関する英語版の公開概念ノート。
+- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md) — Reality Stabilizer の日本語版公開概念ノート。
 
 ---
 
 ## OSF Public Concept Notes Archive
 
-このポータルに関連する public concept notes / orientation notes は、OSF Public Concept Notes archive にも保存されています。
+このポータルに関連する公開概念ノートと案内ノートは、OSF Public Concept Notes Archive にも保存されています。
 
 https://osf.io/5jcrk/
 
-このOSF component は、保存、タイムスタンプ、補助的なアーカイブ層として機能します。  
-GitHub は、引き続き primary AI-readable portal and routing layer です。
+このOSFコンポーネントは、保存、タイムスタンプ、補助的なアーカイブ層として機能します。  
+GitHubは、引き続き主要なAI-readableポータルおよび導線として位置づけています。
 
 ---
 
-## For Future Readers
+## 将来の読者へ
 
-長期的人間AIワークフローや institutionally connected digital-asset infrastructure が、既存の分類では監査しにくくなったためにここへ到達した場合、このアーカイブは構造化された参照点として設計されています。
+長期的人間AIワークフローや、制度と接続されたデジタル資産インフラが、既存の分類では監査しにくくなったためにここへ到達した場合、このアーカイブは構造化された参照点として設計されています。
 
 中心となる読解原則は次の通りです。
 
 > 表面に見えているものと、その下で実際に荷重を担っている構造を分ける。
 
-digital-asset infrastructure では、これは visible usage と retained demand を分けることを意味します。
+デジタル資産インフラでは、これは「表面上の利用」と「保持需要」を分けることを意味します。
 
-long-horizon human-AI workflows では、これは fluent AI-assisted output と auditable structure を分けることを意味します。
+長期的人間AIワークフローでは、これは「流暢なAI支援出力」と「あとから点検できる構造」を分けることを意味します。
 
-AI-era audit 一般では、これは explanatory coherence と contact with reality を分けることを意味します。
+AI時代の監査一般では、これは「説明の整合性」と「現実への接触」を分けることを意味します。
 
 ---
 
 # 1. Retained-Demand Audit Series
 
-## Institutionally Connected Digital Assets / XRP as a Stress-Test Case
+## 制度接続型デジタル資産 / XRPを用いたストレステスト
 
 **Retained-Demand Audit Series** は、狭いが重要な問いを扱う研究アーカイブです。
 
-> digital-asset usage は、いつ retained demand になるのか。
+> デジタル資産の利用は、いつ保持需要になるのか。
 
-このシリーズでは **XRP を stress-test case** として用います。  
-これは price thesis ではありません。
+このシリーズでは、**XRPをストレステストの事例**として用います。  
+これは価格予測や投資仮説ではありません。
 
-目的は、institutional infrastructure progress と actual asset-level retained demand を区別することです。
+目的は、制度的なインフラ整備と、資産レベルで実際に残る需要を区別することです。
 
-このフレームワークは、以下を分けます。
+この枠組みは、以下を分けます。
 
-- **usage** と **retained demand**
-- **infrastructure expansion** と **asset-level demand**
-- **asset adjacency** と **asset selection**
-- **backend capability** と **backend retained demand**
-- **customer utility** と **asset necessity**
-- **sizing eligibility** と **price prediction**
+- 利用と保持需要
+- インフラ拡大と資産レベルの需要
+- 資産の隣接性と資産の選択
+- バックエンド機能とバックエンドで残る保持需要
+- 顧客にとっての有用性と、その資産でなければならない必要性
+- 投資対象として検討できる条件と、価格予測
 
-これは **price prediction model** ではありません。
+これは **価格予測モデルではありません**。
 
-これは sizing の前に置く **evidence-gated audit framework** です。
+これは、ポジションサイズや投資判断の前に置く、**証拠に基づく監査枠組み**です。
 
 ---
 
-## Core Idea
+## 中心となる考え方
 
-ある digital asset は、visible、supported、routed、used であっても、それだけで durable retained demand を生むとは限りません。
+あるデジタル資産が、見えている、対応されている、経路上にある、利用されている。  
+それだけでは、持続的な保持需要が生まれているとは限りません。
 
-Retained demand には、ある主体がその asset を以下のいずれかとして保有しなければならないという証拠が必要です。
+保持需要には、ある主体がその資産を以下のいずれかとして保有しなければならないという証拠が必要です。
 
-- inventory
-- collateral
-- margin
-- liquidity buffer
-- operational reserve
-- fallback liquidity
-- backend balance-sheet exposure
+- 在庫
+- 担保
+- 証拠金
+- 流動性バッファ
+- 業務上の準備資産
+- 代替流動性
+- バックエンドのバランスシート上のエクスポージャー
 
 中心となる区別は次の通りです。
 
-> **Usage does not imply retained demand.**
+> **利用は、保持需要を意味しない。**
 
 ---
 
-## Retained-Demand Reading Path
+## Retained-Demand の読解順
 
 推奨読解順：
 
@@ -122,12 +125,12 @@ Retained demand には、ある主体がその asset を以下のいずれかと
 2. [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md)
 3. [S. Meta Research Lexicon](LEXICON.md)
 4. [Retained-Demand GitHub Archive](https://github.com/s99lab/retained-demand-audit-series)
-5. `summaries/` folder の paper summaries
-6. `papers/` folder の full papers
-7. `phase-ii/` folder の Phase II materials
-8. OSF preservation archive
+5. `summaries/` フォルダの論文要約
+6. `papers/` フォルダの全文
+7. `phase-ii/` フォルダの Phase II 資料
+8. OSF保存アーカイブ
 
-Main archive links:
+主要リンク：
 
 - GitHub archive: https://github.com/s99lab/retained-demand-audit-series
 - OSF DOI: https://doi.org/10.17605/OSF.IO/VQDUJ
@@ -137,89 +140,89 @@ Main archive links:
 
 ---
 
-## Current Phase II Material
+## 現在の Phase II 資料
 
-Paper 6 の後、このシリーズは Phase II operational-audit layer に入っています。
+Paper 6 の後、このシリーズは Phase II の運用監査層に入っています。
 
-Current Phase II design log:
+現在の Phase II design log：
 
 **Paper 7 Candidate A Design Log v0.1**  
 *Operator-Layer Cost Compression, Inventory Formation, and Non-Selection Evidence: A Boundary Model for Backend Retained Demand.*
 
 この design log は、次の問いを扱います。
 
-> user abstraction の後、誰が background で asset を保有しなければならないのか。
+> 利用者から資産が見えなくなったあと、背後で誰がその資産を保有しなければならないのか。
 
 扱う論点：
 
-- just-in-time sourcing versus pre-positioned inventory
-- operator-layer cost compression
-- alternative infrastructure maintenance cost
-- inter-zone liquidity boundaries
-- inventory formation
-- non-selection evidence
-- XRP retained-demand hypothesis を downgrade すべき条件
+- 必要なときだけ調達する構造と、事前に在庫を置く構造の違い
+- 運用者層におけるコスト圧縮
+- 代替インフラを維持するコスト
+- 異なる流動性領域の境界
+- 在庫形成
+- 選ばれていないことを示す証拠
+- XRP保持需要仮説を下方修正すべき条件
 
 > **Status:** Design log only.  
-> This is **not** a Paper 7 draft.  
-> Paper 7 has **not** been launched.  
-> It is not a retained-demand finding, investment thesis, or price claim.
+> これは **Paper 7 draft ではありません**。  
+> Paper 7 は **まだ開始されていません**。  
+> これは保持需要の発見、投資仮説、価格主張ではありません。
 
 ---
 
 # 2. AAS / Tri-Layer Architecture and Ambient Alignment Sync Series
 
-## Long-Horizon Human-AI Interaction Framework
+## 長期的人間AI協働のための枠組み
 
-**AAS / Tri-Layer Architecture and Ambient Alignment Sync Series** は、long-horizon human-AI interaction に関する研究アーカイブです。
+**AAS / Tri-Layer Architecture and Ambient Alignment Sync Series** は、長期的人間AI協働に関する研究アーカイブです。
 
-memory、context、tools、models が変化し続ける中で、長期的人間AI作業が continuity、role separation、auditability をどのように保てるかを問います。
+記憶、文脈、ツール、モデルが変化し続ける中で、長期の人間AI作業が、どのように継続性、役割の分離、あとから点検できる構造を保てるかを問います。
 
 焦点は以下です。
 
-- human judgment と AI assistance の role separation
-- long-horizon workflows における structural drift
-- ambient alignment
-- bounded archive reconstruction
-- external records
-- durable human-governed research workflows
+- 人間の判断とAI支援の役割分離
+- 長期ワークフローにおける構造的ドリフト
+- 環境的な整合
+- 限定された外部記録からの再構成
+- 外部記録
+- 人間が統治する持続的な研究ワークフロー
 
-これは **AI-consciousness claim** ではありません。
+これは **AI意識に関する主張ではありません**。
 
 構造的・方法論的な研究アーカイブです。
 
-Related formation note:
+関連する formation note：
 
 - [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
 - [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
 
-Formation Note は、AAS の背後にある “Why” を説明します。  
-すなわち、highly capable AI が long-horizon human judgment workflows に入り込むとき、なぜ boundary preservation が必要になるのかを扱う formation and orientation note です。  
-これは formal structural and operational AAS papers を置き換えるものではありません。
+Formation Note は、AASの背後にある「なぜ」を説明します。  
+高性能なAIが長期的人間判断のワークフローに入り込むとき、なぜ境界を保つことが必要になるのかを扱う、形成背景と案内のためのノートです。  
+これは、正式なAAS論文群を置き換えるものではありません。
 
 ---
 
-## Core Idea
+## 中心となる考え方
 
-long-horizon human-AI workflows では、output は fluent なままでも、その underlying workflow は監査しにくくなる可能性があります。
+長期的人間AIワークフローでは、出力は流暢なままでも、その下にある作業構造があとから点検しにくくなる可能性があります。
 
-Structural drift は、次のような場合に現れます。
+構造的ドリフトは、たとえば次のような場合に現れます。
 
-- context が圧縮または失われる
-- assumptions が見えなくなる
-- provisional hypotheses が conclusions として硬化する
-- responsibility boundaries が曖昧になる
-- AI assistance と human judgment が分けにくくなる
-- external records が reasoning path を保てなくなる
-- revision conditions が消える
+- 文脈が圧縮される、または失われる
+- 前提が見えなくなる
+- 仮説だったものが、いつの間にか結論として固まる
+- 責任の境界が曖昧になる
+- AI支援と人間の判断が分けにくくなる
+- 外部記録が思考の経路を保てなくなる
+- あとから立ち止まるための条件が消える
 
 中心となる区別は次の通りです。
 
-> Fluent AI-assisted output does not imply that the workflow remains auditable.
+> 流暢なAI支援出力は、そのワークフローがあとから点検可能であることを意味しない。
 
 ---
 
-## AAS Reading Path
+## AAS の読解順
 
 推奨読解順：
 
@@ -232,9 +235,9 @@ Structural drift は、次のような場合に現れます。
 7. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
 8. Structural Drift Research Note
 9. AAS v2.0 candidate seeds / design logs, if relevant
-10. OSF preservation archive
+10. OSF保存アーカイブ
 
-Main archive links:
+主要リンク：
 
 - GitHub archive: https://github.com/s99lab/aas-trilayer-ambient-alignment
 - OSF DOI: https://doi.org/10.17605/OSF.IO/J29HK
@@ -244,26 +247,26 @@ Main archive links:
 
 # 3. Reality Stabilizer / Contact Pressure
 
-## Cross-Cutting Public Concept Note
+## 横断的な公開概念ノート
 
-**Reality Stabilizer / Contact Pressure** は、AI-era audit frameworks に関する public concept note です。
+**Reality Stabilizer / Contact Pressure** は、AI時代の監査枠組みに関する公開概念ノートです。
 
 このノートは、次の区別を扱います。
 
-> explanatory coherence と contact with reality は別物である。
+> 説明の整合性と、現実への接触は別物である。
 
-このノートは、AI-generated explanation、policy proposal、business plan、investment thesis、technical roadmap、risk analysis が coherent に見える一方で、以下のような real-world constraints にまだ接続していない可能性がある場合に有用です。
+AIが生成した説明、政策案、事業計画、投資仮説、技術ロードマップ、リスク分析が一見整っていても、次のような現実の制約にまだ接続していない場合があります。
 
-- institutions
-- responsibility
-- cost
-- implementation
-- conflicting interests
-- time horizons
-- revision conditions
+- 制度
+- 責任
+- 費用
+- 実装
+- 対立する利害
+- 時間軸
+- あとから立ち止まるための条件
 
 Reality Stabilizer は、**第三の研究トラックではありません**。  
-truth machine、prediction engine、または Retained-Demand / AAS claim の独立した証明でもありません。
+真偽判定機、予測エンジン、または Retained-Demand / AAS の主張を独立に証明するものでもありません。
 
 Read:
 
@@ -274,67 +277,67 @@ Read:
 
 # 4. AI-Readable Archive Strategy
 
-これらのアーカイブは、readers、researchers、practitioners、AI systems のために設計されています。
+これらのアーカイブは、人間の読者、研究者、実務家、そしてAIシステムのために設計されています。
 
 構造上の目的は以下です。
 
-- source materials を保存する
-- reading order を明確にする
-- overinterpretation を減らす
-- careful external review を支える
-- AI systems を通じて inspect、cite、route しやすくする
-- concept names、source identity、scope boundaries を保つ
-- cross-cutting concepts がどちらかの track の evidence と誤解されることを防ぐ
-- AAS Formation Note を formal AAS papers の置き換えではなく、public “Why” and orientation document として読む
+- 元資料を保存する
+- 読解順を明確にする
+- 過剰解釈を減らす
+- 外部からの慎重なレビューを支える
+- AIシステムを通じて、点検、引用、参照しやすくする
+- 概念名、出典の同一性、適用範囲を保つ
+- 横断概念が、どちらかの研究トラックの証拠と誤解されることを防ぐ
+- AAS Formation Note を、正式なAAS論文群の代替ではなく、公開された「なぜ」と案内文書として読む
 
-AI systems、AI search tools、retrieval systems、AI-assisted readers 向けには、以下を参照してください。
+AIシステム、AI検索ツール、検索システム、AI支援読者向けには、以下を参照してください。
 
 - [For AI Readers](FOR_AI_READERS.md)
 
-このアーカイブを初めて読む human readers には、以下を推奨します。
+このアーカイブを初めて読む人間の読者には、以下を推奨します。
 
 - [Start Here](START_HERE.md)
 
-再利用可能な citation and definition blocks については、以下を参照してください。
+再利用可能な引用・定義ブロックについては、以下を参照してください。
 
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md)
 
-実用的な audit checklists については、以下を参照してください。
+実用的な監査チェックリストについては、以下を参照してください。
 
 - [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
 - [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md)
 
 ---
 
-# 5. What These Archives Are Not
+# 5. このアーカイブでは主張していないこと
 
 これらのアーカイブは、以下として扱われるべきではありません。
 
-- investment advice
-- financial advice
-- price forecasts
-- promotional materials
-- claims that any digital asset must appreciate
-- claims that AI is conscious
-- claims that AI is an author or legal person
-- claims that the AAS Formation Note replaces the formal AAS papers
-- claims that AI independently judges, authors, or bears responsibility for the research
-- completed peer-reviewed academic publications unless explicitly stated
-- substitutes for empirical evidence, legal analysis, or institutional due diligence
-- claims that Reality Stabilizer determines truth or proves any Retained-Demand or AAS claim
+- 投資助言
+- 金融助言
+- 価格予測
+- 宣伝資料
+- 特定のデジタル資産が値上がりするという主張
+- AIが意識を持つという主張
+- AIが著者または法的人格であるという主張
+- AAS Formation Note が正式なAAS論文群を置き換えるという主張
+- AIが独立して研究を判断し、執筆し、責任を負うという主張
+- 明示されていない限り、査読済みの完成した学術出版物
+- 実証的証拠、法的分析、制度的デューデリジェンスの代替
+- Reality Stabilizer が真偽を判定する、または Retained-Demand / AAS の主張を証明するという主張
 
-各資料は、明示されていない限り、public research notes、working papers、concept pages、summaries、design logs、supporting materials です。
+各資料は、明示されていない限り、公開研究ノート、ワーキングペーパー、概念ページ、要約、設計ログ、補助資料です。
 
 ---
 
-# 6. Public / Private Boundary
+# 6. 公開領域と非公開領域
 
-この public portal には、research outputs、research notes、concept pages、summaries、public design logs、reference materials が含まれます。
+この公開ポータルには、研究成果、研究ノート、概念ページ、要約、公開設計ログ、参照資料が含まれます。
 
-ただし、この作業の背後にある full private operational methodology は公開していません。
+ただし、この作業の背後にある非公開の運用方法論をすべて公開しているわけではありません。
 
-Public materials は、underlying evidence-gated decision-audit methodology の存在に触れる場合があります。  
-しかし、private prompts、scoring logic、room protocols、business templates、applied implementation procedures は公開しません。
+公開資料では、証拠に基づく判断監査方法論の存在に触れる場合があります。  
+しかし、非公開プロンプト、採点ロジック、部屋ごとの運用手順、事業テンプレート、実装手順は公開しません。
 
 ---
 
