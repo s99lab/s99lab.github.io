@@ -2,6 +2,9 @@
 
 **AI-readable research archives by S. Meta**
 
+**Language:** English  
+**日本語版 / Japanese version:** [S. Meta Research Archives JA](index_ja.md)
+
 This portal organizes two public research tracks and one cross-cutting public concept note:
 
 1. **Retained-Demand Audit Series**  
