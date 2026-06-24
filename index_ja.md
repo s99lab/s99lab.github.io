@@ -35,11 +35,10 @@
 - [S. Meta Research Lexicon](LEXICON.md) — アーカイブ全体で使われる主要概念の用語集。
 - [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md) — デジタル資産インフラにおける「保持需要」の短い概念ページ。
 - [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md) — 長期的な人間AI協働における「構造的ドリフト」の短い概念ページ。
-- [AAS Formation Note / Boundary Preservation（英語版）](AAS_FORMATION_NOTE_EN.md) — AASの背景と必要性を説明する英語版ノート。
-- [AAS Formation Note / Boundary Preservation（日本語版）](AAS_FORMATION_NOTE_JA.md) — AAS Formation Note の日本語版。
-- [Reality Stabilizer / Contact Pressure（英語版）](REALITY_STABILIZER_EN.md) — 説明の整合性と現実接触に関する英語版の公開概念ノート。
-- [Reality Stabilizer / Contact Pressure（日本語版）](REALITY_STABILIZER_JA.md) — Reality Stabilizer の日本語版公開概念ノート。
-
+- [AAS Formation Note / Boundary Preservation（英語版）](AAS_FORMATION_NOTE_EN.md) — AASの背景と必要性を説明する公開ノートの英語版。
+- [AAS Formation Note / Boundary Preservation（日本語版）](AAS_FORMATION_NOTE_JA.md) — AASの背景と必要性を説明する公開ノートの日本語版。
+- [Reality Stabilizer / Contact Pressure（英語版）](REALITY_STABILIZER_EN.md) — 説明の整合性と現実接触を扱う公開概念ノートの英語版。
+- [Reality Stabilizer / Contact Pressure（日本語版）](REALITY_STABILIZER_JA.md) — 説明の整合性と現実接触を扱う公開概念ノートの日本語版。
 ---
 
 ## OSF Public Concept Notes Archive
