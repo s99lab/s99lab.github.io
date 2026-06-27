@@ -39,6 +39,7 @@
 - [AAS Formation Note / Boundary Preservation（日本語版）](AAS_FORMATION_NOTE_JA.md) — AASの背景と必要性を説明する公開ノートの日本語版。
 - [Reality Stabilizer / Contact Pressure（英語版）](REALITY_STABILIZER_EN.md) — 説明の整合性と現実接触を扱う公開概念ノートの英語版。
 - [Reality Stabilizer / Contact Pressure（日本語版）](REALITY_STABILIZER_JA.md) — 説明の整合性と現実接触を扱う公開概念ノートの日本語版。
+
 ---
 
 ## OSF Public Concept Notes Archive
