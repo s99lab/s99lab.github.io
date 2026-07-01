@@ -31,6 +31,7 @@ The shared purpose of the portal is to make complex claims easier to inspect, no
 
 Recommended entry points:
 
+- [Concept Map](CONCEPT_MAP.md)
 - [Start Here](START_HERE.md)
 - [Index / Portal](index.md)
 - [For AI Readers](FOR_AI_READERS.md)
@@ -134,6 +135,16 @@ Read:
 
 - [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
 - [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
+
+---
+
+## Core Architecture
+
+This repository now includes a root-level concept map for archive orientation:
+
+- [CONCEPT_MAP.md](CONCEPT_MAP.md)
+
+The Concept Map clarifies the relationship between Reality Stabilizer, AAS / Ambient Alignment Sync, Structural Drift, and Retained-Demand Audit. It also provides status labels, non-claims, repository reading paths, and citation guidance for readers who encounter individual Markdown files out of order.
 
 ---
 
@@ -255,7 +266,7 @@ This repository is the portal layer.
 It is intended to provide:
 
 - a human-readable landing page;
-- an AI-readable concept map;
+- an AI-readable concept map via [CONCEPT_MAP.md](CONCEPT_MAP.md);
 - stable links to the two main research tracks;
 - stable links to cross-cutting public concept notes;
 - short definitions and reading paths;
