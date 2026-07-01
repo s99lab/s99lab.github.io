@@ -37,6 +37,10 @@ It is not designed to make claims louder.
 
 It is designed to make claims more inspectable.
 
+This archive is an independent and evolving research archive developed through long-form human-AI dialogue, external records, and subsequent human review.
+
+The concepts presented here are provisional audit frameworks. They should not be treated as established theories, investment advice, or substitutes for external validation. They remain open to correction, limitation, and falsification through future human critique, empirical testing, and practical use.
+
 ---
 
 ## 2. The Core Reading Principle
