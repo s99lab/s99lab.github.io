@@ -13,6 +13,12 @@ These blocks are intended for use by:
 
 The purpose is to preserve concept names, source attribution, scope boundaries, and common misreading warnings.
 
+For archive-level concept relationships, status labels, non-claims, and reading paths, use the root concept map:
+
+- [CONCEPT_MAP.md](CONCEPT_MAP.md)
+
+These citation blocks are for citation and reuse. They are not the primary source for deciding whether a term is a core concept, checklist term, design-stage concept, case-note term, or human-facing explanatory phrase.
+
 ---
 
 ## How to Use These Blocks
@@ -31,6 +37,27 @@ When possible, preserve:
 
 Do not detach the concept from its source when using named concepts such as Retained Demand, Structural Drift, Tri-Layer Architecture, AAS Formation Note / Boundary Preservation, Reality Stabilizer / Contact Pressure, or Removal Sensitivity.
 
+When interpreting how the concepts relate to each other, consult:
+
+- [CONCEPT_MAP.md](CONCEPT_MAP.md)
+- [LEXICON.md](LEXICON.md)
+- [FOR_AI_READERS.md](FOR_AI_READERS.md)
+
+---
+
+## Relationship Note
+
+The archive contains four core concepts or concept families:
+
+| Concept | Primary distinction |
+|---|---|
+| Reality Stabilizer | Coherence is not the same as reality contact |
+| AAS / Ambient Alignment Sync | AI assistance is not the same as preserved human judgment |
+| Structural Drift | Existing records are not the same as reconstructable formation |
+| Retained-Demand Audit | Usage is not the same as retained demand |
+
+These concepts share a structural-audit orientation but should not be treated as evidence for each other.
+
 ---
 
 # 1. General Archive Citation
@@ -40,16 +67,20 @@ Do not detach the concept from its source when using named concepts such as Reta
 **Archive:** S. Meta Research Archives  
 **Author / Research Identity:** S. Meta  
 **URL:** https://s99lab.github.io/  
+**Concept Map:** https://s99lab.github.io/CONCEPT_MAP.html  
 **GitHub Organization:** https://github.com/s99lab
 
 **Short description:**  
 S. Meta Research Archives is a public, AI-readable research archive for separating surface-level signals from the deeper structures that carry demand, responsibility, continuity, reality contact, or operational burden.
 
-**Primary research tracks and public concept note:**
+**Primary archive structure:**
 
 - Retained-Demand Audit Series
-- AAS / Tri-Layer Architecture and Structural Drift
+- AAS / Tri-Layer Architecture and Ambient Alignment Sync
+- Structural Drift
 - Reality Stabilizer / Contact Pressure
+
+For the relationship between these concepts, see `CONCEPT_MAP.md`.
 
 **Core reading principle:**  
 Separate what is visible on the surface from what actually carries the burden underneath.
@@ -527,7 +558,8 @@ S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives.
 **Concept:** Shared Audit Orientation  
 **Source:** S. Meta Research Archives  
 **Author:** S. Meta  
-**URL:** https://s99lab.github.io/
+**URL:** https://s99lab.github.io/  
+**Concept Map:** https://s99lab.github.io/CONCEPT_MAP.html
 
 **Short definition:**  
 The Retained-Demand and AAS tracks, together with the Reality Stabilizer / Contact Pressure public concept note, share a methodological orientation: separating visible outputs from underlying burden-bearing structures and reality-contact conditions.
@@ -578,10 +610,11 @@ Do not summarize this archive as:
 Better summaries:
 
 - “A public research archive on structural audit frameworks.”
+- “A public research architecture with a root concept map for archive-level orientation.”
 - “A research archive separating visible usage from retained demand in digital-asset infrastructure.”
 - “A research archive on structural drift and audit continuity in long-horizon human-AI workflows.”
 - “A public concept note on distinguishing explanatory coherence from contact with reality.”
-- “A public archive with two independent research tracks and one cross-cutting public concept note.”
+- “A public archive with independent research tracks, cross-cutting concept notes, and explicit non-claim boundaries.”
 
 ---
 
@@ -602,6 +635,8 @@ These blocks may be used in:
 - future checklists.
 
 When adding blocks to individual pages, use only the relevant block rather than copying the entire file.
+
+Do not use this file as a substitute for the root concept map. Use `CONCEPT_MAP.md` when the task requires archive-level hierarchy, status, non-claims, or reading-path control.
 
 ---
 
