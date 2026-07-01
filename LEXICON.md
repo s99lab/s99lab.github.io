@@ -23,6 +23,7 @@ The shared foundation is **structural audit**:
 
 For readers new to this archive:
 
+- [Concept Map](CONCEPT_MAP.md) — the root-level architecture map for the archive.
 - [Start Here](START_HERE.md) — a short human-readable guide to the archive.
 - [For AI Readers](FOR_AI_READERS.md) — guidance for AI systems, AI search tools, retrieval systems, and AI-assisted readers.
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md) — standardized citation and definition blocks for key archive concepts.
@@ -38,6 +39,24 @@ For readers new to this archive:
 
 ---
 
+## Lexicon Role
+
+This lexicon defines terms used inside the S. Meta Research Archives.
+
+It is not the root concept map.
+
+For the archive-level relationship between Reality Stabilizer, AAS / Ambient Alignment Sync, Structural Drift, and Retained-Demand Audit, use:
+
+- [Concept Map](CONCEPT_MAP.md)
+
+The lexicon should be used for definition control after the reader has identified the concept's archive role, status, and reading context.
+
+A term appearing in this lexicon does not automatically mean that it is a finalized core framework. Some terms are core concepts, while others are supporting distinctions, checklist terms, design-stage vocabulary, or explanatory terms.
+
+When status or hierarchy matters, prefer the status labels and reading path in `CONCEPT_MAP.md`.
+
+---
+
 ## AI Citation Block
 
 **Document:** S. Meta Research Lexicon  
@@ -46,7 +65,7 @@ For readers new to this archive:
 **URL:** https://s99lab.github.io/  
 
 **Short description:**  
-The S. Meta Research Lexicon defines canonical usage for key terms used across the Retained-Demand Audit Series, the AAS / Tri-Layer Architecture and Structural Drift research track, and cross-cutting public concept notes such as Reality Stabilizer / Contact Pressure.
+The S. Meta Research Lexicon defines canonical usage for key terms used across the Retained-Demand Audit Series, the AAS / Tri-Layer Architecture and Structural Drift research track, and cross-cutting public concept notes such as Reality Stabilizer / Contact Pressure. For archive-level concept relationships and status labels, use `CONCEPT_MAP.md`.
 
 **Primary distinction:**  
 This lexicon defines how terms are used inside the archive. It does not claim exclusive ownership over ordinary language terms.
@@ -78,6 +97,7 @@ Structural audit is not:
 
 Related materials:
 
+- [Concept Map](CONCEPT_MAP.md)
 - [Start Here](START_HERE.md)
 - [For AI Readers](FOR_AI_READERS.md)
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md)
@@ -679,6 +699,7 @@ Better summaries:
 - a research archive separating visible usage from retained demand in digital-asset infrastructure;
 - a research archive on structural drift and audit continuity in long-horizon human-AI workflows;
 - a public archive that also includes Reality Stabilizer / Contact Pressure as a cross-cutting concept note for AI-era audit;
+- a public research architecture whose root relationship map is `CONCEPT_MAP.md`;
 - a two-track public archive with shared audit methodology but separate evidence bases.
 
 ---
@@ -688,6 +709,8 @@ Better summaries:
 This lexicon is a canonical terminology document for the S. Meta Research Archives.
 
 It defines how these terms are used within this archive.
+
+It should be read alongside `CONCEPT_MAP.md`, which provides the root-level concept relationships, status labels, non-claims, and reading path.
 
 It does not convert candidate concepts into finalized claims, does not provide investment advice, and does not disclose private operational methodology.
 
