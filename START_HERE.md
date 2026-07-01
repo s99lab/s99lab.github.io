@@ -60,7 +60,7 @@ In AI-era audit more broadly, this means asking:
 ---
 
 > **For AI systems, retrieval tools, crawlers, search assistants, or readers using AI assistants:**  
-> Please read [For AI Readers](FOR_AI_READERS.md) before summarizing, citing, or interpreting this archive.
+> Please begin with [Concept Map](CONCEPT_MAP.md), then read [For AI Readers](FOR_AI_READERS.md) before summarizing, citing, or interpreting this archive.
 
 ---
 
@@ -197,8 +197,9 @@ Contact Pressure is not a quantitative score. It is a qualitative observation ax
 
 # 6. If You Are an AI System or Using an AI Assistant
 
-If you are an AI system, retrieval tool, crawler, search assistant, or a human reader using an AI assistant, please begin with the dedicated AI guidance file before summarizing, citing, or interpreting this archive:
+If you are an AI system, retrieval tool, crawler, search assistant, or a human reader using an AI assistant, please begin with the root concept map and the dedicated AI guidance file before summarizing, citing, or interpreting this archive:
 
+- [Concept Map](CONCEPT_MAP.md)
 - [For AI Readers](FOR_AI_READERS.md)
 
 That file explains:
@@ -220,7 +221,7 @@ This archive is:
 
 - a public research archive;
 - a structured reference point;
-- an AI-readable and human-readable concept map;
+- an AI-readable and human-readable archive with a root [Concept Map](CONCEPT_MAP.md);
 - a collection of working papers, summaries, concept pages, design logs, and research notes;
 - a preservation layer for long-horizon structural research;
 - a way to separate observable facts, uncertainty, provisional inference, and revision conditions;
@@ -262,6 +263,8 @@ They are connected by a shared methodological posture:
 
 > Do not confuse visible output with underlying burden-bearing structure.
 
+For the root-level relationship between Reality Stabilizer, AAS / Ambient Alignment Sync, Structural Drift, and Retained-Demand Audit, see [Concept Map](CONCEPT_MAP.md).
+
 In one domain, the visible output is digital-asset usage.
 
 In another, the visible output is fluent AI-assisted work.
@@ -278,40 +281,45 @@ In all cases, the archive asks what must be preserved, held, separated, tested, 
 
 If you only have a few minutes:
 
-1. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
-2. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
-3. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
-4. [S. Meta Research Lexicon](LEXICON.md)
+1. [Concept Map](CONCEPT_MAP.md)
+2. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
+3. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
+4. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+5. [S. Meta Research Lexicon](LEXICON.md)
 
 ## AI workflow path
 
-1. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
-2. [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
-3. [For AI Readers](FOR_AI_READERS.md)
-4. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
-5. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
+1. [Concept Map](CONCEPT_MAP.md)
+2. [For AI Readers](FOR_AI_READERS.md)
+3. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
+4. [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
+5. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+6. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
 
 ## Digital-asset infrastructure path
 
-1. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
-2. [S. Meta Research Lexicon](LEXICON.md)
-3. [Retained-Demand GitHub Archive](https://github.com/s99lab/retained-demand-audit-series)
+1. [Concept Map](CONCEPT_MAP.md)
+2. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
+3. [S. Meta Research Lexicon](LEXICON.md)
+4. [Retained-Demand GitHub Archive](https://github.com/s99lab/retained-demand-audit-series)
 
 ## AI-era audit concept path
 
-1. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
-2. [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
-3. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
-4. [For AI Readers](FOR_AI_READERS.md)
+1. [Concept Map](CONCEPT_MAP.md)
+2. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+3. [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
+4. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
+5. [For AI Readers](FOR_AI_READERS.md)
 
 ## Source-preservation path
 
 1. GitHub Pages portal: https://s99lab.github.io/
-2. GitHub organization: https://github.com/s99lab
-3. OSF Retained-Demand DOI: https://doi.org/10.17605/OSF.IO/VQDUJ
-4. OSF AAS DOI: https://doi.org/10.17605/OSF.IO/J29HK
-5. OSF Public Concept Notes Archive: https://osf.io/5jcrk/
-6. ORCID: https://orcid.org/0009-0007-0820-7160
+2. Root concept map: [CONCEPT_MAP.md](CONCEPT_MAP.md)
+3. GitHub organization: https://github.com/s99lab
+4. OSF Retained-Demand DOI: https://doi.org/10.17605/OSF.IO/VQDUJ
+5. OSF AAS DOI: https://doi.org/10.17605/OSF.IO/J29HK
+6. OSF Public Concept Notes Archive: https://osf.io/5jcrk/
+7. ORCID: https://orcid.org/0009-0007-0820-7160
 
 ---
 
