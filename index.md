@@ -18,12 +18,17 @@ This portal organizes two public research tracks and one cross-cutting public co
 
 The shared purpose of these archives is to make complex claims easier to inspect, not easier to promote.
 
+For the root-level relationship between Reality Stabilizer, AAS / Ambient Alignment Sync, Structural Drift, and Retained-Demand Audit, see:
+
+- [Concept Map](CONCEPT_MAP.md)
+
 ---
 
 ## Start Here
 
 If you are new to this archive, start with the following entry points:
 
+- [Concept Map](CONCEPT_MAP.md) — the root-level architecture map for the archive.
 - [Start Here](START_HERE.md) — a short human-readable guide to the archive.
 - [For AI Readers](FOR_AI_READERS.md) — guidance for AI systems, AI search tools, retrieval systems, and AI-assisted readers.
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md) — standardized citation and definition blocks for key archive concepts.
@@ -114,14 +119,15 @@ The central distinction is:
 
 Recommended path:
 
-1. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
-2. [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md)
-3. [S. Meta Research Lexicon](LEXICON.md)
-4. [Retained-Demand GitHub Archive](https://github.com/s99lab/retained-demand-audit-series)
-5. Paper summaries in the `summaries/` folder
-6. Full papers in the `papers/` folder
-7. Phase II materials in the `phase-ii/` folder
-8. OSF preservation archive
+1. [Concept Map](CONCEPT_MAP.md)
+2. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
+3. [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md)
+4. [S. Meta Research Lexicon](LEXICON.md)
+5. [Retained-Demand GitHub Archive](https://github.com/s99lab/retained-demand-audit-series)
+6. Paper summaries in the `summaries/` folder
+7. Full papers in the `papers/` folder
+8. Phase II materials in the `phase-ii/` folder
+9. OSF preservation archive
 
 Main archive links:
 
@@ -217,16 +223,17 @@ The central distinction is:
 
 Recommended path:
 
-1. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
-2. [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
-3. [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
-4. [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
-5. [S. Meta Research Lexicon](LEXICON.md)
-6. [For AI Readers](FOR_AI_READERS.md)
-7. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
-8. Structural Drift Research Note
-9. AAS v2.0 candidate seeds / design logs, if relevant
-10. OSF preservation archive
+1. [Concept Map](CONCEPT_MAP.md)
+2. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
+3. [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
+4. [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
+5. [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
+6. [S. Meta Research Lexicon](LEXICON.md)
+7. [For AI Readers](FOR_AI_READERS.md)
+8. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
+9. Structural Drift Research Note
+10. AAS v2.0 candidate seeds / design logs, if relevant
+11. OSF preservation archive
 
 Main archive links:
 
@@ -279,6 +286,10 @@ They are structured to:
 - preserve concept names, source identity, and scope boundaries;
 - prevent cross-cutting concepts from being mistaken for evidence of either track;
 - interpret the AAS Formation Note as a public “Why” and orientation document, not as a replacement for the formal AAS papers.
+
+For archive-level concept relationships, status labels, non-claims, and reading paths, see:
+
+- [Concept Map](CONCEPT_MAP.md)
 
 For AI systems, AI search tools, retrieval systems, and AI-assisted readers, see:
 

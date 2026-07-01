@@ -21,12 +21,17 @@
 これらのアーカイブに共通する目的は、複雑な主張を大きく見せることではありません。  
 むしろ、複雑な主張をあとから点検しやすくすることです。
 
+Reality Stabilizer、AAS / Ambient Alignment Sync、Structural Drift、Retained-Demand Audit の関係を確認する場合は、以下を参照してください。
+
+- [Concept Map（英語版）](CONCEPT_MAP.md)
+
 ---
 
 ## はじめに読むもの
 
 このアーカイブを初めて読む場合は、以下のページから入ることを推奨します。
 
+- [Concept Map（英語版）](CONCEPT_MAP.md) — アーカイブ全体の概念関係を示すルート地図。
 - [Start Here](START_HERE.md) — アーカイブ全体の短い案内。
 - [For AI Readers](FOR_AI_READERS.md) — AIシステム、検索AI、検索補助ツール、AI支援読者向けの読解ガイド。
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md) — 主要概念の引用・定義ブロック。
@@ -122,14 +127,15 @@ AI時代の監査一般では、これは「説明の整合性」と「現実へ
 
 推奨する読解順は以下の通りです。
 
-1. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
-2. [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md)
-3. [S. Meta Research Lexicon](LEXICON.md)
-4. [Retained-Demand GitHub Archive](https://github.com/s99lab/retained-demand-audit-series)
-5. `summaries/` フォルダの論文要約
-6. `papers/` フォルダの全文
-7. `phase-ii/` フォルダの Phase II 資料
-8. OSF保存アーカイブ
+1. [Concept Map（英語版）](CONCEPT_MAP.md)
+2. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
+3. [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md)
+4. [S. Meta Research Lexicon](LEXICON.md)
+5. [Retained-Demand GitHub Archive](https://github.com/s99lab/retained-demand-audit-series)
+6. `summaries/` フォルダの論文要約
+7. `papers/` フォルダの全文
+8. `phase-ii/` フォルダの Phase II 資料
+9. OSF保存アーカイブ
 
 主要リンク：
 
@@ -227,16 +233,17 @@ Formation Note は、AASの背後にある「なぜ」を説明します。
 
 推奨する読解順は以下の通りです。
 
-1. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
-2. [AAS Formation Note / Boundary Preservation（英語版）](AAS_FORMATION_NOTE_EN.md)
-3. [AAS Formation Note / Boundary Preservation（日本語版）](AAS_FORMATION_NOTE_JA.md)
-4. [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
-5. [S. Meta Research Lexicon](LEXICON.md)
-6. [For AI Readers](FOR_AI_READERS.md)
-7. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
-8. Structural Drift Research Note
-9. AAS v2.0 candidate seeds / design logs, if relevant
-10. OSF保存アーカイブ
+1. [Concept Map（英語版）](CONCEPT_MAP.md)
+2. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
+3. [AAS Formation Note / Boundary Preservation（英語版）](AAS_FORMATION_NOTE_EN.md)
+4. [AAS Formation Note / Boundary Preservation（日本語版）](AAS_FORMATION_NOTE_JA.md)
+5. [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
+6. [S. Meta Research Lexicon](LEXICON.md)
+7. [For AI Readers](FOR_AI_READERS.md)
+8. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
+9. Structural Drift Research Note
+10. AAS v2.0 candidate seeds / design logs, if relevant
+11. OSF保存アーカイブ
 
 主要リンク：
 
@@ -291,6 +298,10 @@ Reality Stabilizer は、**第三の研究トラックではありません**。
 - 概念名、出典の同一性、適用範囲を保つ
 - 横断概念が、どちらかの研究トラックの証拠と誤解されることを防ぐ
 - AAS Formation Note を、正式なAAS論文群の代替ではなく、公開された「なぜ」と案内文書として読む
+
+アーカイブ全体の概念関係、ステータス、非主張、読解順については、以下を参照してください。
+
+- [Concept Map（英語版）](CONCEPT_MAP.md)
 
 AIシステム、AI検索ツール、検索システム、AI支援読者向けには、以下を参照してください。
 
