@@ -2,7 +2,7 @@
 ## AI時代の監査フレームワークにおける Reality Stabilizer
 
 **Language:** Japanese  
-**English version / 英語版:** [Reality Stabilizer EN](REALITY_STABILIZER_EN.md)
+**English version / 英語版:** [Reality Stabilizer EN](REALITY_STABILIZER_EN.html)
 
 **S. Meta**  
 **Public Concept Note / Method Note Draft v0.5**
@@ -11,12 +11,12 @@
 **Jxiv公開日:** 2026-07-06  
 **Jxiv投稿日:** 2026-05-24
 
-**ステータス**：Public Concept Note / Method Note Draft  
-**注記**：本稿は査読論文ではなく、AI時代の監査フレームワークにおける補助概念を整理するための公開ノートである。  
-**著者注記**：S. Meta は、S. Meta Research Archives における公開用著者名である。本稿は独立した公開研究ノートとして作成された。
+**ステータス:** Public Concept Note / Method Note Draft / Jxiv preprint  
+**注記:** 本稿は査読済み論文ではなく、AI時代の監査フレームワークにおける補助概念を整理するための公開ノートである。  
+**著者注記:** S. Meta は、S. Meta Research Archives における公開用著者名である。本稿は独立した公開研究ノートとして作成された。
 
 **推奨引用:**  
-S. Meta. (2026). *Reality Stabilizer：生成AI出力における説明整合性と現実接触の乖離を点検する補助枠*. Jxiv. https://doi.org/10.51094/jxiv.4696
+S. Meta. (2026). *Reality Stabilizer：生成AI出力における説明整合性と現実接触の乖離を点検する補助枠*. Jxiv. [https://doi.org/10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)
 
 ---
 
@@ -265,7 +265,7 @@ AI時代の監査フレームワークには、その区別を維持するため
 
 ## References / Related Concepts
 
-本稿は査読論文ではないため、以下は網羅的な文献レビューではなく、本稿の問題意識を位置づけるための関連概念・参照領域である。
+本稿は査読済み論文ではないため、以下は網羅的な文献レビューではなく、本稿の問題意識を位置づけるための関連概念・参照領域である。
 
 - Weick, K. E. (1995). *Sensemaking in Organizations*. Thousand Oaks, CA: Sage.
 - Cronbach, L. J., & Meehl, P. E. (1955). “Construct Validity in Psychological Tests.” *Psychological Bulletin*, 52(4), 281–302. https://doi.org/10.1037/h0040957
