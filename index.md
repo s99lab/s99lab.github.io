@@ -249,6 +249,10 @@ Main archive links:
 
 **Reality Stabilizer / Contact Pressure** is a public concept note on AI-era audit frameworks.
 
+Jxiv DOI:
+
+https://doi.org/10.51094/jxiv.4696
+
 It asks how to distinguish:
 
 > explanatory coherence from contact with reality.
@@ -358,4 +362,4 @@ Public materials may describe the existence of an underlying evidence-gated deci
 - S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Archives.
 - S. Meta, “Retained Demand,” S. Meta Research Archives.
 - S. Meta, “Structural Drift,” S. Meta Research Archives.
-- S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives.
+- S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives. Jxiv DOI: https://doi.org/10.51094/jxiv.4696
