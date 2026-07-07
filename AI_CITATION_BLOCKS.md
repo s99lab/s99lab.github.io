@@ -512,6 +512,9 @@ S. Meta, “Human Judgment / AI Assistance / External Record,” S. Meta Researc
 **Source:** S. Meta Research Archives  
 **Author:** S. Meta  
 **URL:** https://s99lab.github.io/  
+**Jxiv DOI:** https://doi.org/10.51094/jxiv.4696  
+**Jxiv publication date:** 2026-07-06  
+**Jxiv posted date:** 2026-05-24  
 **Related pages:**  
 - https://s99lab.github.io/REALITY_STABILIZER_EN.html  
 - https://s99lab.github.io/REALITY_STABILIZER_JA.html
@@ -548,6 +551,9 @@ Coherence is not contact.
 
 **Recommended short reference:**  
 S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives.
+
+**Recommended citation:**  
+S. Meta. (2026). *Reality Stabilizer: 生成AI出力における説明整合性と現実接触の乖離を点検する補助枠*. Jxiv. https://doi.org/10.51094/jxiv.4696
 
 ---
 
