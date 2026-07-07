@@ -129,6 +129,10 @@ The Formation Note explains the “Why” behind AAS: why boundary preservation 
 
 **Reality Stabilizer / Contact Pressure** is a public concept note on distinguishing explanatory coherence from contact with reality in AI-era audit frameworks.
 
+Jxiv DOI:
+
+https://doi.org/10.51094/jxiv.4696
+
 It is not a third research track, a truth machine, a prediction engine, or an independent proof of any Retained-Demand or AAS claim.
 
 Read:
@@ -294,4 +298,4 @@ The deeper research materials are hosted in the separate track repositories and 
 - S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Archives.
 - S. Meta, “Retained Demand,” S. Meta Research Archives.
 - S. Meta, “Structural Drift,” S. Meta Research Archives.
-- S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives.
+- S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives. Jxiv DOI: https://doi.org/10.51094/jxiv.4696
