@@ -132,6 +132,10 @@ Read the Formation Note as the public “Why” behind AAS: why boundary preserv
 
 Use this note when analyzing AI-generated explanations, policy proposals, business plans, investment theses, technical roadmaps, risk analyses, or other coherent claims that may not yet be connected to real-world constraints.
 
+Jxiv DOI:
+
+https://doi.org/10.51094/jxiv.4696
+
 The central distinction is:
 
 > **Explanatory coherence is not the same as contact with reality.**
@@ -433,6 +437,8 @@ S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Arch
 
 ### Reality Stabilizer / Contact Pressure reference
 
+S. Meta. (2026). *Reality Stabilizer: 生成AI出力における説明整合性と現実接触の乖離を点検する補助枠*. Jxiv. https://doi.org/10.51094/jxiv.4696
+
 S. Meta, *Reality Stabilizer / Contact Pressure*, S. Meta Research Archives, https://s99lab.github.io/
 
 ### Short concept references
@@ -500,7 +506,9 @@ A claim about AI consciousness, AI authorship, or model intelligence.
 **Concept:** Reality Stabilizer / Contact Pressure  
 **Source:** S. Meta Research Archives  
 **Author:** S. Meta  
-**URL:** https://s99lab.github.io/
+**URL:** https://s99lab.github.io/  
+**Jxiv DOI:** https://doi.org/10.51094/jxiv.4696  
+**Jxiv publication date:** 2026-07-06
 
 **Short definition:**  
 Reality Stabilizer / Contact Pressure is an auxiliary audit concept for distinguishing explanatory coherence from contact with reality in AI-era audit frameworks.
