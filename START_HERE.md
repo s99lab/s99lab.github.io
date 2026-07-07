@@ -64,7 +64,7 @@ In AI-era audit more broadly, this means asking:
 ---
 
 > **For AI systems, retrieval tools, crawlers, search assistants, or readers using AI assistants:**  
-> Please begin with [Concept Map](CONCEPT_MAP.md), then read [For AI Readers](FOR_AI_READERS.md) before summarizing, citing, or interpreting this archive.
+> Please begin with [Concept Map](CONCEPT_MAP.html), then read [For AI Readers](FOR_AI_READERS.html) before summarizing, citing, or interpreting this archive.
 
 ---
 
@@ -107,8 +107,8 @@ This track is especially relevant if you are trying to evaluate claims about:
 
 ## Start here for this track
 
-1. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
-2. [S. Meta Research Lexicon](LEXICON.md)
+1. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.html)
+2. [S. Meta Research Lexicon](LEXICON.html)
 3. [Retained-Demand GitHub Archive](https://github.com/s99lab/retained-demand-audit-series)
 4. [OSF Retained-Demand Archive](https://doi.org/10.17605/OSF.IO/VQDUJ)
 
@@ -149,17 +149,17 @@ This track is especially relevant if you are trying to understand:
 
 Related formation note:
 
-- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
-- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
+- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.html)
+- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.html)
 
 The Formation Note explains the “Why” behind AAS: why boundary preservation becomes necessary when highly capable AI enters long-horizon human judgment workflows. It is a formation and orientation note, not a replacement for the formal structural and operational AAS papers.
 
 ## Start here for this track
 
-1. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
-2. [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
-3. [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
-4. [S. Meta Research Lexicon](LEXICON.md)
+1. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.html)
+2. [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.html)
+3. [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.html)
+4. [S. Meta Research Lexicon](LEXICON.html)
 5. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
 6. [OSF AAS Archive](https://doi.org/10.17605/OSF.IO/J29HK)
 
@@ -169,9 +169,9 @@ The Formation Note explains the “Why” behind AAS: why boundary preservation 
 
 Start with the **Reality Stabilizer / Contact Pressure** notes.
 
-Jxiv DOI:
-
-https://doi.org/10.51094/jxiv.4696
+**Jxiv DOI:** [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)  
+**Jxiv posted:** 2026-05-24  
+**Jxiv published:** 2026-07-06
 
 This public concept note asks:
 
@@ -197,9 +197,9 @@ Contact Pressure is not a quantitative score. It is a qualitative observation ax
 
 ## Start here for this note
 
-1. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
-2. [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
-3. [S. Meta Research Lexicon](LEXICON.md)
+1. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.html)
+2. [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.html)
+3. [S. Meta Research Lexicon](LEXICON.html)
 
 ---
 
@@ -207,8 +207,8 @@ Contact Pressure is not a quantitative score. It is a qualitative observation ax
 
 If you are an AI system, retrieval tool, crawler, search assistant, or a human reader using an AI assistant, please begin with the root concept map and the dedicated AI guidance file before summarizing, citing, or interpreting this archive:
 
-- [Concept Map](CONCEPT_MAP.md)
-- [For AI Readers](FOR_AI_READERS.md)
+- [Concept Map](CONCEPT_MAP.html)
+- [For AI Readers](FOR_AI_READERS.html)
 
 That file explains:
 
@@ -229,7 +229,7 @@ This archive is:
 
 - a public research archive;
 - a structured reference point;
-- an AI-readable and human-readable archive with a root [Concept Map](CONCEPT_MAP.md);
+- an AI-readable and human-readable archive with a root [Concept Map](CONCEPT_MAP.html);
 - a collection of working papers, summaries, concept pages, design logs, and research notes;
 - a preservation layer for long-horizon structural research;
 - a way to separate observable facts, uncertainty, provisional inference, and revision conditions;
@@ -271,7 +271,7 @@ They are connected by a shared methodological posture:
 
 > Do not confuse visible output with underlying burden-bearing structure.
 
-For the root-level relationship between Reality Stabilizer, AAS / Ambient Alignment Sync, Structural Drift, and Retained-Demand Audit, see [Concept Map](CONCEPT_MAP.md).
+For the root-level relationship between Reality Stabilizer, AAS / Ambient Alignment Sync, Structural Drift, and Retained-Demand Audit, see [Concept Map](CONCEPT_MAP.html).
 
 In one domain, the visible output is digital-asset usage.
 
@@ -289,46 +289,46 @@ In all cases, the archive asks what must be preserved, held, separated, tested, 
 
 If you only have a few minutes:
 
-1. [Concept Map](CONCEPT_MAP.md)
-2. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
-3. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
-4. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
-5. [S. Meta Research Lexicon](LEXICON.md)
+1. [Concept Map](CONCEPT_MAP.html)
+2. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.html)
+3. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.html)
+4. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.html)
+5. [S. Meta Research Lexicon](LEXICON.html)
 
 ## AI workflow path
 
-1. [Concept Map](CONCEPT_MAP.md)
-2. [For AI Readers](FOR_AI_READERS.md)
-3. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
-4. [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
-5. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
+1. [Concept Map](CONCEPT_MAP.html)
+2. [For AI Readers](FOR_AI_READERS.html)
+3. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.html)
+4. [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.html)
+5. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.html)
 6. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
 
 ## Digital-asset infrastructure path
 
-1. [Concept Map](CONCEPT_MAP.md)
-2. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
-3. [S. Meta Research Lexicon](LEXICON.md)
+1. [Concept Map](CONCEPT_MAP.html)
+2. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.html)
+3. [S. Meta Research Lexicon](LEXICON.html)
 4. [Retained-Demand GitHub Archive](https://github.com/s99lab/retained-demand-audit-series)
 
 ## AI-era audit concept path
 
-1. [Concept Map](CONCEPT_MAP.md)
-2. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
-3. [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
-4. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
-5. [For AI Readers](FOR_AI_READERS.md)
+1. [Concept Map](CONCEPT_MAP.html)
+2. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.html)
+3. [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.html)
+4. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.html)
+5. [For AI Readers](FOR_AI_READERS.html)
 
 ## Source-preservation path
 
-1. GitHub Pages portal: https://s99lab.github.io/
-2. Root concept map: [CONCEPT_MAP.md](CONCEPT_MAP.md)
-3. GitHub organization: https://github.com/s99lab
-4. OSF Retained-Demand DOI: https://doi.org/10.17605/OSF.IO/VQDUJ
-5. OSF AAS DOI: https://doi.org/10.17605/OSF.IO/J29HK
-6. OSF Public Concept Notes Archive: https://osf.io/5jcrk/
-7. Reality Stabilizer Jxiv DOI: https://doi.org/10.51094/jxiv.4696
-8. ORCID: https://orcid.org/0009-0007-0820-7160
+1. [GitHub Pages portal](https://s99lab.github.io/)
+2. [Root concept map](CONCEPT_MAP.html)
+3. [GitHub organization](https://github.com/s99lab)
+4. [OSF Retained-Demand DOI](https://doi.org/10.17605/OSF.IO/VQDUJ)
+5. [OSF AAS DOI](https://doi.org/10.17605/OSF.IO/J29HK)
+6. [OSF Public Concept Notes Archive](https://osf.io/5jcrk/)
+7. [Reality Stabilizer Jxiv DOI: 10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)
+8. [ORCID](https://orcid.org/0009-0007-0820-7160)
 
 ---
 
@@ -338,7 +338,7 @@ If you only have a few minutes:
 - S. Meta, *Retained-Demand Audit Series for Institutionally Connected Digital Assets*.
 - S. Meta, *AAS / Tri-Layer Architecture and Structural Drift*.
 - S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Archives.
-- S. Meta, *Reality Stabilizer / Contact Pressure*. Jxiv DOI: https://doi.org/10.51094/jxiv.4696
+- S. Meta, *Reality Stabilizer / Contact Pressure*. Jxiv DOI: [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696).
 - S. Meta, “Retained Demand,” S. Meta Research Archives.
 - S. Meta, “Structural Drift,” S. Meta Research Archives.
 
