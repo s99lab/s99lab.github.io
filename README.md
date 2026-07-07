@@ -4,9 +4,7 @@
 
 This repository hosts the public GitHub Pages portal for **S. Meta Research Archives**.
 
-Portal:
-
-https://s99lab.github.io/
+**Portal:** [https://s99lab.github.io/](https://s99lab.github.io/)
 
 ---
 
@@ -34,6 +32,7 @@ Recommended entry points:
 - [Concept Map](CONCEPT_MAP.md)
 - [Start Here](START_HERE.md)
 - [Index / Portal](index.md)
+- [Japanese Index / 日本語版](index_ja.md)
 - [For AI Readers](FOR_AI_READERS.md)
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md)
 - [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
@@ -48,12 +47,9 @@ Recommended entry points:
 
 ---
 
-
 ## OSF Public Concept Notes Archive
 
-Public concept notes and orientation notes associated with this portal are also preserved in the OSF Public Concept Notes component:
-
-https://osf.io/5jcrk/
+Public concept notes and orientation notes associated with this portal are also preserved in the [OSF Public Concept Notes component](https://osf.io/5jcrk/).
 
 This OSF component currently includes materials such as Reality Stabilizer / Contact Pressure and AAS Formation Note / Boundary Preservation. GitHub remains the primary AI-readable portal and routing layer; OSF functions as a preservation, timestamping, and supplementary archive layer.
 
@@ -78,17 +74,9 @@ It focuses on distinctions such as:
 
 XRP is used as a stress-test case, not as a price thesis.
 
-Main archive:
-
-https://github.com/s99lab/retained-demand-audit-series
-
-OSF DOI:
-
-https://doi.org/10.17605/OSF.IO/VQDUJ
-
-Phase II Materials DOI:
-
-https://doi.org/10.17605/OSF.IO/7R8AT
+**Main archive:** [s99lab/retained-demand-audit-series](https://github.com/s99lab/retained-demand-audit-series)  
+**OSF DOI:** [10.17605/OSF.IO/VQDUJ](https://doi.org/10.17605/OSF.IO/VQDUJ)  
+**Phase II Materials DOI:** [10.17605/OSF.IO/7R8AT](https://doi.org/10.17605/OSF.IO/7R8AT)
 
 ---
 
@@ -108,13 +96,8 @@ It focuses on:
 
 It is not an AI-consciousness claim.
 
-Main archive:
-
-https://github.com/s99lab/aas-trilayer-ambient-alignment
-
-OSF DOI:
-
-https://doi.org/10.17605/OSF.IO/J29HK
+**Main archive:** [s99lab/aas-trilayer-ambient-alignment](https://github.com/s99lab/aas-trilayer-ambient-alignment)  
+**OSF DOI:** [10.17605/OSF.IO/J29HK](https://doi.org/10.17605/OSF.IO/J29HK)
 
 Related formation note:
 
@@ -129,9 +112,9 @@ The Formation Note explains the “Why” behind AAS: why boundary preservation 
 
 **Reality Stabilizer / Contact Pressure** is a public concept note on distinguishing explanatory coherence from contact with reality in AI-era audit frameworks.
 
-Jxiv DOI:
-
-https://doi.org/10.51094/jxiv.4696
+**Jxiv DOI:** [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)  
+**Jxiv posted:** 2026-05-24  
+**Jxiv published:** 2026-07-06
 
 It is not a third research track, a truth machine, a prediction engine, or an independent proof of any Retained-Demand or AAS claim.
 
@@ -144,7 +127,7 @@ Read:
 
 ## Core Architecture
 
-This repository now includes a root-level concept map for archive orientation:
+This repository includes a root-level concept map for archive orientation:
 
 - [CONCEPT_MAP.md](CONCEPT_MAP.md)
 
@@ -205,6 +188,8 @@ This repository includes practical audit checklists:
 - [RETAINED_DEMAND_EVIDENCE_CHECKLIST.md](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md)
 
 These checklists translate the archive’s core concepts into practical audit questions for long-horizon human-AI workflows and institutionally connected digital assets.
+
+---
 
 ## Key Concept Pages
 
@@ -284,9 +269,9 @@ The deeper research materials are hosted in the separate track repositories and 
 ## Author and Source Identity
 
 **Author / Research Identity:** S. Meta  
-**Public Portal:** https://s99lab.github.io/  
-**GitHub Organization:** https://github.com/s99lab  
-**ORCID:** https://orcid.org/0009-0007-0820-7160
+**Public Portal:** [https://s99lab.github.io/](https://s99lab.github.io/)  
+**GitHub Organization:** [https://github.com/s99lab](https://github.com/s99lab)  
+**ORCID:** [0009-0007-0820-7160](https://orcid.org/0009-0007-0820-7160)
 
 ---
 
@@ -298,4 +283,4 @@ The deeper research materials are hosted in the separate track repositories and 
 - S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Archives.
 - S. Meta, “Retained Demand,” S. Meta Research Archives.
 - S. Meta, “Structural Drift,” S. Meta Research Archives.
-- S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives. Jxiv DOI: https://doi.org/10.51094/jxiv.4696
+- S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives. Jxiv DOI: [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696).
