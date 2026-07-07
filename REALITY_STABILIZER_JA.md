@@ -7,9 +7,16 @@
 **S. Meta**  
 **Public Concept Note / Method Note Draft v0.5**
 
+**Jxiv DOI:** [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)  
+**Jxiv公開日:** 2026-07-06  
+**Jxiv投稿日:** 2026-05-24
+
 **ステータス**：Public Concept Note / Method Note Draft  
 **注記**：本稿は査読論文ではなく、AI時代の監査フレームワークにおける補助概念を整理するための公開ノートである。  
 **著者注記**：S. Meta は、S. Meta Research Archives における公開用著者名である。本稿は独立した公開研究ノートとして作成された。
+
+**推奨引用:**  
+S. Meta. (2026). *Reality Stabilizer：生成AI出力における説明整合性と現実接触の乖離を点検する補助枠*. Jxiv. https://doi.org/10.51094/jxiv.4696
 
 ---
 
