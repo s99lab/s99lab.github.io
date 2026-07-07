@@ -7,9 +7,16 @@
 **S. Meta**  
 **Public Concept Note / Method Note Draft v0.5**
 
+**Jxiv DOI:** [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)  
+**Jxiv publication date:** 2026-07-06  
+**Jxiv posted date:** 2026-05-24
+
 **Status**: Public Concept Note / Method Note Draft  
 **Note**: This is not a peer-reviewed article. It is a public concept note for articulating an auxiliary audit concept for AI-era audit frameworks.  
 **Author Note**: S. Meta is the public author name used for the S. Meta Research Archives. This note is written as an independent public research note.
+
+**Recommended citation:**  
+S. Meta. (2026). *Reality Stabilizer: 生成AI出力における説明整合性と現実接触の乖離を点検する補助枠*. Jxiv. https://doi.org/10.51094/jxiv.4696
 
 ---
 
