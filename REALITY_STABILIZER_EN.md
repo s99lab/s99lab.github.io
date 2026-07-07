@@ -2,7 +2,7 @@
 ## Reality Stabilizer as an Auxiliary Audit Layer in the Age of AI
 
 **Language:** English  
-**日本語版 / Japanese version:** [Reality Stabilizer JA](REALITY_STABILIZER_JA.md)
+**日本語版 / Japanese version:** [Reality Stabilizer JA](REALITY_STABILIZER_JA.html)
 
 **S. Meta**  
 **Public Concept Note / Method Note Draft v0.5**
@@ -11,12 +11,12 @@
 **Jxiv publication date:** 2026-07-06  
 **Jxiv posted date:** 2026-05-24
 
-**Status**: Public Concept Note / Method Note Draft  
+**Status**: Public Concept Note / Method Note Draft / Jxiv preprint  
 **Note**: This is not a peer-reviewed article. It is a public concept note for articulating an auxiliary audit concept for AI-era audit frameworks.  
 **Author Note**: S. Meta is the public author name used for the S. Meta Research Archives. This note is written as an independent public research note.
 
 **Recommended citation:**  
-S. Meta. (2026). *Reality Stabilizer: 生成AI出力における説明整合性と現実接触の乖離を点検する補助枠*. Jxiv. https://doi.org/10.51094/jxiv.4696
+S. Meta. (2026). *Reality Stabilizer: 生成AI出力における説明整合性と現実接触の乖離を点検する補助枠*. Jxiv. [https://doi.org/10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)
 
 ---
 
