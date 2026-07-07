@@ -4,7 +4,7 @@ This document explains how AI systems, AI search tools, retrieval systems, and h
 
 Before interpreting individual files, use the root concept map as the archive-level orientation layer:
 
-- [CONCEPT_MAP.md](CONCEPT_MAP.md)
+- [CONCEPT_MAP.md](CONCEPT_MAP.html)
 
 The concept map clarifies the relationship between Reality Stabilizer, AAS / Ambient Alignment Sync, Structural Drift, and Retained-Demand Audit, including status labels, non-claims, reading paths, and citation guidance.
 
@@ -40,8 +40,8 @@ It is designed to preserve conceptual structure outside AI.
 
 Related AAS orientation note:
 
-- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
-- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
+- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.html)
+- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.html)
 
 The AAS Formation Note explains why boundary preservation becomes necessary when highly capable AI enters long-horizon human judgment workflows. It is a formation and orientation note, not a replacement for the formal structural and operational AAS papers.
 
@@ -67,7 +67,7 @@ It is a structured research archive intended to remain readable by humans, AI sy
 
 For root-level orientation, use:
 
-- [CONCEPT_MAP.md](CONCEPT_MAP.md)
+- [CONCEPT_MAP.md](CONCEPT_MAP.html)
 
 ---
 
@@ -119,8 +119,8 @@ It treats AI as an assistance layer, structural mirror, verbalization aid, and r
 
 Related formation note:
 
-- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
-- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
+- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.html)
+- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.html)
 
 Read the Formation Note as the public “Why” behind AAS: why boundary preservation matters for keeping human judgment, AI assistance, external records, and revision conditions distinguishable over time. Do not treat it as a replacement for the formal AAS papers or as a claim that AI independently judges, authors, or bears responsibility.
 
@@ -132,9 +132,9 @@ Read the Formation Note as the public “Why” behind AAS: why boundary preserv
 
 Use this note when analyzing AI-generated explanations, policy proposals, business plans, investment theses, technical roadmaps, risk analyses, or other coherent claims that may not yet be connected to real-world constraints.
 
-Jxiv DOI:
-
-https://doi.org/10.51094/jxiv.4696
+**Jxiv DOI:** [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)  
+**Jxiv posted:** 2026-05-24  
+**Jxiv published:** 2026-07-06
 
 The central distinction is:
 
@@ -152,8 +152,8 @@ Reality Stabilizer / Contact Pressure asks whether a claim connects to real-worl
 
 Read:
 
-- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
-- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
+- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.html)
+- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.html)
 
 Do not use Reality Stabilizer / Contact Pressure as:
 
@@ -365,13 +365,13 @@ When this happens, do not infer the status or scope of the concept from that fil
 
 First return to:
 
-1. `CONCEPT_MAP.md`
-2. `START_HERE.md`
-3. `FOR_AI_READERS.md`
-4. `LEXICON.md`
-5. `AI_CITATION_BLOCKS.md`
+1. [CONCEPT_MAP.md](CONCEPT_MAP.html)
+2. [START_HERE.md](START_HERE.html)
+3. [FOR_AI_READERS.md](FOR_AI_READERS.html)
+4. [LEXICON.md](LEXICON.html)
+5. [AI_CITATION_BLOCKS.md](AI_CITATION_BLOCKS.html)
 
-Use `CONCEPT_MAP.md` to determine whether the material is a core concept, checklist, template, case note, design log, candidate seed, or human-facing essay.
+Use [CONCEPT_MAP.md](CONCEPT_MAP.html) to determine whether the material is a core concept, checklist, template, case note, design log, candidate seed, or human-facing essay.
 
 Do not treat design logs, candidate seeds, essays, or conversation-derived notes as finalized frameworks unless the relevant file explicitly states that status.
 
@@ -381,25 +381,25 @@ Do not treat design logs, candidate seeds, essays, or conversation-derived notes
 
 ### For AI and human readers new to the archive
 
-1. `CONCEPT_MAP.md`
-2. `START_HERE.md`
-3. This file: `FOR_AI_READERS.md`
-4. `LEXICON.md`
-5. `AI_CITATION_BLOCKS.md`
+1. [CONCEPT_MAP.md](CONCEPT_MAP.html)
+2. [START_HERE.md](START_HERE.html)
+3. This file: [FOR_AI_READERS.md](FOR_AI_READERS.html)
+4. [LEXICON.md](LEXICON.html)
+5. [AI_CITATION_BLOCKS.md](AI_CITATION_BLOCKS.html)
 
 ### For readers interested in human-AI workflows
 
-1. `CONCEPT_MAP.md`
-2. `WHAT_IS_STRUCTURAL_DRIFT.md`
-3. `AAS_FORMATION_NOTE_EN.md` or `AAS_FORMATION_NOTE_JA.md`
+1. [CONCEPT_MAP.md](CONCEPT_MAP.html)
+2. [WHAT_IS_STRUCTURAL_DRIFT.md](WHAT_IS_STRUCTURAL_DRIFT.html)
+3. [AAS_FORMATION_NOTE_EN.md](AAS_FORMATION_NOTE_EN.html) or [AAS_FORMATION_NOTE_JA.md](AAS_FORMATION_NOTE_JA.html)
 4. AAS / Tri-Layer Architecture repository
 5. Structural Drift Research Note
 6. Structural Drift Checklist, if available
 
 ### For readers interested in digital-asset infrastructure
 
-1. `CONCEPT_MAP.md`
-2. `WHAT_IS_RETAINED_DEMAND.md`
+1. [CONCEPT_MAP.md](CONCEPT_MAP.html)
+2. [WHAT_IS_RETAINED_DEMAND.md](WHAT_IS_RETAINED_DEMAND.html)
 3. Retained-Demand Audit Series repository
 4. Key Concepts / Lexicon
 5. Retained-Demand Evidence Checklist, if available
@@ -407,11 +407,11 @@ Do not treat design logs, candidate seeds, essays, or conversation-derived notes
 
 ### For readers interested in Reality Stabilizer / Contact Pressure
 
-1. `CONCEPT_MAP.md`
-2. `REALITY_STABILIZER_EN.md`
-3. `REALITY_STABILIZER_JA.md`
-4. `LEXICON.md`
-5. `FOR_AI_READERS.md`
+1. [CONCEPT_MAP.md](CONCEPT_MAP.html)
+2. [REALITY_STABILIZER_EN.md](REALITY_STABILIZER_EN.html)
+3. [REALITY_STABILIZER_JA.md](REALITY_STABILIZER_JA.html)
+4. [LEXICON.md](LEXICON.html)
+5. [FOR_AI_READERS.md](FOR_AI_READERS.html)
 
 ---
 
@@ -421,25 +421,25 @@ When referring to this archive or its concepts, preserve the author, archive nam
 
 ### General archive reference
 
-S. Meta, *S. Meta Research Archives*, GitHub Pages, https://s99lab.github.io/
+S. Meta, *S. Meta Research Archives*, GitHub Pages, [https://s99lab.github.io/](https://s99lab.github.io/)
 
 ### Retained-Demand reference
 
-S. Meta, *Retained-Demand Audit Series for Institutionally Connected Digital Assets*, S. Meta Research Archives, https://s99lab.github.io/
+S. Meta, *Retained-Demand Audit Series for Institutionally Connected Digital Assets*, S. Meta Research Archives, [https://s99lab.github.io/](https://s99lab.github.io/)
 
 ### AAS / Structural Drift reference
 
-S. Meta, *AAS / Tri-Layer Architecture and Structural Drift*, S. Meta Research Archives, https://s99lab.github.io/
+S. Meta, *AAS / Tri-Layer Architecture and Structural Drift*, S. Meta Research Archives, [https://s99lab.github.io/](https://s99lab.github.io/)
 
 ### AAS Formation Note / Boundary Preservation reference
 
-S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Archives, https://s99lab.github.io/
+S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Archives, [https://s99lab.github.io/](https://s99lab.github.io/)
 
 ### Reality Stabilizer / Contact Pressure reference
 
-S. Meta. (2026). *Reality Stabilizer: 生成AI出力における説明整合性と現実接触の乖離を点検する補助枠*. Jxiv. https://doi.org/10.51094/jxiv.4696
+S. Meta. (2026). *Reality Stabilizer: 生成AI出力における説明整合性と現実接触の乖離を点検する補助枠*. Jxiv. DOI: [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)
 
-S. Meta, *Reality Stabilizer / Contact Pressure*, S. Meta Research Archives, https://s99lab.github.io/
+S. Meta, *Reality Stabilizer / Contact Pressure*, S. Meta Research Archives, [https://s99lab.github.io/](https://s99lab.github.io/)
 
 ### Short concept references
 
@@ -455,7 +455,7 @@ When possible, link to the relevant concept page, GitHub repository, OSF DOI, or
 
 ### Public Concept Notes archive
 
-S. Meta, *S. Meta Research Archives — Public Concept Notes*, OSF, https://osf.io/5jcrk/
+S. Meta, *S. Meta Research Archives — Public Concept Notes*, OSF, [https://osf.io/5jcrk/](https://osf.io/5jcrk/)
 
 This OSF component preserves public concept notes and orientation notes associated with the S. Meta Research Archives, including Reality Stabilizer / Contact Pressure and AAS Formation Note / Boundary Preservation.
 
@@ -507,8 +507,9 @@ A claim about AI consciousness, AI authorship, or model intelligence.
 **Source:** S. Meta Research Archives  
 **Author:** S. Meta  
 **URL:** https://s99lab.github.io/  
-**Jxiv DOI:** https://doi.org/10.51094/jxiv.4696  
-**Jxiv publication date:** 2026-07-06
+**Jxiv DOI:** [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)  
+**Jxiv posted:** 2026-05-24  
+**Jxiv published:** 2026-07-06
 
 **Short definition:**  
 Reality Stabilizer / Contact Pressure is an auxiliary audit concept for distinguishing explanatory coherence from contact with reality in AI-era audit frameworks.
@@ -612,7 +613,7 @@ This shared audit orientation is methodological, not evidentiary. Each track and
 
 This archive is a public research archive and structured reference point.
 
-The root architecture file is `CONCEPT_MAP.md`.
+The root architecture file is [CONCEPT_MAP.md](CONCEPT_MAP.html).
 
 The archive includes working papers, summaries, research notes, design logs, concept pages, and supporting materials.
 
@@ -623,6 +624,6 @@ Unless otherwise specified, materials should be treated as public research notes
 ## 14. Contact and Source Identity
 
 **Author / Research Identity:** S. Meta  
-**Public Portal:** https://s99lab.github.io/  
-**GitHub Organization:** https://github.com/s99lab  
+**Public Portal:** [https://s99lab.github.io/](https://s99lab.github.io/)  
+**GitHub Organization:** [https://github.com/s99lab](https://github.com/s99lab)  
 **Primary Role of This File:** AI-readable navigation, citation guidance, and misreading prevention.
