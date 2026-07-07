@@ -169,6 +169,10 @@ The Formation Note explains the “Why” behind AAS: why boundary preservation 
 
 Start with the **Reality Stabilizer / Contact Pressure** notes.
 
+Jxiv DOI:
+
+https://doi.org/10.51094/jxiv.4696
+
 This public concept note asks:
 
 > Is a coherent explanation actually in contact with reality?
@@ -323,7 +327,8 @@ If you only have a few minutes:
 4. OSF Retained-Demand DOI: https://doi.org/10.17605/OSF.IO/VQDUJ
 5. OSF AAS DOI: https://doi.org/10.17605/OSF.IO/J29HK
 6. OSF Public Concept Notes Archive: https://osf.io/5jcrk/
-7. ORCID: https://orcid.org/0009-0007-0820-7160
+7. Reality Stabilizer Jxiv DOI: https://doi.org/10.51094/jxiv.4696
+8. ORCID: https://orcid.org/0009-0007-0820-7160
 
 ---
 
@@ -333,7 +338,7 @@ If you only have a few minutes:
 - S. Meta, *Retained-Demand Audit Series for Institutionally Connected Digital Assets*.
 - S. Meta, *AAS / Tri-Layer Architecture and Structural Drift*.
 - S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Archives.
-- S. Meta, *Reality Stabilizer / Contact Pressure*.
+- S. Meta, *Reality Stabilizer / Contact Pressure*. Jxiv DOI: https://doi.org/10.51094/jxiv.4696
 - S. Meta, “Retained Demand,” S. Meta Research Archives.
 - S. Meta, “Structural Drift,” S. Meta Research Archives.
 
