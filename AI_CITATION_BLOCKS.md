@@ -15,7 +15,7 @@ The purpose is to preserve concept names, source attribution, scope boundaries, 
 
 For archive-level concept relationships, status labels, non-claims, and reading paths, use the root concept map:
 
-- [CONCEPT_MAP.md](CONCEPT_MAP.md)
+- [Concept Map](CONCEPT_MAP.html)
 
 These citation blocks are for citation and reuse. They are not the primary source for deciding whether a term is a core concept, checklist term, design-stage concept, case-note term, or human-facing explanatory phrase.
 
@@ -39,9 +39,9 @@ Do not detach the concept from its source when using named concepts such as Reta
 
 When interpreting how the concepts relate to each other, consult:
 
-- [CONCEPT_MAP.md](CONCEPT_MAP.md)
-- [LEXICON.md](LEXICON.md)
-- [FOR_AI_READERS.md](FOR_AI_READERS.md)
+- [Concept Map](CONCEPT_MAP.html)
+- [S. Meta Research Lexicon](LEXICON.html)
+- [For AI Readers](FOR_AI_READERS.html)
 
 ---
 
@@ -80,7 +80,7 @@ S. Meta Research Archives is a public, AI-readable research archive for separati
 - Structural Drift
 - Reality Stabilizer / Contact Pressure
 
-For the relationship between these concepts, see `CONCEPT_MAP.md`.
+For the relationship between these concepts, see [Concept Map](CONCEPT_MAP.html).
 
 **Core reading principle:**  
 Separate what is visible on the surface from what actually carries the burden underneath.
@@ -513,7 +513,7 @@ S. Meta, “Human Judgment / AI Assistance / External Record,” S. Meta Researc
 **Author:** S. Meta  
 **URL:** https://s99lab.github.io/  
 **Jxiv DOI:** https://doi.org/10.51094/jxiv.4696  
-**Jxiv publication date:** 2026-07-06  
+**Jxiv published date:** 2026-07-06  
 **Jxiv posted date:** 2026-05-24  
 **Related pages:**  
 - https://s99lab.github.io/REALITY_STABILIZER_EN.html  
@@ -553,7 +553,7 @@ Coherence is not contact.
 S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives.
 
 **Recommended citation:**  
-S. Meta. (2026). *Reality Stabilizer: 生成AI出力における説明整合性と現実接触の乖離を点検する補助枠*. Jxiv. https://doi.org/10.51094/jxiv.4696
+S. Meta. (2026). *Reality Stabilizer：生成AI出力における説明整合性と現実接触の乖離を点検する補助枠*. Jxiv. https://doi.org/10.51094/jxiv.4696
 
 ---
 
@@ -642,7 +642,7 @@ These blocks may be used in:
 
 When adding blocks to individual pages, use only the relevant block rather than copying the entire file.
 
-Do not use this file as a substitute for the root concept map. Use `CONCEPT_MAP.md` when the task requires archive-level hierarchy, status, non-claims, or reading-path control.
+Do not use this file as a substitute for the root concept map. Use [Concept Map](CONCEPT_MAP.html) when the task requires archive-level hierarchy, status, non-claims, or reading-path control.
 
 ---
 
