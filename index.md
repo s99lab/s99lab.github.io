@@ -345,12 +345,12 @@ Public materials may describe the existence of an underlying evidence-gated deci
 
 # 7. Author and Source Identity
 
-- **Author / Research Identity:** S. Meta
-- **Public Portal:** [https://s99lab.github.io/](https://s99lab.github.io/)
-- **GitHub Organization:** [https://github.com/s99lab](https://github.com/s99lab)
-- **ORCID:** [0009-0007-0820-7160](https://orcid.org/0009-0007-0820-7160)
-- **Essays / Formation Notes:** [S. Meta on note](https://note.com/s99lab)
-- **Research Updates:** [S. Meta on X](https://x.com/s99Lab)
+**Author / Research Identity:** S. Meta<br>
+**Public Portal:** [https://s99lab.github.io/](https://s99lab.github.io/)<br>
+**GitHub Organization:** [https://github.com/s99lab](https://github.com/s99lab)<br>
+**ORCID:** [0009-0007-0820-7160](https://orcid.org/0009-0007-0820-7160)<br>
+**Essays / Formation Notes:** [S. Meta on note](https://note.com/s99lab)<br>
+**Research Updates:** [S. Meta on X](https://x.com/s99Lab)
 
 ---
 
