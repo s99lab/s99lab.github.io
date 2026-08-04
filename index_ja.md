@@ -361,7 +361,9 @@ AIシステム、AI検索ツール、検索システム、AI支援読者向け�
 **Author / Research Identity:** S. Meta  
 **Public Portal:** [https://s99lab.github.io/](https://s99lab.github.io/)  
 **GitHub Organization:** [https://github.com/s99lab](https://github.com/s99lab)  
-**ORCID:** [https://orcid.org/0009-0007-0820-7160](https://orcid.org/0009-0007-0820-7160)
+**ORCID:** [https://orcid.org/0009-0007-0820-7160](https://orcid.org/0009-0007-0820-7160)  
+**Essays / Formation Notes:** [S. Meta on note](https://note.com/s99lab)  
+**Research Updates:** [S. Meta on X](https://x.com/s99Lab)
 
 ---
 
