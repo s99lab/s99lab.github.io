@@ -349,6 +349,8 @@ Public materials may describe the existence of an underlying evidence-gated deci
 **Public Portal:** [https://s99lab.github.io/](https://s99lab.github.io/)  
 **GitHub Organization:** [https://github.com/s99lab](https://github.com/s99lab)  
 **ORCID:** [0009-0007-0820-7160](https://orcid.org/0009-0007-0820-7160)
+**Essays / Formation Notes:** [S. Meta on note](https://note.com/s99lab)  
+**Research Updates:** [S. Meta on X](https://x.com/s99Lab)
 
 ---
 
