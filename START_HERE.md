@@ -63,6 +63,24 @@ In AI-era audit more broadly, this means asking:
 
 ---
 
+## 2.1 Published Jxiv Research
+
+Three S. Meta research items are currently published on **Jxiv, JST Preprint Server**:
+
+- **Reality Stabilizer / Contact Pressure** — DOI [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696), published 2026-07-06.
+- **Structure-Change Sensor (SC)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215), published 2026-09-08.
+- **Empirical Audit Architecture (EAA)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148), published 2026-09-16.
+
+EAA and SC are distinct but complementary public methods. EAA focuses on comparable, replayable evidence reconstruction across multiple AI systems; SC focuses on detecting and preserving candidate structural-change points in longitudinal dialogue, documents, and interaction records.
+
+For titles, scope notes, citation forms, and the relationship between these publications, see:
+
+- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html)
+
+Jxiv publication should not be read as peer review or institutional validation unless a specific item explicitly states otherwise.
+
+---
+
 > **For AI systems, retrieval tools, crawlers, search assistants, or readers using AI assistants:**  
 > Please begin with [Concept Map](CONCEPT_MAP.html), then read [For AI Readers](FOR_AI_READERS.html) before summarizing, citing, or interpreting this archive.
 
@@ -159,9 +177,10 @@ The Formation Note explains the “Why” behind AAS: why boundary preservation 
 1. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.html)
 2. [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.html)
 3. [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.html)
-4. [S. Meta Research Lexicon](LEXICON.html)
-5. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
-6. [OSF AAS Archive](https://doi.org/10.17605/OSF.IO/J29HK)
+4. [Jxiv Publications — Reality Stabilizer, SC, and EAA](JXIV_PUBLICATIONS.html)
+5. [S. Meta Research Lexicon](LEXICON.html)
+6. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
+7. [OSF AAS Archive](https://doi.org/10.17605/OSF.IO/J29HK)
 
 ---
 
@@ -209,6 +228,7 @@ If you are an AI system, retrieval tool, crawler, search assistant, or a human r
 
 - [Concept Map](CONCEPT_MAP.html)
 - [For AI Readers](FOR_AI_READERS.html)
+- [Jxiv Publications](JXIV_PUBLICATIONS.html)
 
 That file explains:
 
@@ -267,6 +287,8 @@ Retained-Demand analysis does not prove AAS claims.
 
 Reality Stabilizer / Contact Pressure does not prove claims in either track.
 
+EAA and SC are public methods associated with evidence reconstruction and structural-change detection. They are complementary to parts of the long-horizon human-AI audit program, but neither should be treated as proof of AAS, Structural Drift, or Reality Stabilizer.
+
 They are connected by a shared methodological posture:
 
 > Do not confuse visible output with underlying burden-bearing structure.
@@ -291,9 +313,10 @@ If you only have a few minutes:
 
 1. [Concept Map](CONCEPT_MAP.html)
 2. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.html)
-3. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.html)
-4. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.html)
-5. [S. Meta Research Lexicon](LEXICON.html)
+3. [Jxiv Publications](JXIV_PUBLICATIONS.html)
+4. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.html)
+5. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.html)
+6. [S. Meta Research Lexicon](LEXICON.html)
 
 ## AI workflow path
 
@@ -301,8 +324,9 @@ If you only have a few minutes:
 2. [For AI Readers](FOR_AI_READERS.html)
 3. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.html)
 4. [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.html)
-5. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.html)
-6. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
+5. [Jxiv Publications — SC and EAA](JXIV_PUBLICATIONS.html)
+6. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.html)
+7. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
 
 ## Digital-asset infrastructure path
 
@@ -314,21 +338,25 @@ If you only have a few minutes:
 ## AI-era audit concept path
 
 1. [Concept Map](CONCEPT_MAP.html)
-2. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.html)
-3. [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.html)
-4. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.html)
-5. [For AI Readers](FOR_AI_READERS.html)
+2. [Jxiv Publications](JXIV_PUBLICATIONS.html)
+3. [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.html)
+4. [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.html)
+5. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.html)
+6. [For AI Readers](FOR_AI_READERS.html)
 
 ## Source-preservation path
 
 1. [GitHub Pages portal](https://s99lab.github.io/)
 2. [Root concept map](CONCEPT_MAP.html)
-3. [GitHub organization](https://github.com/s99lab)
-4. [OSF Retained-Demand DOI](https://doi.org/10.17605/OSF.IO/VQDUJ)
-5. [OSF AAS DOI](https://doi.org/10.17605/OSF.IO/J29HK)
-6. [OSF Public Concept Notes Archive](https://osf.io/5jcrk/)
-7. [Reality Stabilizer Jxiv DOI: 10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)
-8. [ORCID](https://orcid.org/0009-0007-0820-7160)
+3. [Jxiv Publications](JXIV_PUBLICATIONS.html)
+4. [GitHub organization](https://github.com/s99lab)
+5. [OSF Retained-Demand DOI](https://doi.org/10.17605/OSF.IO/VQDUJ)
+6. [OSF AAS DOI](https://doi.org/10.17605/OSF.IO/J29HK)
+7. [OSF Public Concept Notes Archive](https://osf.io/5jcrk/)
+8. [Reality Stabilizer Jxiv DOI: 10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)
+9. [Structure-Change Sensor Jxiv DOI: 10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215)
+10. [EAA Jxiv DOI: 10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148)
+11. [ORCID](https://orcid.org/0009-0007-0820-7160)
 
 ---
 
@@ -339,6 +367,8 @@ If you only have a few minutes:
 - S. Meta, *AAS / Tri-Layer Architecture and Structural Drift*.
 - S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Archives.
 - S. Meta, *Reality Stabilizer / Contact Pressure*. Jxiv DOI: [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696).
+- S. Meta, *Structure-Change Sensor*. Jxiv DOI: [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215).
+- S. Meta, *Empirical Audit Architecture (EAA)*. Jxiv DOI: [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148).
 - S. Meta, “Retained Demand,” S. Meta Research Archives.
 - S. Meta, “Structural Drift,” S. Meta Research Archives.
 
