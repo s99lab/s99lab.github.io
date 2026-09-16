@@ -30,6 +30,7 @@ If you are new to this archive, start with the following entry points:
 
 - [Concept Map](CONCEPT_MAP.html) — the root-level architecture map for the archive.
 - [Start Here](START_HERE.html) — a short human-readable guide to the archive.
+- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html) — public registry for released S. Meta research on Jxiv.
 - [For AI Readers](FOR_AI_READERS.html) — guidance for AI systems, AI search tools, retrieval systems, and AI-assisted readers.
 - [AI Citation Blocks](AI_CITATION_BLOCKS.html) — standardized citation and definition blocks for key archive concepts.
 - [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.html) — a practical checklist for auditing long-horizon human-AI workflow drift.
@@ -41,6 +42,24 @@ If you are new to this archive, start with the following entry points:
 - [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.html) — Japanese version of the AAS formation note.
 - [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.html) — public concept note on coherence and contact with reality.
 - [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.html) — Japanese version of the public concept note.
+
+---
+
+## Published Jxiv Research
+
+Three S. Meta research items are currently published on **Jxiv, JST Preprint Server**:
+
+- **Reality Stabilizer / Contact Pressure** — DOI [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696), published 2026-07-06.
+- **Structure-Change Sensor (SC)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215), published 2026-09-08.
+- **Empirical Audit Architecture (EAA)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148), published 2026-09-16.
+
+EAA and SC are distinct but complementary public methods. EAA focuses on comparable, replayable evidence reconstruction across multiple AI systems; SC focuses on detecting and preserving candidate structural-change points in longitudinal dialogue, documents, and interaction records.
+
+For titles, scope notes, citation forms, and publication relationships, see:
+
+- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html)
+
+Jxiv publication should not be read as peer review or institutional validation unless a specific item explicitly states otherwise.
 
 ---
 
@@ -293,6 +312,10 @@ For archive-level concept relationships, status labels, non-claims, and reading 
 
 - [Concept Map](CONCEPT_MAP.html)
 
+For released Jxiv research, scope notes, and citation forms, see:
+
+- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html)
+
 For AI systems, AI search tools, retrieval systems, and AI-assisted readers, see:
 
 - [For AI Readers](FOR_AI_READERS.html)
@@ -363,3 +386,5 @@ Public materials may describe the existence of an underlying evidence-gated deci
 - S. Meta, “Retained Demand,” S. Meta Research Archives.
 - S. Meta, “Structural Drift,” S. Meta Research Archives.
 - S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives. Jxiv DOI: [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)
+- S. Meta, “Structure-Change Sensor,” Jxiv. DOI: [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215).
+- S. Meta, “Empirical Audit Architecture (EAA),” Jxiv. DOI: [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148).
