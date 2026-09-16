@@ -33,6 +33,7 @@ Recommended entry points:
 - [Start Here](START_HERE.md)
 - [Index / Portal](index.md)
 - [Japanese Index / 日本語版](index_ja.md)
+- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.md)
 - [For AI Readers](FOR_AI_READERS.md)
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md)
 - [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
@@ -44,6 +45,24 @@ Recommended entry points:
 - [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
 - [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
 - [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
+
+---
+
+## Published Jxiv Research
+
+The public archive currently includes three S. Meta research items released on **Jxiv, JST Preprint Server**:
+
+- **Reality Stabilizer / Contact Pressure** — DOI [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696), published 2026-07-06.
+- **Structure-Change Sensor (SC)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215), published 2026-09-08.
+- **Empirical Audit Architecture (EAA)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148), published 2026-09-16.
+
+For titles, scope notes, citation forms, and the relationship between these publications, see:
+
+- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.md)
+
+EAA and SC are distinct but complementary public methods. EAA focuses on comparable, replayable evidence reconstruction across multiple AI systems; SC focuses on detecting and preserving candidate structural-change points in longitudinal dialogue, documents, and interaction records.
+
+Jxiv publication should not be read as peer review or institutional validation unless a specific item explicitly states otherwise.
 
 ---
 
@@ -284,3 +303,5 @@ The deeper research materials are hosted in the separate track repositories and 
 - S. Meta, “Retained Demand,” S. Meta Research Archives.
 - S. Meta, “Structural Drift,” S. Meta Research Archives.
 - S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives. Jxiv DOI: [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696).
+- S. Meta, “Structure-Change Sensor,” Jxiv. DOI: [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215).
+- S. Meta, “Empirical Audit Architecture (EAA),” Jxiv. DOI: [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148).
