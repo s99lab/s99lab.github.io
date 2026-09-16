@@ -3,6 +3,7 @@ https://s99lab.github.io/index_ja.html
 https://s99lab.github.io/CONCEPT_MAP.html
 https://s99lab.github.io/START_HERE.html
 https://s99lab.github.io/FOR_AI_READERS.html
+https://s99lab.github.io/JXIV_PUBLICATIONS.html
 https://s99lab.github.io/AI_CITATION_BLOCKS.html
 https://s99lab.github.io/STRUCTURAL_DRIFT_CHECKLIST.html
 https://s99lab.github.io/RETAINED_DEMAND_EVIDENCE_CHECKLIST.html
