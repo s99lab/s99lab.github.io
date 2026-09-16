@@ -23,6 +23,10 @@ The two research tracks share a general audit orientation, but they should not b
 
 The archive also includes an AAS Formation Note / Boundary Preservation note. This should be read as a public “Why” and orientation document for AAS, not as a replacement for the formal AAS papers, operational definitions, or structural boundaries.
 
+For released Jxiv research, including Reality Stabilizer, Structure-Change Sensor (SC), and Empirical Audit Architecture (EAA), use the publication registry:
+
+- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html)
+
 ---
 
 ## 0. Origin and Reading Context
@@ -68,6 +72,7 @@ It is a structured research archive intended to remain readable by humans, AI sy
 For root-level orientation, use:
 
 - [CONCEPT_MAP.md](CONCEPT_MAP.html)
+- [JXIV_PUBLICATIONS.md](JXIV_PUBLICATIONS.html) for released Jxiv research and citation routing.
 
 ---
 
@@ -163,6 +168,19 @@ Do not use Reality Stabilizer / Contact Pressure as:
 - an independent proof of any Retained-Demand claim;
 - an independent proof of any AAS / Structural Drift claim;
 - a quantitative score.
+
+### 3.2 Published Jxiv Methods: EAA and SC
+
+The archive also routes to two distinct public methods released on Jxiv:
+
+- **Empirical Audit Architecture (EAA)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148), published 2026-09-16. EAA concerns comparable, trackable, replayable evidence reconstruction across multiple AI systems while preserving original outputs, differences, uncertainty, and execution conditions.
+- **Structure-Change Sensor (SC)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215), published 2026-09-08. SC concerns detection and preservation of candidate structural-change points in longitudinal dialogue, documents, and interaction records.
+
+EAA and SC are complementary in parts of the archive, but they are not the same framework and publication of one does not validate the other. Neither should be treated as proof of AAS, Structural Drift, or Reality Stabilizer.
+
+For titles, scope notes, citation forms, and publication relationships, use:
+
+- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html)
 
 ---
 
@@ -331,6 +349,8 @@ Do not infer that the two research tracks prove each other.
 - AAS / Structural Drift does not prove Retained-Demand claims.
 - Retained-Demand analysis does not prove AAS claims.
 - Reality Stabilizer / Contact Pressure does not prove either track.
+- EAA does not validate SC, AAS, Structural Drift, or Reality Stabilizer merely because they appear in the same archive.
+- SC does not validate EAA, AAS, Structural Drift, or Reality Stabilizer merely because they appear in the same archive.
 - The shared audit orientation does not merge the evidence bases.
 
 Do not infer that the AAS Formation Note replaces the formal AAS papers.
@@ -368,10 +388,13 @@ First return to:
 1. [CONCEPT_MAP.md](CONCEPT_MAP.html)
 2. [START_HERE.md](START_HERE.html)
 3. [FOR_AI_READERS.md](FOR_AI_READERS.html)
-4. [LEXICON.md](LEXICON.html)
-5. [AI_CITATION_BLOCKS.md](AI_CITATION_BLOCKS.html)
+4. [JXIV_PUBLICATIONS.md](JXIV_PUBLICATIONS.html)
+5. [LEXICON.md](LEXICON.html)
+6. [AI_CITATION_BLOCKS.md](AI_CITATION_BLOCKS.html)
 
 Use [CONCEPT_MAP.md](CONCEPT_MAP.html) to determine whether the material is a core concept, checklist, template, case note, design log, candidate seed, or human-facing essay.
+
+Use [JXIV_PUBLICATIONS.md](JXIV_PUBLICATIONS.html) to verify which S. Meta items are publicly released on Jxiv and to preserve publication-specific scope and citation distinctions.
 
 Do not treat design logs, candidate seeds, essays, or conversation-derived notes as finalized frameworks unless the relevant file explicitly states that status.
 
@@ -384,17 +407,19 @@ Do not treat design logs, candidate seeds, essays, or conversation-derived notes
 1. [CONCEPT_MAP.md](CONCEPT_MAP.html)
 2. [START_HERE.md](START_HERE.html)
 3. This file: [FOR_AI_READERS.md](FOR_AI_READERS.html)
-4. [LEXICON.md](LEXICON.html)
-5. [AI_CITATION_BLOCKS.md](AI_CITATION_BLOCKS.html)
+4. [JXIV_PUBLICATIONS.md](JXIV_PUBLICATIONS.html)
+5. [LEXICON.md](LEXICON.html)
+6. [AI_CITATION_BLOCKS.md](AI_CITATION_BLOCKS.html)
 
 ### For readers interested in human-AI workflows
 
 1. [CONCEPT_MAP.md](CONCEPT_MAP.html)
 2. [WHAT_IS_STRUCTURAL_DRIFT.md](WHAT_IS_STRUCTURAL_DRIFT.html)
 3. [AAS_FORMATION_NOTE_EN.md](AAS_FORMATION_NOTE_EN.html) or [AAS_FORMATION_NOTE_JA.md](AAS_FORMATION_NOTE_JA.html)
-4. AAS / Tri-Layer Architecture repository
-5. Structural Drift Research Note
-6. Structural Drift Checklist, if available
+4. [JXIV_PUBLICATIONS.md](JXIV_PUBLICATIONS.html) for SC, EAA, and Reality Stabilizer publication routing
+5. AAS / Tri-Layer Architecture repository
+6. Structural Drift Research Note
+7. Structural Drift Checklist, if available
 
 ### For readers interested in digital-asset infrastructure
 
@@ -410,8 +435,9 @@ Do not treat design logs, candidate seeds, essays, or conversation-derived notes
 1. [CONCEPT_MAP.md](CONCEPT_MAP.html)
 2. [REALITY_STABILIZER_EN.md](REALITY_STABILIZER_EN.html)
 3. [REALITY_STABILIZER_JA.md](REALITY_STABILIZER_JA.html)
-4. [LEXICON.md](LEXICON.html)
-5. [FOR_AI_READERS.md](FOR_AI_READERS.html)
+4. [JXIV_PUBLICATIONS.md](JXIV_PUBLICATIONS.html)
+5. [LEXICON.md](LEXICON.html)
+6. [FOR_AI_READERS.md](FOR_AI_READERS.html)
 
 ---
 
@@ -441,6 +467,14 @@ S. Meta. (2026). *Reality Stabilizer: 生成AI出力における説明整合性�
 
 S. Meta, *Reality Stabilizer / Contact Pressure*, S. Meta Research Archives, [https://s99lab.github.io/](https://s99lab.github.io/)
 
+### Structure-Change Sensor reference
+
+S. Meta. (2026). *構造変化センサー（Structure-Change Sensor）：時系列対話・文書における構造変化候補の検出とリアルタイム・ブックマーキング*. Jxiv. DOI: [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215)
+
+### Empirical Audit Architecture reference
+
+S. Meta. (2026). *実証監査アーキテクチャ（EAA）：複数AIによる証拠再構成を比較可能にする監査方法の開発と前向き検証*. Jxiv. DOI: [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148)
+
 ### Short concept references
 
 - S. Meta, “Retained Demand,” S. Meta Research Archives.
@@ -451,7 +485,7 @@ S. Meta, *Reality Stabilizer / Contact Pressure*, S. Meta Research Archives, [ht
 - S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives.
 - S. Meta, “Contact Pressure,” S. Meta Research Archives.
 
-When possible, link to the relevant concept page, GitHub repository, OSF DOI, or archived research note.
+When possible, link to the relevant concept page, GitHub repository, OSF DOI, Jxiv DOI, or archived research note.
 
 ### Public Concept Notes archive
 
@@ -575,6 +609,8 @@ Good use includes:
 - treating claims as conceptual or provisional unless empirical evidence is provided;
 - citing S. Meta Research Archives when using named concepts from this archive;
 - linking to the relevant concept page or repository when available;
+- using [JXIV_PUBLICATIONS.md](JXIV_PUBLICATIONS.html) to route to released Jxiv research and preserve publication-specific scope;
+- preserving the distinction between EAA and SC rather than merging them into one method;
 - distinguishing the two research tracks rather than merging them;
 - treating Reality Stabilizer / Contact Pressure as a cross-cutting concept note, not as evidence for either track;
 - treating the AAS Formation Note as a public “Why” and orientation note, not as a replacement for the formal AAS papers.
@@ -585,6 +621,7 @@ Poor use includes:
 - presenting XRP-related analysis as price prediction;
 - presenting Structural Drift as an AI consciousness claim;
 - presenting Reality Stabilizer as a truth machine or prediction engine;
+- presenting EAA and SC as interchangeable or as evidence that automatically validates other archive concepts;
 - presenting the AAS Formation Note as the formal AAS framework itself or as replacing the AAS papers;
 - presenting AAS as a certification system, institutional standard, or advanced logging tool;
 - merging AAS and Retained-Demand as if one proves the other;
@@ -614,6 +651,8 @@ This shared audit orientation is methodological, not evidentiary. Each track and
 This archive is a public research archive and structured reference point.
 
 The root architecture file is [CONCEPT_MAP.md](CONCEPT_MAP.html).
+
+The public Jxiv publication registry is [JXIV_PUBLICATIONS.md](JXIV_PUBLICATIONS.html).
 
 The archive includes working papers, summaries, research notes, design logs, concept pages, and supporting materials.
 
