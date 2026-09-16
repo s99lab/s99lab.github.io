@@ -33,6 +33,7 @@ Reality Stabilizer、AAS / Ambient Alignment Sync、Structural Drift、Retained-
 
 - [Concept Map（英語版）](CONCEPT_MAP.html) — アーカイブ全体の概念関係を示すルート地図。
 - [Start Here](START_HERE.html) — アーカイブ全体の短い案内。
+- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html) — Jxivで公開されたS. Meta研究の公開レジストリ。
 - [For AI Readers](FOR_AI_READERS.html) — AIシステム、検索AI、検索補助ツール、AI支援読者向けの読解ガイド。
 - [AI Citation Blocks](AI_CITATION_BLOCKS.html) — 主要概念の引用・定義ブロック。
 - [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.html) — 長期的な人間AIワークフローの構造的ドリフトを点検するためのチェックリスト。
@@ -44,6 +45,24 @@ Reality Stabilizer、AAS / Ambient Alignment Sync、Structural Drift、Retained-
 - [AAS Formation Note / Boundary Preservation（日本語版）](AAS_FORMATION_NOTE_JA.html) — AASの背景と必要性を説明する公開ノートの日本語版。
 - [Reality Stabilizer / Contact Pressure（英語版）](REALITY_STABILIZER_EN.html) — 説明の整合性と現実接触を扱う公開概念ノートの英語版。
 - [Reality Stabilizer / Contact Pressure（日本語版）](REALITY_STABILIZER_JA.html) — 説明の整合性と現実接触を扱う公開概念ノートの日本語版。
+
+---
+
+## Jxiv 公開研究
+
+現在、S. Meta名義で以下の3件が **Jxiv, JSTプレプリントサーバ** 上で公開されています。
+
+- **Reality Stabilizer / Contact Pressure** — DOI [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)、2026-07-06公開。
+- **Structure-Change Sensor (SC)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215)、2026-09-08公開。
+- **Empirical Audit Architecture (EAA)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148)、2026-09-16公開。
+
+EAAとSCは、関連はあるものの別個の公開方法です。EAAは複数AIによる証拠再構成を比較・追跡・再実行可能にする監査方法を扱い、SCは時系列対話・文書・相互作用記録における構造変化候補の検出と保存を扱います。
+
+正式タイトル、適用範囲、引用形式、各公開物の関係については以下を参照してください。
+
+- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html)
+
+Jxivでの公開それ自体は、査読済みであることや制度的な妥当性認定を意味しません。
 
 ---
 
@@ -305,6 +324,10 @@ Reality Stabilizer は、**第三の研究トラックではありません**。
 
 - [Concept Map（英語版）](CONCEPT_MAP.html)
 
+Jxivで公開された研究、適用範囲、引用形式については、以下を参照してください。
+
+- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html)
+
 AIシステム、AI検索ツール、検索システム、AI支援読者向けには、以下を参照してください。
 
 - [For AI Readers](FOR_AI_READERS.html)
@@ -376,3 +399,5 @@ AIシステム、AI検索ツール、検索システム、AI支援読者向け�
 - S. Meta, “Retained Demand,” S. Meta Research Archives.
 - S. Meta, “Structural Drift,” S. Meta Research Archives.
 - S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives. Jxiv DOI: [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696).
+- S. Meta, “Structure-Change Sensor,” Jxiv. DOI: [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215).
+- S. Meta, “Empirical Audit Architecture (EAA),” Jxiv. DOI: [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148).
