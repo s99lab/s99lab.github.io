@@ -15,6 +15,8 @@ This page explains the research motivation that connects the S. Meta Research Ar
 
 このページは、S. Meta Research Archives に置かれた複数の研究・概念・方法を、一つの理論へ統合してしまうことなく、その背後にある共通の問題意識を説明するための案内ページです。
 
+**Language / 言語:** English ｜ **[日本語版へ ↓](#日本語)**
+
 ---
 
 ## 1. The recurring concern
