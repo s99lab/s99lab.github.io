@@ -77,9 +77,11 @@ This is a research possibility, not a claim of validated generality.
 
 ---
 
-## 4. Possible practical relevance
+## 4. Possible research and practical relevance
 
 The individual papers and concept notes define their own scope. The examples below are not claims of validated effectiveness across all of these domains; they are concrete settings in which the archive's distinctions may be worth testing.
+
+Some examples — especially lifespan development and long-term cognitive change — are **unvalidated research directions rather than demonstrated applications**.
 
 - **Long-horizon AI-assisted research and writing** — preserving where human judgment, AI suggestions, working hypotheses, evidence status, and revision conditions changed across weeks, months, or longer projects.
 - **Organizational and project decision histories** — reconstructing who decided what, under which assumptions, and where a policy, responsibility boundary, or operating rule changed across meetings, email, documents, and AI-generated summaries.
@@ -200,9 +202,11 @@ For the existing public concept and track pages:
 
 ---
 
-## 4. 役立つ可能性のある場面
+## 4. 研究・実務上の可能性
 
 個別の論文・概念ノートには、それぞれ固有の適用範囲があります。以下は、これらすべての領域で有効性が検証済みだという主張ではなく、アーカイブ全体の問題意識を試す価値があり得る具体例です。
+
+特に**生涯発達・長期的な認知変化などは、実証済みの適用先ではなく、今後検討可能な未検証の研究方向**を含みます。
 
 - **長期的なAI支援研究・執筆** — 数週間・数か月、あるいはそれ以上にわたる研究や執筆の中で、人間の判断、AIの提案、作業仮説、証拠の状態、修正条件がどこで変わったかを後から追えるようにしたい場面。
 - **組織・プロジェクトの意思決定履歴** — 会議、メール、文書、AI要約が蓄積する中で、誰が何をどの前提で決め、どの時点で方針、責任境界、運用ルールが変わったかを再構成したい場面。
