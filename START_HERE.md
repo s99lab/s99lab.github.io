@@ -7,7 +7,7 @@ This archive contains two public research tracks and one cross-cutting public co
 1. **Retained-Demand Audit Series**  
    A structural audit framework for institutionally connected digital assets.
 
-2. **AAS / Tri-Layer Architecture and Structural Drift**  
+2. **AAS / Tri-Layer Architecture and Ambient Alignment Sync Series**  
    A structural audit framework for long-horizon human-AI workflows.
 
 3. **Reality Stabilizer / Contact Pressure**  
@@ -134,7 +134,7 @@ This track is especially relevant if you are trying to evaluate claims about:
 
 # 4. If You Are Here for AI and Long-Horizon Workflows
 
-Start with **AAS / Tri-Layer Architecture and Structural Drift**.
+Start with **AAS / Tri-Layer Architecture and Ambient Alignment Sync Series**.
 
 This track asks:
 
@@ -364,7 +364,7 @@ If you only have a few minutes:
 
 - S. Meta, *S. Meta Research Archives*, GitHub Pages.
 - S. Meta, *Retained-Demand Audit Series for Institutionally Connected Digital Assets*.
-- S. Meta, *AAS / Tri-Layer Architecture and Structural Drift*.
+- S. Meta, *AAS / Tri-Layer Architecture and Ambient Alignment Sync Series*.
 - S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Archives.
 - S. Meta, *Reality Stabilizer / Contact Pressure*. Jxiv DOI: [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696).
 - S. Meta, *Structure-Change Sensor*. Jxiv DOI: [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215).
