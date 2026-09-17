@@ -24,6 +24,7 @@
 Reality Stabilizer、AAS / Ambient Alignment Sync、Structural Drift、Retained-Demand Audit の関係を確認する場合は、以下を参照してください。
 
 - [Concept Map（英語版）](CONCEPT_MAP.html)
+- [Why This Archive Exists / なぜこのアーカイブがあるのか](WHY_THIS_ARCHIVE_EXISTS.html) — これらの異なる研究を一つの公開アーカイブに置く理由と、著者が感じている可能性。
 
 ---
 
@@ -31,9 +32,12 @@ Reality Stabilizer、AAS / Ambient Alignment Sync、Structural Drift、Retained-
 
 このアーカイブを初めて読む場合は、以下のページから入ることを推奨します。
 
+- [Why This Archive Exists / なぜこのアーカイブがあるのか](WHY_THIS_ARCHIVE_EXISTS.html) — 共通する問題意識と、何に役立つ可能性を感じているか。
 - [Concept Map（英語版）](CONCEPT_MAP.html) — アーカイブ全体の概念関係を示すルート地図。
 - [Start Here](START_HERE.html) — アーカイブ全体の短い案内。
 - [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html) — Jxivで公開されたS. Meta研究の公開レジストリ。
+- [Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html) — 構造変化候補の検出とリアルタイム・ブックマーキングを扱う専用ページ。
+- [Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html) — 複数AIによる証拠再構成を比較・追跡・再実行可能にする監査方法の専用ページ。
 - [For AI Readers](FOR_AI_READERS.html) — AIシステム、検索AI、検索補助ツール、AI支援読者向けの読解ガイド。
 - [AI Citation Blocks](AI_CITATION_BLOCKS.html) — 主要概念の引用・定義ブロック。
 - [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.html) — 長期的な人間AIワークフローの構造的ドリフトを点検するためのチェックリスト。
@@ -52,9 +56,9 @@ Reality Stabilizer、AAS / Ambient Alignment Sync、Structural Drift、Retained-
 
 現在、S. Meta名義で以下の3件が **Jxiv, JSTプレプリントサーバ** 上で公開されています。
 
-- **Reality Stabilizer / Contact Pressure** — DOI [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)、2026-07-06公開。
-- **Structure-Change Sensor (SC)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215)、2026-09-08公開。
-- **Empirical Audit Architecture (EAA)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148)、2026-09-16公開。
+- **[Reality Stabilizer / Contact Pressure](REALITY_STABILIZER_JA.html)** — DOI [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)、2026-07-06公開。
+- **[Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215)、2026-09-08公開。
+- **[Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148)、2026-09-16公開。
 
 EAAとSCは、関連はあるものの別個の公開方法です。EAAは複数AIによる証拠再構成を比較・追跡・再実行可能にする監査方法を扱い、SCは時系列対話・文書・相互作用記録における構造変化候補の検出と保存を扱います。
 
@@ -88,6 +92,8 @@ GitHubは、引き続き主要なAI-readableポータルおよび導線として
 長期的な人間AIワークフローでは、これは「流暢なAI支援出力」と「あとから点検できる構造」を分けることを意味します。
 
 AI時代の監査一般では、これは「説明の整合性」と「現実への接触」を分けることを意味します。
+
+この共通する研究上の問題意識については、[Why This Archive Exists / なぜこのアーカイブがあるのか](WHY_THIS_ARCHIVE_EXISTS.html) を参照してください。
 
 ---
 
@@ -323,10 +329,13 @@ Reality Stabilizer は、**第三の研究トラックではありません**。
 アーカイブ全体の概念関係、ステータス、非主張、読解順については、以下を参照してください。
 
 - [Concept Map（英語版）](CONCEPT_MAP.html)
+- [Why This Archive Exists / なぜこのアーカイブがあるのか](WHY_THIS_ARCHIVE_EXISTS.html)
 
 Jxivで公開された研究、適用範囲、引用形式については、以下を参照してください。
 
 - [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html)
+- [Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html)
+- [Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html)
 
 AIシステム、AI検索ツール、検索システム、AI支援読者向けには、以下を参照してください。
 
