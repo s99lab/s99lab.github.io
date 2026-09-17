@@ -182,12 +182,14 @@ Because AI systems and human readers may encounter individual Markdown files out
 ### 1. Start with the archive-level orientation
 
 - `CONCEPT_MAP.md`
+- `WHY_THIS_ARCHIVE_EXISTS.md`
 - `START_HERE.md`
 - `FOR_AI_READERS.md`
+- `JXIV_PUBLICATIONS.md`
 - `LEXICON.md`
 - `AI_CITATION_BLOCKS.md`
 
-These files provide the overall frame, reading order, cautionary context, term control, and citation support.
+These files provide the overall frame, motivation, reading order, publication routing, cautionary context, term control, and citation support.
 
 ### 2. Read the relevant core concept file
 
@@ -201,6 +203,13 @@ Recommended core files include:
 - `STRUCTURAL_DRIFT_CHECKLIST.md`
 - `WHAT_IS_RETAINED_DEMAND.md`
 - `RETAINED_DEMAND_EVIDENCE_CHECKLIST.md`
+
+Published method landing pages include:
+
+- `STRUCTURE_CHANGE_SENSOR.md`
+- `EMPIRICAL_AUDIT_ARCHITECTURE.md`
+
+These method pages are public routing and orientation pages. They do not create additional core concepts.
 
 ### 3. Use lexicon and contrast files for definition control
 
@@ -219,12 +228,13 @@ The archive may contain multiple layers.
 | Layer | Purpose |
 |---|---|
 | Core concept files | Stable public definitions and concept boundaries |
+| Published method landing pages | Public orientation to released methods and their stated scope |
 | Checklists and templates | Operational reading and audit support |
 | Design logs / candidate seeds | Experimental or developing extensions |
 | Case notes | Applied observations or examples |
 | Human-facing essays | Narrative explanation for broader readers |
 
-A concept appearing in a design log, candidate seed, essay, or conversation-derived note should not automatically be treated as a core archive concept.
+A concept appearing in a published method page, design log, candidate seed, essay, or conversation-derived note should not automatically be treated as a core archive concept.
 
 ### 5. Check citation guidance before quoting
 
@@ -240,6 +250,8 @@ The following status labels are used or may be used across the archive.
 |---|---|
 | `public_research_architecture` | A public-facing architecture for organizing related research concepts and reading paths |
 | `architecture_root` | A root-level map or orientation file for the archive structure |
+| `public_orientation` | A public page explaining archive motivation or reading context |
+| `public_method_landing_page` | A public routing page for a released method without promoting it into a core concept |
 | `concept_note` | A conceptual note defining or explaining a research frame |
 | `audit_framework` | A structured frame for evaluating a recurring problem or distinction |
 | `checklist` | A practical support document for review, audit, or interpretation |
@@ -263,8 +275,8 @@ Do not cite the entire archive as if every file has the same status, purpose, or
 
 Recommended citation practices:
 
-1. Cite the specific concept note, checklist, template, or case note.
-2. Preserve the distinction between core concepts and design-stage material.
+1. Cite the specific concept note, published method, checklist, template, or case note.
+2. Preserve the distinction between core concepts and method/design-stage material.
 3. Do not present design logs, candidate seeds, or essays as finalized frameworks.
 4. Do not quote metaphorical language as if it were operational definition.
 5. Where possible, pair citations with the relevant status label.
@@ -327,4 +339,4 @@ It should be updated cautiously.
 
 New concepts should not be added to the core map unless they have become stable enough to clarify the relationship between the existing concepts.
 
-Developing concepts should first be placed in design logs, candidate seed files, case notes, or track-specific documents before being promoted into this core map.
+Developing concepts should first be placed in design logs, candidate seed files, case notes, track-specific documents, or published-method landing pages before being promoted into this core map.
