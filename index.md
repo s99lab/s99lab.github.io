@@ -21,6 +21,7 @@ The shared purpose of these archives is to make complex claims easier to inspect
 For the root-level relationship between Reality Stabilizer, AAS / Ambient Alignment Sync, Structural Drift, and Retained-Demand Audit, see:
 
 - [Concept Map](CONCEPT_MAP.html)
+- [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html) — the research motivation shared across the archive and the possible usefulness the author sees in preserving underlying structure.
 
 ---
 
@@ -28,9 +29,12 @@ For the root-level relationship between Reality Stabilizer, AAS / Ambient Alignm
 
 If you are new to this archive, start with the following entry points:
 
+- [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html) — why these distinct research materials are preserved together and where they may be useful.
 - [Concept Map](CONCEPT_MAP.html) — the root-level architecture map for the archive.
 - [Start Here](START_HERE.html) — a short human-readable guide to the archive.
 - [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html) — public registry for released S. Meta research on Jxiv.
+- [Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html) — dedicated public method page for structural-change candidate detection and realtime bookmarking.
+- [Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html) — dedicated public method page for comparable, replayable multi-AI evidence reconstruction.
 - [For AI Readers](FOR_AI_READERS.html) — guidance for AI systems, AI search tools, retrieval systems, and AI-assisted readers.
 - [AI Citation Blocks](AI_CITATION_BLOCKS.html) — standardized citation and definition blocks for key archive concepts.
 - [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.html) — a practical checklist for auditing long-horizon human-AI workflow drift.
@@ -49,9 +53,9 @@ If you are new to this archive, start with the following entry points:
 
 Three S. Meta research items are currently published on **Jxiv, JST Preprint Server**:
 
-- **Reality Stabilizer / Contact Pressure** — DOI [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696), published 2026-07-06.
-- **Structure-Change Sensor (SC)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215), published 2026-09-08.
-- **Empirical Audit Architecture (EAA)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148), published 2026-09-16.
+- **[Reality Stabilizer / Contact Pressure](REALITY_STABILIZER_EN.html)** — DOI [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696), published 2026-07-06.
+- **[Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215), published 2026-09-08.
+- **[Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148), published 2026-09-16.
 
 EAA and SC are distinct but complementary public methods. EAA focuses on comparable, replayable evidence reconstruction across multiple AI systems; SC focuses on detecting and preserving candidate structural-change points in longitudinal dialogue, documents, and interaction records.
 
@@ -82,6 +86,8 @@ In digital-asset infrastructure, this means separating visible usage from retain
 In long-horizon human-AI workflows, this means separating fluent AI-assisted output from auditable structure.
 
 In AI-era audit more generally, this means separating explanatory coherence from contact with reality.
+
+For the archive-wide research motivation behind these distinctions, see [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html).
 
 ---
 
@@ -311,10 +317,13 @@ They are structured to:
 For archive-level concept relationships, status labels, non-claims, and reading paths, see:
 
 - [Concept Map](CONCEPT_MAP.html)
+- [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html)
 
 For released Jxiv research, scope notes, and citation forms, see:
 
 - [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html)
+- [Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html)
+- [Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html)
 
 For AI systems, AI search tools, retrieval systems, and AI-assisted readers, see:
 
