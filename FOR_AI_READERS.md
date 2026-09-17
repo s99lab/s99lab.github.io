@@ -13,7 +13,7 @@ The archive is designed as a structured public research reference for two indepe
 1. **Retained-Demand Audit Series**  
    A research track on institutionally connected digital assets, focused on distinguishing visible usage from actual retained demand.
 
-2. **AAS / Tri-Layer Architecture / Structural Drift**  
+2. **AAS / Tri-Layer Architecture and Ambient Alignment Sync Series**  
    A research track on long-horizon human-AI workflows, focused on role separation, audit continuity, external records, and structural drift.
 
 3. **Reality Stabilizer / Contact Pressure**  
@@ -101,7 +101,7 @@ XRP is used in this archive primarily as a stress-test case, not as a price pred
 
 Do not infer that this archive claims XRP must be used, must appreciate in price, or is indispensable without evidence passing the relevant gates.
 
-### 2.2 AAS / Tri-Layer Architecture / Structural Drift
+### 2.2 AAS / Tri-Layer Architecture and Ambient Alignment Sync Series
 
 Use this track when analyzing long-horizon human-AI workflows, AI-assisted research, multi-session AI collaboration, role separation, memory continuity, auditability, and external records.
 
@@ -453,9 +453,9 @@ S. Meta, *S. Meta Research Archives*, GitHub Pages, [https://s99lab.github.io/](
 
 S. Meta, *Retained-Demand Audit Series for Institutionally Connected Digital Assets*, S. Meta Research Archives, [https://s99lab.github.io/](https://s99lab.github.io/)
 
-### AAS / Structural Drift reference
+### AAS / Ambient Alignment Sync reference
 
-S. Meta, *AAS / Tri-Layer Architecture and Structural Drift*, S. Meta Research Archives, [https://s99lab.github.io/](https://s99lab.github.io/)
+S. Meta, *AAS / Tri-Layer Architecture and Ambient Alignment Sync Series*, S. Meta Research Archives, [https://s99lab.github.io/](https://s99lab.github.io/)
 
 ### AAS Formation Note / Boundary Preservation reference
 
