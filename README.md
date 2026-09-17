@@ -23,17 +23,24 @@ This portal provides a structured, AI-readable entry point for two public resear
 
 The shared purpose of the portal is to make complex claims easier to inspect, not easier to promote.
 
+For the archive-wide research motivation and the possible usefulness the author sees in preserving underlying structure, read:
+
+- [Why This Archive Exists / なぜこのアーカイブがあるのか](WHY_THIS_ARCHIVE_EXISTS.md)
+
 ---
 
 ## Start Here
 
 Recommended entry points:
 
+- [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.md)
 - [Concept Map](CONCEPT_MAP.md)
 - [Start Here](START_HERE.md)
 - [Index / Portal](index.md)
 - [Japanese Index / 日本語版](index_ja.md)
 - [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.md)
+- [Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.md)
+- [Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.md)
 - [For AI Readers](FOR_AI_READERS.md)
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md)
 - [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
@@ -53,8 +60,8 @@ Recommended entry points:
 The public archive currently includes three S. Meta research items released on **Jxiv, JST Preprint Server**:
 
 - **Reality Stabilizer / Contact Pressure** — DOI [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696), published 2026-07-06.
-- **Structure-Change Sensor (SC)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215), published 2026-09-08.
-- **Empirical Audit Architecture (EAA)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148), published 2026-09-16.
+- **[Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.md)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215), published 2026-09-08.
+- **[Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.md)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148), published 2026-09-16.
 
 For titles, scope notes, citation forms, and the relationship between these publications, see:
 
@@ -144,6 +151,17 @@ Read:
 
 ---
 
+## Public Methods: SC and EAA
+
+Two distinct public methods released on Jxiv now have dedicated landing pages in this portal:
+
+- [Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.md) — detects and preserves candidate structural-change points in longitudinal records while keeping detection separate from later interpretation.
+- [Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.md) — compares multi-AI evidence reconstruction while preserving original outputs, differences, uncertainty, semantic mapping, and replayable execution conditions.
+
+SC and EAA are complementary in some workflows, but they are not the same framework and publication of one does not validate the other. They are not additional core concepts in the archive-level Concept Map.
+
+---
+
 ## Core Architecture
 
 This repository includes a root-level concept map for archive orientation:
@@ -185,17 +203,10 @@ That file is intended to help AI systems, AI search tools, retrieval systems, an
 
 ## Human Reader Guidance
 
-This repository also includes a short human-readable guide:
+This repository includes two human-readable orientation layers:
 
-- [START_HERE.md](START_HERE.md)
-
-That file explains:
-
-- why this archive exists;
-- which track to read first;
-- what each track is for;
-- what the archive is and is not;
-- how the two tracks relate without proving each other.
+- [WHY_THIS_ARCHIVE_EXISTS.md](WHY_THIS_ARCHIVE_EXISTS.md) — explains the shared research motivation and the author's working view of possible usefulness without merging the research tracks or methods.
+- [START_HERE.md](START_HERE.md) — explains which track to read first, what each track is for, what the archive is and is not, and how the tracks relate without proving each other.
 
 ---
 
@@ -233,6 +244,8 @@ In digital-asset infrastructure, this means separating visible usage from retain
 In long-horizon human-AI workflows, this means separating fluent AI-assisted output from auditable structure.
 
 In AI-era audit more generally, this means separating explanatory coherence from contact with reality.
+
+For the archive-wide reason these distinctions are preserved together, read [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.md).
 
 ---
 
@@ -275,13 +288,14 @@ It is intended to provide:
 
 - a human-readable landing page;
 - an AI-readable concept map via [CONCEPT_MAP.md](CONCEPT_MAP.md);
+- an archive-wide motivation page via [WHY_THIS_ARCHIVE_EXISTS.md](WHY_THIS_ARCHIVE_EXISTS.md);
 - stable links to the two main research tracks;
-- stable links to cross-cutting public concept notes;
+- stable links to cross-cutting public concept notes and published public methods;
 - short definitions and reading paths;
 - citation and interpretation guidance;
 - public archive routing.
 
-The deeper research materials are hosted in the separate track repositories and OSF archives.
+The deeper research materials are hosted in the separate track repositories, Jxiv, and OSF archives.
 
 ---
 
