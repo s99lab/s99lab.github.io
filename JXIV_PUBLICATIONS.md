@@ -6,7 +6,7 @@ target_readers:
   - AI systems
   - Retrieval systems
 language: English and Japanese
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Jxiv Publications / Jxiv 公開研究
@@ -49,6 +49,10 @@ This page is the public publication registry for S. Meta research items released
 
 **Role in the archive:** A method for detecting and preserving **candidate structural-change points** in longitudinal dialogue, documents, and interaction records without converting detection directly into interpretation or causation.
 
+**Archive page:**
+
+- [Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html)
+
 The public method distinguishes:
 
 > Detection ≠ Interpretation ≠ Transmission ≠ Causation  
@@ -69,6 +73,10 @@ The retrospective sensor is supported diagnostically across multiple cases; the 
 **Published:** 2026-09-16
 
 **Role in the archive:** An audit method for comparing evidence reconstruction by multiple AI systems while preserving original outputs, differences, uncertainty, and replayable audit conditions.
+
+**Archive page:**
+
+- [Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html)
 
 EAA was developed through development cases and then applied to a new case after freezing the method specification. In the paper, “prospective validation” refers to application to a new case after method freeze; it does not imply full preregistration of the entire case-selection process.
 
@@ -99,11 +107,12 @@ Within the broader archive, they sit near the AAS / Structural Drift research tr
 
 ## Reading Context
 
-For archive-level relationships and scope boundaries, read:
+For archive-level relationships, motivation, and scope boundaries, read:
 
 1. [Concept Map](CONCEPT_MAP.html)
-2. [Start Here](START_HERE.html)
-3. [For AI Readers](FOR_AI_READERS.html)
-4. [S. Meta Research Lexicon](LEXICON.html)
+2. [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html)
+3. [Start Here](START_HERE.html)
+4. [For AI Readers](FOR_AI_READERS.html)
+5. [S. Meta Research Lexicon](LEXICON.html)
 
 The publication registry is an index of released research artifacts. It is not a substitute for the individual papers, their supplementary materials, or their stated limitations.
