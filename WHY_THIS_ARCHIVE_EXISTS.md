@@ -79,14 +79,15 @@ This is a research possibility, not a claim of validated generality.
 
 ## 4. Possible practical relevance
 
-The individual papers and concept notes define their own scope. At the archive level, the work may be relevant to settings such as:
+The individual papers and concept notes define their own scope. The examples below are not claims of validated effectiveness across all of these domains; they are concrete settings in which the archive's distinctions may be worth testing.
 
-- long-horizon AI-assisted research and writing;
-- organizational decision histories and review trails;
-- multi-model evidence reconstruction and comparison;
-- longitudinal dialogue, document, and interaction-record review;
-- checking AI-generated proposals before they become real-world decisions;
-- infrastructure or digital-asset analysis where visible usage must be separated from actual retained demand.
+- **Long-horizon AI-assisted research and writing** — preserving where human judgment, AI suggestions, working hypotheses, evidence status, and revision conditions changed across weeks, months, or longer projects.
+- **Organizational and project decision histories** — reconstructing who decided what, under which assumptions, and where a policy, responsibility boundary, or operating rule changed across meetings, email, documents, and AI-generated summaries.
+- **Multi-model evidence reconstruction** — comparing AI systems that reach similar high-level conclusions while differing in source coverage, temporal linkage, uncertainty, normalization, or information contact.
+- **Finding structural turning points in long records** — reviewing dialogue, research notes, learning records, customer interactions, or project logs for changes in judgment rules, scope, roles, assumptions, or method architecture rather than merely listing events.
+- **Pre-implementation audit of AI-generated proposals** — checking whether a coherent business plan, policy proposal, research hypothesis, investment thesis, or system design is connected to real responsibility, cost, authority, execution paths, failure conditions, and revision mechanisms.
+- **Lifespan development and long-term cognitive change** — using longitudinal dialogue, writing, learning records, daily-life records, or human-AI interaction histories to identify candidate transition points in reasoning, abstraction, self-correction, perspective-taking, memory use, and metacognition from childhood development through later-life cognitive change. SC does not diagnose neurological, psychiatric, or developmental conditions; it may help identify when and where closer developmental, cognitive, or clinical investigation is warranted.
+- **Transfer to future reviewers, collaborators, or AI systems** — preserving enough external structure that someone without the original chat history or authorial memory can reconstruct why the current structure exists, what changed along the way, and which boundaries should not be collapsed.
 
 These examples do not expand the claims of the individual papers. For specific intended uses, evidence status, and limitations, read the relevant source document.
 
@@ -201,16 +202,17 @@ For the existing public concept and track pages:
 
 ## 4. 役立つ可能性のある場面
 
-個別の論文・概念ノートには、それぞれ固有の適用範囲があります。その範囲を広げすぎないことを前提に、アーカイブ全体としては、例えば次のような場面との接点があります。
+個別の論文・概念ノートには、それぞれ固有の適用範囲があります。以下は、これらすべての領域で有効性が検証済みだという主張ではなく、アーカイブ全体の問題意識を試す価値があり得る具体例です。
 
-- 長期的なAI支援研究・執筆
-- 組織判断の形成履歴とレビュー
-- 複数AIによる証拠再構成の比較
-- 長期対話・文書・相互作用記録の振り返り
-- AIが生成した企画や分析を実務判断へ移す前の点検
-- デジタル資産やインフラで、表面上の利用と実際に残る需要を分ける分析
+- **長期的なAI支援研究・執筆** — 数週間・数か月、あるいはそれ以上にわたる研究や執筆の中で、人間の判断、AIの提案、作業仮説、証拠の状態、修正条件がどこで変わったかを後から追えるようにしたい場面。
+- **組織・プロジェクトの意思決定履歴** — 会議、メール、文書、AI要約が蓄積する中で、誰が何をどの前提で決め、どの時点で方針、責任境界、運用ルールが変わったかを再構成したい場面。
+- **複数AIによる証拠再構成と比較** — 複数のAIが似た結論に到達していても、参照した証拠、時系列の結び方、不確実性、正規化、情報接触の違いを比較したい場面。
+- **長期記録から構造的な転換点を探す作業** — 対話、研究ノート、学習記録、顧客対応、プロジェクトログなどから、単に「何が起きたか」ではなく、判断規則、対象範囲、役割、前提、方法アーキテクチャがどこで変わったかを探したい場面。
+- **AI生成案の実装前監査** — AIが生成した事業計画、政策案、研究仮説、投資仮説、システム案などについて、説明の整合性だけでなく、責任主体、費用、権限、実行経路、失敗条件、修正経路まで確認したい場面。
+- **生涯発達・長期的な認知変化** — 対話、作文、学習履歴、生活記録、AIとの相互作用などを長期的に蓄積し、推論、抽象化、自己修正、他者視点、記憶の使い方、メタ認知などの変化候補を、子どもの発達から高齢期の認知変化まで時系列で捉えたい場面。SCは神経学的・精神医学的・発達上の診断を行うものではありませんが、「いつ、どこで変化が始まった可能性があるか」を示し、より詳しい発達・認知・臨床的検討につなげる候補検出器として利用できる可能性があります。
+- **将来の第三者・AIへの引き継ぎ** — 元の担当者、過去チャット、著者自身の記憶に依存せず、外部記録だけから「なぜ現在の構造になったのか」「途中で何が変わったのか」「何を混同してはいけないのか」を再構成できるようにしたい場面。
 
-具体的な用途、検証状態、限界については、それぞれの公開論文・公開資料を参照してください。
+これらの例は、個別論文の主張範囲を拡張するものではありません。具体的な用途、検証状態、限界については、それぞれの公開論文・公開資料を参照してください。
 
 ---
 
