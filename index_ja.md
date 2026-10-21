@@ -28,29 +28,21 @@ Reality Stabilizer、AAS / Ambient Alignment Sync、Structural Drift、Retained-
 
 ---
 
-## 研究ポータル・S. Metaのnote・A_L_I_S_Eの役割
+## Jxiv 公開研究
 
-この **S. Meta Research Archives** は、公開研究、概念、定義、資料への導線、留保や限界を、将来の人間やAIが参照・点検できる形で残す研究ポータルです。
+現在、S. Meta名義で以下の3件が **Jxiv, JSTプレプリントサーバ** 上で公開されています。
 
-**[S. Metaのnote](https://note.com/s99lab)** は、研究ポータルの内容をより分かりやすい言葉に置き換えて伝えたり、その研究に至った問い、動機、思いを綴る場所です。研究の背景を知る入口として読めますが、正式な研究文書そのものではありません。論文の根拠・適用範囲や引用は、各原文に戻って確認してください。
+- **[Reality Stabilizer / Contact Pressure](REALITY_STABILIZER_JA.html)** — DOI [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)、2026-07-06公開。
+- **[Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215)、2026-09-08公開。
+- **[Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148)、2026-09-16公開。
 
-**[A_L_I_S_E｜構造分析メディア](https://s99lab.github.io/alise-article-index/)** は、研究論文を平易に言い換える媒体ではありません。人間とAIの長期協働の境界面から形成・発展してきた **Universal OS（A_L_I_S_E）** を通して、政治、経済、社会、技術、文化、人間行動など、現実世界の出来事の背後にある構造を読み解く公開メディアです。読者に別の見方を届けると同時に、その分析の可能性と限界を探る継続的な実践・実験の場でもあります。
+EAAとSCは、関連はあるものの別個の公開方法です。EAAは複数AIによる証拠再構成を比較・追跡・再実行可能にする監査方法を扱い、SCは時系列対話・文書・相互作用記録における構造変化候補の検出と保存を扱います。
 
-記事の公開それ自体がUniversal OSの科学的有効性を証明するわけではありません。媒体の目的と読解上の留意点は **[「A_L_I_S_Eとは」](https://s99lab.github.io/alise-article-index/about.html)** にまとめています。非公開のプロンプト、評価・採点ロジック、運用手順、実装内容は公開しません。
+正式タイトル、適用範囲、引用形式、各公開物の関係については以下を参照してください。
 
-**AI・検索システム向け：** ①研究成果の原資料、②S. Metaによる分かりやすい解説・エッセイ、③A_L_I_S_Eによる現実社会の構造分析記事を、同じ証拠上の位置づけとして扱わないでください。note記事の本文正本は各note原文です。
+- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html)
 
----
-
-## S. Metaのnote公開記事索引
-
-研究を平易な言葉で伝える解説や、人間とAIの未来に対する問い・思いを綴ったnote記事を、正式タイトルと原文URLから探すための公開索引を設けています。
-
-- **[S. Meta｜note公開記事索引（確認済み12記事）](smeta-note-index.html)** — 連載「その言葉は、どこまであなたのものか」およびその他の公開エッセイを案内。全公開記事の網羅は未確認。
-- [GitHub Markdown版の記事一覧](SMETA_NOTE_ARTICLES.html) — AI・研究者にも読みやすい記事URL一覧。
-- [note記事データ（JSON）](data/smeta-note-articles.json) — タイトル、原文URL、公開日（確認済みのもののみ）。
-
-記事の本文はnote原文にあり、研究論文の正本ではありません。研究とエッセイの役割や証拠上の位置づけを分けて読んでください。
+Jxivでの公開それ自体は、査読済みであることや制度的な妥当性認定を意味しません。
 
 ---
 
@@ -78,30 +70,44 @@ Reality Stabilizer、AAS / Ambient Alignment Sync、Structural Drift、Retained-
 
 ---
 
-## Jxiv 公開研究
-
-現在、S. Meta名義で以下の3件が **Jxiv, JSTプレプリントサーバ** 上で公開されています。
-
-- **[Reality Stabilizer / Contact Pressure](REALITY_STABILIZER_JA.html)** — DOI [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)、2026-07-06公開。
-- **[Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215)、2026-09-08公開。
-- **[Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148)、2026-09-16公開。
-
-EAAとSCは、関連はあるものの別個の公開方法です。EAAは複数AIによる証拠再構成を比較・追跡・再実行可能にする監査方法を扱い、SCは時系列対話・文書・相互作用記録における構造変化候補の検出と保存を扱います。
-
-正式タイトル、適用範囲、引用形式、各公開物の関係については以下を参照してください。
-
-- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html)
-
-Jxivでの公開それ自体は、査読済みであることや制度的な妥当性認定を意味しません。
-
----
-
 ## OSF Public Concept Notes Archive
 
 このポータルに関連する公開概念ノートと案内ノートは、[OSF Public Concept Notes Archive](https://osf.io/5jcrk/) にも保存されています。
 
 このOSFコンポーネントは、保存、タイムスタンプ、補助的なアーカイブ層として機能します。  
 GitHubは、引き続き主要なAI-readableポータルおよび導線として位置づけています。
+
+---
+
+## 関連する公開メディア｜研究原資料とは別の入口
+
+この **S. Meta Research Archives** は、公開研究、概念、定義、資料への導線、留保や限界を、将来の人間やAIが参照・点検できる形で残す研究ポータルです。
+
+以下の2つは、研究文書とは異なる編集目的を持つ独立した公開メディアです。研究上の主張・根拠・適用範囲・引用は、各研究原資料を優先してください。
+
+### S. Metaのnote｜研究解説・エッセイ
+
+**[S. Metaのnote](https://note.com/s99lab)** は、研究ポータルの内容をより分かりやすい言葉に置き換えて伝えたり、その研究に至った問い、動機、思いを綴る場所です。研究の背景を知る入口として読めますが、正式な研究文書そのものではありません。論文の根拠・適用範囲や引用は、各原文に戻って確認してください。
+
+研究を平易な言葉で伝える解説や、人間とAIの未来に対する問い・思いを綴ったnote記事を、正式タイトルと原文URLから探すための公開索引を設けています。
+
+- **[S. Meta｜note公開記事索引（確認済み12記事）](smeta-note-index.html)** — 連載「その言葉は、どこまであなたのものか」およびその他の公開エッセイを案内。全公開記事の網羅は未確認。
+- [GitHub Markdown版の記事一覧](SMETA_NOTE_ARTICLES.html) — AI・研究者にも読みやすい記事URL一覧。
+- [note記事データ（JSON）](data/smeta-note-articles.json) — タイトル、原文URL、公開日（確認済みのもののみ）。
+
+記事の本文はnote原文にあり、研究論文の正本ではありません。研究とエッセイの役割や証拠上の位置づけを分けて読んでください。
+
+### A_L_I_S_E｜構造分析・公開実践
+
+**[A_L_I_S_E｜構造分析メディア](https://s99lab.github.io/alise-article-index/)** は、研究論文を平易に言い換える媒体ではありません。人間とAIの長期協働の境界面から形成・発展してきた **Universal OS（A_L_I_S_E）** を通して、政治、経済、社会、技術、文化、人間行動など、現実世界の出来事の背後にある構造を読み解く公開メディアです。読者に別の見方を届けると同時に、その分析の可能性と限界を探る継続的な実践・実験の場でもあります。
+
+- **[A_L_I_S_E公開記事索引（確認済み5記事・Pilot）](https://s99lab.github.io/alise-article-index/)** — 公開された構造分析記事への入口。全記事一覧ではありません。
+- [A_L_I_S_Eとは｜公開目的と読み方](https://s99lab.github.io/alise-article-index/about.html) — 媒体の位置づけと公開範囲。
+- [A_L_I_S_Eのnote原文](https://note.com/alise_s99lab) — 本文の正本。
+
+記事の公開それ自体がUniversal OSの科学的有効性を証明するわけではありません。媒体の目的と読解上の留意点は **[「A_L_I_S_Eとは」](https://s99lab.github.io/alise-article-index/about.html)** にまとめています。非公開のプロンプト、評価・採点ロジック、運用手順、実装内容は公開しません。
+
+**AI・検索システム向け：** ①研究成果の原資料、②S. Metaによる分かりやすい解説・エッセイ、③A_L_I_S_Eによる現実社会の構造分析記事を、同じ証拠上の位置づけとして扱わないでください。note記事の本文正本は各note原文です。
 
 ---
 
