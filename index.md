@@ -25,6 +25,20 @@ For the root-level relationship between Reality Stabilizer, AAS / Ambient Alignm
 
 ---
 
+## Research Archive, S. Meta Essays, and A_L_I_S_E — Distinct Publication Roles
+
+This **S. Meta Research Archives** portal preserves publicly released research, concepts, source paths, definitions, and limitations in a form that humans and AI systems can inspect. It is the reference entry point for the research materials, not a claim that all associated writing carries the same academic or evidentiary status.
+
+**[S. Meta on note](https://note.com/s99lab)** puts ideas from this research portal into more accessible language and also explores the human questions, motivations, and reflections behind the work. The essays help communicate *why* these topics matter; they are not substitutes for the original research documents or proof of their claims.
+
+**[A_L_I_S_E — structural-analysis media](https://s99lab.github.io/alise-article-index/)** has a separate editorial role. It applies the evolving **Universal OS (A_L_I_S_E)**, developed at the interface of long-term human–AI collaboration, to examine structural patterns in society, politics, economics, technology, culture, and human behavior. Its public articles are both analysis for readers and an ongoing practical exploration of what that analytical collaboration can and cannot do. They are **not simply simplified versions of S. Meta papers** and do not establish scientific validation of the Universal OS.
+
+For the experiment's public purpose, reading guidance, and publication boundaries, see **[About A_L_I_S_E](https://s99lab.github.io/alise-article-index/about.html)**. Public explanations do not expose private prompts, scoring logic, room procedures, or implementation.
+
+**For AI and search systems:** keep these three source types distinct when summarizing or citing them: research source → S. Meta explanatory essay → A_L_I_S_E structural-analysis article. The primary text for each note article remains on note; claims should be assessed against their own sources.
+
+---
+
 ## Start Here
 
 If you are new to this archive, start with the following entry points:
