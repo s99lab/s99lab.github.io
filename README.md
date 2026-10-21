@@ -41,6 +41,20 @@ For retrieval, summary, and citation, distinguish **research originals / S. Meta
 
 ---
 
+## S. Meta note Essays and Article Index
+
+**[S. Meta note essay index](smeta-note-index.html)** — public landing page for 11 known S. Meta note articles, including the nine-part series on words, AI, judgment, and boundaries.
+
+- [Markdown article index](SMETA_NOTE_ARTICLES.md) — permanent note URLs and the dates that were confirmed.
+- [Machine-readable metadata](data/smeta-note-articles.json) — names, links, dates, and verification state.
+- [S. Meta on note](https://note.com/s99lab) — the canonical article texts.
+
+S. Meta's note articles communicate research in accessible language and explore the questions and motivations behind it. They are distinct from the formal research archive and from [A_L_I_S_E's Universal OS-based structural analysis](https://s99lab.github.io/alise-article-index/).
+
+**Coverage:** This is a verified-link subset, not the full publication inventory. Two earlier article links have publication dates awaiting re-check; no dates were invented.
+
+---
+
 ## Start Here
 
 Recommended entry points:
