@@ -23,7 +23,7 @@
 
 Reality Stabilizer、AAS / Ambient Alignment Sync、Structural Drift、Retained-Demand Audit の関係を確認する場合は、以下を参照してください。
 
-- [Concept Map（英語版）](CONCEPT_MAP.html)
+- [Concept Map（英日併記）](CONCEPT_MAP.html)
 - [Why This Archive Exists / なぜこのアーカイブがあるのか](WHY_THIS_ARCHIVE_EXISTS.html) — これらの異なる研究を一つの公開アーカイブに置く理由と、著者が感じている可能性。
 
 ---
@@ -51,7 +51,7 @@ Jxivでの公開それ自体は、査読済みであることや制度的な妥�
 このアーカイブを初めて読む場合は、以下のページから入ることを推奨します。
 
 - [Why This Archive Exists / なぜこのアーカイブがあるのか](WHY_THIS_ARCHIVE_EXISTS.html) — 共通する問題意識と、何に役立つ可能性を感じているか。
-- [Concept Map（英語版）](CONCEPT_MAP.html) — アーカイブ全体の概念関係を示すルート地図。
+- [Concept Map（英日併記）](CONCEPT_MAP.html) — アーカイブ全体の概念関係を示すルート地図。
 - [Start Here](START_HERE.html) — アーカイブ全体の短い案内。
 - [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html) — Jxivで公開されたS. Meta研究の公開レジストリ。
 - [Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html) — 構造変化候補の検出とリアルタイム・ブックマーキングを扱う専用ページ。
@@ -182,7 +182,7 @@ AI時代の監査一般では、これは「説明の整合性」と「現実へ
 
 推奨する読解順は以下の通りです。
 
-1. [Concept Map（英語版）](CONCEPT_MAP.html)
+1. [Concept Map（英日併記）](CONCEPT_MAP.html)
 2. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.html)
 3. [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.html)
 4. [S. Meta Research Lexicon](LEXICON.html)
@@ -198,7 +198,7 @@ AI時代の監査一般では、これは「説明の整合性」と「現実へ
 - [OSF DOI: 10.17605/OSF.IO/VQDUJ](https://doi.org/10.17605/OSF.IO/VQDUJ)
 - [OSFプロジェクトページ](https://osf.io/vqduj/)
 - [Phase II Materials DOI: 10.17605/OSF.IO/7R8AT](https://doi.org/10.17605/OSF.IO/7R8AT)
-- [Phase II Materials コンポーネント](https://osf.io/78at/)
+- [Phase II Materials コンポーネント](https://osf.io/7r8at/)
 
 ---
 
@@ -288,7 +288,7 @@ Formation Note は、AASの背後にある「なぜ」を説明します。
 
 推奨する読解順は以下の通りです。
 
-1. [Concept Map（英語版）](CONCEPT_MAP.html)
+1. [Concept Map（英日併記）](CONCEPT_MAP.html)
 2. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.html)
 3. [AAS Formation Note / Boundary Preservation（英語版）](AAS_FORMATION_NOTE_EN.html)
 4. [AAS Formation Note / Boundary Preservation（日本語版）](AAS_FORMATION_NOTE_JA.html)
@@ -296,7 +296,7 @@ Formation Note は、AASの背後にある「なぜ」を説明します。
 6. [S. Meta Research Lexicon](LEXICON.html)
 7. [For AI Readers](FOR_AI_READERS.html)
 8. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
-9. Structural Drift Research Note（準備中）
+9. [Structural Drift Research Note（公開研究ノート・Markdown）](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/STRUCTURAL_DRIFT_RESEARCH_NOTE.md) ／ [PDF](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf)
 10. AAS v2.0 候補メモ・設計ログ（必要に応じて参照）
 11. [OSF保存アーカイブ](https://osf.io/j29hk/)
 
@@ -360,7 +360,7 @@ Reality Stabilizer は、**第三の研究トラックではありません**。
 
 アーカイブ全体の概念関係、ステータス、非主張、読解順については、以下を参照してください。
 
-- [Concept Map（英語版）](CONCEPT_MAP.html)
+- [Concept Map（英日併記）](CONCEPT_MAP.html)
 - [Why This Archive Exists / なぜこのアーカイブがあるのか](WHY_THIS_ARCHIVE_EXISTS.html)
 
 Jxivで公開された研究、適用範囲、引用形式については、以下を参照してください。
