@@ -43,7 +43,7 @@ For the experiment's public purpose, reading guidance, and publication boundarie
 
 S. Meta publishes accessible explanations of ideas from the research archive as well as essays about their origins, questions, and human meaning. These are **editorial essays rather than research originals**.
 
-- **[S. Meta note article index — 11 confirmed article URLs](smeta-note-index.html)** — public essay index, including the *To what extent are those words your own?* series; not presented as a complete list.
+- **[S. Meta note article index — 12 confirmed article URLs](smeta-note-index.html)** — public essay index, including the *To what extent are those words your own?* series; not presented as a complete list.
 - [Markdown article reference](SMETA_NOTE_ARTICLES.html) / [Machine-readable JSON](data/smeta-note-articles.json) — original note URLs, titles, and publication dates where verified.
 - [S. Meta's note profile](https://note.com/s99lab) — authoritative article texts.
 
