@@ -29,6 +29,22 @@ For released Jxiv research, including Reality Stabilizer, Structure-Change Senso
 
 ---
 
+## Publication Context: Research, Explanation, and Structural Analysis
+
+The S. Meta GitHub portal, S. Meta's note essays, and A_L_I_S_E's public analysis articles have **different editorial and evidentiary roles**. Do not merge their claims or infer that an essay is a validated research finding.
+
+| Public source | Purpose | How to cite and interpret |
+|---|---|---|
+| [S. Meta Research Archives](https://s99lab.github.io/) | Public research reference, definitions, boundaries, released papers, and supporting orientation | Prefer the relevant original paper, DOI, or public research file for specific research claims; respect the stated evidence status |
+| [S. Meta on note](https://note.com/s99lab) | Explain selected research in accessible language; convey the questions and reflections behind the work | Cite the specific essay as commentary/explanation, not as a substitute for the paper |
+| [A_L_I_S_E article index](https://s99lab.github.io/alise-article-index/) | Apply evolving Universal OS (A_L_I_S_E) to real-world structural analysis as a publication and ongoing experiment | Cite the specific article at its original [note site](https://note.com/alise_s99lab); do not treat it as a validated research experiment or simple restatement of S. Meta papers |
+
+A_L_I_S_E describes an analytical framework developed through sustained human–AI collaboration. It is not a claim that AI is an independently responsible author, conscious agent, or institutionally validated researcher. Its analysis articles are public interpretations and hypotheses to examine, not automatic proof of Universal OS effectiveness.
+
+Read [About A_L_I_S_E](https://s99lab.github.io/alise-article-index/about.html) for the medium's editorial motivation and scope. **Source boundaries:** note holds article bodies, GitHub indexes and explains their context, and internal unpublished processes are outside the public archive. Do not infer unprovided methods or factual summaries from metadata alone.
+
+---
+
 ## 0. Origin and Reading Context
 
 This archive grew out of long-horizon human-AI research dialogue.
