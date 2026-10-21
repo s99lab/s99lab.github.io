@@ -39,6 +39,18 @@ For the experiment's public purpose, reading guidance, and publication boundarie
 
 ---
 
+## S. Meta Essays on note — Public Article Index
+
+S. Meta publishes accessible explanations of ideas from the research archive as well as essays about their origins, questions, and human meaning. These are **editorial essays rather than research originals**.
+
+- **[S. Meta note article index — 11 confirmed article URLs](smeta-note-index.html)** — public essay index, including the *To what extent are those words your own?* series; not presented as a complete list.
+- [Markdown article reference](SMETA_NOTE_ARTICLES.html) / [Machine-readable JSON](data/smeta-note-articles.json) — original note URLs, titles, and publication dates where verified.
+- [S. Meta's note profile](https://note.com/s99lab) — authoritative article texts.
+
+This essay index is distinct from the [A_L_I_S_E structural-analysis media](https://s99lab.github.io/alise-article-index/), which applies Universal OS to real-world subjects.
+
+---
+
 ## Start Here
 
 If you are new to this archive, start with the following entry points:
