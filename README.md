@@ -43,7 +43,7 @@ For retrieval, summary, and citation, distinguish **research originals / S. Meta
 
 ## S. Meta note Essays and Article Index
 
-**[S. Meta note essay index](smeta-note-index.html)** — public landing page for 11 known S. Meta note articles, including the nine-part series on words, AI, judgment, and boundaries.
+**[S. Meta note essay index](smeta-note-index.html)** — public landing page for 12 confirmed S. Meta note articles, including the nine-part series on words, AI, judgment, and boundaries.
 
 - [Markdown article index](SMETA_NOTE_ARTICLES.md) — permanent note URLs and the dates that were confirmed.
 - [Machine-readable metadata](data/smeta-note-articles.json) — names, links, dates, and verification state.
