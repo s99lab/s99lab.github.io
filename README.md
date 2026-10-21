@@ -29,35 +29,6 @@ For the archive-wide research motivation and the possible usefulness the author 
 
 ---
 
-## Public Writing and Editorial Contexts
-
-This research portal is the structured public reference for **S. Meta's research**, definitions, evidence status, and source documents.
-
-- **[S. Meta on note](https://note.com/s99lab)** explains selected research concepts in accessible language and records the questions and personal motivations behind them. Its essays are editorial writing, not replacements for research originals.
-- **[A_L_I_S_E](https://s99lab.github.io/alise-article-index/)** is a distinct structural-analysis medium and ongoing public experiment. It applies **Universal OS (A_L_I_S_E)**, formed and developed at the interface of long-term human–AI collaboration, to real-world social, political, economic, technological, cultural, and behavioral topics. These articles are not automatically research findings or validation of the analytical system.
-- **[What A_L_I_S_E is and why it is public](https://s99lab.github.io/alise-article-index/about.html)** provides the human-readable and AI-readable editorial context.
-
-For retrieval, summary, and citation, distinguish **research originals / S. Meta explanatory essays / A_L_I_S_E structural-analysis articles**. The full text of a note article is authoritative at its note URL. The public websites do not disclose private operational methodologies.
-
----
-
-## S. Meta note Essays and Article Index
-
-**GitHub repositories:** You are viewing the [S. Meta research repository](https://github.com/s99lab/s99lab.github.io). For A_L_I_S_E articles and site maintenance, open the [separate A_L_I_S_E article-index repository](https://github.com/s99lab/alise-article-index). For S. Meta essay page edits, use [smeta-note-index.html](smeta-note-index.html).
-
-
-**[S. Meta note essay index](smeta-note-index.html)** — public landing page for 12 confirmed S. Meta note articles, including the nine-part series on words, AI, judgment, and boundaries.
-
-- [Markdown article index](SMETA_NOTE_ARTICLES.md) — permanent note URLs and the dates that were confirmed.
-- [Machine-readable metadata](data/smeta-note-articles.json) — names, links, dates, and verification state.
-- [S. Meta on note](https://note.com/s99lab) — the canonical article texts.
-
-S. Meta's note articles communicate research in accessible language and explore the questions and motivations behind it. They are distinct from the formal research archive and from [A_L_I_S_E's Universal OS-based structural analysis](https://s99lab.github.io/alise-article-index/).
-
-**Coverage:** This is a verified-link subset, not the full publication inventory. Two earlier article links have publication dates awaiting re-check; no dates were invented.
-
----
-
 ## Start Here
 
 Recommended entry points:
@@ -107,6 +78,35 @@ Jxiv publication should not be read as peer review or institutional validation u
 Public concept notes and orientation notes associated with this portal are also preserved in the [OSF Public Concept Notes component](https://osf.io/5jcrk/).
 
 This OSF component currently includes materials such as Reality Stabilizer / Contact Pressure and AAS Formation Note / Boundary Preservation. GitHub remains the primary AI-readable portal and routing layer; OSF functions as a preservation, timestamping, and supplementary archive layer.
+
+---
+
+## Public Writing and Editorial Contexts
+
+This research portal is the structured public reference for **S. Meta's research**, definitions, evidence status, and source documents.
+
+- **[S. Meta on note](https://note.com/s99lab)** explains selected research concepts in accessible language and records the questions and personal motivations behind them. Its essays are editorial writing, not replacements for research originals.
+- **[A_L_I_S_E](https://s99lab.github.io/alise-article-index/)** is a distinct structural-analysis medium and ongoing public experiment. It applies **Universal OS (A_L_I_S_E)**, formed and developed at the interface of long-term human–AI collaboration, to real-world social, political, economic, technological, cultural, and behavioral topics. These articles are not automatically research findings or validation of the analytical system.
+- **[What A_L_I_S_E is and why it is public](https://s99lab.github.io/alise-article-index/about.html)** provides the human-readable and AI-readable editorial context.
+
+For retrieval, summary, and citation, distinguish **research originals / S. Meta explanatory essays / A_L_I_S_E structural-analysis articles**. The full text of a note article is authoritative at its note URL. The public websites do not disclose private operational methodologies.
+
+---
+
+## S. Meta note Essays and Article Index
+
+**GitHub repositories:** You are viewing the [S. Meta research repository](https://github.com/s99lab/s99lab.github.io). For A_L_I_S_E articles and site maintenance, open the [separate A_L_I_S_E article-index repository](https://github.com/s99lab/alise-article-index). For S. Meta essay page edits, use [smeta-note-index.html](smeta-note-index.html).
+
+
+**[S. Meta note essay index](smeta-note-index.html)** — public landing page for 12 confirmed S. Meta note articles, including the nine-part series on words, AI, judgment, and boundaries.
+
+- [Markdown article index](SMETA_NOTE_ARTICLES.md) — permanent note URLs and the dates that were confirmed.
+- [Machine-readable metadata](data/smeta-note-articles.json) — names, links, dates, and verification state.
+- [S. Meta on note](https://note.com/s99lab) — the canonical article texts.
+
+S. Meta's note articles communicate research in accessible language and explore the questions and motivations behind it. They are distinct from the formal research archive and from [A_L_I_S_E's Universal OS-based structural analysis](https://s99lab.github.io/alise-article-index/).
+
+**Coverage:** This is a verified-link subset, not the full publication inventory. Two earlier article links have publication dates awaiting re-check; no dates were invented.
 
 ---
 
