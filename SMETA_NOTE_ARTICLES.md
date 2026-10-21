@@ -1,6 +1,6 @@
 # S. Meta｜note公開記事索引
 
-**noteで公開した研究解説・エッセイへの参照一覧（確認済みリンク11件／全記事一覧ではありません）**
+**noteで公開した研究解説・エッセイへの参照一覧（確認済みリンク12件／全記事一覧ではありません）**
 
 **記事を読む：** [S. Meta note記事索引（GitHub Pages）](smeta-note-index.html)  
 **原文の正本：** [S. Meta on note](https://note.com/s99lab)  
@@ -28,6 +28,7 @@
 |---|---|
 | [AIは人類を滅ぼすのか――AIと人類の未来スコープ](https://note.com/s99lab/n/n2dc9722a26ab) | 2026-09-26 |
 | [AI時代における、新ATフィールド論](https://note.com/s99lab/n/n30d8579388d3) | 2026-06-11 |
+| [境界膜の更新――AI時代における、新ATフィールド論2.0](https://note.com/s99lab/n/nf1599fe48d67) | 2026-07-30 |
 
 ---
 
