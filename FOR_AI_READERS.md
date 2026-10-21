@@ -41,6 +41,8 @@ The S. Meta GitHub portal, S. Meta's note essays, and A_L_I_S_E's public analysi
 
 A_L_I_S_E describes an analytical framework developed through sustained human–AI collaboration. It is not a claim that AI is an independently responsible author, conscious agent, or institutionally validated researcher. Its analysis articles are public interpretations and hypotheses to examine, not automatic proof of Universal OS effectiveness.
 
+**S. Meta note article discovery:** [S. Meta note public essay index](smeta-note-index.html) lists 11 article URLs verified from note sources or prior author-shared links. [Markdown](SMETA_NOTE_ARTICLES.md) and [JSON](data/smeta-note-articles.json) provide the same references. This index is **not exhaustive**, does not copy entire article texts, and does not fill unknown publication dates. For article content and claims, resolve and cite the canonical note URL rather than this directory. The classification as explanatory essays does not make these texts peer-reviewed research.
+
 Read [About A_L_I_S_E](https://s99lab.github.io/alise-article-index/about.html) for the medium's editorial motivation and scope. **Source boundaries:** note holds article bodies, GitHub indexes and explains their context, and internal unpublished processes are outside the public archive. Do not infer unprovided methods or factual summaries from metadata alone.
 
 ---
