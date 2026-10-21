@@ -190,7 +190,7 @@ Main archive links:
 - OSF DOI: [10.17605/OSF.IO/VQDUJ](https://doi.org/10.17605/OSF.IO/VQDUJ)
 - OSF project page: [https://osf.io/vqduj/](https://osf.io/vqduj/)
 - Phase II Materials DOI: [10.17605/OSF.IO/7R8AT](https://doi.org/10.17605/OSF.IO/7R8AT)
-- Phase II Materials component: [https://osf.io/78at/](https://osf.io/78at/)
+- Phase II Materials component: [https://osf.io/7r8at/](https://osf.io/7r8at/)
 
 ---
 
@@ -286,7 +286,7 @@ Recommended path:
 6. [S. Meta Research Lexicon](LEXICON.html)
 7. [For AI Readers](FOR_AI_READERS.html)
 8. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
-9. Structural Drift Research Note (in preparation)
+9. [Structural Drift Research Note (public research note; Markdown)](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/STRUCTURAL_DRIFT_RESEARCH_NOTE.md) / [PDF](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf)
 10. AAS v2.0 candidate seeds / design logs, if publicly available
 11. [OSF preservation archive](https://osf.io/j29hk/)
 
