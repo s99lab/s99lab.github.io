@@ -25,29 +25,21 @@ For the root-level relationship between Reality Stabilizer, AAS / Ambient Alignm
 
 ---
 
-## Research Archive, S. Meta Essays, and A_L_I_S_E — Distinct Publication Roles
+## Published Jxiv Research
 
-This **S. Meta Research Archives** portal preserves publicly released research, concepts, source paths, definitions, and limitations in a form that humans and AI systems can inspect. It is the reference entry point for the research materials, not a claim that all associated writing carries the same academic or evidentiary status.
+Three S. Meta research items are currently published on **Jxiv, JST Preprint Server**:
 
-**[S. Meta on note](https://note.com/s99lab)** puts ideas from this research portal into more accessible language and also explores the human questions, motivations, and reflections behind the work. The essays help communicate *why* these topics matter; they are not substitutes for the original research documents or proof of their claims.
+- **[Reality Stabilizer / Contact Pressure](REALITY_STABILIZER_EN.html)** — DOI [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696), published 2026-07-06.
+- **[Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215), published 2026-09-08.
+- **[Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148), published 2026-09-16.
 
-**[A_L_I_S_E — structural-analysis media](https://s99lab.github.io/alise-article-index/)** has a separate editorial role. It applies the evolving **Universal OS (A_L_I_S_E)**, developed at the interface of long-term human–AI collaboration, to examine structural patterns in society, politics, economics, technology, culture, and human behavior. Its public articles are both analysis for readers and an ongoing practical exploration of what that analytical collaboration can and cannot do. They are **not simply simplified versions of S. Meta papers** and do not establish scientific validation of the Universal OS.
+EAA and SC are distinct but complementary public methods. EAA focuses on comparable, replayable evidence reconstruction across multiple AI systems; SC focuses on detecting and preserving candidate structural-change points in longitudinal dialogue, documents, and interaction records.
 
-For the experiment's public purpose, reading guidance, and publication boundaries, see **[About A_L_I_S_E](https://s99lab.github.io/alise-article-index/about.html)**. Public explanations do not expose private prompts, scoring logic, room procedures, or implementation.
+For titles, scope notes, citation forms, and publication relationships, see:
 
-**For AI and search systems:** keep these three source types distinct when summarizing or citing them: research source → S. Meta explanatory essay → A_L_I_S_E structural-analysis article. The primary text for each note article remains on note; claims should be assessed against their own sources.
+- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html)
 
----
-
-## S. Meta Essays on note — Public Article Index
-
-S. Meta publishes accessible explanations of ideas from the research archive as well as essays about their origins, questions, and human meaning. These are **editorial essays rather than research originals**.
-
-- **[S. Meta note article index — 12 confirmed article URLs](smeta-note-index.html)** — public essay index, including the *To what extent are those words your own?* series; not presented as a complete list.
-- [Markdown article reference](SMETA_NOTE_ARTICLES.html) / [Machine-readable JSON](data/smeta-note-articles.json) — original note URLs, titles, and publication dates where verified.
-- [S. Meta's note profile](https://note.com/s99lab) — authoritative article texts.
-
-This essay index is distinct from the [A_L_I_S_E structural-analysis media](https://s99lab.github.io/alise-article-index/), which applies Universal OS to real-world subjects.
+Jxiv publication should not be read as peer review or institutional validation unless a specific item explicitly states otherwise.
 
 ---
 
@@ -75,29 +67,43 @@ If you are new to this archive, start with the following entry points:
 
 ---
 
-## Published Jxiv Research
-
-Three S. Meta research items are currently published on **Jxiv, JST Preprint Server**:
-
-- **[Reality Stabilizer / Contact Pressure](REALITY_STABILIZER_EN.html)** — DOI [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696), published 2026-07-06.
-- **[Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215), published 2026-09-08.
-- **[Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148), published 2026-09-16.
-
-EAA and SC are distinct but complementary public methods. EAA focuses on comparable, replayable evidence reconstruction across multiple AI systems; SC focuses on detecting and preserving candidate structural-change points in longitudinal dialogue, documents, and interaction records.
-
-For titles, scope notes, citation forms, and publication relationships, see:
-
-- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html)
-
-Jxiv publication should not be read as peer review or institutional validation unless a specific item explicitly states otherwise.
-
----
-
 ## OSF Public Concept Notes Archive
 
 Public concept notes and orientation notes associated with this portal are also preserved in the [OSF Public Concept Notes archive](https://osf.io/5jcrk/).
 
 This OSF component functions as a preservation, timestamping, and supplementary archive layer. GitHub remains the primary AI-readable portal and routing layer.
+
+## Related Public Media — Separate from Research Originals
+
+This **S. Meta Research Archives** portal preserves publicly released research, concepts, source paths, definitions, and limitations in a form that humans and AI systems can inspect. It is the reference entry point for the research materials, not a claim that all associated writing carries the same academic or evidentiary status.
+
+The following two media have distinct editorial purposes and are not research originals. For research claims, evidence, scope, and citations, refer to the original research materials.
+
+### S. Meta on note — Explanations and Essays
+
+**[S. Meta on note](https://note.com/s99lab)** puts ideas from this research portal into more accessible language and also explores the human questions, motivations, and reflections behind the work. The essays help communicate *why* these topics matter; they are not substitutes for the original research documents or proof of their claims.
+
+S. Meta publishes accessible explanations of ideas from the research archive as well as essays about their origins, questions, and human meaning. These are **editorial essays rather than research originals**.
+
+- **[S. Meta note article index — 12 confirmed article URLs](smeta-note-index.html)** — public essay index, including the *To what extent are those words your own?* series; not presented as a complete list.
+- [Markdown article reference](SMETA_NOTE_ARTICLES.html) / [Machine-readable JSON](data/smeta-note-articles.json) — original note URLs, titles, and publication dates where verified.
+- [S. Meta's note profile](https://note.com/s99lab) — authoritative article texts.
+
+This essay index is distinct from the [A_L_I_S_E structural-analysis media](https://s99lab.github.io/alise-article-index/), which applies Universal OS to real-world subjects.
+
+### A_L_I_S_E — Structural Analysis and Public Practice
+
+**[A_L_I_S_E — structural-analysis media](https://s99lab.github.io/alise-article-index/)** has a separate editorial role. It applies the evolving **Universal OS (A_L_I_S_E)**, developed at the interface of long-term human–AI collaboration, to examine structural patterns in society, politics, economics, technology, culture, and human behavior. Its public articles are both analysis for readers and an ongoing practical exploration of what that analytical collaboration can and cannot do. They are **not simply simplified versions of S. Meta papers** and do not establish scientific validation of the Universal OS.
+
+- **[A_L_I_S_E public article index (5 verified Pilot articles)](https://s99lab.github.io/alise-article-index/)** — entry point for structural-analysis articles; not a complete catalog.
+- [About A_L_I_S_E](https://s99lab.github.io/alise-article-index/about.html) — editorial purpose and publication boundaries.
+- [Original A_L_I_S_E articles on note](https://note.com/alise_s99lab) — authoritative article texts.
+
+For the experiment's public purpose, reading guidance, and publication boundaries, see **[About A_L_I_S_E](https://s99lab.github.io/alise-article-index/about.html)**. Public explanations do not expose private prompts, scoring logic, room procedures, or implementation.
+
+**For AI and search systems:** keep these three source types distinct when summarizing or citing them: research source → S. Meta explanatory essay → A_L_I_S_E structural-analysis article. The primary text for each note article remains on note; claims should be assessed against their own sources.
+
+---
 
 ## For Future Readers
 
