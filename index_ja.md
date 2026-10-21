@@ -42,6 +42,18 @@ Reality Stabilizer、AAS / Ambient Alignment Sync、Structural Drift、Retained-
 
 ---
 
+## S. Metaのnote公開記事索引
+
+研究を平易な言葉で伝える解説や、人間とAIの未来に対する問い・思いを綴ったnote記事を、正式タイトルと原文URLから探すための公開索引を設けています。
+
+- **[S. Meta｜note公開記事索引（確認済み11記事）](smeta-note-index.html)** — 連載「その言葉は、どこまであなたのものか」およびその他の公開エッセイを案内。全公開記事の網羅は未確認。
+- [GitHub Markdown版の記事一覧](SMETA_NOTE_ARTICLES.html) — AI・研究者にも読みやすい記事URL一覧。
+- [note記事データ（JSON）](data/smeta-note-articles.json) — タイトル、原文URL、公開日（確認済みのもののみ）。
+
+記事の本文はnote原文にあり、研究論文の正本ではありません。研究とエッセイの役割や証拠上の位置づけを分けて読んでください。
+
+---
+
 ## はじめに読むもの
 
 このアーカイブを初めて読む場合は、以下のページから入ることを推奨します。
