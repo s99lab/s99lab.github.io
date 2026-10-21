@@ -43,6 +43,9 @@ For retrieval, summary, and citation, distinguish **research originals / S. Meta
 
 ## S. Meta note Essays and Article Index
 
+**GitHub repositories:** You are viewing the [S. Meta research repository](https://github.com/s99lab/s99lab.github.io). For A_L_I_S_E articles and site maintenance, open the [separate A_L_I_S_E article-index repository](https://github.com/s99lab/alise-article-index). For S. Meta essay page edits, use [smeta-note-index.html](smeta-note-index.html).
+
+
 **[S. Meta note essay index](smeta-note-index.html)** — public landing page for 12 confirmed S. Meta note articles, including the nine-part series on words, AI, judgment, and boundaries.
 
 - [Markdown article index](SMETA_NOTE_ARTICLES.md) — permanent note URLs and the dates that were confirmed.
