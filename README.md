@@ -29,6 +29,18 @@ For the archive-wide research motivation and the possible usefulness the author 
 
 ---
 
+## Public Writing and Editorial Contexts
+
+This research portal is the structured public reference for **S. Meta's research**, definitions, evidence status, and source documents.
+
+- **[S. Meta on note](https://note.com/s99lab)** explains selected research concepts in accessible language and records the questions and personal motivations behind them. Its essays are editorial writing, not replacements for research originals.
+- **[A_L_I_S_E](https://s99lab.github.io/alise-article-index/)** is a distinct structural-analysis medium and ongoing public experiment. It applies **Universal OS (A_L_I_S_E)**, formed and developed at the interface of long-term human–AI collaboration, to real-world social, political, economic, technological, cultural, and behavioral topics. These articles are not automatically research findings or validation of the analytical system.
+- **[What A_L_I_S_E is and why it is public](https://s99lab.github.io/alise-article-index/about.html)** provides the human-readable and AI-readable editorial context.
+
+For retrieval, summary, and citation, distinguish **research originals / S. Meta explanatory essays / A_L_I_S_E structural-analysis articles**. The full text of a note article is authoritative at its note URL. The public websites do not disclose private operational methodologies.
+
+---
+
 ## Start Here
 
 Recommended entry points:
