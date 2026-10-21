@@ -65,7 +65,7 @@ footer a{color:#d9e4e8}
 </style>
 </head>
 <body>
-<header><div class="wrap top"><a class="brand" href="./">S. Meta</a><nav aria-label="主要ページ"><a href="index_ja.html">研究ポータル</a><a href="WHY_THIS_ARCHIVE_EXISTS.html">研究を公開する理由</a><a href="https://note.com/s99lab" target="_blank" rel="noopener noreferrer">note原文 ↗</a></nav></div></header>
+<header><div class="wrap top"><a class="brand" href="./">S. Meta</a><nav aria-label="主要ページ"><a href="index_ja.html">研究ポータル</a><a href="https://s99lab.github.io/alise-article-index/">A_L_I_S_E記事索引 ↗</a><a href="WHY_THIS_ARCHIVE_EXISTS.html">研究を公開する理由</a><a href="https://note.com/s99lab" target="_blank" rel="noopener noreferrer">note原文 ↗</a></nav></div></header>
 <main class="wrap">
 <section class="hero">
 <div class="kicker">S. META / ESSAYS &amp; REFLECTIONS / NOTE INDEX</div>
@@ -103,7 +103,7 @@ footer a{color:#d9e4e8}
 <p><a href="https://s99lab.github.io/alise-article-index/about.html">A_L_I_S_E</a> は別の構造分析メディアで、Universal OSを現実世界に当てる継続的な実践・実験の場です。S. Metaのnoteエッセイとは役割が異なります。</p>
 <p>AI・検索システム向け：各記事のタイトルと正規URLは <a href="data/smeta-note-articles.json">機械可読JSON</a> にも記録しています。本文内容の確認や引用にはnote原文を優先し、未確認の公開日を推定しないでください。</p></section>
 </main>
-<footer><div class="wrap foot"><span>© S. Meta — note essay index</span><span><a href="index_ja.html">研究ポータル</a>　<a href="https://note.com/s99lab">note</a>　<a href="data/smeta-note-articles.json">JSON</a></span></div></footer>
+<footer><div class="wrap foot"><span>© S. Meta — note essay index</span><span><a href="index_ja.html">研究ポータル</a>　<a href="https://s99lab.github.io/alise-article-index/">A_L_I_S_E記事索引 ↗</a>　<a href="https://note.com/s99lab">note原文</a>　<a href="data/smeta-note-articles.json">JSON</a></span></div></footer>
 <script>
 const field=document.getElementById("filter"),articles=[...document.querySelectorAll(".item")],count=document.getElementById("count"),empty=document.getElementById("empty");
 field.addEventListener("input",()=>{const q=field.value.trim().toLowerCase();let n=0;for(const item of articles){const match=item.dataset.search.toLowerCase().includes(q);item.hidden=!match;if(match)n++;}for(const group of document.querySelectorAll("section.catalog")){group.hidden=![...group.querySelectorAll(".item")].some(item=>!item.hidden);}count.textContent=String(n);empty.hidden=n>0;});
