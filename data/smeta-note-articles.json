@@ -12,7 +12,7 @@
     "fullTextCopied": false,
     "unverifiedPublishedDates": null
   },
-  "count": 11,
+  "count": 12,
   "articles": [
     {
       "id": "intro",
@@ -100,6 +100,15 @@
       "title": "AI時代における、新ATフィールド論",
       "url": "https://note.com/s99lab/n/n30d8579388d3",
       "datePublished": "2026-06-11",
+      "category": "essay",
+      "collection": null,
+      "verification": "note_page"
+    },
+    {
+      "id": "at-field-2",
+      "title": "境界膜の更新――AI時代における、新ATフィールド論2.0",
+      "url": "https://note.com/s99lab/n/nf1599fe48d67",
+      "datePublished": "2026-07-30",
       "category": "essay",
       "collection": null,
       "verification": "note_page"
