@@ -1,0 +1,117 @@
+{
+  "name": "S. Meta note public essay index",
+  "publisher": "S. Meta",
+  "noteProfile": "https://note.com/s99lab",
+  "researchPortal": "https://s99lab.github.io/",
+  "status": "verified-link-subset-not-exhaustive",
+  "lastUpdated": "2026-10-21",
+  "editorialPurpose": "Explain public research in accessible language and write about the questions and motivations behind it. Essays are not substitutes for research originals.",
+  "canonicalContent": "Original note articles",
+  "policy": {
+    "linksOnly": true,
+    "fullTextCopied": false,
+    "unverifiedPublishedDates": null
+  },
+  "count": 11,
+  "articles": [
+    {
+      "id": "intro",
+      "title": "序章｜その言葉は、どこまであなたのものか",
+      "url": "https://note.com/s99lab/n/ncb946608fc6b",
+      "datePublished": null,
+      "category": "series",
+      "collection": "その言葉は、どこまであなたのものか",
+      "verification": "shared_url"
+    },
+    {
+      "id": "chapter-1",
+      "title": "第1章｜人類は何を外に置いてきたのか",
+      "url": "https://note.com/s99lab/n/n698f6c36eb6b",
+      "datePublished": null,
+      "category": "series",
+      "collection": "その言葉は、どこまであなたのものか",
+      "verification": "shared_url"
+    },
+    {
+      "id": "chapter-2",
+      "title": "第2章｜AIは判断の手前に入ってくる",
+      "url": "https://note.com/s99lab/n/n921dcb9130c1",
+      "datePublished": "2026-06-02",
+      "category": "series",
+      "collection": "その言葉は、どこまであなたのものか",
+      "verification": "note_page"
+    },
+    {
+      "id": "chapter-3",
+      "title": "第3章｜知的重力",
+      "url": "https://note.com/s99lab/n/n36f60b2a9795",
+      "datePublished": "2026-06-04",
+      "category": "series",
+      "collection": "その言葉は、どこまであなたのものか",
+      "verification": "note_page"
+    },
+    {
+      "id": "chapter-4",
+      "title": "第4章｜つながるが、融合しない",
+      "url": "https://note.com/s99lab/n/n62a0a6cf8257",
+      "datePublished": "2026-06-06",
+      "category": "series",
+      "collection": "その言葉は、どこまであなたのものか",
+      "verification": "note_page"
+    },
+    {
+      "id": "chapter-5",
+      "title": "第5章｜個人の境界は、社会の境界になる",
+      "url": "https://note.com/s99lab/n/n0ac8b29698eb",
+      "datePublished": "2026-06-08",
+      "category": "series",
+      "collection": "その言葉は、どこまであなたのものか",
+      "verification": "note_page"
+    },
+    {
+      "id": "chapter-6",
+      "title": "第6章｜誰の判断でもない社会",
+      "url": "https://note.com/s99lab/n/n83383959d8f4",
+      "datePublished": "2026-06-08",
+      "category": "series",
+      "collection": "その言葉は、どこまであなたのものか",
+      "verification": "note_page"
+    },
+    {
+      "id": "chapter-7",
+      "title": "第7章｜レビューできない文明",
+      "url": "https://note.com/s99lab/n/ne7214d18771f",
+      "datePublished": "2026-06-10",
+      "category": "series",
+      "collection": "その言葉は、どこまであなたのものか",
+      "verification": "note_page"
+    },
+    {
+      "id": "final",
+      "title": "終章｜判断する文明",
+      "url": "https://note.com/s99lab/n/nbca3d00d1695",
+      "datePublished": "2026-06-11",
+      "category": "series",
+      "collection": "その言葉は、どこまであなたのものか",
+      "verification": "note_page"
+    },
+    {
+      "id": "at-field",
+      "title": "AI時代における、新ATフィールド論",
+      "url": "https://note.com/s99lab/n/n30d8579388d3",
+      "datePublished": "2026-06-11",
+      "category": "essay",
+      "collection": null,
+      "verification": "note_page"
+    },
+    {
+      "id": "future-scope",
+      "title": "AIは人類を滅ぼすのか――AIと人類の未来スコープ",
+      "url": "https://note.com/s99lab/n/n2dc9722a26ab",
+      "datePublished": "2026-09-26",
+      "category": "essay",
+      "collection": null,
+      "verification": "note_page"
+    }
+  ]
+}
