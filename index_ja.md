@@ -87,7 +87,7 @@
           <span class="smeta-no">03 / DIGITAL ASSETS</span>
           <h3>利用は、いつ需要として残るのか。</h3>
           <p>決済やインフラでの利用と、在庫・担保・流動性として実際に保持される需要を区別する。</p>
-          <a href="WHAT_IS_RETAINED_DEMAND.html">Retained-Demandを知る</a>
+          <a href="WHAT_IS_RETAINED_DEMAND_JA.html">Retained-Demandを知る</a>
         </article>
       </div>
     </div>
@@ -157,7 +157,7 @@
 推奨する読解順は以下の通りです。
 
 1. [Concept Map（英日併記）](CONCEPT_MAP.html)
-2. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.html)
+2. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND_JA.html)
 3. [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.html)
 4. [S. Meta Research Lexicon](LEXICON.html)
 5. [Retained-Demand GitHub Archive](https://github.com/s99lab/retained-demand-audit-series)
@@ -263,7 +263,7 @@ Formation Note は、AASの背後にある「なぜ」を説明します。
 推奨する読解順は以下の通りです。
 
 1. [Concept Map（英日併記）](CONCEPT_MAP.html)
-2. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.html)
+2. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT_JA.html)
 3. [AAS Formation Note / Boundary Preservation（英語版）](AAS_FORMATION_NOTE_EN.html)
 4. [AAS Formation Note / Boundary Preservation（日本語版）](AAS_FORMATION_NOTE_JA.html)
 5. [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.html)
