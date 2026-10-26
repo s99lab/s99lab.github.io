@@ -141,9 +141,6 @@ For the existing public concept and track pages:
 
 ---
 
-
----
-
 # 日本語
 
-日本語の全文は、独立した[なぜこのアーカイブがあるのか](WHY_THIS_ARCHIVE_EXISTS_JA.html)に収録しています。英語ページにあった日本語節は同じ本文だったため、日英の正本をそれぞれ一つに整理しました。
+日本語の全文は[日本語版](WHY_THIS_ARCHIVE_EXISTS_JA.html)をご覧ください。
