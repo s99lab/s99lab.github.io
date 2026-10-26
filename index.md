@@ -15,7 +15,7 @@
       </nav>
     </div>
   </header>
-  <main>
+  <div class="smeta-main">
     <section class="smeta-hero" aria-labelledby="smeta-main-title">
       <div class="smeta-container smeta-hero-grid">
         <div>
@@ -100,7 +100,7 @@
         </div>
       </div>
     </section>
-  </main>
+  </div>
   <footer class="smeta-footer">
     <div class="smeta-container smeta-footer-inner">
       <span>For research claims, consult the original papers and their associated evidence.</span>
