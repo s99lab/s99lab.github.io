@@ -9,7 +9,7 @@
     <div class="smeta-container smeta-navline">
       <a class="smeta-brand" href="index_ja.html">S. META <span>/ RESEARCH ARCHIVES</span></a>
       <nav class="smeta-nav" aria-label="ページ内の案内">
-        <a href="#publications">公開物</a>
+        <a href="#publications">4つの分類</a>
         <a href="#research-map">研究の系統</a>
         <a href="RESTART_HERE_JA.html" aria-label="AI向けの最初に読む再読込ガイド">AIの入口</a>
         <a class="smeta-lang" href="index.html" hreflang="en">English</a>
@@ -53,22 +53,27 @@
     </section>
     <section class="smeta-section" id="publications" aria-labelledby="smeta-work-title">
       <div class="smeta-container">
-        <div class="smeta-section-heading"><div><span class="smeta-kicker">WHAT IS HERE</span><h2 id="smeta-work-title">ここで公開しているもの</h2></div><p class="smeta-section-desc">研究、エッセイ、構造分析。目的の異なる3つの入口です。</p></div>
+        <div class="smeta-section-heading"><div><span class="smeta-kicker">PUBLIC INFORMATION MAP</span><h2 id="smeta-work-title">公開情報の4つの分類</h2></div><p class="smeta-section-desc">分類は「何を読むか」、リポジトリは「どこに保管・管理するか」を示します。</p></div>
         <div class="smeta-cards">
           <article class="smeta-card smeta-card-feature">
-            <div class="smeta-card-meta"><span>01 / RESEARCH</span><span class="smeta-num">03</span></div>
-            <h3>公開研究</h3><p>Jxiv公開研究3件と、各研究シリーズの記録・方法論・関連資料。</p>
-            <a class="smeta-card-link" href="JXIV_PUBLICATIONS_JA.html">研究成果を読む</a>
+            <div class="smeta-card-meta"><span>01 / MAIN・メイン</span></div>
+            <h3>全体の入口</h3><p>なぜ公開するのか、研究全体の見取り図、人間とAIそれぞれの読書案内。</p>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="START_HERE_JA.html">はじめての方へ</a><a class="smeta-card-link" href="RESTART_HERE_JA.html">AI・再読込ガイド</a></div>
           </article>
           <article class="smeta-card">
-            <div class="smeta-card-meta"><span>02 / ESSAYS</span><span class="smeta-num">12</span></div>
-            <h3>S. Meta note</h3><p>研究の背景にある問い、人間とAIの未来への思いを綴るエッセイ。</p>
-            <a class="smeta-card-link" href="smeta-note-index.html">エッセイを読む</a>
+            <div class="smeta-card-meta"><span>02 / RESEARCH・研究系</span></div>
+            <h3>研究・論文</h3><p>2つの研究シリーズの原本と、別個にJxiv公開された3つの研究。</p>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="#research-map">研究の系統図</a><a class="smeta-card-link" href="JXIV_PUBLICATIONS_JA.html">Jxiv公開研究一覧</a></div>
           </article>
           <article class="smeta-card">
-            <div class="smeta-card-meta"><span>03 / ANALYSIS</span><span class="smeta-num">50</span></div>
-            <h3>A_L_I_S_E</h3><p>社会・経済・技術など、現実の出来事の背後にある構造を読み解くメディア。</p>
-            <a class="smeta-card-link" href="https://s99lab.github.io/alise-article-index/">構造分析を読む</a>
+            <div class="smeta-card-meta"><span>03 / WRITING・note系</span></div>
+            <h3>エッセイ・構造分析</h3><p>目的の異なる2つのnote。GitHubは記事索引、本文の正本はnoteにあります。</p>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="smeta-note-index.html">S. Meta note（12件）</a><a class="smeta-card-link" href="https://s99lab.github.io/alise-article-index/">A_L_I_S_E（50件）</a></div>
+          </article>
+          <article class="smeta-card">
+            <div class="smeta-card-meta"><span>04 / REFERENCE・その他</span></div>
+            <h3>参照・引用資料</h3><p>概念の関係、用語の定義、引用方法、出典を確認するための案内。</p>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="CONCEPT_MAP_JA.html">概念マップ</a><a class="smeta-card-link" href="LEXICON_JA.html">用語集</a></div>
           </article>
         </div>
       </div>
