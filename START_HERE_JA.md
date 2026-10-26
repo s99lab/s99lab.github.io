@@ -4,6 +4,8 @@
 
 S. Meta Research Archivesは、説明や現象の表面と、その下で実際に成り立っている構造を区別して考える公開研究アーカイブです。
 
+**公開情報は4つの分類です。** MAIN（全体案内）・RESEARCH（研究系）・WRITING（S. Meta note／A_L_I_S_E）・REFERENCE（概念・用語・引用案内）。分類と実際のGitHubの保管場所の対応は[リポジトリ案内](README.md)をご覧ください。note記事本文の正本はnote、研究原本は個別の論文・研究リポジトリです。
+
 ## このアーカイブにあるもの
 
 - **Retained-Demand Audit Series：** 制度に接続されたデジタル資産で、使われることと、保有需要として残ることを区別する研究。
