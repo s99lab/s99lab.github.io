@@ -38,6 +38,19 @@
         </aside>
       </div>
     </section>
+    <section class="smeta-purpose" id="purpose" aria-labelledby="smeta-purpose-title">
+      <div class="smeta-container smeta-purpose-grid">
+        <div>
+          <span class="smeta-kicker">WHY THIS ARCHIVE EXISTS</span>
+          <h2 id="smeta-purpose-title" class="smeta-purpose-title">なぜ、答えだけでなく過程を残すのか。</h2>
+        </div>
+        <div class="smeta-purpose-body">
+          <p>成果や結論は残せても、それを形づくった判断、当時見えていた証拠、途中で変わった前提は、時間とともに見えにくくなります。AIが研究や意思決定に深く関わるほど、「もっともらしい説明」と「後から確かめられる過程」の違いが重要になります。</p>
+          <p>このアーカイブで残そうとしているのは、完成した答えだけではありません。人間も将来のAIも、問いの出発点や根拠、考えが変わっていく道筋をたどり直せる公開の記録です。デジタル資産、人間とAIの協働、現実との接触という異なる研究を通じて、その可能性を探っています。</p>
+          <a class="smeta-purpose-link" href="WHY_THIS_ARCHIVE_EXISTS_JA.html">なぜこのアーカイブがあるのかを読む →</a>
+        </div>
+      </div>
+    </section>
     <section class="smeta-section" id="publications" aria-labelledby="smeta-work-title">
       <div class="smeta-container">
         <div class="smeta-section-heading"><div><span class="smeta-kicker">WHAT IS HERE</span><h2 id="smeta-work-title">ここで公開しているもの</h2></div><p class="smeta-section-desc">研究、エッセイ、構造分析。目的の異なる3つの入口です。</p></div>
