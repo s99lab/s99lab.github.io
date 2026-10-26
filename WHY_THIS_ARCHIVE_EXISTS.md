@@ -11,6 +11,9 @@ updated: 2026-09-17
 
 # Why This Archive Exists / なぜこのアーカイブがあるのか
 
+**Language: English (Japanese section also below)** ｜ [日本語版](WHY_THIS_ARCHIVE_EXISTS_JA.html) ｜ [Home](index.html)
+
+
 This page explains the research motivation that connects the S. Meta Research Archives without collapsing its distinct concepts, methods, or research tracks into one theory.
 
 このページは、S. Meta Research Archives に置かれた複数の研究・概念・方法を、一つの理論へ統合してしまうことなく、その背後にある共通の問題意識を説明するための案内ページです。
