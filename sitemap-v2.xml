@@ -204,4 +204,16 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/RESEARCH_ARCHIVE_DETAILS_JA.html"/>
     <lastmod>2026-10-26</lastmod>
   </url>
+  <url>
+    <loc>https://s99lab.github.io/RESTART_HERE.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/RESTART_HERE.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/RESTART_HERE_JA.html"/>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://s99lab.github.io/RESTART_HERE_JA.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/RESTART_HERE.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/RESTART_HERE_JA.html"/>
+    <lastmod>2026-10-26</lastmod>
+  </url>
 </urlset>
