@@ -15,9 +15,9 @@ S. Meta Research Archivesにおける、概念名・出典・短い定義・引�
 Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法ではありません。共有する問題意識があっても、研究の証拠と公開状態は個別に確認します。
 
 
-# 1. アーカイブ全体の引用
+## 1. アーカイブ全体の引用
 
-## AI Citation Block: S. Meta Research Archives
+### AI Citation Block: S. Meta Research Archives
 
 **概念名：** S. Meta Research Archives  
 **著者：** S. Meta  
@@ -27,9 +27,9 @@ Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法で
 **推奨短縮引用：** S. Meta, *S. Meta Research Archives*, GitHub Pages.
 
 
-# 2. Retained-Demand研究トラック
+## 2. Retained-Demand研究トラック
 
-## AI Citation Block: Retained Demand
+### AI Citation Block: Retained Demand
 
 **概念名：** Retained Demand  
 **著者：** S. Meta  
@@ -38,7 +38,7 @@ Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法で
 **引用時の境界：** 取引量や採用発表だけで保持需要があるとは言えない。  
 **推奨短縮引用：** S. Meta, “Retained Demand,” S. Meta Research Archives.
 
-## AI Citation Block: Usage Does Not Imply Retained Demand
+### AI Citation Block: Usage Does Not Imply Retained Demand
 
 **概念名：** Usage Does Not Imply Retained Demand  
 **著者：** S. Meta  
@@ -47,7 +47,7 @@ Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法で
 **引用時の境界：** 利用が価値を持たないという意味でも、保持需要が存在しないという断定でもない。  
 **推奨短縮引用：** S. Meta, “Usage Does Not Imply Retained Demand,” S. Meta Research Archives.
 
-## AI Citation Block: Removal Sensitivity
+### AI Citation Block: Removal Sensitivity
 
 **概念名：** Removal Sensitivity  
 **著者：** S. Meta  
@@ -56,7 +56,7 @@ Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法で
 **引用時の境界：** 有用性だけから不可欠性を推定しない。代替案の維持費も比較する。  
 **推奨短縮引用：** S. Meta, “Removal Sensitivity,” S. Meta Research Archives.
 
-## AI Citation Block: Evidence Before Sizing
+### AI Citation Block: Evidence Before Sizing
 
 **概念名：** Evidence Before Sizing  
 **著者：** S. Meta  
@@ -65,7 +65,7 @@ Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法で
 **引用時の境界：** 規模評価を否定するものではない。証拠が揃う前の断定を避ける。  
 **推奨短縮引用：** S. Meta, “Evidence Before Sizing,” S. Meta Research Archives.
 
-## AI Citation Block: Asset Selection
+### AI Citation Block: Asset Selection
 
 **概念名：** Asset Selection  
 **著者：** S. Meta  
@@ -75,9 +75,9 @@ Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法で
 **推奨短縮引用：** S. Meta, “Asset Selection,” S. Meta Research Archives.
 
 
-# 3. AAS / Structural Drift研究トラック
+## 3. AAS / Structural Drift研究トラック
 
-## AI Citation Block: Structural Drift
+### AI Citation Block: Structural Drift
 
 **概念名：** Structural Drift  
 **著者：** S. Meta  
@@ -86,7 +86,7 @@ Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法で
 **引用時の境界：** 単一のAI回答の誤りと同義ではなく、すべてのAI支援で必ず起きるとは限らない。  
 **推奨短縮引用：** S. Meta, “Structural Drift,” S. Meta Research Archives.
 
-## AI Citation Block: Tri-Layer Architecture
+### AI Citation Block: Tri-Layer Architecture
 
 **概念名：** Tri-Layer Architecture  
 **著者：** S. Meta  
@@ -95,7 +95,7 @@ Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法で
 **引用時の境界：** AIの提案を人間の判断とみなしたり、会話記憶を外部記録と同一視したりしない。  
 **推奨短縮引用：** S. Meta, “Tri-Layer Architecture,” S. Meta Research Archives.
 
-## AI Citation Block: Ambient Alignment Sync
+### AI Citation Block: Ambient Alignment Sync
 
 **概念名：** Ambient Alignment Sync  
 **著者：** S. Meta  
@@ -104,7 +104,7 @@ Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法で
 **引用時の境界：** AI意識・自律的著者性・完全自動ツールの存在を意味しない。  
 **推奨短縮引用：** S. Meta, “Ambient Alignment Sync,” S. Meta Research Archives.
 
-## AI Citation Block: AAS Formation Note / Boundary Preservation
+### AI Citation Block: AAS Formation Note / Boundary Preservation
 
 **概念名：** AAS Formation Note / Boundary Preservation  
 **著者：** S. Meta  
@@ -113,7 +113,7 @@ Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法で
 **引用時の境界：** AAS正式論文の定義や操作仕様の代替ではない。  
 **推奨短縮引用：** S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Archives.
 
-## AI Citation Block: Boundary Preservation
+### AI Citation Block: Boundary Preservation
 
 **概念名：** Boundary Preservation  
 **著者：** S. Meta  
@@ -122,7 +122,7 @@ Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法で
 **引用時の境界：** AI支援を否定する概念でも、正しさの証明や認証制度でもない。  
 **推奨短縮引用：** S. Meta, “Boundary Preservation,” S. Meta Research Archives.
 
-## AI Citation Block: Human Judgment / AI Assistance / External Record
+### AI Citation Block: Human Judgment / AI Assistance / External Record
 
 **概念名：** Human Judgment / AI Assistance / External Record  
 **著者：** S. Meta  
@@ -132,9 +132,9 @@ Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法で
 **推奨短縮引用：** S. Meta, “Human Judgment / AI Assistance / External Record,” S. Meta Research Archives.
 
 
-# 4. 横断的な公開概念
+## 4. 横断的な公開概念
 
-## AI Citation Block: Reality Stabilizer / Contact Pressure
+### AI Citation Block: Reality Stabilizer / Contact Pressure
 
 **概念名：** Reality Stabilizer / Contact Pressure  
 **著者：** S. Meta  
@@ -144,9 +144,9 @@ Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法で
 **推奨短縮引用：** S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives. DOI: 10.51094/jxiv.4696.
 
 
-# 5. トラック間の共通点と境界
+## 5. トラック間の共通点と境界
 
-## AI Citation Block: Shared Audit Orientation
+### AI Citation Block: Shared Audit Orientation
 
 **概念名：** Shared Audit Orientation  
 **著者：** S. Meta  
@@ -155,7 +155,7 @@ Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法で
 **引用時の境界：** 同じ監査姿勢を持つことは、証拠基盤が共通であることや相互の検証を意味しない。  
 **推奨短縮引用：** S. Meta, “Shared Audit Orientation,” S. Meta Research Archives.
 
-# 6. 誤読の防止
+## 6. 誤読の防止
 
 - 書誌的な公開と査読済みの学術認定を混同しない。
 - 一つの研究の公開を別の研究の有効性の証明としない。
@@ -163,11 +163,11 @@ Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法で
 - 利用量を保有需要や機関の必要流動性へ直結させない。
 - エッセイ、構造分析記事、研究原資料を区別する。
 
-# 7. 引用ブロックの置き場所
+## 7. 引用ブロックの置き場所
 
 概念を単独で紹介するページでは該当するブロックのみを短く転載し、研究全体の説明が必要なときは[概念マップ](CONCEPT_MAP_JA.html)を参照してください。出典、範囲、引用名を重複して書き足しすぎないことを推奨します。
 
-# 8. 最小限の著者表記
+## 8. 最小限の著者表記
 
 > S. Meta, “[Concept Name],” S. Meta Research Archives.
 
