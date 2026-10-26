@@ -10,7 +10,7 @@
       <a class="smeta-brand" href="index_ja.html">S. META <span>/ RESEARCH ARCHIVES</span></a>
       <nav class="smeta-nav" aria-label="ページ内の案内">
         <a href="#publications">4つの分類</a>
-        <a href="#research-map">研究の系統</a>
+        <a href="#research-map">研究成果</a>
         <a href="RESTART_HERE_JA.html" aria-label="AI向けの最初に読む再読込ガイド">AIの入口</a>
         <a class="smeta-lang" href="index.html" hreflang="en">English</a>
       </nav>
@@ -24,7 +24,7 @@
           <h1 id="smeta-main-title" class="smeta-display">見えているものの、<br><em>その先へ。</em></h1>
           <p class="smeta-lead">S. Metaは、AIと人間の協働、現実との接触、デジタル資産の需要を、表面の現象と背後の構造から研究しています。ここには研究成果と、その背景にあるエッセイ、現実社会への構造分析を公開しています。</p>
           <div class="smeta-actions">
-            <a class="smeta-btn" href="#research-map">研究の全体像を見る <span aria-hidden="true">&nbsp;↘</span></a>
+            <a class="smeta-btn" href="#research-map">研究成果の全体像を見る <span aria-hidden="true">&nbsp;↘</span></a>
             <a class="smeta-btn smeta-btn-alt" href="JXIV_PUBLICATIONS_JA.html">Jxiv公開論文 <span aria-hidden="true">&nbsp;↗</span></a>
           </div>
         </div>
@@ -57,22 +57,22 @@
         <div class="smeta-cards">
           <article class="smeta-card smeta-card-feature">
             <div class="smeta-card-meta"><span>01 / MAIN・メイン</span></div>
-            <h3>全体の入口</h3><p>なぜ公開するのか、研究全体の見取り図、人間とAIそれぞれの読書案内。</p>
+            <h3 id="smeta-card-main">全体の入口</h3><p>なぜ公開するのか、研究全体の見取り図、人間とAIそれぞれの読書案内。</p>
             <div class="smeta-card-links"><a class="smeta-card-link" href="START_HERE_JA.html">はじめての方へ</a><a class="smeta-card-link" href="RESTART_HERE_JA.html">AI・再読込ガイド</a></div>
           </article>
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>02 / RESEARCH・研究系</span></div>
-            <h3>研究・論文</h3><p>2つの研究シリーズの原本と、別個にJxiv公開された3つの研究。</p>
-            <div class="smeta-card-links"><a class="smeta-card-link" href="#research-map">研究の系統図</a><a class="smeta-card-link" href="JXIV_PUBLICATIONS_JA.html">Jxiv公開研究一覧</a></div>
+            <h3 id="smeta-card-research">研究・論文</h3><p>2つの研究シリーズの原本と、別個にJxiv公開された3つの研究。</p>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="#research-map">研究成果の全体像</a><a class="smeta-card-link" href="JXIV_PUBLICATIONS_JA.html">Jxiv公開研究一覧</a></div>
           </article>
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>03 / WRITING・note系</span></div>
-            <h3>エッセイ・構造分析</h3><p>目的の異なる2つのnote。GitHubは記事索引、本文の正本はnoteにあります。</p>
+            <h3 id="smeta-card-writing">エッセイ・構造分析</h3><p>目的の異なる2つのnote。GitHubは記事索引、本文の正本はnoteにあります。</p>
             <div class="smeta-card-links"><a class="smeta-card-link" href="smeta-note-index.html">S. Meta note（12件）</a><a class="smeta-card-link" href="https://s99lab.github.io/alise-article-index/">A_L_I_S_E（50件）</a></div>
           </article>
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>04 / REFERENCE・その他</span></div>
-            <h3>参照・引用資料</h3><p>概念の関係、用語の定義、引用方法、出典を確認するための案内。</p>
+            <h3 id="smeta-card-reference">参照・引用資料</h3><p>概念の関係、用語の定義、引用方法、出典を確認するための案内。</p>
             <div class="smeta-card-links"><a class="smeta-card-link" href="CONCEPT_MAP_JA.html">概念マップ</a><a class="smeta-card-link" href="LEXICON_JA.html">用語集</a></div>
           </article>
         </div>
@@ -80,35 +80,62 @@
     </section>
     <section class="smeta-section smeta-map-band" id="research-map" aria-labelledby="smeta-map-title">
       <div class="smeta-container">
-        <div class="smeta-section-heading"><div><span class="smeta-kicker">RESEARCH MAP</span><h2 id="smeta-map-title">研究の系統図</h2></div><p class="smeta-section-desc">研究を「題材」と「方法」に分け、どこから読めばよいかを示します。</p></div>
-        <p class="smeta-repo-roles"><strong>4つのリポジトリの役割：</strong> <a href="https://github.com/s99lab/s99lab.github.io">このポータル</a>は全体案内とS. Meta記事索引、<a href="https://github.com/s99lab/retained-demand-audit-series">Retained-Demand</a>と<a href="https://github.com/s99lab/aas-trilayer-ambient-alignment">AAS</a>は研究論文の原本保管所、<a href="https://github.com/s99lab/alise-article-index">A_L_I_S_E</a>は独立した構造分析記事の索引です（記事本文の正本はnote）。Jxiv論文は各DOIの原資料へ案内します。</p>
-        <div class="smeta-root"><span class="smeta-root-name">S. Meta Research Archives</span><span class="smeta-root-note">共通する視点：表面の現象と、実際に残る構造</span></div>
-        <div class="smeta-branches">
+        <div class="smeta-section-heading"><div><span class="smeta-kicker">RESEARCH / 詳細</span><h2 id="smeta-map-title">研究成果の全体像</h2></div><p class="smeta-section-desc">上の4分類のうち「研究・論文」の詳細です。研究シリーズとJxiv公開研究を分けて紹介します。</p></div>
+        <div class="smeta-series-intro">
+          <h3 id="smeta-series-title">研究シリーズ <span>2系統</span></h3>
+          <p>異なる題材を扱う、2つの独立した研究シリーズです。論文の原本はそれぞれのGitHubリポジトリで公開しています。</p>
+        </div>
+        <div class="smeta-branches" aria-labelledby="smeta-series-title">
           <article class="smeta-branch">
-            <span class="smeta-branch-tag">TRACK 01 · DIGITAL ASSETS</span>
+            <span class="smeta-branch-tag">SERIES 01 · DIGITAL ASSETS</span>
             <h3>Retained-Demand Audit Series</h3><p>制度に接続されたデジタル資産の「利用」と「保持需要」を分けて調べる。</p>
             <ul class="smeta-branch-list">
-              <li><strong><a href="https://github.com/s99lab/retained-demand-audit-series">Paper 1–6：研究シリーズ</a></strong><span>公開アーカイブ／要約／各論文</span></li>
+              <li><strong><a href="https://github.com/s99lab/retained-demand-audit-series">Paper 1–6：研究シリーズ原本</a></strong><span>公開アーカイブ／要約／各論文</span></li>
               <li><strong><a href="https://github.com/s99lab/retained-demand-audit-series/tree/main/phase-ii">Phase II：追加研究設計</a></strong><span>運用者の在庫、費用、代替インフラ</span></li>
               <li><strong><a href="WHAT_IS_RETAINED_DEMAND_JA.html">保持需要とは何か</a></strong><span>最初に読む短い解説</span></li>
             </ul>
           </article>
           <article class="smeta-branch">
-            <span class="smeta-branch-tag">TRACK 02 · HUMAN × AI</span>
+            <span class="smeta-branch-tag">SERIES 02 · HUMAN × AI</span>
             <h3>AAS / Human–AI Collaboration</h3><p>長期協働における判断・役割・文脈・外部記録を研究する。</p>
             <ul class="smeta-branch-list">
               <li><strong><a href="https://github.com/s99lab/aas-trilayer-ambient-alignment/tree/main/papers">AAS / Tri-Layer：Part I–IV</a></strong><span>人間・AI支援・外部記録の三層</span></li>
               <li><strong><a href="WHAT_IS_STRUCTURAL_DRIFT_JA.html">Structural Drift</a></strong><span>判断の来歴や前提が薄れる問題</span></li>
-              <li><strong><a href="STRUCTURE_CHANGE_SENSOR_JA.html">Structure-Change Sensor（SC）</a></strong><span>Jxiv公開：変化候補の検出と記録</span></li>
-              <li><strong><a href="EMPIRICAL_AUDIT_ARCHITECTURE_JA.html">Empirical Audit Architecture（EAA）</a></strong><span>Jxiv公開：複数AIの証拠再構成を比較</span></li>
+              <li><strong><a href="AAS_FORMATION_NOTE_JA.html">AASの形成背景</a></strong><span>なぜこの研究に取り組むのか</span></li>
             </ul>
           </article>
         </div>
+        <section class="smeta-jxiv-section" aria-labelledby="smeta-jxiv-title">
+          <div class="smeta-series-intro">
+            <h3 id="smeta-jxiv-title">Jxiv公開研究 <span>3件</span></h3>
+            <p>以下はJxivで個別に公開した3つの研究です。上の2研究シリーズの下位論文という意味ではありません。</p>
+          </div>
+          <div class="smeta-jxiv-grid">
+            <article class="smeta-jxiv-card">
+              <span class="smeta-jxiv-tag">01 / 現実との接触</span>
+              <h4>Reality Stabilizer / Contact Pressure</h4>
+              <p>説明の整合性と、制度・責任・費用など現実の制約への接触を区別する。</p>
+              <div class="smeta-jxiv-links"><a href="REALITY_STABILIZER_JA.html">日本語解説</a><a href="https://doi.org/10.51094/jxiv.4696">原論文 DOI ↗</a></div>
+            </article>
+            <article class="smeta-jxiv-card">
+              <span class="smeta-jxiv-tag">02 / 変化の観測</span>
+              <h4>Structure-Change Sensor（SC）</h4>
+              <p>長期記録から構造変化の候補を検出・保存し、後から確認できるようにする。</p>
+              <div class="smeta-jxiv-links"><a href="STRUCTURE_CHANGE_SENSOR_JA.html">日本語解説</a><a href="https://doi.org/10.51094/jxiv.6215">原論文 DOI ↗</a></div>
+            </article>
+            <article class="smeta-jxiv-card">
+              <span class="smeta-jxiv-tag">03 / 証拠の再構成</span>
+              <h4>Empirical Audit Architecture（EAA）</h4>
+              <p>複数AIによる証拠の再構成を、比較・追跡できる形に整理する。</p>
+              <div class="smeta-jxiv-links"><a href="EMPIRICAL_AUDIT_ARCHITECTURE_JA.html">日本語解説</a><a href="https://doi.org/10.51094/jxiv.6148">原論文 DOI ↗</a></div>
+            </article>
+          </div>
+          <p class="smeta-map-caption">公開研究の書誌情報・原文は<a href="JXIV_PUBLICATIONS_JA.html">Jxiv公開研究一覧</a>からも確認できます。</p>
+        </section>
         <article class="smeta-cross">
-          <div><span class="smeta-kicker">CROSS-CUTTING CONCEPT</span><h3>Reality Stabilizer / Contact Pressure</h3></div>
-          <div><p>説明の整合性と、制度・責任・費用・実装など現実の制約への接触を区別する横断的な公開研究。</p><a href="REALITY_STABILIZER_JA.html">研究を読む（Jxiv公開） ↗</a></div>
+          <div><span class="smeta-kicker">SHARED LENS / 横断的視点</span><h3>共通する問い</h3></div>
+          <div><p>異なる研究に共通するのは、表面の現象や説明と、後から確かめられる根拠・構造を分けて見る姿勢です。Reality Stabilizer / Contact Pressureはこの視点を表す概念でもあります。</p><a href="CONCEPT_MAP_JA.html">概念の関係を見る →</a></div>
         </article>
-        <p class="smeta-map-caption">SCとEAAはそれぞれ独立した公開方法です。研究トラックとJxivでの公開状況は、同じ分類を意味しません。</p>
       </div>
     </section>
     <section class="smeta-bottom">
