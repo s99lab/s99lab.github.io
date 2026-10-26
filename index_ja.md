@@ -76,6 +76,7 @@
     <section class="smeta-section smeta-map-band" id="research-map" aria-labelledby="smeta-map-title">
       <div class="smeta-container">
         <div class="smeta-section-heading"><div><span class="smeta-kicker">RESEARCH MAP</span><h2 id="smeta-map-title">研究の系統図</h2></div><p class="smeta-section-desc">研究を「題材」と「方法」に分け、どこから読めばよいかを示します。</p></div>
+        <p class="smeta-repo-roles"><strong>4つのリポジトリの役割：</strong> <a href="https://github.com/s99lab/s99lab.github.io">このポータル</a>は全体案内とS. Meta記事索引、<a href="https://github.com/s99lab/retained-demand-audit-series">Retained-Demand</a>と<a href="https://github.com/s99lab/aas-trilayer-ambient-alignment">AAS</a>は研究論文の原本保管所、<a href="https://github.com/s99lab/alise-article-index">A_L_I_S_E</a>は独立した構造分析記事の索引です（記事本文の正本はnote）。Jxiv論文は各DOIの原資料へ案内します。</p>
         <div class="smeta-root"><span class="smeta-root-name">S. Meta Research Archives</span><span class="smeta-root-note">共通する視点：表面の現象と、実際に残る構造</span></div>
         <div class="smeta-branches">
           <article class="smeta-branch">
