@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="assets/css/smeta-home.css">
 
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"S. Meta Research Archives 日本語版","url":"https://s99lab.github.io/index_ja.html","inLanguage":"ja","description":"現実接触、人間とAIの長期協働、デジタル資産の保持需要を探究するS. Metaの公開研究アーカイブ。","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"CollectionPage","name":"Jxiv公開研究","url":"https://s99lab.github.io/JXIV_PUBLICATIONS.html"},{"@type":"CollectionPage","name":"S. Meta note エッセイ","url":"https://s99lab.github.io/smeta-note-index.html"},{"@type":"CollectionPage","name":"A_L_I_S_E 構造分析","url":"https://s99lab.github.io/alise-article-index/"}]}</script>
+
 <div class="smeta-landing" lang="ja">
   <header class="smeta-topline">
     <div class="smeta-container smeta-topline-inner">
