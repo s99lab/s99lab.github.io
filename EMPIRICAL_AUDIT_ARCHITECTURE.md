@@ -13,6 +13,9 @@ updated: 2026-09-17
 
 # Empirical Audit Architecture (EAA)
 
+**Language: English** ｜ [日本語](EMPIRICAL_AUDIT_ARCHITECTURE_JA.html) ｜ [Publication registry](JXIV_PUBLICATIONS.html)
+
+
 **Japanese title:** 実証監査アーキテクチャ（EAA）：複数AIによる証拠再構成を比較可能にする監査方法の開発と前向き検証  
 **English title:** *Empirical Audit Architecture (EAA): Development and Prospective Validation of an Audit Method for Comparable Evidence Reconstruction by Multiple AI Systems*  
 **Author:** S. Meta  
