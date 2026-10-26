@@ -38,6 +38,19 @@
         </aside>
       </div>
     </section>
+    <section class="smeta-purpose" id="purpose" aria-labelledby="smeta-purpose-title">
+      <div class="smeta-container smeta-purpose-grid">
+        <div>
+          <span class="smeta-kicker">WHY THIS ARCHIVE EXISTS</span>
+          <h2 id="smeta-purpose-title" class="smeta-purpose-title">Why preserve more than the answer?</h2>
+        </div>
+        <div class="smeta-purpose-body">
+          <p>Conclusions can be saved while the judgments, available evidence, and changing assumptions behind them gradually become harder to see. As AI takes a greater role in research and decision-making, a convincing explanation is not the same as an inspectable path to that explanation.</p>
+          <p>This archive aims to leave more than finished results: an open record through which people and future AI systems can revisit the original questions, trace sources, and examine how ideas developed or changed. Research on digital assets, long-term human–AI collaboration, and contact with reality explores this concern from different directions.</p>
+          <a class="smeta-purpose-link" href="WHY_THIS_ARCHIVE_EXISTS.html">Read why this archive exists →</a>
+        </div>
+      </div>
+    </section>
     <section class="smeta-section" id="publications" aria-labelledby="smeta-work-title">
       <div class="smeta-container">
         <div class="smeta-section-heading"><div><span class="smeta-kicker">WHAT IS HERE</span><h2 id="smeta-work-title">Explore the work</h2></div><p class="smeta-section-desc">Research, essays, and structural analysis—three distinct ways into the archive.</p></div>
