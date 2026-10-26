@@ -4,6 +4,19 @@ This repository is the source for the public [S. Meta Research Archives](https:/
 
 **Japanese portal:** [日本語トップ](https://s99lab.github.io/index_ja.html) · **English portal:** [Research home](https://s99lab.github.io/)
 
+## Four repositories, four responsibilities
+
+| Repository | Responsibility | What is authoritative there |
+|---|---|---|
+| **[S. Meta public portal](https://github.com/s99lab/s99lab.github.io)** (this repository) | The cross-repository **map**: public orientation, concept guides, Jxiv publication registry, and S. Meta essay links | Navigation and public explanatory metadata; not the full research or note articles |
+| **[Retained-Demand Audit Series](https://github.com/s99lab/retained-demand-audit-series)** | Research **source archive** for institutionally connected digital-asset retained demand | Papers 1–6 and their companion source material |
+| **[AAS / Tri-Layer Research](https://github.com/s99lab/aas-trilayer-ambient-alignment)** | Research **source archive** for long-term human–AI collaboration and structural drift | Parts I–IV and companion source material |
+| **[A_L_I_S_E Article Index](https://github.com/s99lab/alise-article-index)** | Separate **editorial index** for structural-analysis articles | Index and metadata here; original article texts on [A_L_I_S_E note](https://note.com/alise_s99lab) |
+
+**Different category, not another repository:** RS, SC and EAA have their own publicly indexed Jxiv preprints. The [Jxiv publication registry](JXIV_PUBLICATIONS.md) routes readers to those original DOI-linked works. **S. Meta note** is an essay stream indexed in this portal; its original texts remain on [note](https://note.com/s99lab). A research track, a preprint, an essay and an article index do not carry the same evidence status.
+
+The machine-readable version of these roles is in [research-network.json](data/research-network.json).
+
 ## One entry for each purpose
 
 | If you need to... | Use this primary entry | 日本語 |
