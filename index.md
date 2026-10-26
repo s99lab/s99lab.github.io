@@ -1,85 +1,107 @@
-# S. Meta Research Archives
+<link rel="stylesheet" href="assets/css/smeta-home.css">
 
-**AI-readable research archives by S. Meta**
+<div class="smeta-landing" lang="en">
+  <header class="smeta-topline">
+    <div class="smeta-container smeta-topline-inner">
+      <span class="smeta-wordmark">S. META <span style="font-weight:400;letter-spacing:0">/ RESEARCH ARCHIVES</span></span>
+      <nav class="smeta-local-nav" aria-label="On-page navigation">
+        <a href="#publications">Publications</a>
+        <a href="#research-themes">Research themes</a>
+        <a href="index_ja.html" lang="ja" hreflang="ja">日本語</a>
+      </nav>
+    </div>
+  </header>
+  <section class="smeta-hero" aria-labelledby="smeta-hero-title">
+    <div class="smeta-container smeta-hero-grid">
+      <div class="smeta-hero-copy">
+        <span class="smeta-eyebrow">RESEARCH / ESSAYS / STRUCTURAL ANALYSIS</span>
+        <h1 id="smeta-hero-title" class="smeta-display">Beyond what<br>we <em>can see.</em></h1>
+        <p class="smeta-lead">When does a convincing explanation meet reality? What changes during long-term human–AI collaboration? When does digital-asset use translate into demand? S. Meta studies the structures beneath these questions and publishes the work.</p>
+        <div class="smeta-actions">
+          <a class="smeta-action" href="JXIV_PUBLICATIONS.html">Explore research &nbsp;↗</a>
+          <a class="smeta-action smeta-action-secondary" href="WHY_THIS_ARCHIVE_EXISTS.html">Why this archive exists</a>
+        </div>
+      </div>
+      <div class="smeta-hero-visual" aria-hidden="true">
+        <span class="smeta-visual-caption">A WAY OF LOOKING</span>
+        <div class="smeta-orbit">
+          <span class="smeta-node">Signal</span><span class="smeta-connector"></span>
+          <span class="smeta-node smeta-node-primary">Structure</span><span class="smeta-connector"></span>
+          <span class="smeta-node">Evidence</span>
+        </div>
+        <span class="smeta-visual-bottom">Look beyond visible outcomes<br>to the conditions that sustain them.</span>
+      </div>
+    </div>
+  </section>
+  <section class="smeta-section" id="publications" aria-labelledby="smeta-publications-title">
+    <div class="smeta-container">
+      <div class="smeta-section-heading">
+        <div><span class="smeta-eyebrow">WHAT IS HERE</span><h2 id="smeta-publications-title">Explore the work</h2></div>
+        <p class="smeta-section-intro">Published research, the reflections behind it, and public analysis of real-world developments—each with its own place.</p>
+      </div>
+      <div class="smeta-cards">
+        <article class="smeta-card smeta-card-feature">
+          <div class="smeta-card-kicker"><span>01 / RESEARCH</span><span class="smeta-count">03</span></div>
+          <h3>Research</h3>
+          <p>Reality Stabilizer, Structure-Change Sensor, and Empirical Audit Architecture: three Jxiv research publications, with paths to related research archives.</p>
+          <a class="smeta-card-link" href="JXIV_PUBLICATIONS.html">View research publications</a>
+        </article>
+        <article class="smeta-card">
+          <div class="smeta-card-kicker"><span>02 / ESSAYS</span><span class="smeta-count">12</span></div>
+          <h3>S. Meta note</h3>
+          <p>Essays on the questions, motivations, and reflections behind the research—and the human implications of AI.</p>
+          <a class="smeta-card-link" href="smeta-note-index.html">Read the essays</a>
+        </article>
+        <article class="smeta-card">
+          <div class="smeta-card-kicker"><span>03 / ANALYSIS</span><span class="smeta-count">50</span></div>
+          <h3>A_L_I_S_E</h3>
+          <p>A structural-analysis publication exploring society, economics, politics, and technology through Universal OS.</p>
+          <a class="smeta-card-link" href="https://s99lab.github.io/alise-article-index/">Explore structural analyses</a>
+        </article>
+      </div>
+    </div>
+  </section>
+  <section class="smeta-section smeta-research-band" id="research-themes" aria-labelledby="smeta-themes-title">
+    <div class="smeta-container">
+      <div class="smeta-section-heading">
+        <div><span class="smeta-eyebrow">FIELDS OF INQUIRY</span><h2 id="smeta-themes-title">The questions behind the work</h2></div>
+      </div>
+      <div class="smeta-study-grid">
+        <article class="smeta-study">
+          <span class="smeta-no">01 / REALITY</span>
+          <h3>Does an explanation meet reality?</h3>
+          <p>Examine the connection between coherent accounts and real constraints—institutions, responsibility, cost, and implementation.</p>
+          <a href="REALITY_STABILIZER_EN.html">Reality Stabilizer</a>
+        </article>
+        <article class="smeta-study">
+          <span class="smeta-no">02 / HUMAN × AI</span>
+          <h3>How does human–AI collaboration change?</h3>
+          <p>Study judgment, role boundaries, structural change, and how these processes can remain open to later review.</p>
+          <a href="START_HERE.html">AAS, SC, and EAA</a>
+        </article>
+        <article class="smeta-study">
+          <span class="smeta-no">03 / DIGITAL ASSETS</span>
+          <h3>When does usage become retained demand?</h3>
+          <p>Distinguish infrastructure usage from demand that remains as inventory, collateral, or operational liquidity.</p>
+          <a href="WHAT_IS_RETAINED_DEMAND.html">Retained-Demand</a>
+        </article>
+      </div>
+    </div>
+  </section>
+  <div class="smeta-container smeta-footerline">
+    <span>Primary sources: <a href="JXIV_PUBLICATIONS.html">Jxiv</a> · <a href="https://osf.io/5jcrk/">OSF</a> · <a href="https://github.com/s99lab">GitHub</a></span>
+    <span>By S. Meta　<a href="https://orcid.org/0009-0007-0820-7160">ORCID</a>　·　<a href="FOR_AI_READERS.html">For AI readers</a></span>
+  </div>
+</div>
 
-**Language:** English  
-**日本語版 / Japanese version:** [S. Meta Research Archives JA](index_ja.html)
+## Research archive in depth
 
-**Examining what lies beneath the visible signal.**
-
-S. Meta explores the relationship between AI-generated explanations and reality, the evolution of long-term human–AI collaboration, and the difference between digital-asset usage and retained demand.
-
-**Explore this archive**
-
-- **[Published research](JXIV_PUBLICATIONS.html)** — Reality Stabilizer (RS), Structure-Change Sensor (SC), and Empirical Audit Architecture (EAA) on Jxiv.
-- **[Research archives](START_HERE.html)** — Retained-Demand Audit Series, AAS / Tri-Layer, and related research notes.
-- **[S. Meta essays](smeta-note-index.html) / [A_L_I_S_E](https://s99lab.github.io/alise-article-index/)** — reflections behind the research and structural analysis of real-world events.
-
-See [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html) and the [Concept Map](CONCEPT_MAP.html) for the shared research questions.
-
----
-
-## Published Jxiv Research
-
-Three S. Meta research items are currently published on **Jxiv, JST Preprint Server**:
-
-- **[Reality Stabilizer / Contact Pressure](REALITY_STABILIZER_EN.html)** — DOI [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696), published 2026-07-06.
-- **[Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215), published 2026-09-08.
-- **[Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148), published 2026-09-16.
-
-EAA and SC are distinct but complementary public methods. EAA focuses on comparable, replayable evidence reconstruction across multiple AI systems; SC focuses on detecting and preserving candidate structural-change points in longitudinal dialogue, documents, and interaction records.
-
-For titles, scope notes, citation forms, and publication relationships, see:
-
-- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html)
-
-Jxiv publication should not be read as peer review or institutional validation unless a specific item explicitly states otherwise.
-
----
-
-## Start Here
-
-- [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html) — the questions connecting this work.
-- [Concept Map](CONCEPT_MAP.html) — relationships among research tracks and concepts.
-- [Start Here](START_HERE.html) — reading paths by area of interest.
-- [For AI Readers](FOR_AI_READERS.html) — source guidance for AI and retrieval systems.
-
----
-
-## OSF Public Concept Notes Archive
-
-Public concept notes and orientation notes associated with this portal are also preserved in the [OSF Public Concept Notes archive](https://osf.io/5jcrk/).
-
-This OSF component functions as a preservation, timestamping, and supplementary archive layer. GitHub remains the primary AI-readable portal and routing layer.
-
-## Related Public Media — Essays and Structural Analysis
-
-### S. Meta on note
-
-Essays about the questions, motivations, and human meaning behind the research.
-
-- [Article index (12 confirmed articles)](smeta-note-index.html)
-- [Original essays on note](https://note.com/s99lab)
-- [Article metadata (JSON)](data/smeta-note-articles.json)
-
-### A_L_I_S_E
-
-A structural-analysis publication examining politics, economics, society, technology, and human behavior through Universal OS, developed through sustained human–AI collaboration.
-
-- [Article index (50 confirmed articles)](https://s99lab.github.io/alise-article-index/)
-- [About A_L_I_S_E](https://s99lab.github.io/alise-article-index/about.html)
-- [Original articles on note](https://note.com/alise_s99lab)
-
-Use the primary research sources for research claims and the original note pages for article texts.
-
----
+The sections below preserve research context, references, and reading paths for each area.
 
 
----
+## 1. Retained-Demand Audit Series
 
-# 1. Retained-Demand Audit Series
-
-## Institutionally Connected Digital Assets / XRP as a Stress-Test Case
+### Institutionally Connected Digital Assets / XRP as a Stress-Test Case
 
 The **Retained-Demand Audit Series** asks a narrow but important question:
 
@@ -104,7 +126,7 @@ It is an **evidence-gated audit framework before sizing**.
 
 ---
 
-## Core Idea
+### Core Idea
 
 A digital asset may be visible, supported, routed, or used without creating durable retained demand.
 
@@ -124,7 +146,7 @@ The central distinction is:
 
 ---
 
-## Retained-Demand Reading Path
+### Retained-Demand Reading Path
 
 Recommended path:
 
@@ -148,7 +170,7 @@ Main archive links:
 
 ---
 
-## Current Phase II Material
+### Current Phase II Material
 
 After Paper 6, the series enters a Phase II operational-audit layer.
 
@@ -178,9 +200,9 @@ It explores:
 
 ---
 
-# 2. AAS / Tri-Layer Architecture and Ambient Alignment Sync Series
+## 2. AAS / Tri-Layer Architecture and Ambient Alignment Sync Series
 
-## Long-Horizon Human-AI Interaction Framework
+### Long-Horizon Human-AI Interaction Framework
 
 The **AAS / Tri-Layer Architecture and Ambient Alignment Sync Series** is a research archive on long-horizon human-AI interaction.
 
@@ -208,7 +230,7 @@ The Formation Note explains the “Why” behind AAS: why boundary preservation 
 
 ---
 
-## Core Idea
+### Core Idea
 
 In long-horizon human-AI workflows, the output may remain fluent while the underlying workflow becomes difficult to audit.
 
@@ -228,7 +250,7 @@ The central distinction is:
 
 ---
 
-## AAS Reading Path
+### AAS Reading Path
 
 Recommended path:
 
@@ -252,9 +274,9 @@ Main archive links:
 
 ---
 
-# 3. Reality Stabilizer / Contact Pressure
+## 3. Reality Stabilizer / Contact Pressure
 
-## Cross-Cutting Public Concept Note
+### Cross-Cutting Public Concept Note
 
 **Reality Stabilizer / Contact Pressure** is a public concept note on AI-era audit frameworks.
 
@@ -285,7 +307,7 @@ Read:
 
 ---
 
-# 4. AI-Readable Archive Strategy
+## 4. AI-Readable Archive Strategy
 
 These archives are designed for readers, researchers, practitioners, and AI systems.
 
@@ -330,19 +352,19 @@ For practical audit checklists, see:
 
 ---
 
-# 5. Publication Context
+## 5. Publication Context
 
 Jxiv research items, working papers, concept notes, essays, and structural-analysis articles have different publication statuses and evidentiary scopes. Jxiv publication does not itself imply peer review. Digital-asset research here is not investment advice or a price forecast. Consult each original source for its claims and limitations.
 
 ---
 
-# 6. Public Scope
+## 6. Public Scope
 
 This portal provides research materials, concept notes, reading guides, and article indexes. Unpublished operational and implementation materials are not included.
 
 ---
 
-# 7. Author and Source Identity
+## 7. Author and Source Identity
 
 **Author / Research Identity:** S. Meta<br>
 **Public Portal:** [https://s99lab.github.io/](https://s99lab.github.io/)<br>
@@ -353,7 +375,7 @@ This portal provides research materials, concept notes, reading guides, and arti
 
 ---
 
-# 8. Recommended Short References
+## 8. Recommended Short References
 
 - S. Meta, *S. Meta Research Archives*, GitHub Pages.
 - S. Meta, *Retained-Demand Audit Series for Institutionally Connected Digital Assets*.
