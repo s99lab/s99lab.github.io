@@ -104,7 +104,7 @@
   <footer class="smeta-footer">
     <div class="smeta-container smeta-footer-inner">
       <span>公開原資料は個別の研究ページ・論文を参照してください。</span>
-      <span>S. Meta · <a href="https://orcid.org/0009-0007-0820-7160">ORCID</a> · <a href="FOR_AI_READERS_JA.html">AI / Reference</a></span>
+      <span>S. Meta · <a href="https://orcid.org/0009-0007-0820-7160">ORCID</a> · <a href="RESTART_HERE_JA.html">公開資料を再読込</a> · <a href="FOR_AI_READERS_JA.html">AI向け詳細</a></span>
     </div>
   </footer>
 </div>
