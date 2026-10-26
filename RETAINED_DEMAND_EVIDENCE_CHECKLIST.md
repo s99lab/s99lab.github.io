@@ -1,5 +1,7 @@
 # Retained-Demand Evidence Checklist
 
+**Language: English** ｜ [日本語版](RETAINED_DEMAND_EVIDENCE_CHECKLIST_JA.html) ｜ [Research Home](index.html)
+
 **A practical checklist for evaluating whether digital-asset usage implies actual retained demand**
 
 This checklist is part of the **S. Meta Research Archives** and the **Retained-Demand Audit Series for Institutionally Connected Digital Assets**.
