@@ -156,7 +156,7 @@
 
 推奨する読解順は以下の通りです。
 
-1. [Concept Map（英日併記）](CONCEPT_MAP.html)
+1. [Concept Map（英日併記）](CONCEPT_MAP_JA.html)
 2. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND_JA.html)
 3. [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.html)
 4. [S. Meta Research Lexicon](LEXICON.html)
@@ -262,7 +262,7 @@ Formation Note は、AASの背後にある「なぜ」を説明します。
 
 推奨する読解順は以下の通りです。
 
-1. [Concept Map（英日併記）](CONCEPT_MAP.html)
+1. [Concept Map（英日併記）](CONCEPT_MAP_JA.html)
 2. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT_JA.html)
 3. [AAS Formation Note / Boundary Preservation（英語版）](AAS_FORMATION_NOTE_EN.html)
 4. [AAS Formation Note / Boundary Preservation（日本語版）](AAS_FORMATION_NOTE_JA.html)
@@ -334,7 +334,7 @@ Reality Stabilizer は、**第三の研究トラックではありません**。
 
 アーカイブ全体の概念関係、ステータス、非主張、読解順については、以下を参照してください。
 
-- [Concept Map（英日併記）](CONCEPT_MAP.html)
+- [Concept Map（英日併記）](CONCEPT_MAP_JA.html)
 - [Why This Archive Exists / なぜこのアーカイブがあるのか](WHY_THIS_ARCHIVE_EXISTS_JA.html)
 
 Jxivで公開された研究、適用範囲、引用形式については、以下を参照してください。
