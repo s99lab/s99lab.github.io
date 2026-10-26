@@ -15,7 +15,7 @@
       </nav>
     </div>
   </header>
-  <main>
+  <div class="smeta-main">
     <section class="smeta-hero" aria-labelledby="smeta-main-title">
       <div class="smeta-container smeta-hero-grid">
         <div>
@@ -100,7 +100,7 @@
         </div>
       </div>
     </section>
-  </main>
+  </div>
   <footer class="smeta-footer">
     <div class="smeta-container smeta-footer-inner">
       <span>公開原資料は個別の研究ページ・論文を参照してください。</span>
