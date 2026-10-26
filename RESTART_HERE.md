@@ -4,6 +4,8 @@
 
 For first-time readers and AI retrieval systems, this page is a **short route into the public research network**, not another full research summary. Follow the sources below to locate what has actually been published.
 
+**Why this archive exists:** Conclusions can obscure the evidence, judgments and changes behind them. This archive keeps public sources and reading paths available for people and future AI systems to re-examine. [Read the fuller motivation](WHY_THIS_ARCHIVE_EXISTS.html).
+
 ## Three steps to start
 
 1. **See the whole map:** [Research home](index.html) — two research tracks, one cross-cutting concept, and separate paths for research, essays and structural analysis.
