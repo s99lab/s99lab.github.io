@@ -97,3 +97,29 @@
 @media(max-width:850px){.smeta-landing .smeta-hero-grid{grid-template-columns:1fr;gap:25px}.smeta-landing .smeta-snapshot{display:none}.smeta-landing .smeta-hero-grid{padding-block:53px 57px}.smeta-landing .smeta-card{min-height:235px}.smeta-landing .smeta-branch{padding:22px}}
 @media(max-width:650px){.smeta-landing{margin-top:-25px}.smeta-landing .smeta-container{width:calc(100% - 34px)}.smeta-landing .smeta-navline{min-height:0;padding:15px 0;align-items:flex-start;gap:11px}.smeta-landing .smeta-brand{font-size:13px}.smeta-landing .smeta-brand span{font-size:10px}.smeta-landing .smeta-nav{gap:12px;font-size:11px}.smeta-landing .smeta-lang{padding:5px 8px}.smeta-landing .smeta-hero-grid{padding-block:37px 38px}.smeta-landing .smeta-display{font-size:clamp(35px,9.2vw,45px)!important;margin:9px 0 13px!important}.smeta-landing .smeta-lead{font-size:14px;line-height:1.8}.smeta-landing .smeta-actions{margin-top:20px;gap:8px}.smeta-landing .smeta-btn{min-height:41px;padding:9px 13px;font-size:12px}.smeta-landing .smeta-section{padding:43px 0}.smeta-landing .smeta-section-heading{display:block;margin-bottom:18px}.smeta-landing .smeta-section-desc{margin-top:6px!important}.smeta-landing .smeta-cards,.smeta-landing .smeta-branches{grid-template-columns:1fr;gap:11px}.smeta-landing .smeta-card{min-height:0;padding:18px 19px 17px}.smeta-landing .smeta-card h3{margin:9px 0 5px!important}.smeta-landing .smeta-card-link{padding-top:13px}.smeta-landing .smeta-branches{padding-top:20px}.smeta-landing .smeta-branches:before{left:18px;height:20px}.smeta-landing .smeta-branches:after{display:none}.smeta-landing .smeta-branch:before{left:18px;top:-11px;height:11px}.smeta-landing .smeta-cross{grid-template-columns:1fr;gap:7px;padding:20px}.smeta-landing .smeta-root{display:block;padding:16px 19px}.smeta-landing .smeta-root-note{display:block;margin-top:4px}.smeta-landing .smeta-bottom-inner{display:block}.smeta-landing .smeta-bottom-links{margin-top:14px;gap:15px}}
 @media(prefers-reduced-motion:reduce){.smeta-landing .smeta-btn,.smeta-landing .smeta-card{transition:none}}
+
+/* v12: distinguish category navigation from research content and avoid misleading theme heading permalinks. */
+.smeta-landing .smeta-cards h3 a.anchorjs-link,
+.smeta-landing .smeta-cards h3 a.anchor,
+.smeta-landing .smeta-cards h3 a.header-anchor,
+.smeta-landing .smeta-cards h3 a.heading-anchor,
+.smeta-landing .smeta-cards h3 a.direct-link{display:none!important}
+.smeta-landing .smeta-card-link[href^="#"]::after{content:" ↓"}
+.smeta-landing .smeta-series-intro{margin:8px 0 17px}
+.smeta-landing .smeta-series-intro h3{margin:0 0 7px!important;font-size:21px!important;line-height:1.45;color:#20434a!important;font-weight:760}
+.smeta-landing .smeta-series-intro h3 span{display:inline-block;margin-left:7px;font-size:12px;font-weight:750;color:#477a73;letter-spacing:.02em}
+.smeta-landing .smeta-series-intro p{margin:0!important;color:#5c7378;font-size:13px;line-height:1.8;max-width:760px}
+.smeta-landing .smeta-branches{padding-top:0}
+.smeta-landing .smeta-branches::before,
+.smeta-landing .smeta-branches::after,
+.smeta-landing .smeta-branch::before{display:none}
+.smeta-landing .smeta-jxiv-section{margin-top:34px;padding-top:28px;border-top:1px solid #d5e1d8}
+.smeta-landing .smeta-jxiv-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.smeta-landing .smeta-jxiv-card{display:flex;flex-direction:column;gap:0;padding:21px 21px 18px;border:1px solid #d1ded5;border-radius:5px;background:#fff}
+.smeta-landing .smeta-jxiv-tag{font-size:11px;font-weight:800;letter-spacing:.08em;color:#477f79}
+.smeta-landing .smeta-jxiv-card h4{font-size:17px!important;line-height:1.4;margin:10px 0 9px!important;letter-spacing:-.015em;color:#1e3c45!important}
+.smeta-landing .smeta-jxiv-card p{font-size:13px;color:#587078;line-height:1.75;margin:0 0 17px!important}
+.smeta-landing .smeta-jxiv-links{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-top:auto;font-size:12px;font-weight:750}
+.smeta-landing .smeta-jxiv-links a{color:#216e66!important;text-decoration:underline;text-underline-offset:3px}
+.smeta-landing .smeta-map-caption a{color:#216e66!important;text-decoration:underline;text-underline-offset:3px}
+@media(max-width:850px){.smeta-landing .smeta-jxiv-grid{grid-template-columns:1fr}}
