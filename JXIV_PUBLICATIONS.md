@@ -11,6 +11,9 @@ updated: 2026-09-17
 
 # Jxiv Publications / Jxiv 公開研究
 
+**Language: English** ｜ [日本語](JXIV_PUBLICATIONS_JA.html) ｜ [Home](index.html)
+
+
 This page is the public publication registry for S. Meta research items released on **Jxiv, JST Preprint Server**.
 
 このページは、S. Meta の研究のうち **Jxiv, JSTプレプリントサーバ** で公開された項目をまとめた公開レジストリです。
