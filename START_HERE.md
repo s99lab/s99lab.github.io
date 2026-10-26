@@ -4,6 +4,8 @@
 
 Welcome. This is the **short human-readable introduction** to S. Meta's public research network. For the compact source map used by retrieval systems, use [RESTART_HERE](RESTART_HERE.html) and [research-network.json](data/research-network.json). For extensive definitions and source precautions, use [For AI Readers](FOR_AI_READERS.html).
 
+**Navigation:** MAIN (the archive's purpose and entry point), RESEARCH (original studies and Jxiv publications), WRITING (S. Meta note essays and the separate A_L_I_S_E analysis), and REFERENCE (concepts, definitions, and citation guidance). The four public categories share four existing GitHub repositories; see the [repository map](README.md) for their distinct responsibilities.
+
 ## The question behind the archive
 
 A convincing surface signal does not always tell us what structure remains underneath. The archive asks what can actually be traced, reviewed, retained or tested against reality.
