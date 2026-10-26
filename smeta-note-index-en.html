@@ -67,7 +67,7 @@ footer a{color:#d9e4e8}
 </style>
 </head>
 <body>
-<header><div class="wrap top"><a class="brand" href="./">S. Meta</a><nav aria-label="Main navigation"><a href="index_ja.html">Research portal</a><a href="https://s99lab.github.io/alise-article-index/">A_L_I_S_E article index ↗</a><a href="WHY_THIS_ARCHIVE_EXISTS.html">Why the research exists</a><a href="https://note.com/s99lab" target="_blank" rel="noopener noreferrer">Original note articles ↗</a><a href="smeta-note-index.html" lang="ja" hreflang="ja">日本語</a></nav></div></header>
+<header><div class="wrap top"><a class="brand" href="index.html">S. Meta</a><nav aria-label="Main navigation"><a href="index.html">Research portal</a><a href="https://s99lab.github.io/alise-article-index/index_en.html">A_L_I_S_E article index ↗</a><a href="WHY_THIS_ARCHIVE_EXISTS.html">Why the research exists</a><a href="https://note.com/s99lab" target="_blank" rel="noopener noreferrer">Original note articles ↗</a><a href="smeta-note-index.html" lang="ja" hreflang="ja">日本語</a></nav></div></header>
 <main class="wrap">
 <section class="hero">
 <div class="kicker">S. META / ESSAYS &amp; REFLECTIONS / NOTE INDEX</div>
@@ -105,7 +105,7 @@ footer a{color:#d9e4e8}
 <p><a href="https://s99lab.github.io/alise-article-index/about_en.html">A_L_I_S_E</a> is a separate structural-analysis publication applying Universal OS to real-world events.</p>
 <p>For AI and search systems, <a href="data/smeta-note-articles.json">machine-readable JSON</a> lists verified original titles, dates, and URLs. Consult original note articles for content.</p></section>
 </main>
-<footer><div class="wrap foot"><span>© S. Meta — essay index</span><span><a href="index_ja.html">Research portal</a>　<a href="https://s99lab.github.io/alise-article-index/">A_L_I_S_E article index ↗</a>　<a href="https://note.com/s99lab">Original note articles</a>　<a href="data/smeta-note-articles.json">JSON</a></span></div></footer>
+<footer><div class="wrap foot"><span>© S. Meta — essay index</span><span><a href="index.html">Research portal</a>　<a href="https://s99lab.github.io/alise-article-index/index_en.html">A_L_I_S_E article index ↗</a>　<a href="https://note.com/s99lab">Original note articles</a>　<a href="data/smeta-note-articles.json">JSON</a></span></div></footer>
 <script>
 const field=document.getElementById("filter"),articles=[...document.querySelectorAll(".item")],count=document.getElementById("count"),empty=document.getElementById("empty");
 field.addEventListener("input",()=>{const q=field.value.trim().toLowerCase();let n=0;for(const item of articles){const match=item.dataset.search.toLowerCase().includes(q);item.hidden=!match;if(match)n++;}for(const group of document.querySelectorAll("section.catalog")){group.hidden=![...group.querySelectorAll(".item")].some(item=>!item.hidden);}count.textContent=String(n);empty.hidden=n>0;});
