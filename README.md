@@ -6,6 +6,8 @@ This repository hosts the public GitHub Pages portal for **S. Meta Research Arch
 
 **Portal:** [https://s99lab.github.io/](https://s99lab.github.io/)
 
+**Quick public re-entry:** [English](RESTART_HERE.md) · [日本語](RESTART_HERE_JA.md) · [Machine-readable research map](data/research-network.json). For original papers and claims, follow the linked source material; this re-entry map is not a private project state.
+
 ---
 
 ## Purpose
