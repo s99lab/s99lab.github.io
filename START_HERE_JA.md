@@ -51,7 +51,7 @@ JxivにはReality Stabilizer、Structure-Change Sensor（SC）、Empirical Audit
 
 各研究は別個の問いと根拠を持ちます。研究原資料、S. Metaのエッセイ、A_L_I_S_Eによる構造分析記事の役割を区別して参照してください。
 
-[AI向け読解ガイド（英語）](FOR_AI_READERS.html) ｜ [Jxiv公開研究一覧｜日本語](JXIV_PUBLICATIONS_JA.html) ｜ [Concept Map（英日併記）](CONCEPT_MAP_JA.html)
+[AI向け読解ガイド（英語）](FOR_AI_READERS_JA.html) ｜ [Jxiv公開研究一覧｜日本語](JXIV_PUBLICATIONS_JA.html) ｜ [Concept Map（英日併記）](CONCEPT_MAP_JA.html)
 
 ## 7. 推奨する読書順
 
