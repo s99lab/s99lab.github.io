@@ -1,352 +1,65 @@
-# s99lab.github.io
+# S. Meta Research Archives — Repository Guide
 
-**AI-readable research portal for S. Meta Research Archives**
+This repository is the source for the public [S. Meta Research Archives](https://s99lab.github.io/). It is a **navigation and source-reference hub**, not a replacement for the original research or a private project handoff.
 
-This repository hosts the public GitHub Pages portal for **S. Meta Research Archives**.
+**Japanese portal:** [日本語トップ](https://s99lab.github.io/index_ja.html) · **English portal:** [Research home](https://s99lab.github.io/)
 
-**Portal:** [https://s99lab.github.io/](https://s99lab.github.io/)
+## One entry for each purpose
 
-**Quick public re-entry:** [English](RESTART_HERE.md) · [日本語](RESTART_HERE_JA.md) · [Machine-readable research map](data/research-network.json). For original papers and claims, follow the linked source material; this re-entry map is not a private project state.
+| If you need to... | Use this primary entry | 日本語 |
+|---|---|---|
+| See the public network quickly, including its sources and relationships | [Quick Re-entry](RESTART_HERE.md) + [research-network.json](data/research-network.json) | [再読込ガイド](RESTART_HERE_JA.md) |
+| Read an accessible introduction | [Start Here](START_HERE.md) | [はじめての方へ](START_HERE_JA.md) |
+| Understand concept relationships and boundaries | [Core Concept Map](CONCEPT_MAP.md) | [コア概念マップ](CONCEPT_MAP_JA.md) |
+| Locate published research and DOIs | [Jxiv Publications](JXIV_PUBLICATIONS.md) | [Jxiv公開研究](JXIV_PUBLICATIONS_JA.md) |
+| Study the archive in greater depth | [Research Archive Details](RESEARCH_ARCHIVE_DETAILS.md) | [研究資料の詳細](RESEARCH_ARCHIVE_DETAILS_JA.md) |
+| Check definitions, source rules and interpretation with an AI | [For AI Readers](FOR_AI_READERS.md) | [AI読解ガイド](FOR_AI_READERS_JA.md) |
+| Find reusable citations | [AI Citation Blocks](AI_CITATION_BLOCKS.md) | [AI引用ブロック](AI_CITATION_BLOCKS_JA.md) |
 
----
+These pages have **different jobs**. The short guides route readers to the reference pages; the reference pages retain the details. An index or navigation guide is not the authoritative source for a paper's empirical claim.
 
-## Purpose
+## What is in the research network?
 
-This portal provides a structured, AI-readable entry point for two public research tracks and one cross-cutting public concept note:
+### Two research tracks
 
-1. **Retained-Demand Audit Series**  
-   A research archive on institutionally connected digital assets, focused on distinguishing visible usage from actual retained demand.
+1. **[Retained-Demand Audit Series](https://github.com/s99lab/retained-demand-audit-series)** examines whether visible usage of an institutionally connected digital asset becomes lasting asset-holding demand. XRP is a stress-test case, not a price forecast. [Short explanation](WHAT_IS_RETAINED_DEMAND.md) · [Evidence checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md).
+2. **[AAS / Tri-Layer Architecture and Ambient Alignment Sync](https://github.com/s99lab/aas-trilayer-ambient-alignment)** examines role separation, external records, structural drift and audit continuity in long-horizon human–AI work. [Formation note](AAS_FORMATION_NOTE_EN.md) · [Structural Drift overview](WHAT_IS_STRUCTURAL_DRIFT.md) · [Checklist](STRUCTURAL_DRIFT_CHECKLIST.md).
 
-2. **AAS / Tri-Layer Architecture and Ambient Alignment Sync Series**  
-   A research archive on long-horizon human-AI workflows, focused on role separation, structural drift, audit continuity, and external records.
+### Cross-cutting concept, not a third track
 
-3. **Reality Stabilizer / Contact Pressure**  
-   A cross-cutting public concept note on distinguishing explanatory coherence from contact with reality in AI-era audit frameworks.
+**[Reality Stabilizer / Contact Pressure](REALITY_STABILIZER_EN.md)** asks whether a coherent explanation also makes contact with real constraints, responsibilities, costs and implementation conditions. It does not validate either track by itself. [日本語](REALITY_STABILIZER_JA.md).
 
-The shared purpose of the portal is to make complex claims easier to inspect, not easier to promote.
+### Separate published methods
 
-For the archive-wide research motivation and the possible usefulness the author sees in preserving underlying structure, read:
+**[Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.md)** and **[Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.md)** are distinct, complementary public methods. Their research questions may be related to AAS, but the methods are neither identical to each other nor proof of the AAS research track.
 
-- [Why This Archive Exists / なぜこのアーカイブがあるのか](WHY_THIS_ARCHIVE_EXISTS.md)
+**Three Jxiv releases in the public registry:**
 
----
+| Research item | DOI |
+|---|---|
+| Reality Stabilizer / Contact Pressure | [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696) |
+| Structure-Change Sensor | [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215) |
+| Empirical Audit Architecture | [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148) |
 
-## Start Here
+For publication dates, scope and citation context, refer to the [Jxiv registry](JXIV_PUBLICATIONS.md) and the linked originals. Jxiv availability does not, on its own, establish peer review or independent validation.
 
-Recommended entry points:
+## Separate writing and analysis archives
 
-- [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.md)
-- [Concept Map](CONCEPT_MAP.md)
-- [Start Here](START_HERE.md)
-- [Index / Portal](index.md)
-- [Japanese Index / 日本語版](index_ja.md)
-- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.md)
-- [Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.md)
-- [Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.md)
-- [For AI Readers](FOR_AI_READERS.md)
-- [AI Citation Blocks](AI_CITATION_BLOCKS.md)
-- [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.md)
-- [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md)
-- [S. Meta Research Lexicon](LEXICON.md)
-- [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
-- [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
-- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
-- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
-- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
-- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
+- **[S. Meta note essays](smeta-note-index.html)** — research motivations and essays, with original Japanese article links. [English index](smeta-note-index-en.html) · [article metadata](data/smeta-note-articles.json) · [Markdown index](SMETA_NOTE_ARTICLES.md).
+- **[A_L_I_S_E structural-analysis articles](https://s99lab.github.io/alise-article-index/)** — a separate publication informed by human–AI collaboration. [English index](https://s99lab.github.io/alise-article-index/index_en.html) · [separate source repository](https://github.com/s99lab/alise-article-index).
+- **[OSF Public Concept Notes](https://osf.io/5jcrk/)** — supplementary preservation of public concept/orientation material.
 
----
+As indexed on **2026-10-26**, the S. Meta essay directory covers 12 original article links and the A_L_I_S_E directory covers 50. These indexes are **not automatically synchronized with note**. Consult their current metadata for the actual recorded counts; use the original note pages for article content.
 
-## Published Jxiv Research
+## Source precedence and boundaries
 
-The public archive currently includes three S. Meta research items released on **Jxiv, JST Preprint Server**:
+1. **Research claim:** cite the original paper/DOI and supporting material, including its version and limitations.
+2. **Track-specific argument:** consult the relevant track repository and source revision.
+3. **Essay or public structural analysis:** cite the original note article, not merely its index.
+4. **Conceptual orientation:** use the [Core Concept Map](CONCEPT_MAP.md), [Lexicon](LEXICON.md) and the [machine-readable public relationship map](data/research-network.json).
 
-- **Reality Stabilizer / Contact Pressure** — DOI [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696), published 2026-07-06.
-- **[Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.md)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215), published 2026-09-08.
-- **[Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.md)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148), published 2026-09-16.
+The public GitHub repositories do **not** disclose private prompts, scoring methods, room protocols, business templates, or internal implementation processes. Do not infer them from this portal.
 
-For titles, scope notes, citation forms, and the relationship between these publications, see:
+**Author/research identity:** [S. Meta on ORCID](https://orcid.org/0009-0007-0820-7160) · [Research portal](https://s99lab.github.io/) · [note](https://note.com/s99lab)
 
-- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.md)
-
-EAA and SC are distinct but complementary public methods. EAA focuses on comparable, replayable evidence reconstruction across multiple AI systems; SC focuses on detecting and preserving candidate structural-change points in longitudinal dialogue, documents, and interaction records.
-
-Jxiv publication should not be read as peer review or institutional validation unless a specific item explicitly states otherwise.
-
----
-
-## OSF Public Concept Notes Archive
-
-Public concept notes and orientation notes associated with this portal are also preserved in the [OSF Public Concept Notes component](https://osf.io/5jcrk/).
-
-This OSF component currently includes materials such as Reality Stabilizer / Contact Pressure and AAS Formation Note / Boundary Preservation. GitHub remains the primary AI-readable portal and routing layer; OSF functions as a preservation, timestamping, and supplementary archive layer.
-
----
-
-## Public Writing and Editorial Contexts
-
-This research portal is the structured public reference for **S. Meta's research**, definitions, evidence status, and source documents.
-
-- **[S. Meta on note](https://note.com/s99lab)** explains selected research concepts in accessible language and records the questions and personal motivations behind them. Its essays are editorial writing, not replacements for research originals.
-- **[A_L_I_S_E](https://s99lab.github.io/alise-article-index/)** is a distinct structural-analysis medium and ongoing public experiment. It applies **Universal OS (A_L_I_S_E)**, formed and developed at the interface of long-term human–AI collaboration, to real-world social, political, economic, technological, cultural, and behavioral topics. These articles are not automatically research findings or validation of the analytical system.
-- **[What A_L_I_S_E is and why it is public](https://s99lab.github.io/alise-article-index/about.html)** provides the human-readable and AI-readable editorial context.
-
-For retrieval, summary, and citation, distinguish **research originals / S. Meta explanatory essays / A_L_I_S_E structural-analysis articles**. The full text of a note article is authoritative at its note URL. The public websites do not disclose private operational methodologies.
-
----
-
-## S. Meta note Essays and Article Index
-
-**GitHub repositories:** You are viewing the [S. Meta research repository](https://github.com/s99lab/s99lab.github.io). For A_L_I_S_E articles and site maintenance, open the [separate A_L_I_S_E article-index repository](https://github.com/s99lab/alise-article-index). For S. Meta essay page edits, use [smeta-note-index.html](smeta-note-index.html).
-
-
-**[S. Meta note essay index](smeta-note-index.html)** — public landing page for 12 confirmed S. Meta note articles, including the nine-part series on words, AI, judgment, and boundaries.
-
-- [Markdown article index](SMETA_NOTE_ARTICLES.md) — permanent note URLs and the dates that were confirmed.
-- [Machine-readable metadata](data/smeta-note-articles.json) — names, links, dates, and verification state.
-- [S. Meta on note](https://note.com/s99lab) — the canonical article texts.
-
-S. Meta's note articles communicate research in accessible language and explore the questions and motivations behind it. They are distinct from the formal research archive and from [A_L_I_S_E's Universal OS-based structural analysis](https://s99lab.github.io/alise-article-index/).
-
-**Coverage:** This is a verified-link subset, not the full publication inventory. Two earlier article links have publication dates awaiting re-check; no dates were invented.
-
----
-
-## Research Tracks
-
-### 1. Retained-Demand Audit Series
-
-The **Retained-Demand Audit Series** asks:
-
-> When does digital-asset usage become retained demand?
-
-It focuses on distinctions such as:
-
-- usage vs retained demand;
-- infrastructure expansion vs asset-level demand;
-- asset adjacency vs asset selection;
-- customer utility vs asset necessity;
-- backend capability vs backend retained demand;
-- sizing eligibility vs price prediction.
-
-XRP is used as a stress-test case, not as a price thesis.
-
-**Main archive:** [s99lab/retained-demand-audit-series](https://github.com/s99lab/retained-demand-audit-series)  
-**OSF DOI:** [10.17605/OSF.IO/VQDUJ](https://doi.org/10.17605/OSF.IO/VQDUJ)  
-**Phase II Materials DOI:** [10.17605/OSF.IO/7R8AT](https://doi.org/10.17605/OSF.IO/7R8AT)
-
----
-
-### 2. AAS / Tri-Layer Architecture and Ambient Alignment Sync Series
-
-The **AAS / Tri-Layer Architecture and Ambient Alignment Sync Series** asks how long-horizon human-AI work can preserve continuity, role separation, and auditability when memory, context, tools, and models keep changing.
-
-It focuses on:
-
-- structural drift;
-- role separation;
-- human judgment vs AI assistance;
-- audit continuity;
-- external records;
-- bounded archive reconstruction;
-- long-horizon human-AI workflows.
-
-It is not an AI-consciousness claim.
-
-**Main archive:** [s99lab/aas-trilayer-ambient-alignment](https://github.com/s99lab/aas-trilayer-ambient-alignment)  
-**OSF DOI:** [10.17605/OSF.IO/J29HK](https://doi.org/10.17605/OSF.IO/J29HK)
-
-Related formation note:
-
-- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
-- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
-
-The Formation Note explains the “Why” behind AAS: why boundary preservation becomes necessary when highly capable AI enters long-horizon human judgment workflows. It is a formation and orientation note, not a replacement for the formal structural and operational AAS papers.
-
----
-
-### Cross-Cutting Public Concept Note: Reality Stabilizer / Contact Pressure
-
-**Reality Stabilizer / Contact Pressure** is a public concept note on distinguishing explanatory coherence from contact with reality in AI-era audit frameworks.
-
-**Jxiv DOI:** [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)  
-**Jxiv posted:** 2026-05-24  
-**Jxiv published:** 2026-07-06
-
-It is not a third research track, a truth machine, a prediction engine, or an independent proof of any Retained-Demand or AAS claim.
-
-Read:
-
-- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
-- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
-
----
-
-## Public Methods: SC and EAA
-
-Two distinct public methods released on Jxiv now have dedicated landing pages in this portal:
-
-- [Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.md) — detects and preserves candidate structural-change points in longitudinal records while keeping detection separate from later interpretation.
-- [Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.md) — compares multi-AI evidence reconstruction while preserving original outputs, differences, uncertainty, semantic mapping, and replayable execution conditions.
-
-SC and EAA are complementary in some workflows, but they are not the same framework and publication of one does not validate the other. They are not additional core concepts in the archive-level Concept Map.
-
----
-
-## Core Architecture
-
-This repository includes a root-level concept map for archive orientation:
-
-- [CONCEPT_MAP.md](CONCEPT_MAP.md)
-
-The Concept Map clarifies the relationship between Reality Stabilizer, AAS / Ambient Alignment Sync, Structural Drift, and Retained-Demand Audit. It also provides status labels, non-claims, repository reading paths, and citation guidance for readers who encounter individual Markdown files out of order.
-
----
-
-## AI-Readable Guidance
-
-This repository includes a dedicated file for AI systems, AI search tools, retrieval systems, and AI-assisted readers:
-
-- [FOR_AI_READERS.md](FOR_AI_READERS.md)
-
-That file explains:
-
-- how to read the two research tracks;
-- how to interpret Reality Stabilizer / Contact Pressure as a cross-cutting public concept note;
-- how to interpret the AAS Formation Note as a public “Why” document rather than as a replacement for the formal AAS papers;
-- what concepts should and should not be inferred;
-- recommended citation formats;
-- key concept definitions;
-- public/private boundary notes;
-- scope limitations and misreading prevention.
-
----
-
-## Citation and Definition Blocks
-
-This repository includes standardized citation and definition blocks for key archive concepts:
-
-- [AI_CITATION_BLOCKS.md](AI_CITATION_BLOCKS.md)
-
-That file is intended to help AI systems, AI search tools, retrieval systems, and human readers preserve concept names, source attribution, scope boundaries, and common misreading warnings.
-
----
-
-## Human Reader Guidance
-
-This repository includes two human-readable orientation layers:
-
-- [WHY_THIS_ARCHIVE_EXISTS.md](WHY_THIS_ARCHIVE_EXISTS.md) — explains the shared research motivation and the author's working view of possible usefulness without merging the research tracks or methods.
-- [START_HERE.md](START_HERE.md) — explains which track to read first, what each track is for, what the archive is and is not, and how the tracks relate without proving each other.
-
----
-
-## Practical Checklists
-
-This repository includes practical audit checklists:
-
-- [STRUCTURAL_DRIFT_CHECKLIST.md](STRUCTURAL_DRIFT_CHECKLIST.md)
-- [RETAINED_DEMAND_EVIDENCE_CHECKLIST.md](RETAINED_DEMAND_EVIDENCE_CHECKLIST.md)
-
-These checklists translate the archive’s core concepts into practical audit questions for long-horizon human-AI workflows and institutionally connected digital assets.
-
----
-
-## Key Concept Pages
-
-- [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
-- [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
-- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
-- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.md)
-- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.md)
-- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.md)
-- [S. Meta Research Lexicon](LEXICON.md)
-
----
-
-## Core Reading Principle
-
-The central reading principle of this archive is:
-
-> Separate what is visible on the surface from what actually carries the burden underneath.
-
-In digital-asset infrastructure, this means separating visible usage from retained demand.
-
-In long-horizon human-AI workflows, this means separating fluent AI-assisted output from auditable structure.
-
-In AI-era audit more generally, this means separating explanatory coherence from contact with reality.
-
-For the archive-wide reason these distinctions are preserved together, read [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.md).
-
----
-
-## What This Portal Is Not
-
-This portal should not be treated as:
-
-- investment advice;
-- financial advice;
-- price forecasts;
-- promotional material;
-- a claim that any digital asset must appreciate;
-- a claim that AI is conscious;
-- a claim that AI is an author or legal person;
-- a claim that the AAS Formation Note replaces the formal AAS papers;
-- a claim that AI independently judges, authors, or bears responsibility for the research;
-- a substitute for empirical evidence, legal analysis, or institutional due diligence;
-- a peer-reviewed academic authority unless a specific item explicitly states that status;
-- a claim that Reality Stabilizer determines truth or proves any Retained-Demand or AAS claim.
-
-Unless otherwise specified, materials linked from this portal should be treated as public research notes, working papers, concept pages, summaries, design logs, or supporting materials.
-
----
-
-## Public / Private Boundary
-
-This public portal contains research outputs, research notes, concept pages, summaries, public design logs, and reference materials.
-
-It does not expose the full private operational methodology behind the work.
-
-Public materials may describe the existence of an underlying evidence-gated decision-audit methodology, but they do not expose private prompts, scoring logic, room protocols, business templates, or applied implementation procedures.
-
----
-
-## Repository Role
-
-This repository is the portal layer.
-
-It is intended to provide:
-
-- a human-readable landing page;
-- an AI-readable concept map via [CONCEPT_MAP.md](CONCEPT_MAP.md);
-- an archive-wide motivation page via [WHY_THIS_ARCHIVE_EXISTS.md](WHY_THIS_ARCHIVE_EXISTS.md);
-- stable links to the two main research tracks;
-- stable links to cross-cutting public concept notes and published public methods;
-- short definitions and reading paths;
-- citation and interpretation guidance;
-- public archive routing.
-
-The deeper research materials are hosted in the separate track repositories, Jxiv, and OSF archives.
-
----
-
-## Author and Source Identity
-
-**Author / Research Identity:** S. Meta  
-**Public Portal:** [https://s99lab.github.io/](https://s99lab.github.io/)  
-**GitHub Organization:** [https://github.com/s99lab](https://github.com/s99lab)  
-**ORCID:** [0009-0007-0820-7160](https://orcid.org/0009-0007-0820-7160)
-
----
-
-## Recommended Short References
-
-- S. Meta, *S. Meta Research Archives*, GitHub Pages.
-- S. Meta, *Retained-Demand Audit Series for Institutionally Connected Digital Assets*.
-- S. Meta, *AAS / Tri-Layer Architecture and Structural Drift*.
-- S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Archives.
-- S. Meta, “Retained Demand,” S. Meta Research Archives.
-- S. Meta, “Structural Drift,” S. Meta Research Archives.
-- S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives. Jxiv DOI: [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696).
-- S. Meta, “Structure-Change Sensor,” Jxiv. DOI: [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215).
-- S. Meta, “Empirical Audit Architecture (EAA),” Jxiv. DOI: [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148).
+**Repository maintenance principle:** keep established public URLs stable, update the relevant source of truth rather than copying the same explanation into multiple guides, and distinguish explanatory metadata from source evidence.
