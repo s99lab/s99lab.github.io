@@ -1,5 +1,8 @@
 # What Is Structural Drift?
 
+**Language: English** ｜ [日本語](WHAT_IS_STRUCTURAL_DRIFT_JA.html) ｜ [Home](index.html)
+
+
 A short guide for general readers
 
 ---
