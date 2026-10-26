@@ -16,6 +16,7 @@ S. Metaは、AIによる説明と現実の接点、人間とAIの長期協働、
 - **[S. Meta note](smeta-note-index.html) ／ [A_L_I_S_E](https://s99lab.github.io/alise-article-index/)** — 研究の背景を綴るエッセイと、現実社会の構造分析。
 
 研究全体の共通する問いは、[Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html) と [Concept Map](CONCEPT_MAP.html) にまとめています。
+
 ---
 
 ## Jxiv 公開研究
@@ -42,6 +43,7 @@ Jxivでの公開それ自体は、査読済みであることや制度的な妥�
 - [Concept Map（英日併記）](CONCEPT_MAP.html) — 研究と概念の関係。
 - [Start Here](START_HERE.html) — 関心のある領域から読む案内。
 - [For AI Readers](FOR_AI_READERS.html) — AI・検索システム向けの資料案内。
+
 ---
 
 ## OSF Public Concept Notes Archive
@@ -72,6 +74,7 @@ GitHubは、引き続き主要なAI-readableポータルおよび導線として
 - [note原文](https://note.com/alise_s99lab)
 
 研究の根拠は研究原資料、各記事の本文はそれぞれのnote原文を参照してください。
+
 ---
 
 
@@ -339,11 +342,13 @@ AIシステム、AI検索ツール、検索システム、AI支援読者向け�
 # 5. 資料の位置づけ
 
 Jxiv公開研究、研究ノート、概念ページ、エッセイ、構造分析記事は、それぞれ公開形態と根拠の範囲が異なります。Jxiv掲載は査読完了を意味しません。デジタル資産の研究は投資助言や価格予測ではありません。個別の主張は各原資料で確認できます。
+
 ---
 
 # 6. 公開範囲
 
 公開しているのは研究成果、研究ノート、概念資料、案内、記事索引です。非公開の運用手順や実装資料は含みません。
+
 ---
 
 # 7. Author and Source Identity / 著者・出典情報
