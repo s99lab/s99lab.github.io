@@ -16,6 +16,7 @@ S. Meta explores the relationship between AI-generated explanations and reality,
 - **[S. Meta essays](smeta-note-index.html) / [A_L_I_S_E](https://s99lab.github.io/alise-article-index/)** — reflections behind the research and structural analysis of real-world events.
 
 See [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html) and the [Concept Map](CONCEPT_MAP.html) for the shared research questions.
+
 ---
 
 ## Published Jxiv Research
@@ -42,6 +43,7 @@ Jxiv publication should not be read as peer review or institutional validation u
 - [Concept Map](CONCEPT_MAP.html) — relationships among research tracks and concepts.
 - [Start Here](START_HERE.html) — reading paths by area of interest.
 - [For AI Readers](FOR_AI_READERS.html) — source guidance for AI and retrieval systems.
+
 ---
 
 ## OSF Public Concept Notes Archive
@@ -69,6 +71,7 @@ A structural-analysis publication examining politics, economics, society, techno
 - [Original articles on note](https://note.com/alise_s99lab)
 
 Use the primary research sources for research claims and the original note pages for article texts.
+
 ---
 
 
@@ -330,11 +333,13 @@ For practical audit checklists, see:
 # 5. Publication Context
 
 Jxiv research items, working papers, concept notes, essays, and structural-analysis articles have different publication statuses and evidentiary scopes. Jxiv publication does not itself imply peer review. Digital-asset research here is not investment advice or a price forecast. Consult each original source for its claims and limitations.
+
 ---
 
 # 6. Public Scope
 
 This portal provides research materials, concept notes, reading guides, and article indexes. Unpublished operational and implementation materials are not included.
+
 ---
 
 # 7. Author and Source Identity
