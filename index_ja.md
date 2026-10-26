@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="assets/css/smeta-home.css">
+<link rel="alternate" hreflang="ja" href="https://s99lab.github.io/index_ja.html">
+<link rel="alternate" hreflang="en" href="https://s99lab.github.io/">
 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"S. Meta Research Archives 日本語版","url":"https://s99lab.github.io/index_ja.html","inLanguage":"ja","description":"現実接触、人間とAIの長期協働、デジタル資産の保持需要を探究するS. Metaの公開研究アーカイブ。","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"CollectionPage","name":"Jxiv公開研究","url":"https://s99lab.github.io/JXIV_PUBLICATIONS.html"},{"@type":"CollectionPage","name":"S. Meta note エッセイ","url":"https://s99lab.github.io/smeta-note-index.html"},{"@type":"CollectionPage","name":"A_L_I_S_E 構造分析","url":"https://s99lab.github.io/alise-article-index/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"S. Meta Research Archives 日本語版","url":"https://s99lab.github.io/index_ja.html","inLanguage":"ja","description":"現実接触、人間とAIの長期協働、デジタル資産の保持需要を探究するS. Metaの公開研究アーカイブ。","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"CollectionPage","name":"Jxiv公開研究","url":"https://s99lab.github.io/JXIV_PUBLICATIONS_JA.html"},{"@type":"CollectionPage","name":"S. Meta note エッセイ","url":"https://s99lab.github.io/smeta-note-index.html"},{"@type":"CollectionPage","name":"A_L_I_S_E 構造分析","url":"https://s99lab.github.io/alise-article-index/"}]}</script>
 
 <div class="smeta-landing" lang="ja">
   <header class="smeta-topline">
@@ -20,8 +22,8 @@
         <h1 id="smeta-hero-title" class="smeta-display">見えているものの、<br><em>その先へ。</em></h1>
         <p class="smeta-lead">説明のもっともらしさと現実の違い。人間とAIが長く協働するときに生じる変化。制度につながるデジタル資産の需要。S. Metaは、その背後にある構造を研究し、公開しています。</p>
         <div class="smeta-actions">
-          <a class="smeta-action" href="JXIV_PUBLICATIONS.html">公開研究を見る&nbsp; ↗</a>
-          <a class="smeta-action smeta-action-secondary" href="WHY_THIS_ARCHIVE_EXISTS.html">なぜ、この研究をするのか</a>
+          <a class="smeta-action" href="JXIV_PUBLICATIONS_JA.html">公開研究を見る&nbsp; ↗</a>
+          <a class="smeta-action smeta-action-secondary" href="WHY_THIS_ARCHIVE_EXISTS_JA.html">なぜ、この研究をするのか</a>
         </div>
       </div>
       <div class="smeta-hero-visual" aria-hidden="true">
@@ -46,7 +48,7 @@
           <div class="smeta-card-kicker"><span>01 / RESEARCH</span><span class="smeta-count">03</span></div>
           <h3>公開研究</h3>
           <p>Reality Stabilizer、Structure-Change Sensor、Empirical Audit Architecture。Jxivで公開した3件と、関連する研究アーカイブへの入口。</p>
-          <a class="smeta-card-link" href="JXIV_PUBLICATIONS.html">公開研究の一覧</a>
+          <a class="smeta-card-link" href="JXIV_PUBLICATIONS_JA.html">公開研究の一覧</a>
         </article>
         <article class="smeta-card">
           <div class="smeta-card-kicker"><span>02 / ESSAYS</span><span class="smeta-count">12</span></div>
@@ -79,7 +81,7 @@
           <span class="smeta-no">02 / HUMAN × AI</span>
           <h3>人間とAIの協働は、どう変化するか。</h3>
           <p>判断の主体、役割の境界、長期的な変化と、その過程を後から点検できる構造を考える。</p>
-          <a href="START_HERE.html">AAS・SC・EAAを知る</a>
+          <a href="START_HERE_JA.html">AAS・SC・EAAを知る</a>
         </article>
         <article class="smeta-study">
           <span class="smeta-no">03 / DIGITAL ASSETS</span>
@@ -91,7 +93,7 @@
     </div>
   </section>
   <div class="smeta-container smeta-footerline">
-    <span>公開原資料：<a href="JXIV_PUBLICATIONS.html">Jxiv</a> ・ <a href="https://osf.io/5jcrk/">OSF</a> ・ <a href="https://github.com/s99lab">GitHub</a></span>
+    <span>公開原資料：<a href="JXIV_PUBLICATIONS_JA.html">Jxiv</a> ・ <a href="https://osf.io/5jcrk/">OSF</a> ・ <a href="https://github.com/s99lab">GitHub</a></span>
     <span>著者：S. Meta　<a href="https://orcid.org/0009-0007-0820-7160">ORCID</a>　·　<a href="FOR_AI_READERS.html">AI向け資料案内</a></span>
   </div>
 </div>
@@ -333,13 +335,13 @@ Reality Stabilizer は、**第三の研究トラックではありません**。
 アーカイブ全体の概念関係、ステータス、非主張、読解順については、以下を参照してください。
 
 - [Concept Map（英日併記）](CONCEPT_MAP.html)
-- [Why This Archive Exists / なぜこのアーカイブがあるのか](WHY_THIS_ARCHIVE_EXISTS.html)
+- [Why This Archive Exists / なぜこのアーカイブがあるのか](WHY_THIS_ARCHIVE_EXISTS_JA.html)
 
 Jxivで公開された研究、適用範囲、引用形式については、以下を参照してください。
 
-- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html)
-- [Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html)
-- [Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html)
+- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS_JA.html)
+- [Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR_JA.html)
+- [Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE_JA.html)
 
 AIシステム、AI検索ツール、検索システム、AI支援読者向けには、以下を参照してください。
 
@@ -347,7 +349,7 @@ AIシステム、AI検索ツール、検索システム、AI支援読者向け�
 
 このアーカイブを初めて読む人間の読者には、以下を推奨します。
 
-- [Start Here](START_HERE.html)
+- [Start Here](START_HERE_JA.html)
 
 再利用可能な引用・定義ブロックについては、以下を参照してください。
 
