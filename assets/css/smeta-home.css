@@ -99,11 +99,16 @@
 @media(prefers-reduced-motion:reduce){.smeta-landing .smeta-btn,.smeta-landing .smeta-card{transition:none}}
 
 /* v12: distinguish category navigation from research content and avoid misleading theme heading permalinks. */
-.smeta-landing .smeta-cards h3 a.anchorjs-link,
-.smeta-landing .smeta-cards h3 a.anchor,
-.smeta-landing .smeta-cards h3 a.header-anchor,
-.smeta-landing .smeta-cards h3 a.heading-anchor,
-.smeta-landing .smeta-cards h3 a.direct-link{display:none!important}
+/* The Jekyll/heading-anchor decoration is not a navigation control.
+   Keep real card links and in-page section links usable, but do not show
+   auto-generated permalink chains next to headings anywhere in the landing. */
+.smeta-landing :is(h1,h2,h3,h4,h5,h6) a.anchorjs-link,
+.smeta-landing :is(h1,h2,h3,h4,h5,h6) a.anchor,
+.smeta-landing :is(h1,h2,h3,h4,h5,h6) a.header-anchor,
+.smeta-landing :is(h1,h2,h3,h4,h5,h6) a.heading-anchor,
+.smeta-landing :is(h1,h2,h3,h4,h5,h6) a.direct-link,
+.smeta-landing :is(h1,h2,h3,h4,h5,h6) a[href^="#"],
+.smeta-landing :is(h1,h2,h3,h4,h5,h6) .octicon-link{display:none!important}
 .smeta-landing .smeta-card-link[href^="#"]::after{content:" ↓"}
 .smeta-landing .smeta-series-intro{margin:8px 0 17px}
 .smeta-landing .smeta-series-intro h3{margin:0 0 7px!important;font-size:21px!important;line-height:1.45;color:#20434a!important;font-weight:760}
