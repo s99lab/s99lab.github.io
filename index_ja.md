@@ -11,6 +11,7 @@
       <nav class="smeta-nav" aria-label="ページ内の案内">
         <a href="#publications">公開物</a>
         <a href="#research-map">研究の系統</a>
+        <a href="RESTART_HERE_JA.html" aria-label="AI向けの最初に読む再読込ガイド">AIの入口</a>
         <a class="smeta-lang" href="index.html" hreflang="en">English</a>
       </nav>
     </div>
