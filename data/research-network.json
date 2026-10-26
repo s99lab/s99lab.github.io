@@ -21,6 +21,72 @@
     "article_claims": "Read the original note article URL; indexes are navigational, not full texts.",
     "orientation": "Use the portal, concept map and this manifest to navigate; do not treat summaries as validation."
   },
+  "public_categories": [
+    {
+      "id": "main",
+      "label_en": "MAIN",
+      "label_ja": "メイン",
+      "purpose_en": "Network-wide purpose, author context, navigation and first-read guides",
+      "purpose_ja": "公開ネットワーク全体の目的・背景・入口・読書案内",
+      "entry": {
+        "en": "https://s99lab.github.io/",
+        "ja": "https://s99lab.github.io/index_ja.html"
+      },
+      "repository_role_ids": [
+        "public_portal"
+      ]
+    },
+    {
+      "id": "research",
+      "label_en": "RESEARCH",
+      "label_ja": "研究系",
+      "purpose_en": "Retained-Demand and AAS full research series, plus separate DOI-linked Jxiv published methods and concepts",
+      "purpose_ja": "Retained-DemandとAASの研究原本、および別個に公開されたJxiv原論文への案内",
+      "entry": {
+        "en": "https://s99lab.github.io/JXIV_PUBLICATIONS.html",
+        "ja": "https://s99lab.github.io/JXIV_PUBLICATIONS_JA.html"
+      },
+      "repository_role_ids": [
+        "retained_demand_papers",
+        "aas_papers"
+      ],
+      "note": "The Jxiv registry lives in MAIN; original Jxiv papers live at their DOI source. No additional Jxiv GitHub repository is implied."
+    },
+    {
+      "id": "writing",
+      "label_en": "WRITING / NOTE",
+      "label_ja": "文章・note系",
+      "purpose_en": "S. Meta research essays and separate A_L_I_S_E structural-analysis articles; original full texts on note",
+      "purpose_ja": "S. Metaの研究背景・エッセイと独立したA_L_I_S_E構造分析記事。原文はnote",
+      "entry": {
+        "en": "https://s99lab.github.io/smeta-note-index-en.html",
+        "ja": "https://s99lab.github.io/smeta-note-index.html"
+      },
+      "additional_entry": {
+        "en": "https://s99lab.github.io/alise-article-index/index_en.html",
+        "ja": "https://s99lab.github.io/alise-article-index/"
+      },
+      "repository_role_ids": [
+        "public_portal",
+        "alise_article_directory"
+      ],
+      "note": "S. Meta note index is hosted in MAIN; A_L_I_S_E index is a separate repository. This does not create duplicate note article originals."
+    },
+    {
+      "id": "reference",
+      "label_en": "REFERENCE / OTHER",
+      "label_ja": "参照資料・その他",
+      "purpose_en": "Concept map, lexicon, AI citation guidance, source-navigation and identity references; not separate research results",
+      "purpose_ja": "概念マップ、用語集、AI向け引用・出典案内、著者情報。独立した研究原本ではない",
+      "entry": {
+        "en": "https://s99lab.github.io/CONCEPT_MAP.html",
+        "ja": "https://s99lab.github.io/CONCEPT_MAP_JA.html"
+      },
+      "repository_role_ids": [
+        "public_portal"
+      ]
+    }
+  ],
   "repository_roles": [
     {
       "id": "public_portal",
