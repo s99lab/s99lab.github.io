@@ -14,6 +14,8 @@
   </url>
   <url>
     <loc>https://s99lab.github.io/CONCEPT_MAP.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/CONCEPT_MAP.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/CONCEPT_MAP_JA.html"/>
   </url>
   <url>
     <loc>https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS.html</loc>
@@ -29,6 +31,8 @@
   </url>
   <url>
     <loc>https://s99lab.github.io/FOR_AI_READERS.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/FOR_AI_READERS.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/FOR_AI_READERS_JA.html"/>
   </url>
   <url>
     <loc>https://s99lab.github.io/JXIV_PUBLICATIONS.html</loc>
@@ -142,6 +146,18 @@
     <loc>https://s99lab.github.io/WHAT_IS_STRUCTURAL_DRIFT_JA.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/WHAT_IS_STRUCTURAL_DRIFT.html"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/WHAT_IS_STRUCTURAL_DRIFT_JA.html"/>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://s99lab.github.io/CONCEPT_MAP_JA.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/CONCEPT_MAP.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/CONCEPT_MAP_JA.html"/>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://s99lab.github.io/FOR_AI_READERS_JA.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/FOR_AI_READERS.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/FOR_AI_READERS_JA.html"/>
     <lastmod>2026-10-26</lastmod>
   </url>
 </urlset>
