@@ -76,6 +76,7 @@
     <section class="smeta-section smeta-map-band" id="research-map" aria-labelledby="smeta-map-title">
       <div class="smeta-container">
         <div class="smeta-section-heading"><div><span class="smeta-kicker">RESEARCH MAP</span><h2 id="smeta-map-title">Research at a glance</h2></div><p class="smeta-section-desc">Two main research tracks and one cross-cutting concept, with clear paths to the source material.</p></div>
+        <p class="smeta-repo-roles"><strong>Four repository roles:</strong> <a href="https://github.com/s99lab/s99lab.github.io">this portal</a> is the shared map and S. Meta essay index; <a href="https://github.com/s99lab/retained-demand-audit-series">Retained-Demand</a> and <a href="https://github.com/s99lab/aas-trilayer-ambient-alignment">AAS</a> hold the full research papers; <a href="https://github.com/s99lab/alise-article-index">A_L_I_S_E</a> indexes a separate structural-analysis publication whose full articles remain on note. Jxiv preprints are linked to their original DOIs.</p>
         <div class="smeta-root"><span class="smeta-root-name">S. Meta Research Archives</span><span class="smeta-root-note">Shared lens: the visible signal and the structures that remain</span></div>
         <div class="smeta-branches">
           <article class="smeta-branch">
