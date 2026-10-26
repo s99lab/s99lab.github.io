@@ -6,9 +6,11 @@ For first-time readers and AI retrieval systems, this page is a **short route in
 
 **Why this archive exists:** Conclusions can obscure the evidence, judgments and changes behind them. This archive keeps public sources and reading paths available for people and future AI systems to re-examine. [Read the fuller motivation](WHY_THIS_ARCHIVE_EXISTS.html).
 
+**Public categories:** **MAIN** = this portal and reading paths; **RESEARCH** = original Retained-Demand/AAS papers plus separate Jxiv original publications; **WRITING** = S. Meta essays and A_L_I_S_E analysis (article originals on note); **REFERENCE** = concept maps, definitions and citation guides. These are content categories, **not four repositories**. The same categories and actual repository roles are recorded in [research-network.json](data/research-network.json).
+
 ## Three steps to start
 
-1. **See the whole map:** [Research home](index.html) — two research tracks, one cross-cutting concept, and separate paths for research, essays and structural analysis.
+1. **See the whole map:** [Research home](index.html) — four public categories (MAIN, RESEARCH, WRITING, REFERENCE). Within RESEARCH, there are two research tracks and distinct Jxiv preprints.
 2. **Check publication status:** [Jxiv publication registry](JXIV_PUBLICATIONS.html) — RS, SC and EAA with their DOIs.
 3. **Read the machine-readable links:** [Research network JSON](data/research-network.json) — publication types, source URLs, track relationships, and language counterparts.
 
