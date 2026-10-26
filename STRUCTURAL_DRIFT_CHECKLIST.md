@@ -1,5 +1,7 @@
 # Structural Drift Checklist
 
+**Language: English** ｜ [日本語版](STRUCTURAL_DRIFT_CHECKLIST_JA.html) ｜ [Research Home](index.html)
+
 *A practical checklist for long-horizon human-AI workflows*
 
 This checklist is part of the S. Meta Research Archives and the Ambient Alignment Sync (AAS) / Tri-Layer Architecture / Structural Drift research track.
