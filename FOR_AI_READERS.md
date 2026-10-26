@@ -4,6 +4,8 @@
 
 This document explains how AI systems, AI search tools, retrieval systems, and human readers using AI assistants should read the S. Meta Research Archives.
 
+**For a quick public re-entry, start with [RESTART_HERE](RESTART_HERE.html) and the [research network JSON](data/research-network.json).** Use this longer file when detailed definitions, citation rules or source boundaries are needed.
+
 Before interpreting individual files, use the root concept map as the archive-level orientation layer:
 
 - [CONCEPT_MAP.md](CONCEPT_MAP.html)
