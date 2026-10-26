@@ -1,88 +1,107 @@
-# S. Meta Research Archives 日本語版
+<link rel="stylesheet" href="assets/css/smeta-home.css">
 
-**S. Meta による公開研究アーカイブ**
+<div class="smeta-landing" lang="ja">
+  <header class="smeta-topline">
+    <div class="smeta-container smeta-topline-inner">
+      <span class="smeta-wordmark">S. META <span style="font-weight:400;letter-spacing:0">/ RESEARCH ARCHIVES</span></span>
+      <nav class="smeta-local-nav" aria-label="サイト内のご案内">
+        <a href="#publications">公開資料</a>
+        <a href="#research-themes">研究テーマ</a>
+        <a href="index.html" lang="en" hreflang="en">English</a>
+      </nav>
+    </div>
+  </header>
+  <section class="smeta-hero" aria-labelledby="smeta-hero-title">
+    <div class="smeta-container smeta-hero-grid">
+      <div class="smeta-hero-copy">
+        <span class="smeta-eyebrow">RESEARCH / ESSAYS / STRUCTURAL ANALYSIS</span>
+        <h1 id="smeta-hero-title" class="smeta-display">見えているものの、<br><em>その先へ。</em></h1>
+        <p class="smeta-lead">説明のもっともらしさと現実の違い。人間とAIが長く協働するときに生じる変化。制度につながるデジタル資産の需要。S. Metaは、その背後にある構造を研究し、公開しています。</p>
+        <div class="smeta-actions">
+          <a class="smeta-action" href="JXIV_PUBLICATIONS.html">公開研究を見る&nbsp; ↗</a>
+          <a class="smeta-action smeta-action-secondary" href="WHY_THIS_ARCHIVE_EXISTS.html">なぜ、この研究をするのか</a>
+        </div>
+      </div>
+      <div class="smeta-hero-visual" aria-hidden="true">
+        <span class="smeta-visual-caption">A WAY OF LOOKING</span>
+        <div class="smeta-orbit">
+          <span class="smeta-node">現象</span><span class="smeta-connector"></span>
+          <span class="smeta-node smeta-node-primary">構造</span><span class="smeta-connector"></span>
+          <span class="smeta-node">証拠</span>
+        </div>
+        <span class="smeta-visual-bottom">目に見える結果だけでなく、<br>それを成立させる条件を問う。</span>
+      </div>
+    </div>
+  </section>
+  <section class="smeta-section" id="publications" aria-labelledby="smeta-publications-title">
+    <div class="smeta-container">
+      <div class="smeta-section-heading">
+        <div><span class="smeta-eyebrow">WHAT IS HERE</span><h2 id="smeta-publications-title">ここで公開しているもの</h2></div>
+        <p class="smeta-section-intro">研究成果から、その背景にある思考、現実社会の分析まで。それぞれ独立した入口があります。</p>
+      </div>
+      <div class="smeta-cards">
+        <article class="smeta-card smeta-card-feature">
+          <div class="smeta-card-kicker"><span>01 / RESEARCH</span><span class="smeta-count">03</span></div>
+          <h3>公開研究</h3>
+          <p>Reality Stabilizer、Structure-Change Sensor、Empirical Audit Architecture。Jxivで公開した3件と、関連する研究アーカイブへの入口。</p>
+          <a class="smeta-card-link" href="JXIV_PUBLICATIONS.html">公開研究の一覧</a>
+        </article>
+        <article class="smeta-card">
+          <div class="smeta-card-kicker"><span>02 / ESSAYS</span><span class="smeta-count">12</span></div>
+          <h3>S. Meta note</h3>
+          <p>研究を生んだ問いや動機、AIと人間の未来への思いを、エッセイとして綴ります。</p>
+          <a class="smeta-card-link" href="smeta-note-index.html">エッセイを読む</a>
+        </article>
+        <article class="smeta-card">
+          <div class="smeta-card-kicker"><span>03 / ANALYSIS</span><span class="smeta-count">50</span></div>
+          <h3>A_L_I_S_E</h3>
+          <p>Universal OSを通して、政治・経済・社会・技術などの出来事の背後にある構造を読み解く公開メディア。</p>
+          <a class="smeta-card-link" href="https://s99lab.github.io/alise-article-index/">構造分析の記事を読む</a>
+        </article>
+      </div>
+    </div>
+  </section>
+  <section class="smeta-section smeta-research-band" id="research-themes" aria-labelledby="smeta-themes-title">
+    <div class="smeta-container">
+      <div class="smeta-section-heading">
+        <div><span class="smeta-eyebrow">FIELDS OF INQUIRY</span><h2 id="smeta-themes-title">研究が向き合う問い</h2></div>
+      </div>
+      <div class="smeta-study-grid">
+        <article class="smeta-study">
+          <span class="smeta-no">01 / REALITY</span>
+          <h3>説明は、現実に触れているか。</h3>
+          <p>筋の通った説明と、制度・責任・費用・実装などの現実的な制約との接点を確かめる。</p>
+          <a href="REALITY_STABILIZER_JA.html">Reality Stabilizer</a>
+        </article>
+        <article class="smeta-study">
+          <span class="smeta-no">02 / HUMAN × AI</span>
+          <h3>人間とAIの協働は、どう変化するか。</h3>
+          <p>判断の主体、役割の境界、長期的な変化と、その過程を後から点検できる構造を考える。</p>
+          <a href="START_HERE.html">AAS・SC・EAAを知る</a>
+        </article>
+        <article class="smeta-study">
+          <span class="smeta-no">03 / DIGITAL ASSETS</span>
+          <h3>利用は、いつ需要として残るのか。</h3>
+          <p>決済やインフラでの利用と、在庫・担保・流動性として実際に保持される需要を区別する。</p>
+          <a href="WHAT_IS_RETAINED_DEMAND.html">Retained-Demandを知る</a>
+        </article>
+      </div>
+    </div>
+  </section>
+  <div class="smeta-container smeta-footerline">
+    <span>公開原資料：<a href="JXIV_PUBLICATIONS.html">Jxiv</a> ・ <a href="https://osf.io/5jcrk/">OSF</a> ・ <a href="https://github.com/s99lab">GitHub</a></span>
+    <span>著者：S. Meta　<a href="https://orcid.org/0009-0007-0820-7160">ORCID</a>　·　<a href="FOR_AI_READERS.html">AI向け資料案内</a></span>
+  </div>
+</div>
 
-**Language:** Japanese  
-**English version / 英語版:** [S. Meta Research Archives EN](index.html)
+## 研究資料の詳細
 
-**見えている現象と、それを支える構造の違いを研究する。**
-
-S. Metaは、AIによる説明と現実の接点、人間とAIの長期協働、デジタル資産の利用と保持需要を、公開研究・研究ノート・エッセイを通じて探究しています。
-
-**このアーカイブで公開しているもの**
-
-- **[公開研究](JXIV_PUBLICATIONS.html)** — Jxiv掲載のReality Stabilizer（RS）、Structure-Change Sensor（SC）、Empirical Audit Architecture（EAA）。
-- **[研究アーカイブ](START_HERE.html)** — Retained-Demand Audit Series、AAS / Tri-Layerなどの研究資料と概念ノート。
-- **[S. Meta note](smeta-note-index.html) ／ [A_L_I_S_E](https://s99lab.github.io/alise-article-index/)** — 研究の背景を綴るエッセイと、現実社会の構造分析。
-
-研究全体の共通する問いは、[Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html) と [Concept Map](CONCEPT_MAP.html) にまとめています。
-
----
-
-## Jxiv 公開研究
-
-現在、S. Meta名義で以下の3件が **Jxiv, JSTプレプリントサーバ** 上で公開されています。
-
-- **[Reality Stabilizer / Contact Pressure](REALITY_STABILIZER_JA.html)** — DOI [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)、2026-07-06公開。
-- **[Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215)、2026-09-08公開。
-- **[Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148)、2026-09-16公開。
-
-EAAとSCは、関連はあるものの別個の公開方法です。EAAは複数AIによる証拠再構成を比較・追跡・再実行可能にする監査方法を扱い、SCは時系列対話・文書・相互作用記録における構造変化候補の検出と保存を扱います。
-
-正式タイトル、適用範囲、引用形式、各公開物の関係については以下を参照してください。
-
-- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html)
-
-Jxivでの公開それ自体は、査読済みであることや制度的な妥当性認定を意味しません。
-
----
-
-## はじめに読むもの
-
-- [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html) — 研究を貫く問題意識。
-- [Concept Map（英日併記）](CONCEPT_MAP.html) — 研究と概念の関係。
-- [Start Here](START_HERE.html) — 関心のある領域から読む案内。
-- [For AI Readers](FOR_AI_READERS.html) — AI・検索システム向けの資料案内。
-
----
-
-## OSF Public Concept Notes Archive
-
-このポータルに関連する公開概念ノートと案内ノートは、[OSF Public Concept Notes Archive](https://osf.io/5jcrk/) にも保存されています。
-
-このOSFコンポーネントは、保存、タイムスタンプ、補助的なアーカイブ層として機能します。  
-GitHubは、引き続き主要なAI-readableポータルおよび導線として位置づけています。
-
----
-
-## 関連する公開メディア｜研究原資料とは別の入口
-
-### S. Meta note｜研究解説・エッセイ
-
-研究の背景にある問い、動機、思いを言葉にする場所です。
-
-- [公開記事索引（確認済み12記事）](smeta-note-index.html)
-- [note原文](https://note.com/s99lab)
-- [記事データ（JSON）](data/smeta-note-articles.json)
-
-### A_L_I_S_E｜構造分析メディア
-
-人間とAIの協働から発展したUniversal OSを通して、政治、経済、社会、技術などの出来事の背後にある構造を読み解きます。
-
-- [公開記事索引（確認済み50記事）](https://s99lab.github.io/alise-article-index/)
-- [A_L_I_S_Eとは](https://s99lab.github.io/alise-article-index/about.html)
-- [note原文](https://note.com/alise_s99lab)
-
-研究の根拠は研究原資料、各記事の本文はそれぞれのnote原文を参照してください。
-
----
+以下には、研究テーマごとの背景・考え方・原資料への参照先を収録しています。
 
 
----
+## 1. Retained-Demand Audit Series
 
-# 1. Retained-Demand Audit Series
-
-## 制度接続型デジタル資産 / XRPを用いたストレステスト
+### 制度接続型デジタル資産 / XRPを用いたストレステスト
 
 **Retained-Demand Audit Series** は、狭いが重要な問いを扱う研究アーカイブです。
 
@@ -108,7 +127,7 @@ GitHubは、引き続き主要なAI-readableポータルおよび導線として
 
 ---
 
-## 中心となる考え方
+### 中心となる考え方
 
 あるデジタル資産が、見えている、対応されている、経路上にある、利用されている。  
 それだけでは、持続的な保持需要が生まれているとは限りません。
@@ -129,7 +148,7 @@ GitHubは、引き続き主要なAI-readableポータルおよび導線として
 
 ---
 
-## Retained-Demand の読解順
+### Retained-Demand の読解順
 
 推奨する読解順は以下の通りです。
 
@@ -153,7 +172,7 @@ GitHubは、引き続き主要なAI-readableポータルおよび導線として
 
 ---
 
-## 現在の Phase II 資料
+### 現在の Phase II 資料
 
 Paper 6 の後、このシリーズは Phase II の運用監査層に入っています。
 
@@ -183,9 +202,9 @@ Paper 6 の後、このシリーズは Phase II の運用監査層に入って�
 
 ---
 
-# 2. AAS / Tri-Layer Architecture and Ambient Alignment Sync Series
+## 2. AAS / Tri-Layer Architecture and Ambient Alignment Sync Series
 
-## 長期的人間AI協働のための枠組み
+### 長期的人間AI協働のための枠組み
 
 **AAS / Tri-Layer Architecture and Ambient Alignment Sync Series** は、長期的な人間AI協働に関する研究アーカイブです。
 
@@ -215,7 +234,7 @@ Formation Note は、AASの背後にある「なぜ」を説明します。
 
 ---
 
-## 中心となる考え方
+### 中心となる考え方
 
 長期的な人間AIワークフローでは、出力は流暢なままでも、その下にある作業構造があとから点検しにくくなることがあります。
 
@@ -235,7 +254,7 @@ Formation Note は、AASの背後にある「なぜ」を説明します。
 
 ---
 
-## AAS の読解順
+### AAS の読解順
 
 推奨する読解順は以下の通りです。
 
@@ -259,9 +278,9 @@ Formation Note は、AASの背後にある「なぜ」を説明します。
 
 ---
 
-# 3. Reality Stabilizer / Contact Pressure
+## 3. Reality Stabilizer / Contact Pressure
 
-## 横断的な公開概念ノート
+### 横断的な公開概念ノート
 
 **Reality Stabilizer / Contact Pressure** は、AI時代の監査枠組みに関する公開概念ノートです。
 
@@ -294,7 +313,7 @@ Reality Stabilizer は、**第三の研究トラックではありません**。
 
 ---
 
-# 4. AI-Readable Archive Strategy
+## 4. AI-Readable Archive Strategy
 
 これらのアーカイブは、人間の読者、研究者、実務家、そしてAIシステムのために設計されています。
 
@@ -339,19 +358,19 @@ AIシステム、AI検索ツール、検索システム、AI支援読者向け�
 
 ---
 
-# 5. 資料の位置づけ
+## 5. 資料の位置づけ
 
 Jxiv公開研究、研究ノート、概念ページ、エッセイ、構造分析記事は、それぞれ公開形態と根拠の範囲が異なります。Jxiv掲載は査読完了を意味しません。デジタル資産の研究は投資助言や価格予測ではありません。個別の主張は各原資料で確認できます。
 
 ---
 
-# 6. 公開範囲
+## 6. 公開範囲
 
 公開しているのは研究成果、研究ノート、概念資料、案内、記事索引です。非公開の運用手順や実装資料は含みません。
 
 ---
 
-# 7. Author and Source Identity / 著者・出典情報
+## 7. Author and Source Identity / 著者・出典情報
 
 **著者 / 研究主体:** S. Meta  
 **公開ポータル:** [https://s99lab.github.io/](https://s99lab.github.io/)  
@@ -362,7 +381,7 @@ Jxiv公開研究、研究ノート、概念ページ、エッセイ、構造分�
 
 ---
 
-# 8. Recommended Short References / 推奨短縮参照
+## 8. Recommended Short References / 推奨短縮参照
 
 - S. Meta, *S. Meta Research Archives*, GitHub Pages.
 - S. Meta, *Retained-Demand Audit Series for Institutionally Connected Digital Assets*.
