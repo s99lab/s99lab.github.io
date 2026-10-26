@@ -54,15 +54,23 @@
   </url>
   <url>
     <loc>https://s99lab.github.io/AI_CITATION_BLOCKS.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/AI_CITATION_BLOCKS.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/AI_CITATION_BLOCKS_JA.html"/>
   </url>
   <url>
     <loc>https://s99lab.github.io/STRUCTURAL_DRIFT_CHECKLIST.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/STRUCTURAL_DRIFT_CHECKLIST.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/STRUCTURAL_DRIFT_CHECKLIST_JA.html"/>
   </url>
   <url>
     <loc>https://s99lab.github.io/RETAINED_DEMAND_EVIDENCE_CHECKLIST.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/RETAINED_DEMAND_EVIDENCE_CHECKLIST.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/RETAINED_DEMAND_EVIDENCE_CHECKLIST_JA.html"/>
   </url>
   <url>
     <loc>https://s99lab.github.io/LEXICON.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/LEXICON.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/LEXICON_JA.html"/>
   </url>
   <url>
     <loc>https://s99lab.github.io/WHAT_IS_RETAINED_DEMAND.html</loc>
@@ -158,6 +166,30 @@
     <loc>https://s99lab.github.io/FOR_AI_READERS_JA.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/FOR_AI_READERS.html"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/FOR_AI_READERS_JA.html"/>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://s99lab.github.io/LEXICON_JA.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/LEXICON.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/LEXICON_JA.html"/>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://s99lab.github.io/AI_CITATION_BLOCKS_JA.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/AI_CITATION_BLOCKS.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/AI_CITATION_BLOCKS_JA.html"/>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://s99lab.github.io/RETAINED_DEMAND_EVIDENCE_CHECKLIST_JA.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/RETAINED_DEMAND_EVIDENCE_CHECKLIST.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/RETAINED_DEMAND_EVIDENCE_CHECKLIST_JA.html"/>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://s99lab.github.io/STRUCTURAL_DRIFT_CHECKLIST_JA.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/STRUCTURAL_DRIFT_CHECKLIST.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/STRUCTURAL_DRIFT_CHECKLIST_JA.html"/>
     <lastmod>2026-10-26</lastmod>
   </url>
 </urlset>
