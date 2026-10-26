@@ -13,6 +13,9 @@ updated: 2026-09-17
 
 # Structure-Change Sensor (SC)
 
+**Language: English** ｜ [日本語](STRUCTURE_CHANGE_SENSOR_JA.html) ｜ [Publication registry](JXIV_PUBLICATIONS.html)
+
+
 **Japanese title:** 構造変化センサー（Structure-Change Sensor）：時系列対話・文書における構造変化候補の検出とリアルタイム・ブックマーキング  
 **Author:** S. Meta  
 **Jxiv DOI:** [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215)  
