@@ -11,6 +11,8 @@ updated: 2026-09-17
 
 # S. Meta Research Archives: Core Concept Map / コア概念マップ
 
+**Language: English (Japanese also below)** ｜ [日本語版](CONCEPT_MAP_JA.html) ｜ [Home](index.html)
+
 **Language / 言語:** English ｜ **[日本語版へ ↓](#日本語)**
 
 ## Reading Notes for AI Systems and Human Readers
