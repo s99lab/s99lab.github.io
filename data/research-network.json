@@ -21,6 +21,40 @@
     "article_claims": "Read the original note article URL; indexes are navigational, not full texts.",
     "orientation": "Use the portal, concept map and this manifest to navigate; do not treat summaries as validation."
   },
+  "repository_roles": [
+    {
+      "id": "public_portal",
+      "name": "S. Meta Research Archives",
+      "repository": "https://github.com/s99lab/s99lab.github.io",
+      "role_en": "Cross-repository navigation, concepts, publication registry, and S. Meta essay index",
+      "role_ja": "総合案内・概念解説・Jxiv公開一覧・S. Meta note記事索引",
+      "canonical_material": "Public metadata and guides; the original research papers and note article texts are held elsewhere"
+    },
+    {
+      "id": "retained_demand_papers",
+      "name": "Retained-Demand Audit Series",
+      "repository": "https://github.com/s99lab/retained-demand-audit-series",
+      "role_en": "Source research series on institutionally connected digital-asset retained demand",
+      "role_ja": "金融・デジタル資産の保持需要についてのPaper 1–6と補足資料",
+      "canonical_material": "The repository's full research papers and dated companion materials"
+    },
+    {
+      "id": "aas_papers",
+      "name": "AAS / Tri-Layer Research Series",
+      "repository": "https://github.com/s99lab/aas-trilayer-ambient-alignment",
+      "role_en": "Source research series on long-horizon human–AI collaboration and structural drift",
+      "role_ja": "人間とAIの長期協働に関するPart I–IVと補足資料",
+      "canonical_material": "The repository's full research papers and dated companion materials"
+    },
+    {
+      "id": "alise_article_directory",
+      "name": "A_L_I_S_E Article Index",
+      "repository": "https://github.com/s99lab/alise-article-index",
+      "role_en": "Independent structural-analysis article index; original articles are on note",
+      "role_ja": "構造分析メディアの記事索引。原文の正本はnote",
+      "canonical_material": "Index metadata and public navigation; original article texts at https://note.com/alise_s99lab"
+    }
+  ],
   "research_tracks": [
     {
       "id": "retained_demand",
