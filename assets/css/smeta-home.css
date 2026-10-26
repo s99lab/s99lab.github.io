@@ -30,6 +30,13 @@
 .smeta-landing .smeta-snapshot dl>div{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:16px 0;border-top:1px solid #e7ebe6}
 .smeta-landing .smeta-snapshot dt{font-size:12px;color:#5a6e73;font-weight:650}
 .smeta-landing .smeta-snapshot dd{font-size:25px;letter-spacing:-.04em;font-weight:750;margin:0;color:#21525b;font-variant-numeric:tabular-nums}
+.smeta-landing .smeta-purpose{background:#fff;border-bottom:1px solid #e2e9e4;padding:46px 0 47px}
+.smeta-landing .smeta-purpose-grid{display:grid;grid-template-columns:minmax(0,.68fr) minmax(0,1.32fr);gap:48px;align-items:start}
+.smeta-landing .smeta-purpose-title{font-size:clamp(24px,2.6vw,31px)!important;font-weight:760!important;letter-spacing:-.035em;color:#1d3840!important;line-height:1.45!important;margin:9px 0 0!important;padding:0!important;border:0!important}
+.smeta-landing .smeta-purpose-body p{font-size:14px;color:#415963;line-height:1.95;margin:0 0 12px!important}
+.smeta-landing .smeta-purpose-link{display:inline-block;margin-top:4px;font-size:13px;font-weight:760;color:#226c67!important;text-decoration:underline!important;text-underline-offset:4px}
+@media(max-width:850px){.smeta-landing .smeta-purpose-grid{grid-template-columns:1fr;gap:14px}}
+@media(max-width:650px){.smeta-landing .smeta-purpose{padding:32px 0 36px}.smeta-landing .smeta-purpose-body p{font-size:13px;line-height:1.85}}
 .smeta-landing .smeta-section{padding:61px 0}
 .smeta-landing .smeta-section-heading{display:flex;align-items:end;justify-content:space-between;gap:18px;margin-bottom:24px}
 .smeta-landing .smeta-section-heading h2{font-size:clamp(25px,2.9vw,33px)!important;letter-spacing:-.035em;font-weight:770;margin:8px 0 0!important;padding:0!important;border:0!important;color:#1d3840}
