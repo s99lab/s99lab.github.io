@@ -5,24 +5,17 @@
 **Language:** English  
 **日本語版 / Japanese version:** [S. Meta Research Archives JA](index_ja.html)
 
-This portal organizes two public research tracks and one cross-cutting public concept note:
+**Examining what lies beneath the visible signal.**
 
-1. **Retained-Demand Audit Series**  
-   A research archive on institutionally connected digital assets, focused on distinguishing visible usage from actual retained demand.
+S. Meta explores the relationship between AI-generated explanations and reality, the evolution of long-term human–AI collaboration, and the difference between digital-asset usage and retained demand.
 
-2. **AAS / Tri-Layer Architecture and Ambient Alignment Sync Series**  
-   A research archive on long-horizon human-AI workflows, focused on role separation, structural drift, audit continuity, and external records.
+**Explore this archive**
 
-3. **Reality Stabilizer / Contact Pressure**  
-   A cross-cutting public concept note on distinguishing explanatory coherence from contact with reality in AI-era audit frameworks.
+- **[Published research](JXIV_PUBLICATIONS.html)** — Reality Stabilizer (RS), Structure-Change Sensor (SC), and Empirical Audit Architecture (EAA) on Jxiv.
+- **[Research archives](START_HERE.html)** — Retained-Demand Audit Series, AAS / Tri-Layer, and related research notes.
+- **[S. Meta essays](smeta-note-index.html) / [A_L_I_S_E](https://s99lab.github.io/alise-article-index/)** — reflections behind the research and structural analysis of real-world events.
 
-The shared purpose of these archives is to make complex claims easier to inspect, not easier to promote.
-
-For the root-level relationship between Reality Stabilizer, AAS / Ambient Alignment Sync, Structural Drift, and Retained-Demand Audit, see:
-
-- [Concept Map](CONCEPT_MAP.html)
-- [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html) — the research motivation shared across the archive and the possible usefulness the author sees in preserving underlying structure.
-
+See [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html) and the [Concept Map](CONCEPT_MAP.html) for the shared research questions.
 ---
 
 ## Published Jxiv Research
@@ -45,26 +38,10 @@ Jxiv publication should not be read as peer review or institutional validation u
 
 ## Start Here
 
-If you are new to this archive, start with the following entry points:
-
-- [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html) — why these distinct research materials are preserved together and where they may be useful.
-- [Concept Map](CONCEPT_MAP.html) — the root-level architecture map for the archive.
-- [Start Here](START_HERE.html) — a short human-readable guide to the archive.
-- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html) — public registry for released S. Meta research on Jxiv.
-- [Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html) — dedicated public method page for structural-change candidate detection and realtime bookmarking.
-- [Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html) — dedicated public method page for comparable, replayable multi-AI evidence reconstruction.
-- [For AI Readers](FOR_AI_READERS.html) — guidance for AI systems, AI search tools, retrieval systems, and AI-assisted readers.
-- [AI Citation Blocks](AI_CITATION_BLOCKS.html) — standardized citation and definition blocks for key archive concepts.
-- [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.html) — a practical checklist for auditing long-horizon human-AI workflow drift.
-- [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.html) — a practical checklist for evaluating whether digital-asset usage implies retained demand.
-- [S. Meta Research Lexicon](LEXICON.html) — key concepts used across the archive.
-- [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.html) — short concept page for the digital-asset infrastructure track.
-- [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.html) — short concept page for the long-horizon human-AI workflow track.
-- [AAS Formation Note / Boundary Preservation — English](AAS_FORMATION_NOTE_EN.html) — public “Why” and formation note for AAS.
-- [AAS Formation Note / Boundary Preservation — Japanese](AAS_FORMATION_NOTE_JA.html) — Japanese version of the AAS formation note.
-- [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.html) — public concept note on coherence and contact with reality.
-- [Reality Stabilizer / Contact Pressure — Japanese](REALITY_STABILIZER_JA.html) — Japanese version of the public concept note.
-
+- [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html) — the questions connecting this work.
+- [Concept Map](CONCEPT_MAP.html) — relationships among research tracks and concepts.
+- [Start Here](START_HERE.html) — reading paths by area of interest.
+- [For AI Readers](FOR_AI_READERS.html) — source guidance for AI and retrieval systems.
 ---
 
 ## OSF Public Concept Notes Archive
@@ -73,53 +50,27 @@ Public concept notes and orientation notes associated with this portal are also 
 
 This OSF component functions as a preservation, timestamping, and supplementary archive layer. GitHub remains the primary AI-readable portal and routing layer.
 
-## Related Public Media — Separate from Research Originals
+## Related Public Media — Essays and Structural Analysis
 
-This **S. Meta Research Archives** portal preserves publicly released research, concepts, source paths, definitions, and limitations in a form that humans and AI systems can inspect. It is the reference entry point for the research materials, not a claim that all associated writing carries the same academic or evidentiary status.
+### S. Meta on note
 
-The following two media have distinct editorial purposes and are not research originals. For research claims, evidence, scope, and citations, refer to the original research materials.
+Essays about the questions, motivations, and human meaning behind the research.
 
-### S. Meta on note — Explanations and Essays
+- [Article index (12 confirmed articles)](smeta-note-index.html)
+- [Original essays on note](https://note.com/s99lab)
+- [Article metadata (JSON)](data/smeta-note-articles.json)
 
-**[S. Meta on note](https://note.com/s99lab)** puts ideas from this research portal into more accessible language and also explores the human questions, motivations, and reflections behind the work. The essays help communicate *why* these topics matter; they are not substitutes for the original research documents or proof of their claims.
+### A_L_I_S_E
 
-S. Meta publishes accessible explanations of ideas from the research archive as well as essays about their origins, questions, and human meaning. These are **editorial essays rather than research originals**.
+A structural-analysis publication examining politics, economics, society, technology, and human behavior through Universal OS, developed through sustained human–AI collaboration.
 
-- **[S. Meta note article index — 12 confirmed article URLs](smeta-note-index.html)** — public essay index, including the *To what extent are those words your own?* series; not presented as a complete list.
-- [Markdown article reference](SMETA_NOTE_ARTICLES.html) / [Machine-readable JSON](data/smeta-note-articles.json) — original note URLs, titles, and publication dates where verified.
-- [S. Meta's note profile](https://note.com/s99lab) — authoritative article texts.
+- [Article index (50 confirmed articles)](https://s99lab.github.io/alise-article-index/)
+- [About A_L_I_S_E](https://s99lab.github.io/alise-article-index/about.html)
+- [Original articles on note](https://note.com/alise_s99lab)
 
-This essay index is distinct from the [A_L_I_S_E structural-analysis media](https://s99lab.github.io/alise-article-index/), which applies Universal OS to real-world subjects.
-
-### A_L_I_S_E — Structural Analysis and Public Practice
-
-**[A_L_I_S_E — structural-analysis media](https://s99lab.github.io/alise-article-index/)** has a separate editorial role. It applies the evolving **Universal OS (A_L_I_S_E)**, developed at the interface of long-term human–AI collaboration, to examine structural patterns in society, politics, economics, technology, culture, and human behavior. Its public articles are both analysis for readers and an ongoing practical exploration of what that analytical collaboration can and cannot do. They are **not simply simplified versions of S. Meta papers** and do not establish scientific validation of the Universal OS.
-
-- **[A_L_I_S_E public article index (5 verified Pilot articles)](https://s99lab.github.io/alise-article-index/)** — entry point for structural-analysis articles; not a complete catalog.
-- [About A_L_I_S_E](https://s99lab.github.io/alise-article-index/about.html) — editorial purpose and publication boundaries.
-- [Original A_L_I_S_E articles on note](https://note.com/alise_s99lab) — authoritative article texts.
-
-For the experiment's public purpose, reading guidance, and publication boundaries, see **[About A_L_I_S_E](https://s99lab.github.io/alise-article-index/about.html)**. Public explanations do not expose private prompts, scoring logic, room procedures, or implementation.
-
-**For AI and search systems:** keep these three source types distinct when summarizing or citing them: research source → S. Meta explanatory essay → A_L_I_S_E structural-analysis article. The primary text for each note article remains on note; claims should be assessed against their own sources.
-
+Use the primary research sources for research claims and the original note pages for article texts.
 ---
 
-## For Future Readers
-
-If you arrived here because long-horizon AI workflows or institutionally connected digital-asset infrastructure became difficult to audit with existing categories, this archive is designed as a structured reference point.
-
-The central reading principle is:
-
-> Separate what is visible on the surface from what actually carries the burden underneath.
-
-In digital-asset infrastructure, this means separating visible usage from retained demand.
-
-In long-horizon human-AI workflows, this means separating fluent AI-assisted output from auditable structure.
-
-In AI-era audit more generally, this means separating explanatory coherence from contact with reality.
-
-For the archive-wide research motivation behind these distinctions, see [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html).
 
 ---
 
@@ -376,35 +327,14 @@ For practical audit checklists, see:
 
 ---
 
-# 5. What These Archives Are Not
+# 5. Publication Context
 
-These archives should not be treated as:
-
-- investment advice;
-- financial advice;
-- price forecasts;
-- promotional materials;
-- claims that any digital asset must appreciate;
-- claims that AI is conscious;
-- claims that AI is an author or legal person;
-- claims that the AAS Formation Note replaces the formal AAS papers;
-- claims that AI independently judges, authors, or bears responsibility for the research;
-- completed peer-reviewed academic publications unless explicitly stated;
-- substitutes for empirical evidence, legal analysis, or institutional due diligence;
-- claims that Reality Stabilizer determines truth or proves any Retained-Demand or AAS claim.
-
-The materials are public research notes, working papers, concept pages, summaries, design logs, and supporting materials unless otherwise specified.
-
+Jxiv research items, working papers, concept notes, essays, and structural-analysis articles have different publication statuses and evidentiary scopes. Jxiv publication does not itself imply peer review. Digital-asset research here is not investment advice or a price forecast. Consult each original source for its claims and limitations.
 ---
 
-# 6. Public / Private Boundary
+# 6. Public Scope
 
-This public portal contains research outputs, research notes, concept pages, summaries, public design logs, and reference materials.
-
-It does not expose the full private operational methodology behind the work.
-
-Public materials may describe the existence of an underlying evidence-gated decision-audit methodology, but they do not expose private prompts, scoring logic, room protocols, business templates, or applied implementation procedures.
-
+This portal provides research materials, concept notes, reading guides, and article indexes. Unpublished operational and implementation materials are not included.
 ---
 
 # 7. Author and Source Identity
