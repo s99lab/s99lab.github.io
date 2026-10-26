@@ -9,7 +9,7 @@
     <div class="smeta-container smeta-navline">
       <a class="smeta-brand" href="index.html">S. META <span>/ RESEARCH ARCHIVES</span></a>
       <nav class="smeta-nav" aria-label="Site navigation">
-        <a href="#publications">Publications</a>
+        <a href="#publications">Four areas</a>
         <a href="#research-map">Research map</a>
         <a href="RESTART_HERE.html" aria-label="AI and returning readers: start with the quick re-entry guide">AI: Start here</a>
         <a class="smeta-lang" href="index_ja.html" hreflang="ja">日本語</a>
@@ -53,22 +53,27 @@
     </section>
     <section class="smeta-section" id="publications" aria-labelledby="smeta-work-title">
       <div class="smeta-container">
-        <div class="smeta-section-heading"><div><span class="smeta-kicker">WHAT IS HERE</span><h2 id="smeta-work-title">Explore the work</h2></div><p class="smeta-section-desc">Research, essays, and structural analysis—three distinct ways into the archive.</p></div>
+        <div class="smeta-section-heading"><div><span class="smeta-kicker">PUBLIC INFORMATION MAP</span><h2 id="smeta-work-title">Four areas, one public network</h2></div><p class="smeta-section-desc">Categories describe what you are reading; repositories tell you where it is maintained.</p></div>
         <div class="smeta-cards">
           <article class="smeta-card smeta-card-feature">
-            <div class="smeta-card-meta"><span>01 / RESEARCH</span><span class="smeta-num">03</span></div>
-            <h3>Research</h3><p>Three Jxiv publications, research series, methods, and reference materials.</p>
-            <a class="smeta-card-link" href="JXIV_PUBLICATIONS.html">Browse the research</a>
+            <div class="smeta-card-meta"><span>01 / MAIN</span></div>
+            <h3>Start here</h3><p>The purpose of this archive, the whole network and paths for new readers and AI.</p>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="START_HERE.html">Human introduction</a><a class="smeta-card-link" href="RESTART_HERE.html">AI / quick re-entry</a></div>
           </article>
           <article class="smeta-card">
-            <div class="smeta-card-meta"><span>02 / ESSAYS</span><span class="smeta-num">12</span></div>
-            <h3>S. Meta note</h3><p>Essays on the questions behind the research and the future of human–AI collaboration.</p>
-            <a class="smeta-card-link" href="smeta-note-index-en.html">Read the essays</a>
+            <div class="smeta-card-meta"><span>02 / RESEARCH</span></div>
+            <h3>Research</h3><p>Two full research series in their own repositories, and three distinct Jxiv preprints.</p>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="#research-map">Research tracks</a><a class="smeta-card-link" href="JXIV_PUBLICATIONS.html">Jxiv publications</a></div>
           </article>
           <article class="smeta-card">
-            <div class="smeta-card-meta"><span>03 / ANALYSIS</span><span class="smeta-num">50</span></div>
-            <h3>A_L_I_S_E</h3><p>Structural analysis of developments across society, economics, technology, and beyond.</p>
-            <a class="smeta-card-link" href="https://s99lab.github.io/alise-article-index/index_en.html">Explore the analyses</a>
+            <div class="smeta-card-meta"><span>03 / WRITING</span></div>
+            <h3>Essays &amp; analysis</h3><p>Two separate note streams. GitHub indexes the articles; note hosts the original texts.</p>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="smeta-note-index-en.html">S. Meta essays (12)</a><a class="smeta-card-link" href="https://s99lab.github.io/alise-article-index/index_en.html">A_L_I_S_E analysis (50)</a></div>
+          </article>
+          <article class="smeta-card">
+            <div class="smeta-card-meta"><span>04 / REFERENCE</span></div>
+            <h3>Reference guides</h3><p>Concept relationships, definitions, attribution and source-checking guidance.</p>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="CONCEPT_MAP.html">Concept map</a><a class="smeta-card-link" href="LEXICON.html">Lexicon &amp; terms</a></div>
           </article>
         </div>
       </div>
