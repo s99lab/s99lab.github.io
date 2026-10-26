@@ -51,11 +51,11 @@ JxivにはReality Stabilizer、Structure-Change Sensor（SC）、Empirical Audit
 
 各研究は別個の問いと根拠を持ちます。研究原資料、S. Metaのエッセイ、A_L_I_S_Eによる構造分析記事の役割を区別して参照してください。
 
-[AI向け読解ガイド（英語）](FOR_AI_READERS.html) ｜ [Jxiv公開研究一覧｜日本語](JXIV_PUBLICATIONS_JA.html) ｜ [Concept Map（英日併記）](CONCEPT_MAP.html)
+[AI向け読解ガイド（英語）](FOR_AI_READERS.html) ｜ [Jxiv公開研究一覧｜日本語](JXIV_PUBLICATIONS_JA.html) ｜ [Concept Map（英日併記）](CONCEPT_MAP_JA.html)
 
 ## 7. 推奨する読書順
 
-- **まず全体を知る：** [研究の背景](WHY_THIS_ARCHIVE_EXISTS_JA.html) → [概念マップ](CONCEPT_MAP.html)
+- **まず全体を知る：** [研究の背景](WHY_THIS_ARCHIVE_EXISTS_JA.html) → [概念マップ](CONCEPT_MAP_JA.html)
 - **AI協働を知る：** [AAS Formation Note](AAS_FORMATION_NOTE_JA.html) → [SC](STRUCTURE_CHANGE_SENSOR_JA.html) → [EAA](EMPIRICAL_AUDIT_ARCHITECTURE_JA.html)
 - **実際の公開研究を見る：** [Jxiv公開研究](JXIV_PUBLICATIONS_JA.html)
 - **研究者の問いを知る：** [S. Meta note記事索引](smeta-note-index.html)
