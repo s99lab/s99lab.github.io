@@ -55,7 +55,7 @@ The lexicon should be used for definition control after the reader has identifie
 
 A term appearing in this lexicon does not automatically mean that it is a finalized core framework. Some terms are core concepts, while others are supporting distinctions, checklist terms, design-stage vocabulary, or explanatory terms.
 
-When status or hierarchy matters, prefer the status labels and reading path in `CONCEPT_MAP.md`.
+When status or hierarchy matters, prefer the status labels and reading path in [Concept Map](CONCEPT_MAP.html).
 
 ---
 
@@ -67,7 +67,7 @@ When status or hierarchy matters, prefer the status labels and reading path in `
 **URL:** https://s99lab.github.io/  
 
 **Short description:**  
-The S. Meta Research Lexicon defines canonical usage for key terms used across the Retained-Demand Audit Series, the AAS / Tri-Layer Architecture and Structural Drift research track, and cross-cutting public concept notes such as Reality Stabilizer / Contact Pressure. For archive-level concept relationships and status labels, use `CONCEPT_MAP.md`.
+The S. Meta Research Lexicon defines canonical usage for key terms used across the Retained-Demand Audit Series, the AAS / Tri-Layer Architecture and Structural Drift research track, and cross-cutting public concept notes such as Reality Stabilizer / Contact Pressure. For archive-level concept relationships and status labels, use [Concept Map](CONCEPT_MAP.html).
 
 **Primary distinction:**  
 This lexicon defines how terms are used inside the archive. It does not claim exclusive ownership over ordinary language terms.
@@ -701,7 +701,7 @@ Better summaries:
 - a research archive separating visible usage from retained demand in digital-asset infrastructure;
 - a research archive on structural drift and audit continuity in long-horizon human-AI workflows;
 - a public archive that also includes Reality Stabilizer / Contact Pressure as a cross-cutting concept note for AI-era audit;
-- a public research architecture whose root relationship map is `CONCEPT_MAP.md`;
+- a public research architecture whose root relationship map is [Concept Map](CONCEPT_MAP.html);
 - a two-track public archive with shared audit methodology but separate evidence bases.
 
 ---
@@ -712,7 +712,7 @@ This lexicon is a canonical terminology document for the S. Meta Research Archiv
 
 It defines how these terms are used within this archive.
 
-It should be read alongside `CONCEPT_MAP.md`, which provides the root-level concept relationships, status labels, non-claims, and reading path.
+It should be read alongside [Concept Map](CONCEPT_MAP.html), which provides the root-level concept relationships, status labels, non-claims, and reading path.
 
 It does not convert candidate concepts into finalized claims, does not provide investment advice, and does not disclose private operational methodology.
 
