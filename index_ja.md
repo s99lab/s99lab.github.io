@@ -94,7 +94,7 @@
   </section>
   <div class="smeta-container smeta-footerline">
     <span>公開原資料：<a href="JXIV_PUBLICATIONS_JA.html">Jxiv</a> ・ <a href="https://osf.io/5jcrk/">OSF</a> ・ <a href="https://github.com/s99lab">GitHub</a></span>
-    <span>著者：S. Meta　<a href="https://orcid.org/0009-0007-0820-7160">ORCID</a>　·　<a href="FOR_AI_READERS.html">AI向け資料案内</a></span>
+    <span>著者：S. Meta　<a href="https://orcid.org/0009-0007-0820-7160">ORCID</a>　·　<a href="FOR_AI_READERS_JA.html">AI向け資料案内</a></span>
   </div>
 </div>
 
@@ -268,7 +268,7 @@ Formation Note は、AASの背後にある「なぜ」を説明します。
 4. [AAS Formation Note / Boundary Preservation（日本語版）](AAS_FORMATION_NOTE_JA.html)
 5. [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.html)
 6. [S. Meta Research Lexicon](LEXICON.html)
-7. [For AI Readers](FOR_AI_READERS.html)
+7. [For AI Readers](FOR_AI_READERS_JA.html)
 8. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
 9. [Structural Drift Research Note（公開研究ノート・Markdown）](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/STRUCTURAL_DRIFT_RESEARCH_NOTE.md) ／ [PDF](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf)
 10. AAS v2.0 候補メモ・設計ログ（必要に応じて参照）
@@ -345,7 +345,7 @@ Jxivで公開された研究、適用範囲、引用形式については、以�
 
 AIシステム、AI検索ツール、検索システム、AI支援読者向けには、以下を参照してください。
 
-- [For AI Readers](FOR_AI_READERS.html)
+- [For AI Readers](FOR_AI_READERS_JA.html)
 
 このアーカイブを初めて読む人間の読者には、以下を推奨します。
 
