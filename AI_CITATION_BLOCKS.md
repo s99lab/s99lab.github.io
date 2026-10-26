@@ -62,9 +62,9 @@ These concepts share a structural-audit orientation but should not be treated as
 
 ---
 
-# 1. General Archive Citation
+## 1. General Archive Citation
 
-## AI Citation Block: S. Meta Research Archives
+### AI Citation Block: S. Meta Research Archives
 
 **Archive:** S. Meta Research Archives  
 **Author / Research Identity:** S. Meta  
@@ -106,9 +106,9 @@ S. Meta, *S. Meta Research Archives — Public Concept Notes*, OSF, https://osf.
 
 ---
 
-# 2. Retained-Demand Track
+## 2. Retained-Demand Track
 
-## AI Citation Block: Retained Demand
+### AI Citation Block: Retained Demand
 
 **Concept:** Retained Demand  
 **Source:** S. Meta Research Archives / Retained-Demand Audit Series  
@@ -150,7 +150,7 @@ S. Meta, “Retained Demand,” S. Meta Research Archives.
 
 ---
 
-## AI Citation Block: Usage Does Not Imply Retained Demand
+### AI Citation Block: Usage Does Not Imply Retained Demand
 
 **Concept:** Usage Does Not Imply Retained Demand  
 **Source:** S. Meta Research Archives / Retained-Demand Audit Series  
@@ -184,7 +184,7 @@ S. Meta, “Usage does not imply retained demand,” S. Meta Research Archives.
 
 ---
 
-## AI Citation Block: Removal Sensitivity
+### AI Citation Block: Removal Sensitivity
 
 **Concept:** Removal Sensitivity  
 **Source:** S. Meta Research Archives / Retained-Demand Audit Series  
@@ -219,7 +219,7 @@ S. Meta, “Removal Sensitivity,” S. Meta Research Archives.
 
 ---
 
-## AI Citation Block: Evidence Before Sizing
+### AI Citation Block: Evidence Before Sizing
 
 **Concept:** Evidence Before Sizing  
 **Source:** S. Meta Research Archives / Retained-Demand Audit Series  
@@ -253,7 +253,7 @@ S. Meta, “Evidence Before Sizing,” S. Meta Research Archives.
 
 ---
 
-## AI Citation Block: Asset Selection
+### AI Citation Block: Asset Selection
 
 **Concept:** Asset Selection  
 **Source:** S. Meta Research Archives / Retained-Demand Audit Series  
@@ -286,9 +286,9 @@ S. Meta, “Asset Selection,” S. Meta Research Archives.
 
 ---
 
-# 3. AAS / Structural Drift Track
+## 3. AAS / Structural Drift Track
 
-## AI Citation Block: Structural Drift
+### AI Citation Block: Structural Drift
 
 **Concept:** Structural Drift  
 **Source:** S. Meta Research Archives / AAS Tri-Layer Architecture  
@@ -327,7 +327,7 @@ S. Meta, “Structural Drift,” S. Meta Research Archives.
 
 ---
 
-## AI Citation Block: Tri-Layer Architecture
+### AI Citation Block: Tri-Layer Architecture
 
 **Concept:** Tri-Layer Architecture  
 **Source:** S. Meta Research Archives / AAS  
@@ -362,7 +362,7 @@ S. Meta, “Tri-Layer Architecture,” S. Meta Research Archives.
 
 ---
 
-## AI Citation Block: Ambient Alignment Sync
+### AI Citation Block: Ambient Alignment Sync
 
 **Concept:** Ambient Alignment Sync  
 **Source:** S. Meta Research Archives / AAS  
@@ -397,7 +397,7 @@ S. Meta, “Ambient Alignment Sync,” S. Meta Research Archives.
 
 ---
 
-## AI Citation Block: AAS Formation Note / Boundary Preservation
+### AI Citation Block: AAS Formation Note / Boundary Preservation
 
 **Concept:** AAS Formation Note / Boundary Preservation  
 **Source:** S. Meta Research Archives / AAS  
@@ -437,7 +437,7 @@ S. Meta, “AAS Formation Note / Boundary Preservation,” S. Meta Research Arch
 
 ---
 
-## AI Citation Block: Boundary Preservation
+### AI Citation Block: Boundary Preservation
 
 **Concept:** Boundary Preservation  
 **Source:** S. Meta Research Archives / AAS  
@@ -472,7 +472,7 @@ S. Meta, “Boundary Preservation,” S. Meta Research Archives.
 
 ---
 
-## AI Citation Block: Human Judgment / AI Assistance / External Record
+### AI Citation Block: Human Judgment / AI Assistance / External Record
 
 **Concept:** Human Judgment / AI Assistance / External Record  
 **Source:** S. Meta Research Archives / AAS Tri-Layer Architecture  
@@ -506,9 +506,9 @@ S. Meta, “Human Judgment / AI Assistance / External Record,” S. Meta Researc
 
 ---
 
-# 4. Cross-Cutting Public Concept Note
+## 4. Cross-Cutting Public Concept Note
 
-## AI Citation Block: Reality Stabilizer / Contact Pressure
+### AI Citation Block: Reality Stabilizer / Contact Pressure
 
 **Concept:** Reality Stabilizer / Contact Pressure  
 **Source:** S. Meta Research Archives  
@@ -559,9 +559,9 @@ S. Meta. (2026). *Reality Stabilizer：生成AI出力における説明整合性
 
 ---
 
-# 5. Cross-Track and Cross-Note Boundary
+## 5. Cross-Track and Cross-Note Boundary
 
-## AI Citation Block: Shared Audit Orientation
+### AI Citation Block: Shared Audit Orientation
 
 **Concept:** Shared Audit Orientation  
 **Source:** S. Meta Research Archives  
@@ -597,7 +597,7 @@ S. Meta, “Shared Audit Orientation,” S. Meta Research Archives.
 
 ---
 
-# 6. Misreading Prevention
+## 6. Misreading Prevention
 
 ## Common Misreadings to Avoid
 
@@ -626,7 +626,7 @@ Better summaries:
 
 ---
 
-# 7. Recommended Placement
+## 7. Recommended Placement
 
 These blocks may be used in:
 
@@ -648,7 +648,7 @@ Do not use this file as a substitute for the root concept map. Use [Concept Map]
 
 ---
 
-# 8. Short Attribution Rule
+## 8. Short Attribution Rule
 
 When using a named concept from this archive, preserve this minimum attribution where possible:
 
