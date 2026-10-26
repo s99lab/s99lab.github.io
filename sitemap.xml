@@ -62,9 +62,13 @@
   </url>
   <url>
     <loc>https://s99lab.github.io/WHAT_IS_RETAINED_DEMAND.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/WHAT_IS_RETAINED_DEMAND.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/WHAT_IS_RETAINED_DEMAND_JA.html"/>
   </url>
   <url>
     <loc>https://s99lab.github.io/WHAT_IS_STRUCTURAL_DRIFT.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/WHAT_IS_STRUCTURAL_DRIFT.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/WHAT_IS_STRUCTURAL_DRIFT_JA.html"/>
   </url>
   <url>
     <loc>https://s99lab.github.io/AAS_FORMATION_NOTE_EN.html</loc>
@@ -126,6 +130,18 @@
     <loc>https://s99lab.github.io/smeta-note-index-en.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/smeta-note-index-en.html"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/smeta-note-index.html"/>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://s99lab.github.io/WHAT_IS_RETAINED_DEMAND_JA.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/WHAT_IS_RETAINED_DEMAND.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/WHAT_IS_RETAINED_DEMAND_JA.html"/>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://s99lab.github.io/WHAT_IS_STRUCTURAL_DRIFT_JA.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/WHAT_IS_STRUCTURAL_DRIFT.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/WHAT_IS_STRUCTURAL_DRIFT_JA.html"/>
     <lastmod>2026-10-26</lastmod>
   </url>
 </urlset>
