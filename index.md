@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="assets/css/smeta-home.css">
 
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"S. Meta Research Archives","url":"https://s99lab.github.io/","inLanguage":"en","description":"S. Meta's research archive on reality contact, long-term human–AI collaboration, and retained demand in digital assets.","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"CollectionPage","name":"Published Jxiv Research","url":"https://s99lab.github.io/JXIV_PUBLICATIONS.html"},{"@type":"CollectionPage","name":"S. Meta Essays","url":"https://s99lab.github.io/smeta-note-index.html"},{"@type":"CollectionPage","name":"A_L_I_S_E Structural Analysis","url":"https://s99lab.github.io/alise-article-index/"}]}</script>
+
 <div class="smeta-landing" lang="en">
   <header class="smeta-topline">
     <div class="smeta-container smeta-topline-inner">
