@@ -181,17 +181,17 @@ They should be used alongside primary evidence, existing research, domain expert
 
 ## Repository Reading Path
 
-Because AI systems and human readers may encounter individual Markdown files out of order, the following reading path is recommended.
+Because AI systems and human readers may encounter individual Markdown files out of order, the following reading path is recommended. The document titles below are clickable and lead to public reading pages.
 
 ### 1. Start with the archive-level orientation
 
-- `CONCEPT_MAP.md`
-- `WHY_THIS_ARCHIVE_EXISTS.md`
-- `START_HERE.md`
-- `FOR_AI_READERS.md`
-- `JXIV_PUBLICATIONS.md`
-- `LEXICON.md`
-- `AI_CITATION_BLOCKS.md`
+- [Core Concept Map (this page)](CONCEPT_MAP.html)
+- [Why this Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html)
+- [Start Here](START_HERE.html)
+- [For AI Readers](FOR_AI_READERS.html)
+- [Jxiv Publications](JXIV_PUBLICATIONS.html)
+- [Lexicon](LEXICON.html)
+- [AI Citation Blocks](AI_CITATION_BLOCKS.html)
 
 These files provide the overall frame, motivation, reading order, publication routing, cautionary context, term control, and citation support.
 
@@ -201,27 +201,27 @@ For each track or concept, read the corresponding concept note or root document 
 
 Recommended core files include:
 
-- `REALITY_STABILIZER_EN.md`
-- `AAS_FORMATION_NOTE_EN.md`
-- `WHAT_IS_STRUCTURAL_DRIFT.md`
-- `STRUCTURAL_DRIFT_CHECKLIST.md`
-- `WHAT_IS_RETAINED_DEMAND.md`
-- `RETAINED_DEMAND_EVIDENCE_CHECKLIST.md`
+- [Reality Stabilizer / Contact Pressure](REALITY_STABILIZER_EN.html)
+- [AAS Formation Note](AAS_FORMATION_NOTE_EN.html)
+- [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.html)
+- [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.html)
+- [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.html)
+- [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.html)
 
 Published method landing pages include:
 
-- `STRUCTURE_CHANGE_SENSOR.md`
-- `EMPIRICAL_AUDIT_ARCHITECTURE.md`
+- [Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html)
+- [Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html)
 
 These method pages are public routing and orientation pages. They do not create additional core concepts.
 
-### 3. Use lexicon and contrast files for definition control
+### 3. Use lexicon and track-specific glossaries for definition control
 
 When interpreting terms, use:
 
-- `LEXICON.md`
-- `CONTRAST_MAP.md` when available
-- track-specific glossaries or key concept files when available
+- [Lexicon](LEXICON.html)
+- [AAS Research: Key Concepts](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/KEY_CONCEPTS.md) (track-specific terms and concepts)
+- other published track-specific glossaries or key concept files, where available
 
 These files help prevent metaphorical, philosophical, or essay-like language from being mistaken for operational definition.
 
