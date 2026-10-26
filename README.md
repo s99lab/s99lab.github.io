@@ -4,6 +4,17 @@ This repository is the source for the public [S. Meta Research Archives](https:/
 
 **Japanese portal:** [日本語トップ](https://s99lab.github.io/index_ja.html) · **English portal:** [Research home](https://s99lab.github.io/)
 
+## Public information categories (not a directory of four repositories)
+
+| Public category | What belongs here | Where it is maintained |
+|---|---|---|
+| **MAIN / メイン** | Why the archive exists, overall map, [human introduction](START_HERE.md) and [AI re-entry](RESTART_HERE.md) | This portal |
+| **RESEARCH / 研究系** | Two full series ([Retained-Demand](https://github.com/s99lab/retained-demand-audit-series), [AAS](https://github.com/s99lab/aas-trilayer-ambient-alignment)), and the distinct [Jxiv papers](JXIV_PUBLICATIONS.md) | Original series in their two repositories; Jxiv papers at original DOIs, registry here |
+| **WRITING / note系** | [S. Meta essays](smeta-note-index.html) (12 indexed) and [A_L_I_S_E structural analysis](https://s99lab.github.io/alise-article-index/) (50 indexed) | S. Meta directory in this portal; A_L_I_S_E directory in its own repository; full texts on note |
+| **REFERENCE / その他** | [Concept map](CONCEPT_MAP.md), [lexicon](LEXICON.md), [AI citation blocks](AI_CITATION_BLOCKS.md), ORCID and source-reading guidance | Reference/navigation pages in this portal, not separate research originals |
+
+**The category is the reader-facing subject area; the repository is the maintenance/source location.** They are deliberately aligned in naming and navigation, not forced into a one-to-one count. S. Meta note needs no new repository and no URL moves. The machine-readable equivalent is [research-network.json](data/research-network.json) under `public_categories`, separate from `repository_roles`.
+
 ## Four repositories, four responsibilities
 
 | Repository | Responsibility | What is authoritative there |
