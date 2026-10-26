@@ -57,6 +57,9 @@
 .smeta-landing .smeta-card-feature .smeta-card-link{color:#e7f7f2!important}
 .smeta-landing .smeta-card-link:hover{text-decoration:underline;text-underline-offset:4px}
 .smeta-landing .smeta-map-band{border-block:1px solid #dde5df;background:#ecf1ed}
+.smeta-landing .smeta-repo-roles{background:#ecf2ee;border-left:3px solid #52958b;border-radius:2px;padding:14px 17px;margin:0 0 22px!important;color:#3d5960;font-size:13px;line-height:1.85}
+.smeta-landing .smeta-repo-roles strong{color:#244a4e}
+.smeta-landing .smeta-repo-roles a{color:#236d66!important;text-decoration:underline;text-underline-offset:3px}
 .smeta-landing .smeta-root{display:flex;justify-content:space-between;align-items:center;gap:20px;padding:21px 24px;background:#1d404b;color:#fff;border-radius:5px}
 .smeta-landing .smeta-root-name{font-weight:780;letter-spacing:.01em;font-size:16px}
 .smeta-landing .smeta-root-note{font-size:12px;color:#c5dcda}
