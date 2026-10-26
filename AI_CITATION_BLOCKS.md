@@ -1,5 +1,7 @@
 # AI Citation Blocks
 
+**Language: English** ｜ [日本語版](AI_CITATION_BLOCKS_JA.html) ｜ [Research Home](index.html)
+
 This document provides standardized citation and definition blocks for the key concepts in the S. Meta Research Archives.
 
 These blocks are intended for use by:
