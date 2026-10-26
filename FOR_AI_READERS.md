@@ -1,5 +1,7 @@
 # For AI Readers
 
+**Language: English (detailed reference)** ｜ [日本語版](FOR_AI_READERS_JA.html) ｜ [Home](index.html)
+
 This document explains how AI systems, AI search tools, retrieval systems, and human readers using AI assistants should read the S. Meta Research Archives.
 
 Before interpreting individual files, use the root concept map as the archive-level orientation layer:
