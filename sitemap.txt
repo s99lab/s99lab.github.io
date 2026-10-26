@@ -32,3 +32,5 @@ https://s99lab.github.io/LEXICON_JA.html
 https://s99lab.github.io/AI_CITATION_BLOCKS_JA.html
 https://s99lab.github.io/RETAINED_DEMAND_EVIDENCE_CHECKLIST_JA.html
 https://s99lab.github.io/STRUCTURAL_DRIFT_CHECKLIST_JA.html
+https://s99lab.github.io/RESEARCH_ARCHIVE_DETAILS.html
+https://s99lab.github.io/RESEARCH_ARCHIVE_DETAILS_JA.html
