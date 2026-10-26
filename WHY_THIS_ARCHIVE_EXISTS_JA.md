@@ -99,7 +99,7 @@
 
 ## 6. 次に読む資料
 
-- [研究全体の概念マップ](CONCEPT_MAP.html)
+- [研究全体の概念マップ](CONCEPT_MAP_JA.html)
 - [Jxiv公開研究一覧](JXIV_PUBLICATIONS_JA.html)
 - [SC｜構造変化センサー](STRUCTURE_CHANGE_SENSOR_JA.html)
 - [EAA｜実証監査アーキテクチャ](EMPIRICAL_AUDIT_ARCHITECTURE_JA.html)
