@@ -11,6 +11,7 @@
       <nav class="smeta-nav" aria-label="Site navigation">
         <a href="#publications">Publications</a>
         <a href="#research-map">Research map</a>
+        <a href="RESTART_HERE.html" aria-label="AI and returning readers: start with the quick re-entry guide">AI: Start here</a>
         <a class="smeta-lang" href="index_ja.html" hreflang="ja">日本語</a>
       </nav>
     </div>
