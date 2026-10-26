@@ -1,7 +1,3 @@
----
-title: "S. Meta Public Research — Quick Re-entry"
-layout: null
----
 # S. Meta Public Research — Quick Re-entry
 
 **English** | [日本語](RESTART_HERE_JA.html) | [Research home](index.html)
