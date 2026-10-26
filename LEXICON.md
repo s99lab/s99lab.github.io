@@ -1,5 +1,7 @@
 # S. Meta Research Lexicon
 
+**Language: English** ｜ [日本語版](LEXICON_JA.html) ｜ [Research Home](index.html)
+
 ## Canonical Terms for Structural-Audit Research
 
 This document defines key terms used across the **S. Meta Research Archives**.
