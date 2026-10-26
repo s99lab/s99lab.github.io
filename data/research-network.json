@@ -1,0 +1,170 @@
+{
+  "schema_version": "1.0",
+  "last_checked_utc_date": "2026-10-26",
+  "scope": "Public sources and navigation only; not a private project handoff or a claim of validation",
+  "publisher": {
+    "name": "S. Meta",
+    "orcid": "https://orcid.org/0009-0007-0820-7160"
+  },
+  "portal": {
+    "en": "https://s99lab.github.io/",
+    "ja": "https://s99lab.github.io/index_ja.html",
+    "repository": "https://github.com/s99lab/s99lab.github.io"
+  },
+  "recommended_first_read": {
+    "en": "https://s99lab.github.io/RESTART_HERE.html",
+    "ja": "https://s99lab.github.io/RESTART_HERE_JA.html"
+  },
+  "source_priority": {
+    "research_claims": "Read the original DOI-linked Jxiv publication, including its methods and limitations.",
+    "archive_claims": "Read the relevant full research-track repository papers and dated source files.",
+    "article_claims": "Read the original note article URL; indexes are navigational, not full texts.",
+    "orientation": "Use the portal, concept map and this manifest to navigate; do not treat summaries as validation."
+  },
+  "research_tracks": [
+    {
+      "id": "retained_demand",
+      "name": "Retained-Demand Audit Series",
+      "theme": "Digital-asset usage versus lasting asset holding needs",
+      "repository": "https://github.com/s99lab/retained-demand-audit-series",
+      "guide": {
+        "en": "https://s99lab.github.io/WHAT_IS_RETAINED_DEMAND.html",
+        "ja": "https://s99lab.github.io/WHAT_IS_RETAINED_DEMAND_JA.html"
+      },
+      "publication_context": "GitHub/OSF research series; not one of the three Jxiv papers"
+    },
+    {
+      "id": "aas",
+      "name": "AAS / Tri-Layer Architecture and Ambient Alignment Sync",
+      "theme": "Long-horizon human-AI work, human judgment, AI assistance and external record continuity",
+      "repository": "https://github.com/s99lab/aas-trilayer-ambient-alignment",
+      "guide": {
+        "en": "https://s99lab.github.io/AAS_FORMATION_NOTE_EN.html",
+        "ja": "https://s99lab.github.io/AAS_FORMATION_NOTE_JA.html"
+      },
+      "publication_context": "GitHub/OSF research series; do not describe as Jxiv-published AAS papers"
+    }
+  ],
+  "cross_cutting_concepts": [
+    {
+      "id": "rs",
+      "name": "Reality Stabilizer / Contact Pressure",
+      "relationship": "Cross-cutting public concept, not a third research track",
+      "guide": {
+        "en": "https://s99lab.github.io/REALITY_STABILIZER_EN.html",
+        "ja": "https://s99lab.github.io/REALITY_STABILIZER_JA.html"
+      }
+    }
+  ],
+  "jxiv_publications": [
+    {
+      "id": "rs",
+      "name": "Reality Stabilizer / Contact Pressure",
+      "doi": "10.51094/jxiv.4696",
+      "original": "https://doi.org/10.51094/jxiv.4696",
+      "publication_date": "2026-07-06"
+    },
+    {
+      "id": "sc",
+      "name": "Structure-Change Sensor (SC)",
+      "doi": "10.51094/jxiv.6215",
+      "original": "https://doi.org/10.51094/jxiv.6215",
+      "publication_date": "2026-09-08",
+      "guide": {
+        "en": "https://s99lab.github.io/STRUCTURE_CHANGE_SENSOR.html",
+        "ja": "https://s99lab.github.io/STRUCTURE_CHANGE_SENSOR_JA.html"
+      }
+    },
+    {
+      "id": "eaa",
+      "name": "Empirical Audit Architecture (EAA)",
+      "doi": "10.51094/jxiv.6148",
+      "original": "https://doi.org/10.51094/jxiv.6148",
+      "publication_date": "2026-09-16",
+      "guide": {
+        "en": "https://s99lab.github.io/EMPIRICAL_AUDIT_ARCHITECTURE.html",
+        "ja": "https://s99lab.github.io/EMPIRICAL_AUDIT_ARCHITECTURE_JA.html"
+      }
+    }
+  ],
+  "research_relationships": [
+    {
+      "source": "sc",
+      "target": "aas",
+      "type": "thematically_related_distinct_method"
+    },
+    {
+      "source": "eaa",
+      "target": "aas",
+      "type": "thematically_related_distinct_method"
+    },
+    {
+      "source": "eaa",
+      "target": "sc",
+      "type": "complementary_but_not_same_method"
+    },
+    {
+      "source": "rs",
+      "target": "retained_demand",
+      "type": "cross_cutting_viewpoint"
+    },
+    {
+      "source": "rs",
+      "target": "aas",
+      "type": "cross_cutting_viewpoint"
+    }
+  ],
+  "editorial_indexes": [
+    {
+      "id": "smeta_note",
+      "name": "S. Meta note",
+      "role": "Research motivations and essays",
+      "verified_index_items": 12,
+      "language_of_original_articles": "ja",
+      "index": {
+        "en": "https://s99lab.github.io/smeta-note-index-en.html",
+        "ja": "https://s99lab.github.io/smeta-note-index.html"
+      },
+      "original_site": "https://note.com/s99lab",
+      "machine_readable_index": "https://s99lab.github.io/data/smeta-note-articles.json"
+    },
+    {
+      "id": "alise",
+      "name": "A_L_I_S_E",
+      "role": "Structural analysis of real-world events; separate editorial publication",
+      "verified_index_items": 50,
+      "language_of_original_articles": "ja",
+      "index": {
+        "en": "https://s99lab.github.io/alise-article-index/index_en.html",
+        "ja": "https://s99lab.github.io/alise-article-index/"
+      },
+      "original_site": "https://note.com/alise_s99lab",
+      "machine_readable_index": "https://s99lab.github.io/alise-article-index/data/articles.json"
+    }
+  ],
+  "orientation_pages": {
+    "research_detail": {
+      "en": "https://s99lab.github.io/RESEARCH_ARCHIVE_DETAILS.html",
+      "ja": "https://s99lab.github.io/RESEARCH_ARCHIVE_DETAILS_JA.html"
+    },
+    "concept_map": {
+      "en": "https://s99lab.github.io/CONCEPT_MAP.html",
+      "ja": "https://s99lab.github.io/CONCEPT_MAP_JA.html"
+    },
+    "jxiv_registry": {
+      "en": "https://s99lab.github.io/JXIV_PUBLICATIONS.html",
+      "ja": "https://s99lab.github.io/JXIV_PUBLICATIONS_JA.html"
+    },
+    "ai_readers": {
+      "en": "https://s99lab.github.io/FOR_AI_READERS.html",
+      "ja": "https://s99lab.github.io/FOR_AI_READERS_JA.html"
+    }
+  },
+  "cautions": [
+    "Published on Jxiv does not by itself imply peer review or scientific validation.",
+    "AAS and Retained-Demand are not Jxiv papers; distinguish them from RS, SC and EAA publications.",
+    "Index entries and English reading subtitles are not translations of the Japanese article body.",
+    "SC candidate detection does not establish meaning, causality or the validity of AAS.",
+    "Public documentation is not a source for private instructions, ongoing internal research state or non-public methods."
+  ]
+}
