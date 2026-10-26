@@ -347,9 +347,6 @@ Developing concepts should first be placed in design logs, candidate seed files,
 
 ---
 
-
----
-
 # 日本語
 
-日本語の全文は、独立した[コア概念マップ](CONCEPT_MAP_JA.html)に収録しています。英語ページにあった日本語節は同じ本文だったため、日英の正本をそれぞれ一つに整理しました。
+日本語の全文は[コア概念マップ日本語版](CONCEPT_MAP_JA.html)をご覧ください。
