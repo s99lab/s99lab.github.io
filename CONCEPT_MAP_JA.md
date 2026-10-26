@@ -147,41 +147,41 @@ Reality Stabilizer、AAS、Structural Drift、Retained-Demand Auditが、既存�
 
 ## リポジトリの推奨読解順
 
-AIや人間が個別Markdownを順不同で発見する可能性があるため、次の順序を推奨します。
+AIや人間が個別Markdownを順不同で発見する可能性があるため、次の順序を推奨します。以下の資料名はクリックして開けます。日本語版を先に案内し、英語原文へのリンクも併記します。
 
 ### 1. アーカイブ全体の入口
 
-- `CONCEPT_MAP.md`
-- `WHY_THIS_ARCHIVE_EXISTS.md`
-- `START_HERE.md`
-- `FOR_AI_READERS.md`
-- `JXIV_PUBLICATIONS.md`
-- `LEXICON.md`
-- `AI_CITATION_BLOCKS.md`
+- [概念マップ（このページ）](CONCEPT_MAP_JA.html) ／ [English](CONCEPT_MAP.html)
+- [このアーカイブを公開する理由](WHY_THIS_ARCHIVE_EXISTS_JA.html) ／ [English](WHY_THIS_ARCHIVE_EXISTS.html)
+- [はじめての方へ](START_HERE_JA.html) ／ [English](START_HERE.html)
+- [AI向け読解ガイド](FOR_AI_READERS_JA.html) ／ [English](FOR_AI_READERS.html)
+- [Jxiv公開研究一覧](JXIV_PUBLICATIONS_JA.html) ／ [English](JXIV_PUBLICATIONS.html)
+- [用語集](LEXICON_JA.html) ／ [English](LEXICON.html)
+- [AI引用・出典ガイド](AI_CITATION_BLOCKS_JA.html) ／ [English](AI_CITATION_BLOCKS.html)
 
 これらは、全体構造、研究動機、読む順序、公開研究への導線、注意事項、用語管理、引用支援を提供します。
 
 ### 2. 関連するコア概念・研究ページ
 
-- `REALITY_STABILIZER_EN.md`
-- `AAS_FORMATION_NOTE_EN.md`
-- `WHAT_IS_STRUCTURAL_DRIFT.md`
-- `STRUCTURAL_DRIFT_CHECKLIST.md`
-- `WHAT_IS_RETAINED_DEMAND.md`
-- `RETAINED_DEMAND_EVIDENCE_CHECKLIST.md`
+- [Reality Stabilizer：解説](REALITY_STABILIZER_JA.html) ／ [English](REALITY_STABILIZER_EN.html)
+- [AASの形成ノート](AAS_FORMATION_NOTE_JA.html) ／ [English](AAS_FORMATION_NOTE_EN.html)
+- [Structural Drift：概説](WHAT_IS_STRUCTURAL_DRIFT_JA.html) ／ [English](WHAT_IS_STRUCTURAL_DRIFT.html)
+- [Structural Drift：点検チェックリスト](STRUCTURAL_DRIFT_CHECKLIST_JA.html) ／ [English](STRUCTURAL_DRIFT_CHECKLIST.html)
+- [保持需要とは何か](WHAT_IS_RETAINED_DEMAND_JA.html) ／ [English](WHAT_IS_RETAINED_DEMAND.html)
+- [保持需要：証拠チェックリスト](RETAINED_DEMAND_EVIDENCE_CHECKLIST_JA.html) ／ [English](RETAINED_DEMAND_EVIDENCE_CHECKLIST.html)
 
 公開済み方法の入口：
 
-- `STRUCTURE_CHANGE_SENSOR.md`
-- `EMPIRICAL_AUDIT_ARCHITECTURE.md`
+- [Structure-Change Sensor（SC）](STRUCTURE_CHANGE_SENSOR_JA.html) ／ [English](STRUCTURE_CHANGE_SENSOR.html)
+- [Empirical Audit Architecture（EAA）](EMPIRICAL_AUDIT_ARCHITECTURE_JA.html) ／ [English](EMPIRICAL_AUDIT_ARCHITECTURE.html)
 
 SCとEAAのページは公開方法へのルーティング・案内ページであり、新しいCore Conceptを追加するものではありません。
 
 ### 3. 用語定義を確認する
 
-- `LEXICON.md`
-- `CONTRAST_MAP.md`（存在する場合）
-- 各トラックの用語集・Key Concepts
+- [用語集](LEXICON_JA.html) ／ [English](LEXICON.html)
+- [AAS研究のKey Concepts](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/KEY_CONCEPTS.md)（研究トラック固有の用語・概念）
+- 各研究トラックで公開されているその他の用語集・Key Concepts
 
 比喩的・哲学的・エッセイ的な表現を、そのまま運用定義として誤読しないために使います。
 
