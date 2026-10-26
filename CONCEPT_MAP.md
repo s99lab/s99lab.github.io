@@ -9,6 +9,17 @@ language: English
 updated: 2026-10-26
 ---
 
+<style>
+/* Article-page headings: hide generated self-link icons.
+   Heading IDs and explicit navigation links remain intact. */
+a.anchorjs-link, a.header-anchor, a.heading-anchor,
+a.direct-link, a.header-link, a.anchor,
+h1 > a[href^="#"], h2 > a[href^="#"], h3 > a[href^="#"],
+h4 > a[href^="#"], h5 > a[href^="#"], h6 > a[href^="#"] {
+  display: none !important;
+}
+</style>
+
 # S. Meta Research Archives: Core Concept Map / コア概念マップ
 
 **Language: English** ｜ [日本語版](CONCEPT_MAP_JA.html) ｜ [Home](index.html)
