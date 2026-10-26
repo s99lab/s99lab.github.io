@@ -1,3 +1,14 @@
+<style>
+/* Article-page headings: hide generated self-link icons.
+   Heading IDs and explicit navigation links remain intact. */
+a.anchorjs-link, a.header-anchor, a.heading-anchor,
+a.direct-link, a.header-link, a.anchor,
+h1 > a[href^="#"], h2 > a[href^="#"], h3 > a[href^="#"],
+h4 > a[href^="#"], h5 > a[href^="#"], h6 > a[href^="#"] {
+  display: none !important;
+}
+</style>
+
 # S. Meta Research Archives｜コア概念マップ
 
 **日本語版** ｜ [English](CONCEPT_MAP.html) ｜ [研究トップ](index_ja.html)
