@@ -57,22 +57,22 @@
         <div class="smeta-cards">
           <article class="smeta-card smeta-card-feature">
             <div class="smeta-card-meta"><span>01 / MAIN</span></div>
-            <h3>Start here</h3><p>The purpose of this archive, the whole network and paths for new readers and AI.</p>
+            <h3 id="smeta-card-main">Start here</h3><p>The purpose of this archive, the whole network and paths for new readers and AI.</p>
             <div class="smeta-card-links"><a class="smeta-card-link" href="START_HERE.html">Human introduction</a><a class="smeta-card-link" href="RESTART_HERE.html">AI / quick re-entry</a></div>
           </article>
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>02 / RESEARCH</span></div>
-            <h3>Research</h3><p>Two full research series in their own repositories, and three distinct Jxiv preprints.</p>
-            <div class="smeta-card-links"><a class="smeta-card-link" href="#research-map">Research tracks</a><a class="smeta-card-link" href="JXIV_PUBLICATIONS.html">Jxiv publications</a></div>
+            <h3 id="smeta-card-research">Research</h3><p>Two full research series in their own repositories, and three distinct Jxiv preprints.</p>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="#research-map">Research overview</a><a class="smeta-card-link" href="JXIV_PUBLICATIONS.html">Jxiv publications</a></div>
           </article>
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>03 / WRITING</span></div>
-            <h3>Essays &amp; analysis</h3><p>Two separate note streams. GitHub indexes the articles; note hosts the original texts.</p>
+            <h3 id="smeta-card-writing">Essays &amp; analysis</h3><p>Two separate note streams. GitHub indexes the articles; note hosts the original texts.</p>
             <div class="smeta-card-links"><a class="smeta-card-link" href="smeta-note-index-en.html">S. Meta essays (12)</a><a class="smeta-card-link" href="https://s99lab.github.io/alise-article-index/index_en.html">A_L_I_S_E analysis (50)</a></div>
           </article>
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>04 / REFERENCE</span></div>
-            <h3>Reference guides</h3><p>Concept relationships, definitions, attribution and source-checking guidance.</p>
+            <h3 id="smeta-card-reference">Reference guides</h3><p>Concept relationships, definitions, attribution and source-checking guidance.</p>
             <div class="smeta-card-links"><a class="smeta-card-link" href="CONCEPT_MAP.html">Concept map</a><a class="smeta-card-link" href="LEXICON.html">Lexicon &amp; terms</a></div>
           </article>
         </div>
@@ -80,35 +80,62 @@
     </section>
     <section class="smeta-section smeta-map-band" id="research-map" aria-labelledby="smeta-map-title">
       <div class="smeta-container">
-        <div class="smeta-section-heading"><div><span class="smeta-kicker">RESEARCH MAP</span><h2 id="smeta-map-title">Research at a glance</h2></div><p class="smeta-section-desc">Two main research tracks and one cross-cutting concept, with clear paths to the source material.</p></div>
-        <p class="smeta-repo-roles"><strong>Four repository roles:</strong> <a href="https://github.com/s99lab/s99lab.github.io">this portal</a> is the shared map and S. Meta essay index; <a href="https://github.com/s99lab/retained-demand-audit-series">Retained-Demand</a> and <a href="https://github.com/s99lab/aas-trilayer-ambient-alignment">AAS</a> hold the full research papers; <a href="https://github.com/s99lab/alise-article-index">A_L_I_S_E</a> indexes a separate structural-analysis publication whose full articles remain on note. Jxiv preprints are linked to their original DOIs.</p>
-        <div class="smeta-root"><span class="smeta-root-name">S. Meta Research Archives</span><span class="smeta-root-note">Shared lens: the visible signal and the structures that remain</span></div>
-        <div class="smeta-branches">
+        <div class="smeta-section-heading"><div><span class="smeta-kicker">RESEARCH / IN DETAIL</span><h2 id="smeta-map-title">Research publications at a glance</h2></div><p class="smeta-section-desc">A closer look at RESEARCH, one of the four categories above. Research series and Jxiv publications are presented separately.</p></div>
+        <div class="smeta-series-intro">
+          <h3 id="smeta-series-title">Research series <span>2 independent tracks</span></h3>
+          <p>Two independent research series with different subjects. The full papers are kept in their respective GitHub repositories.</p>
+        </div>
+        <div class="smeta-branches" aria-labelledby="smeta-series-title">
           <article class="smeta-branch">
-            <span class="smeta-branch-tag">TRACK 01 · DIGITAL ASSETS</span>
+            <span class="smeta-branch-tag">SERIES 01 · DIGITAL ASSETS</span>
             <h3>Retained-Demand Audit Series</h3><p>Distinguishing visible usage from the need to hold digital assets in institutional infrastructure.</p>
             <ul class="smeta-branch-list">
-              <li><strong><a href="https://github.com/s99lab/retained-demand-audit-series">Papers 1–6: research series</a></strong><span>Archive, summaries, and full papers</span></li>
+              <li><strong><a href="https://github.com/s99lab/retained-demand-audit-series">Papers 1–6: original research</a></strong><span>Archive, summaries, and full papers</span></li>
               <li><strong><a href="https://github.com/s99lab/retained-demand-audit-series/tree/main/phase-ii">Phase II: research design</a></strong><span>Operator inventory, costs, alternatives</span></li>
               <li><strong><a href="WHAT_IS_RETAINED_DEMAND.html">What is retained demand?</a></strong><span>A short introduction</span></li>
             </ul>
           </article>
           <article class="smeta-branch">
-            <span class="smeta-branch-tag">TRACK 02 · HUMAN × AI</span>
+            <span class="smeta-branch-tag">SERIES 02 · HUMAN × AI</span>
             <h3>AAS / Human–AI Collaboration</h3><p>Studying judgment, roles, context, and records in sustained human–AI work.</p>
             <ul class="smeta-branch-list">
               <li><strong><a href="https://github.com/s99lab/aas-trilayer-ambient-alignment/tree/main/papers">AAS / Tri-Layer: Parts I–IV</a></strong><span>Human, AI assistance, and external records</span></li>
               <li><strong><a href="WHAT_IS_STRUCTURAL_DRIFT.html">Structural Drift</a></strong><span>When the history of judgment becomes obscured</span></li>
-              <li><strong><a href="STRUCTURE_CHANGE_SENSOR.html">Structure-Change Sensor (SC)</a></strong><span>Jxiv: detecting and recording change candidates</span></li>
-              <li><strong><a href="EMPIRICAL_AUDIT_ARCHITECTURE.html">Empirical Audit Architecture (EAA)</a></strong><span>Jxiv: comparing multi-AI evidence reconstructions</span></li>
+              <li><strong><a href="AAS_FORMATION_NOTE_EN.html">Why AAS was developed</a></strong><span>Its formation and original questions</span></li>
             </ul>
           </article>
         </div>
+        <section class="smeta-jxiv-section" aria-labelledby="smeta-jxiv-title">
+          <div class="smeta-series-intro">
+            <h3 id="smeta-jxiv-title">Jxiv publications <span>3 separate preprints</span></h3>
+            <p>Three distinct studies published on Jxiv. They are not presented as sub-papers of either research series above.</p>
+          </div>
+          <div class="smeta-jxiv-grid">
+            <article class="smeta-jxiv-card">
+              <span class="smeta-jxiv-tag">01 / REALITY CONTACT</span>
+              <h4>Reality Stabilizer / Contact Pressure</h4>
+              <p>Distinguishing coherent explanations from contact with institutional, financial, and practical constraints.</p>
+              <div class="smeta-jxiv-links"><a href="REALITY_STABILIZER_EN.html">Overview</a><a href="https://doi.org/10.51094/jxiv.4696">Original DOI ↗</a></div>
+            </article>
+            <article class="smeta-jxiv-card">
+              <span class="smeta-jxiv-tag">02 / CHANGE DETECTION</span>
+              <h4>Structure-Change Sensor (SC)</h4>
+              <p>Detecting and preserving possible points of structural change in long records for later inspection.</p>
+              <div class="smeta-jxiv-links"><a href="STRUCTURE_CHANGE_SENSOR.html">Overview</a><a href="https://doi.org/10.51094/jxiv.6215">Original DOI ↗</a></div>
+            </article>
+            <article class="smeta-jxiv-card">
+              <span class="smeta-jxiv-tag">03 / EVIDENCE AUDIT</span>
+              <h4>Empirical Audit Architecture (EAA)</h4>
+              <p>Making evidence reconstructions by multiple AI systems comparable and traceable.</p>
+              <div class="smeta-jxiv-links"><a href="EMPIRICAL_AUDIT_ARCHITECTURE.html">Overview</a><a href="https://doi.org/10.51094/jxiv.6148">Original DOI ↗</a></div>
+            </article>
+          </div>
+          <p class="smeta-map-caption">See the <a href="JXIV_PUBLICATIONS.html">Jxiv publication register</a> for bibliographic details and original sources.</p>
+        </section>
         <article class="smeta-cross">
-          <div><span class="smeta-kicker">CROSS-CUTTING CONCEPT</span><h3>Reality Stabilizer / Contact Pressure</h3></div>
-          <div><p>A public research concept for distinguishing convincing explanations from contact with real constraints: institutions, responsibilities, costs, and implementation.</p><a href="REALITY_STABILIZER_EN.html">Read the research (Jxiv) ↗</a></div>
+          <div><span class="smeta-kicker">SHARED LENS / CROSS-CUTTING</span><h3>A common question</h3></div>
+          <div><p>Across different subjects, this archive distinguishes visible explanations from the evidence and structures that can be inspected later. Reality Stabilizer / Contact Pressure also expresses this cross-cutting perspective.</p><a href="CONCEPT_MAP.html">Explore the concept map →</a></div>
         </article>
-        <p class="smeta-map-caption">SC and EAA are distinct published methods. Research tracks and publication status are separate classifications.</p>
       </div>
     </section>
     <section class="smeta-bottom">
