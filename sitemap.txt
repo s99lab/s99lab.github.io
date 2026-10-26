@@ -28,3 +28,7 @@ https://s99lab.github.io/WHAT_IS_RETAINED_DEMAND_JA.html
 https://s99lab.github.io/WHAT_IS_STRUCTURAL_DRIFT_JA.html
 https://s99lab.github.io/CONCEPT_MAP_JA.html
 https://s99lab.github.io/FOR_AI_READERS_JA.html
+https://s99lab.github.io/LEXICON_JA.html
+https://s99lab.github.io/AI_CITATION_BLOCKS_JA.html
+https://s99lab.github.io/RETAINED_DEMAND_EVIDENCE_CHECKLIST_JA.html
+https://s99lab.github.io/STRUCTURAL_DRIFT_CHECKLIST_JA.html
