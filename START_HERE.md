@@ -1,5 +1,8 @@
 # Start Here
 
+**Language: English** ｜ [日本語](START_HERE_JA.html) ｜ [Home](index.html)
+
+
 Welcome to **S. Meta Research Archives**.
 
 This archive contains two public research tracks and one cross-cutting public concept note:
