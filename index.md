@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="assets/css/smeta-home.css">
+<link rel="alternate" hreflang="en" href="https://s99lab.github.io/">
+<link rel="alternate" hreflang="ja" href="https://s99lab.github.io/index_ja.html">
 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"S. Meta Research Archives","url":"https://s99lab.github.io/","inLanguage":"en","description":"S. Meta's research archive on reality contact, long-term human–AI collaboration, and retained demand in digital assets.","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"CollectionPage","name":"Published Jxiv Research","url":"https://s99lab.github.io/JXIV_PUBLICATIONS.html"},{"@type":"CollectionPage","name":"S. Meta Essays","url":"https://s99lab.github.io/smeta-note-index.html"},{"@type":"CollectionPage","name":"A_L_I_S_E Structural Analysis","url":"https://s99lab.github.io/alise-article-index/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"S. Meta Research Archives","url":"https://s99lab.github.io/","inLanguage":"en","description":"S. Meta's research archive on reality contact, long-term human–AI collaboration, and retained demand in digital assets.","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"CollectionPage","name":"Published Jxiv Research","url":"https://s99lab.github.io/JXIV_PUBLICATIONS.html"},{"@type":"CollectionPage","name":"S. Meta Essays","url":"https://s99lab.github.io/smeta-note-index-en.html"},{"@type":"CollectionPage","name":"A_L_I_S_E Structural Analysis","url":"https://s99lab.github.io/alise-article-index/index_en.html"}]}</script>
 
 <div class="smeta-landing" lang="en">
   <header class="smeta-topline">
@@ -52,13 +54,13 @@
           <div class="smeta-card-kicker"><span>02 / ESSAYS</span><span class="smeta-count">12</span></div>
           <h3>S. Meta note</h3>
           <p>Essays on the questions, motivations, and reflections behind the research—and the human implications of AI.</p>
-          <a class="smeta-card-link" href="smeta-note-index.html">Read the essays</a>
+          <a class="smeta-card-link" href="smeta-note-index-en.html">Read the essays</a>
         </article>
         <article class="smeta-card">
           <div class="smeta-card-kicker"><span>03 / ANALYSIS</span><span class="smeta-count">50</span></div>
           <h3>A_L_I_S_E</h3>
           <p>A structural-analysis publication exploring society, economics, politics, and technology through Universal OS.</p>
-          <a class="smeta-card-link" href="https://s99lab.github.io/alise-article-index/">Explore structural analyses</a>
+          <a class="smeta-card-link" href="https://s99lab.github.io/alise-article-index/index_en.html">Explore structural analyses</a>
         </article>
       </div>
     </div>
