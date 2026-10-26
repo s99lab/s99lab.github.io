@@ -33,7 +33,7 @@ JxivにはReality Stabilizer、Structure-Change Sensor（SC）、Empirical Audit
 
 **Retained-Demand Audit Series** は、可視的な取引・利用が、どの条件で在庫、担保、流動性バッファ等の需要として残るのかを検討します。XRPは分析上のストレステスト事例であり、価格予測を目的としていません。
 
-[What Is Retained Demand?（英語）](WHAT_IS_RETAINED_DEMAND_JA.html) ｜ [根拠チェックリスト（英語）](RETAINED_DEMAND_EVIDENCE_CHECKLIST.html)
+[保持需要とは何か](WHAT_IS_RETAINED_DEMAND_JA.html) ｜ [保持需要の根拠チェックリスト](RETAINED_DEMAND_EVIDENCE_CHECKLIST_JA.html)
 
 ## 4. 人間とAIの協働に関心がある方
 
