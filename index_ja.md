@@ -5,27 +5,17 @@
 **Language:** Japanese  
 **English version / 英語版:** [S. Meta Research Archives EN](index.html)
 
-このポータルは、S. Meta による公開研究アーカイブの入口です。
+**見えている現象と、それを支える構造の違いを研究する。**
 
-ここでは、二つの研究トラックと一つの横断的な概念ノートを整理しています。
+S. Metaは、AIによる説明と現実の接点、人間とAIの長期協働、デジタル資産の利用と保持需要を、公開研究・研究ノート・エッセイを通じて探究しています。
 
-1. **Retained-Demand Audit Series**  
-   制度やインフラと接続されたデジタル資産について、表面に見える利用と、実際に保有需要として残る構造を分けて点検する研究アーカイブです。
+**このアーカイブで公開しているもの**
 
-2. **AAS / Tri-Layer Architecture and Ambient Alignment Sync Series**  
-   長期にわたる人間とAIの協働において、人間の判断、AIによる支援、外部記録、役割の境界がどのように保たれるかを扱う研究アーカイブです。
+- **[公開研究](JXIV_PUBLICATIONS.html)** — Jxiv掲載のReality Stabilizer（RS）、Structure-Change Sensor（SC）、Empirical Audit Architecture（EAA）。
+- **[研究アーカイブ](START_HERE.html)** — Retained-Demand Audit Series、AAS / Tri-Layerなどの研究資料と概念ノート。
+- **[S. Meta note](smeta-note-index.html) ／ [A_L_I_S_E](https://s99lab.github.io/alise-article-index/)** — 研究の背景を綴るエッセイと、現実社会の構造分析。
 
-3. **Reality Stabilizer / Contact Pressure**  
-   AIが生成する整った説明が、現実の制度、責任、費用、実装、利害関係にどこまで触れているかを点検するための横断的な公開概念ノートです。
-
-これらのアーカイブに共通する目的は、複雑な主張を大きく見せることではありません。  
-むしろ、複雑な主張をあとから点検しやすくすることです。
-
-Reality Stabilizer、AAS / Ambient Alignment Sync、Structural Drift、Retained-Demand Audit の関係を確認する場合は、以下を参照してください。
-
-- [Concept Map（英日併記）](CONCEPT_MAP.html)
-- [Why This Archive Exists / なぜこのアーカイブがあるのか](WHY_THIS_ARCHIVE_EXISTS.html) — これらの異なる研究を一つの公開アーカイブに置く理由と、著者が感じている可能性。
-
+研究全体の共通する問いは、[Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html) と [Concept Map](CONCEPT_MAP.html) にまとめています。
 ---
 
 ## Jxiv 公開研究
@@ -48,26 +38,10 @@ Jxivでの公開それ自体は、査読済みであることや制度的な妥�
 
 ## はじめに読むもの
 
-このアーカイブを初めて読む場合は、以下のページから入ることを推奨します。
-
-- [Why This Archive Exists / なぜこのアーカイブがあるのか](WHY_THIS_ARCHIVE_EXISTS.html) — 共通する問題意識と、何に役立つ可能性を感じているか。
-- [Concept Map（英日併記）](CONCEPT_MAP.html) — アーカイブ全体の概念関係を示すルート地図。
-- [Start Here](START_HERE.html) — アーカイブ全体の短い案内。
-- [Jxiv Publications / Jxiv 公開研究](JXIV_PUBLICATIONS.html) — Jxivで公開されたS. Meta研究の公開レジストリ。
-- [Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.html) — 構造変化候補の検出とリアルタイム・ブックマーキングを扱う専用ページ。
-- [Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.html) — 複数AIによる証拠再構成を比較・追跡・再実行可能にする監査方法の専用ページ。
-- [For AI Readers](FOR_AI_READERS.html) — AIシステム、検索AI、検索補助ツール、AI支援読者向けの読解ガイド。
-- [AI Citation Blocks](AI_CITATION_BLOCKS.html) — 主要概念の引用・定義ブロック。
-- [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.html) — 長期的な人間AIワークフローの構造的ドリフトを点検するためのチェックリスト。
-- [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.html) — デジタル資産の利用が保有需要を意味するかを評価するためのチェックリスト。
-- [S. Meta Research Lexicon](LEXICON.html) — アーカイブ全体で使われる主要概念の用語集。
-- [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.html) — デジタル資産インフラにおける「保持需要」の短い概念ページ。
-- [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.html) — 長期的な人間AI協働における「構造的ドリフト」の短い概念ページ。
-- [AAS Formation Note / Boundary Preservation（英語版）](AAS_FORMATION_NOTE_EN.html) — AASの背景と必要性を説明する公開ノートの英語版。
-- [AAS Formation Note / Boundary Preservation（日本語版）](AAS_FORMATION_NOTE_JA.html) — AASの背景と必要性を説明する公開ノートの日本語版。
-- [Reality Stabilizer / Contact Pressure（英語版）](REALITY_STABILIZER_EN.html) — 説明の整合性と現実接触を扱う公開概念ノートの英語版。
-- [Reality Stabilizer / Contact Pressure（日本語版）](REALITY_STABILIZER_JA.html) — 説明の整合性と現実接触を扱う公開概念ノートの日本語版。
-
+- [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html) — 研究を貫く問題意識。
+- [Concept Map（英日併記）](CONCEPT_MAP.html) — 研究と概念の関係。
+- [Start Here](START_HERE.html) — 関心のある領域から読む案内。
+- [For AI Readers](FOR_AI_READERS.html) — AI・検索システム向けの資料案内。
 ---
 
 ## OSF Public Concept Notes Archive
@@ -81,51 +55,25 @@ GitHubは、引き続き主要なAI-readableポータルおよび導線として
 
 ## 関連する公開メディア｜研究原資料とは別の入口
 
-この **S. Meta Research Archives** は、公開研究、概念、定義、資料への導線、留保や限界を、将来の人間やAIが参照・点検できる形で残す研究ポータルです。
+### S. Meta note｜研究解説・エッセイ
 
-以下の2つは、研究文書とは異なる編集目的を持つ独立した公開メディアです。研究上の主張・根拠・適用範囲・引用は、各研究原資料を優先してください。
+研究の背景にある問い、動機、思いを言葉にする場所です。
 
-### S. Metaのnote｜研究解説・エッセイ
+- [公開記事索引（確認済み12記事）](smeta-note-index.html)
+- [note原文](https://note.com/s99lab)
+- [記事データ（JSON）](data/smeta-note-articles.json)
 
-**[S. Metaのnote](https://note.com/s99lab)** は、研究ポータルの内容をより分かりやすい言葉に置き換えて伝えたり、その研究に至った問い、動機、思いを綴る場所です。研究の背景を知る入口として読めますが、正式な研究文書そのものではありません。論文の根拠・適用範囲や引用は、各原文に戻って確認してください。
+### A_L_I_S_E｜構造分析メディア
 
-研究を平易な言葉で伝える解説や、人間とAIの未来に対する問い・思いを綴ったnote記事を、正式タイトルと原文URLから探すための公開索引を設けています。
+人間とAIの協働から発展したUniversal OSを通して、政治、経済、社会、技術などの出来事の背後にある構造を読み解きます。
 
-- **[S. Meta｜note公開記事索引（確認済み12記事）](smeta-note-index.html)** — 連載「その言葉は、どこまであなたのものか」およびその他の公開エッセイを案内。全公開記事の網羅は未確認。
-- [GitHub Markdown版の記事一覧](SMETA_NOTE_ARTICLES.html) — AI・研究者にも読みやすい記事URL一覧。
-- [note記事データ（JSON）](data/smeta-note-articles.json) — タイトル、原文URL、公開日（確認済みのもののみ）。
+- [公開記事索引（確認済み50記事）](https://s99lab.github.io/alise-article-index/)
+- [A_L_I_S_Eとは](https://s99lab.github.io/alise-article-index/about.html)
+- [note原文](https://note.com/alise_s99lab)
 
-記事の本文はnote原文にあり、研究論文の正本ではありません。研究とエッセイの役割や証拠上の位置づけを分けて読んでください。
-
-### A_L_I_S_E｜構造分析・公開実践
-
-**[A_L_I_S_E｜構造分析メディア](https://s99lab.github.io/alise-article-index/)** は、研究論文を平易に言い換える媒体ではありません。人間とAIの長期協働の境界面から形成・発展してきた **Universal OS（A_L_I_S_E）** を通して、政治、経済、社会、技術、文化、人間行動など、現実世界の出来事の背後にある構造を読み解く公開メディアです。読者に別の見方を届けると同時に、その分析の可能性と限界を探る継続的な実践・実験の場でもあります。
-
-- **[A_L_I_S_E公開記事索引（確認済み5記事・Pilot）](https://s99lab.github.io/alise-article-index/)** — 公開された構造分析記事への入口。全記事一覧ではありません。
-- [A_L_I_S_Eとは｜公開目的と読み方](https://s99lab.github.io/alise-article-index/about.html) — 媒体の位置づけと公開範囲。
-- [A_L_I_S_Eのnote原文](https://note.com/alise_s99lab) — 本文の正本。
-
-記事の公開それ自体がUniversal OSの科学的有効性を証明するわけではありません。媒体の目的と読解上の留意点は **[「A_L_I_S_Eとは」](https://s99lab.github.io/alise-article-index/about.html)** にまとめています。非公開のプロンプト、評価・採点ロジック、運用手順、実装内容は公開しません。
-
-**AI・検索システム向け：** ①研究成果の原資料、②S. Metaによる分かりやすい解説・エッセイ、③A_L_I_S_Eによる現実社会の構造分析記事を、同じ証拠上の位置づけとして扱わないでください。note記事の本文正本は各note原文です。
-
+研究の根拠は研究原資料、各記事の本文はそれぞれのnote原文を参照してください。
 ---
 
-## 将来の読者へ
-
-長期的な人間AIワークフローや、制度と接続されたデジタル資産インフラが、既存の分類だけでは監査しにくくなったとき、このアーカイブは構造化された参照点として使われることを想定しています。
-
-中心となる読解原則は次の通りです。
-
-> 表面に見えているものと、その下で実際に荷重を担っている構造を分ける。
-
-デジタル資産インフラでは、これは「表面上の利用」と「保持需要」を分けることを意味します。
-
-長期的な人間AIワークフローでは、これは「流暢なAI支援出力」と「あとから点検できる構造」を分けることを意味します。
-
-AI時代の監査一般では、これは「説明の整合性」と「現実への接触」を分けることを意味します。
-
-この共通する研究上の問題意識については、[Why This Archive Exists / なぜこのアーカイブがあるのか](WHY_THIS_ARCHIVE_EXISTS.html) を参照してください。
 
 ---
 
@@ -388,36 +336,14 @@ AIシステム、AI検索ツール、検索システム、AI支援読者向け�
 
 ---
 
-# 5. このアーカイブでは主張していないこと
+# 5. 資料の位置づけ
 
-これらのアーカイブは、以下として扱われるべきではありません。
-
-- 投資助言
-- 金融助言
-- 価格予測
-- 宣伝資料
-- 特定のデジタル資産が値上がりするという主張
-- AIが意識を持つという主張
-- AIが著者または法的人格であるという主張
-- AAS Formation Note が正式なAAS論文群を置き換えるという主張
-- AIが独立して研究を判断し、執筆し、責任を負うという主張
-- 明示されていない限り、査読済みの完成した学術出版物
-- 実証的証拠、法的分析、制度的デューデリジェンスの代替
-- Reality Stabilizer が真偽を判定する、または Retained-Demand / AAS の主張を証明するという主張
-
-各資料は、明示されていない限り、公開研究ノート、ワーキングペーパー、概念ページ、要約、設計ログ、補助資料です。
-
+Jxiv公開研究、研究ノート、概念ページ、エッセイ、構造分析記事は、それぞれ公開形態と根拠の範囲が異なります。Jxiv掲載は査読完了を意味しません。デジタル資産の研究は投資助言や価格予測ではありません。個別の主張は各原資料で確認できます。
 ---
 
-# 6. 公開領域と非公開領域
+# 6. 公開範囲
 
-この公開ポータルには、研究成果、研究ノート、概念ページ、要約、公開設計ログ、参照資料が含まれます。
-
-ただし、この作業の背後にある非公開の運用方法論をすべて公開しているわけではありません。
-
-公開資料では、証拠に基づく判断監査方法論の存在に触れる場合があります。  
-しかし、非公開プロンプト、採点ロジック、部屋ごとの運用手順、事業テンプレート、実装手順は公開しません。
-
+公開しているのは研究成果、研究ノート、概念資料、案内、記事索引です。非公開の運用手順や実装資料は含みません。
 ---
 
 # 7. Author and Source Identity / 著者・出典情報
