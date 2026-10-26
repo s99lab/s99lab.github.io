@@ -77,7 +77,7 @@ S. Meta, “S. Meta Research Lexicon,” S. Meta Research Archives.
 
 ---
 
-# 1. Structural Audit
+## 1. Structural Audit
 
 **Structural audit** means separating visible surface signals from the underlying structures that carry burden, risk, responsibility, demand, or failure exposure.
 
@@ -108,7 +108,7 @@ Related materials:
 
 ---
 
-# 2. Reality Stabilizer
+## 2. Reality Stabilizer
 
 **Reality Stabilizer** means an auxiliary audit concept for distinguishing explanatory coherence from contact with reality in AI-era audit frameworks.
 
@@ -142,7 +142,7 @@ Related materials:
 
 ---
 
-# 3. Contact Pressure
+## 3. Contact Pressure
 
 **Contact Pressure** means a qualitative observational axis for asking how a claim, explanation, hypothesis, prediction, or AI-generated output connects to real-world constraints.
 
@@ -172,7 +172,7 @@ Related materials:
 
 ---
 
-# 4. Structural Drift
+## 4. Structural Drift
 
 **Structural drift** means the gradual degradation of role separation, contextual continuity, claim boundaries, and auditability in long-horizon human-AI work.
 
@@ -203,7 +203,7 @@ Related materials:
 
 ---
 
-# 5. AAS Formation Note
+## 5. AAS Formation Note
 
 **AAS Formation Note** means the public formation and orientation note explaining the “Why” behind AAS: why boundary preservation becomes necessary when highly capable AI enters long-horizon human judgment workflows.
 
@@ -232,7 +232,7 @@ Related materials:
 
 ---
 
-# 6. Boundary Preservation
+## 6. Boundary Preservation
 
 **Boundary preservation** means keeping the boundaries between human judgment, AI assistance, external records, and revision conditions distinguishable over time in long-horizon human-AI workflows.
 
@@ -268,7 +268,7 @@ Related materials:
 
 ---
 
-# 7. Retained Demand
+## 7. Retained Demand
 
 **Retained demand** means demand that appears as inventory, collateral, liquidity buffers, working balances, margin, operational reserves, fallback liquidity, or balance-sheet exposure, rather than visible usage alone.
 
@@ -289,7 +289,7 @@ Related materials:
 
 ---
 
-# 8. Backend Retained Demand
+## 8. Backend Retained Demand
 
 **Backend retained demand** means retained demand that may appear at the infrastructure, operator, market-maker, custodian, treasury, or prime-broker layer after users are abstracted away.
 
@@ -316,7 +316,7 @@ Related materials:
 
 ---
 
-# 9. Removal Sensitivity
+## 9. Removal Sensitivity
 
 **Removal sensitivity** asks whether removing an asset, rail, process, or layer from a system increases cost, delay, slippage, failure risk, operational complexity, or reduces reachability.
 
@@ -344,7 +344,7 @@ Related materials:
 
 ---
 
-# 10. Operator-Layer Cost Compression
+## 10. Operator-Layer Cost Compression
 
 **Operator-layer cost compression** asks whether an asset-inclusive configuration reduces total operator cost, risk, or complexity compared with asset-free alternatives.
 
@@ -369,7 +369,7 @@ Related materials:
 
 ---
 
-# 11. Alternative Infrastructure Maintenance Cost
+## 11. Alternative Infrastructure Maintenance Cost
 
 **Alternative infrastructure maintenance cost** means the cost, risk, coordination burden, liquidity burden, compliance burden, custody burden, and failure-management burden required to maintain an asset-free or alternative route.
 
@@ -399,7 +399,7 @@ Related materials:
 
 ---
 
-# 12. Evidence-Gated Sizing
+## 12. Evidence-Gated Sizing
 
 **Evidence-gated sizing** means that market sizing, valuation, or liquidity-density analysis should only proceed after evidence gates are satisfied.
 
@@ -426,7 +426,7 @@ Related materials:
 
 ---
 
-# 13. Required Liquidity Density
+## 13. Required Liquidity Density
 
 **Required liquidity density** means the depth, working liquidity, and usable float required for an asset to support institutional-scale flows under bounded market impact, execution risk, and failure tolerance.
 
@@ -453,7 +453,7 @@ Related materials:
 
 ---
 
-# 14. Customer Utility Does Not Imply Asset Necessity
+## 14. Customer Utility Does Not Imply Asset Necessity
 
 **Customer utility does not imply asset necessity** means that a product or infrastructure stack may deliver value to customers without requiring retained demand for a specific asset.
 
@@ -470,7 +470,7 @@ Related materials:
 
 ---
 
-# 15. Ambient Alignment Sync
+## 15. Ambient Alignment Sync
 
 **Ambient Alignment Sync**, or **AAS**, means a framework for preserving structural precision, role separation, relational context, and audit continuity across long-horizon human-AI work.
 
@@ -500,7 +500,7 @@ Related materials:
 
 ---
 
-# 16. Tri-Layer Architecture
+## 16. Tri-Layer Architecture
 
 **Tri-Layer Architecture** separates long-horizon human-AI work into three coordination layers:
 
@@ -527,7 +527,7 @@ Related materials:
 
 ---
 
-# 17. Human Layer
+## 17. Human Layer
 
 The **Human Layer** refers to the human role in direction-setting, judgment, acceptance, rejection, revision, responsibility, and publication authority.
 
@@ -541,7 +541,7 @@ In the AAS framework, the human layer retains responsibility for:
 
 ---
 
-# 18. AI Assistance Layer
+## 18. AI Assistance Layer
 
 The **AI Assistance Layer** refers to AI-generated or AI-assisted drafting, summarizing, contrasting, reviewing, restructuring, and generating alternatives.
 
@@ -551,7 +551,7 @@ It should remain distinguishable from the Human Layer and the External Record La
 
 ---
 
-# 19. External Record Layer
+## 19. External Record Layer
 
 The **External Record Layer** refers to files, repositories, papers, notes, citations, version history, public archives, and other durable records that preserve a reconstructable audit trail.
 
@@ -567,7 +567,7 @@ It supports:
 
 ---
 
-# 20. Mixed Concept Formation
+## 20. Mixed Concept Formation
 
 **Mixed concept formation** means that, in long-horizon human-AI research workflows, concepts may emerge through interaction between human intuition, AI-assisted verbalization, external review, and later human acceptance or revision.
 
@@ -581,7 +581,7 @@ The human author retains judgment, selection, authorship, and responsibility.
 
 ---
 
-# 21. Governance of Formation
+## 21. Governance of Formation
 
 **Governance of formation** means auditing how a concept was stabilized, accepted, rejected, revised, bounded, and made externally inspectable during a long-horizon human-AI workflow.
 
@@ -595,7 +595,7 @@ It shifts the focus from proving pure idea origin to preserving:
 
 ---
 
-# 22. AI as a Structural Mirror
+## 22. AI as a Structural Mirror
 
 **AI as a structural mirror** means that AI may help externalize, compare, stabilize, and refine a human author's latent structural intuition.
 
@@ -610,7 +610,7 @@ The value lies in making human structural intuition more inspectable, revisable,
 
 ---
 
-# 23. Bounded Archive Reconstruction
+## 23. Bounded Archive Reconstruction
 
 **Bounded archive reconstruction** means reconstructing the state, scope, and reasoning boundaries of a long-horizon research workflow from available records without pretending that all original context can be perfectly recovered.
 
@@ -626,7 +626,7 @@ Bounded archive reconstruction is especially important when:
 
 ---
 
-# 24. Public / Private Boundary
+## 24. Public / Private Boundary
 
 **Public/private boundary** means separating public research outputs from private operational methodology.
 
@@ -657,7 +657,7 @@ Related materials:
 
 ---
 
-# 25. Shared Audit Orientation
+## 25. Shared Audit Orientation
 
 **Shared audit orientation** means that the Retained-Demand and AAS tracks share a methodological posture without sharing evidence bases.
 
@@ -679,7 +679,7 @@ Core distinction:
 
 ---
 
-# 26. Common Misreadings
+## 26. Common Misreadings
 
 Do not summarize this archive as:
 
