@@ -6,9 +6,11 @@
 
 **なぜこの公開アーカイブがあるのか：** 結論だけでなく、そこに至る判断や証拠、前提の変化を、人間や将来のAIがあとから確かめ直せるようにするためです。詳しくは[研究を公開する理由](WHY_THIS_ARCHIVE_EXISTS_JA.html)をご覧ください。
 
+**公開情報の4分類：** **MAIN（メイン）**＝全体の入口と読書案内、**RESEARCH（研究系）**＝Retained-Demand・AASの原資料とJxivの独立原論文、**WRITING（note系）**＝S. MetaのエッセイとA_L_I_S_Eの構造分析（本文はnote）、**REFERENCE（その他）**＝概念マップ・用語・引用案内。これは**情報の分類**であり、リポジトリ数と一対一対応するものではありません。[機械可読の対応表](data/research-network.json)も参照できます。
+
 ## まず3つを確認
 
-1. **研究の見取り図：** [日本語トップ](index_ja.html) — 研究トラック2本、横断概念、研究・エッセイ・構造分析の3つの公開領域。
+1. **研究の見取り図：** [日本語トップ](index_ja.html) — MAIN・RESEARCH・WRITING・REFERENCEの4分類。RESEARCHには2研究トラックと別個のJxiv公開研究があります。
 2. **公開状態とDOI：** [Jxiv公開研究一覧](JXIV_PUBLICATIONS_JA.html) — RS、SC、EAAの3件を確認する。
 3. **機械可読の関係図：** [研究ネットワークJSON](data/research-network.json) — 日英URL、研究区分、原資料と索引の対応。
 
