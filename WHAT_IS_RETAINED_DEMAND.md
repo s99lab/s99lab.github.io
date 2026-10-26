@@ -1,5 +1,8 @@
 # What Is Retained Demand?
 
+**Language: English** ｜ [日本語](WHAT_IS_RETAINED_DEMAND_JA.html) ｜ [Home](index.html)
+
+
 A short guide for general readers
 
 ---
