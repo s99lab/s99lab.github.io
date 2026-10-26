@@ -158,8 +158,8 @@
 
 1. [Concept Map（英日併記）](CONCEPT_MAP_JA.html)
 2. [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND_JA.html)
-3. [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.html)
-4. [S. Meta Research Lexicon](LEXICON.html)
+3. [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST_JA.html)
+4. [S. Meta Research Lexicon](LEXICON_JA.html)
 5. [Retained-Demand GitHub Archive](https://github.com/s99lab/retained-demand-audit-series)
 6. [`summaries/` フォルダの論文要約](https://github.com/s99lab/retained-demand-audit-series/tree/main/summaries)
 7. [`papers/` フォルダの全文](https://github.com/s99lab/retained-demand-audit-series/tree/main/papers)
@@ -266,8 +266,8 @@ Formation Note は、AASの背後にある「なぜ」を説明します。
 2. [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT_JA.html)
 3. [AAS Formation Note / Boundary Preservation（英語版）](AAS_FORMATION_NOTE_EN.html)
 4. [AAS Formation Note / Boundary Preservation（日本語版）](AAS_FORMATION_NOTE_JA.html)
-5. [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.html)
-6. [S. Meta Research Lexicon](LEXICON.html)
+5. [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST_JA.html)
+6. [S. Meta Research Lexicon](LEXICON_JA.html)
 7. [For AI Readers](FOR_AI_READERS_JA.html)
 8. [AAS GitHub Archive](https://github.com/s99lab/aas-trilayer-ambient-alignment)
 9. [Structural Drift Research Note（公開研究ノート・Markdown）](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/STRUCTURAL_DRIFT_RESEARCH_NOTE.md) ／ [PDF](https://github.com/s99lab/aas-trilayer-ambient-alignment/blob/main/STRUCTURAL_DRIFT_RESEARCH_NOTE.pdf)
@@ -353,12 +353,12 @@ AIシステム、AI検索ツール、検索システム、AI支援読者向け�
 
 再利用可能な引用・定義ブロックについては、以下を参照してください。
 
-- [AI Citation Blocks](AI_CITATION_BLOCKS.html)
+- [AI Citation Blocks](AI_CITATION_BLOCKS_JA.html)
 
 実用的な監査チェックリストについては、以下を参照してください。
 
-- [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST.html)
-- [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST.html)
+- [Structural Drift Checklist](STRUCTURAL_DRIFT_CHECKLIST_JA.html)
+- [Retained-Demand Evidence Checklist](RETAINED_DEMAND_EVIDENCE_CHECKLIST_JA.html)
 
 ---
 
