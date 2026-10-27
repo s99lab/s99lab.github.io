@@ -192,7 +192,9 @@ They should be used alongside primary evidence, existing research, domain expert
 
 ## Repository Reading Path
 
-Because AI systems and human readers may encounter individual Markdown files out of order, the following reading path is recommended. The document titles below are clickable and lead to public reading pages.
+Because AI systems and human readers may encounter individual documents out of order, the following reading path is recommended. The linked titles below open the corresponding English reading pages.
+
+**Prefer Japanese?** See the [日本語版の推奨読解順 — Japanese Reading Path](CONCEPT_MAP_JA.html), which lists the available Japanese pages in the same order.
 
 ### 1. Start with the archive-level orientation
 
