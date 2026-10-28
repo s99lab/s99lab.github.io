@@ -621,7 +621,7 @@ S. Meta, “Retained-Demand Evidence Checklist,” S. Meta Research Archives, ht
 
 # 11. Related Materials
 
-- [Start Here](START_HERE.md)
+- [Research homepage](index.md)
 - [For AI Readers](FOR_AI_READERS.md)
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md)
 - [What Is Retained Demand?](WHAT_IS_RETAINED_DEMAND.md)
