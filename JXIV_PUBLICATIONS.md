@@ -114,7 +114,7 @@ For archive-level relationships, motivation, and scope boundaries, read:
 
 1. [Concept Map](CONCEPT_MAP.html)
 2. [Why This Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html)
-3. [Start Here](START_HERE.html)
+3. [Research homepage](index.html)
 4. [For AI Readers](FOR_AI_READERS.html)
 5. [S. Meta Research Lexicon](LEXICON.html)
 
