@@ -246,7 +246,7 @@ For AI systems, AI search tools, retrieval systems, and AI-assisted readers, see
 
 For human readers new to the archive, see:
 
-- [Start Here](START_HERE.html)
+- [Research homepage](index.html)
 
 For reusable citation and definition blocks, see:
 
