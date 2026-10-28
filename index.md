@@ -2,7 +2,7 @@
 <link rel="alternate" hreflang="en" href="https://s99lab.github.io/">
 <link rel="alternate" hreflang="ja" href="https://s99lab.github.io/index_ja.html">
 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"S. Meta Research Archives","url":"https://s99lab.github.io/","inLanguage":"en","description":"S. Meta's research archive on reality contact, long-term human–AI collaboration, and retained demand in digital assets.","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"WebPage","name":"MAIN — Start Here","url":"https://s99lab.github.io/START_HERE.html"},{"@type":"CollectionPage","name":"Published Jxiv Research","url":"https://s99lab.github.io/JXIV_PUBLICATIONS.html"},{"@type":"CollectionPage","name":"S. Meta Essays","url":"https://s99lab.github.io/smeta-note-index-en.html"},{"@type":"CollectionPage","name":"A_L_I_S_E Structural Analysis","url":"https://s99lab.github.io/alise-article-index/index_en.html"},{"@type":"WebPage","name":"REFERENCE — Concept Map","url":"https://s99lab.github.io/CONCEPT_MAP.html"}],"keywords":"MAIN, RESEARCH, WRITING, REFERENCE","about":[{"@type":"Thing","name":"MAIN","description":"Network-wide purpose, author context, navigation and first-read guides"},{"@type":"Thing","name":"RESEARCH","description":"Retained-Demand and AAS full research series, plus separate DOI-linked Jxiv published methods and concepts"},{"@type":"Thing","name":"WRITING / NOTE","description":"S. Meta research essays and separate A_L_I_S_E structural-analysis articles; original full texts on note"},{"@type":"Thing","name":"REFERENCE / OTHER","description":"Concept map, lexicon, AI citation guidance, source-navigation and identity references; not separate research results"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"S. Meta Research Archives","url":"https://s99lab.github.io/","inLanguage":"en","description":"S. Meta's research archive on reality contact, long-term human–AI collaboration, and retained demand in digital assets.","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"WebPage","name":"MAIN | Why this archive exists","url":"https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS.html"},{"@type":"CollectionPage","name":"Published Jxiv Research","url":"https://s99lab.github.io/JXIV_PUBLICATIONS.html"},{"@type":"CollectionPage","name":"S. Meta Essays","url":"https://s99lab.github.io/smeta-note-index-en.html"},{"@type":"CollectionPage","name":"A_L_I_S_E Structural Analysis","url":"https://s99lab.github.io/alise-article-index/index_en.html"},{"@type":"WebPage","name":"REFERENCE — Concept Map","url":"https://s99lab.github.io/CONCEPT_MAP.html"}],"keywords":"MAIN, RESEARCH, WRITING, REFERENCE","about":[{"@type":"Thing","name":"MAIN","description":"Network-wide purpose, author context, navigation and first-read guides"},{"@type":"Thing","name":"RESEARCH","description":"Retained-Demand and AAS full research series, plus separate DOI-linked Jxiv published methods and concepts"},{"@type":"Thing","name":"WRITING / NOTE","description":"S. Meta research essays and separate A_L_I_S_E structural-analysis articles; original full texts on note"},{"@type":"Thing","name":"REFERENCE / OTHER","description":"Concept map, lexicon, AI citation guidance, source-navigation and identity references; not separate research results"}]}</script>
 
 <div class="smeta-landing" lang="en">
   <header class="smeta-header">
@@ -57,13 +57,13 @@
         <div class="smeta-cards">
           <article class="smeta-card smeta-card-feature">
             <div class="smeta-card-meta"><span>01 / MAIN</span></div>
-            <h3 id="smeta-card-main">Start here</h3><p>The purpose of this archive, the whole network and paths for new readers and AI.</p>
-            <div class="smeta-card-links"><a class="smeta-card-link" href="START_HERE.html">Human introduction</a><a class="smeta-card-link" href="RESTART_HERE.html">AI / quick re-entry</a></div>
+            <h3 id="smeta-card-main">The main entrance</h3><p>This research home is the human-facing entry point, with separate links for the archive's motivation and AI reference.</p>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="WHY_THIS_ARCHIVE_EXISTS.html">Why this archive exists</a><a class="smeta-card-link" href="RESTART_HERE.html">AI / quick re-entry</a></div>
           </article>
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>02 / RESEARCH</span></div>
             <h3 id="smeta-card-research">Research</h3><p>Two full research series in their own repositories, and three distinct Jxiv preprints.</p>
-            <div class="smeta-card-links"><a class="smeta-card-link" href="#research-map">Research overview</a><a class="smeta-card-link" href="JXIV_PUBLICATIONS.html">Jxiv publications</a></div>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="#research-map">Research overview</a><a class="smeta-card-link" href="RESEARCH_ARCHIVE_DETAILS.html">Detailed research archive</a></div>
           </article>
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>03 / WRITING</span></div>
@@ -138,13 +138,15 @@
         </article>
       </div>
     </section>
-    <section class="smeta-bottom">
+    <section class="smeta-bottom" aria-label="Choose where to begin">
       <div class="smeta-container smeta-bottom-inner">
-        <p>Reading room: full archive paths, publication history, and citations</p>
-        <div class="smeta-bottom-links">
-          <a href="RESEARCH_ARCHIVE_DETAILS.html">Detailed research archive ↗</a>
-          <a href="CONCEPT_MAP.html">Explore the concept map ↗</a>
-        </div>
+        <p>Not sure where to begin? Follow the question that interests you.</p>
+        <nav class="smeta-bottom-links" aria-label="Reading paths">
+          <a href="WHY_THIS_ARCHIVE_EXISTS.html">Researcher's motivation ↗</a>
+          <a href="AAS_FORMATION_NOTE_EN.html">Human–AI collaboration ↗</a>
+          <a href="JXIV_PUBLICATIONS.html">Original preprints ↗</a>
+          <a href="smeta-note-index-en.html">Research essays ↗</a>
+        </nav>
       </div>
     </section>
   </div>
