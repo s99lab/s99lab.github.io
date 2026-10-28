@@ -8,7 +8,7 @@ This repository is the source for the public [S. Meta Research Archives](https:/
 
 | Public category | What belongs here | Where it is maintained |
 |---|---|---|
-| **MAIN / メイン** | Why the archive exists, overall map, [human introduction](START_HERE.md) and [AI re-entry](RESTART_HERE.md) | This portal |
+| **MAIN / メイン** | Why the archive exists, the [human-facing research homepage](index.md) and [AI re-entry](RESTART_HERE.md) | This portal |
 | **RESEARCH / 研究系** | Two full series ([Retained-Demand](https://github.com/s99lab/retained-demand-audit-series), [AAS](https://github.com/s99lab/aas-trilayer-ambient-alignment)), and the distinct [Jxiv papers](JXIV_PUBLICATIONS.md) | Original series in their two repositories; Jxiv papers at original DOIs, registry here |
 | **WRITING / note系** | [S. Meta essays](smeta-note-index.html) (12 indexed) and [A_L_I_S_E structural analysis](https://s99lab.github.io/alise-article-index/) (50 indexed) | S. Meta directory in this portal; A_L_I_S_E directory in its own repository; full texts on note |
 | **REFERENCE / その他** | [Concept map](CONCEPT_MAP.md), [lexicon](LEXICON.md), [AI citation blocks](AI_CITATION_BLOCKS.md), ORCID and source-reading guidance | Reference/navigation pages in this portal, not separate research originals |
@@ -33,7 +33,7 @@ The machine-readable version of these roles is in [research-network.json](data/r
 | If you need to... | Use this primary entry | 日本語 |
 |---|---|---|
 | See the public network quickly, including its sources and relationships | [Quick Re-entry](RESTART_HERE.md) + [research-network.json](data/research-network.json) | [再読込ガイド](RESTART_HERE_JA.md) |
-| Read an accessible introduction | [Start Here](START_HERE.md) | [はじめての方へ](START_HERE_JA.md) |
+| Read the public research introduction | [Research home](index.md) | [研究トップ](index_ja.md) |
 | Understand concept relationships and boundaries | [Core Concept Map](CONCEPT_MAP.md) | [コア概念マップ](CONCEPT_MAP_JA.md) |
 | Locate published research and DOIs | [Jxiv Publications](JXIV_PUBLICATIONS.md) | [Jxiv公開研究](JXIV_PUBLICATIONS_JA.md) |
 | Study the archive in greater depth | [Research Archive Details](RESEARCH_ARCHIVE_DETAILS.md) | [研究資料の詳細](RESEARCH_ARCHIVE_DETAILS_JA.md) |
@@ -87,3 +87,5 @@ The public GitHub repositories do **not** disclose private prompts, scoring meth
 **Author/research identity:** [S. Meta on ORCID](https://orcid.org/0009-0007-0820-7160) · [Research portal](https://s99lab.github.io/) · [note](https://note.com/s99lab)
 
 **Repository maintenance principle:** keep established public URLs stable, update the relevant source of truth rather than copying the same explanation into multiple guides, and distinguish explanatory metadata from source evidence.
+
+**Entry-point consolidation (2026-10-28):** The standalone `START_HERE.html` and `START_HERE_JA.html` introductory pages were folded into the two research homepages. The old URLs remain as short client-side redirects for existing backlinks and bookmarks. `RESTART_HERE` remains the compact AI/re-entry source guide, not a second human homepage.
