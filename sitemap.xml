@@ -4,13 +4,13 @@
     <loc>https://s99lab.github.io/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/index_ja.html"/>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
   </url>
   <url>
     <loc>https://s99lab.github.io/index_ja.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/index_ja.html"/>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
   </url>
   <url>
     <loc>https://s99lab.github.io/CONCEPT_MAP.html</loc>
@@ -23,13 +23,7 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS_JA.html"/>
     <lastmod>2026-10-26</lastmod>
   </url>
-  <url>
-    <loc>https://s99lab.github.io/START_HERE.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/START_HERE.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/START_HERE_JA.html"/>
-    <lastmod>2026-10-26</lastmod>
-  </url>
-  <url>
+<url>
     <loc>https://s99lab.github.io/FOR_AI_READERS.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/FOR_AI_READERS.html"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/FOR_AI_READERS_JA.html"/>
@@ -126,13 +120,7 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/EMPIRICAL_AUDIT_ARCHITECTURE_JA.html"/>
     <lastmod>2026-10-26</lastmod>
   </url>
-  <url>
-    <loc>https://s99lab.github.io/START_HERE_JA.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/START_HERE.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/START_HERE_JA.html"/>
-    <lastmod>2026-10-26</lastmod>
-  </url>
-  <url>
+<url>
     <loc>https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS_JA.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS.html"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS_JA.html"/>
