@@ -2,7 +2,7 @@
 <link rel="alternate" hreflang="ja" href="https://s99lab.github.io/index_ja.html">
 <link rel="alternate" hreflang="en" href="https://s99lab.github.io/">
 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"S. Meta Research Archives 日本語版","url":"https://s99lab.github.io/index_ja.html","inLanguage":"ja","description":"現実接触、人間とAIの長期協働、デジタル資産の保持需要を探究するS. Metaの公開研究アーカイブ。","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"WebPage","name":"MAIN｜はじめての方へ","url":"https://s99lab.github.io/START_HERE_JA.html"},{"@type":"CollectionPage","name":"Jxiv公開研究","url":"https://s99lab.github.io/JXIV_PUBLICATIONS_JA.html"},{"@type":"CollectionPage","name":"S. Meta note エッセイ","url":"https://s99lab.github.io/smeta-note-index.html"},{"@type":"CollectionPage","name":"A_L_I_S_E 構造分析","url":"https://s99lab.github.io/alise-article-index/"},{"@type":"WebPage","name":"REFERENCE｜概念マップ","url":"https://s99lab.github.io/CONCEPT_MAP_JA.html"}],"keywords":"MAIN, RESEARCH, WRITING, REFERENCE","about":[{"@type":"Thing","name":"MAIN","description":"公開ネットワーク全体の目的・背景・入口・読書案内"},{"@type":"Thing","name":"RESEARCH","description":"Retained-DemandとAASの研究原本、および別個に公開されたJxiv原論文への案内"},{"@type":"Thing","name":"WRITING / NOTE","description":"S. Metaの研究背景・エッセイと独立したA_L_I_S_E構造分析記事。原文はnote"},{"@type":"Thing","name":"REFERENCE / OTHER","description":"概念マップ、用語集、AI向け引用・出典案内、著者情報。独立した研究原本ではない"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"S. Meta Research Archives 日本語版","url":"https://s99lab.github.io/index_ja.html","inLanguage":"ja","description":"現実接触、人間とAIの長期協働、デジタル資産の保持需要を探究するS. Metaの公開研究アーカイブ。","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"WebPage","name":"MAIN｜アーカイブの目的","url":"https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS_JA.html"},{"@type":"CollectionPage","name":"Jxiv公開研究","url":"https://s99lab.github.io/JXIV_PUBLICATIONS_JA.html"},{"@type":"CollectionPage","name":"S. Meta note エッセイ","url":"https://s99lab.github.io/smeta-note-index.html"},{"@type":"CollectionPage","name":"A_L_I_S_E 構造分析","url":"https://s99lab.github.io/alise-article-index/"},{"@type":"WebPage","name":"REFERENCE｜概念マップ","url":"https://s99lab.github.io/CONCEPT_MAP_JA.html"}],"keywords":"MAIN, RESEARCH, WRITING, REFERENCE","about":[{"@type":"Thing","name":"MAIN","description":"公開ネットワーク全体の目的・背景・入口・読書案内"},{"@type":"Thing","name":"RESEARCH","description":"Retained-DemandとAASの研究原本、および別個に公開されたJxiv原論文への案内"},{"@type":"Thing","name":"WRITING / NOTE","description":"S. Metaの研究背景・エッセイと独立したA_L_I_S_E構造分析記事。原文はnote"},{"@type":"Thing","name":"REFERENCE / OTHER","description":"概念マップ、用語集、AI向け引用・出典案内、著者情報。独立した研究原本ではない"}]}</script>
 
 <div class="smeta-landing" lang="ja">
   <header class="smeta-header">
@@ -57,13 +57,13 @@
         <div class="smeta-cards">
           <article class="smeta-card smeta-card-feature">
             <div class="smeta-card-meta"><span>01 / MAIN・メイン</span></div>
-            <h3 id="smeta-card-main">全体の入口</h3><p>なぜ公開するのか、研究全体の見取り図、人間とAIそれぞれの読書案内。</p>
-            <div class="smeta-card-links"><a class="smeta-card-link" href="START_HERE_JA.html">はじめての方へ</a><a class="smeta-card-link" href="RESTART_HERE_JA.html">AI・再読込ガイド</a></div>
+            <h3 id="smeta-card-main">全体の入口</h3><p>この研究トップが人間向けの総合入口です。研究の背景と、AI向けの簡潔な案内を分けて提供します。</p>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="WHY_THIS_ARCHIVE_EXISTS_JA.html">なぜ公開するのか</a><a class="smeta-card-link" href="RESTART_HERE_JA.html">AI・再読込ガイド</a></div>
           </article>
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>02 / RESEARCH・研究系</span></div>
             <h3 id="smeta-card-research">研究・論文</h3><p>2つの研究シリーズの原本と、別個にJxiv公開された3つの研究。</p>
-            <div class="smeta-card-links"><a class="smeta-card-link" href="#research-map">研究成果の全体像</a><a class="smeta-card-link" href="JXIV_PUBLICATIONS_JA.html">Jxiv公開研究一覧</a></div>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="#research-map">研究成果の全体像</a><a class="smeta-card-link" href="RESEARCH_ARCHIVE_DETAILS_JA.html">研究資料の詳細</a></div>
           </article>
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>03 / WRITING・note系</span></div>
@@ -138,13 +138,15 @@
         </article>
       </div>
     </section>
-    <section class="smeta-bottom">
+    <section class="smeta-bottom" aria-label="関心から読み始める">
       <div class="smeta-container smeta-bottom-inner">
-        <p>資料室：各シリーズの詳細、公開履歴、引用を読む</p>
-        <div class="smeta-bottom-links">
-          <a href="RESEARCH_ARCHIVE_DETAILS_JA.html">詳細な研究アーカイブ ↗</a>
-          <a href="CONCEPT_MAP_JA.html">概念同士の関係を読む ↗</a>
-        </div>
+        <p>どこから読むか迷ったら、関心に近い問いから。</p>
+        <nav class="smeta-bottom-links" aria-label="読書の入口">
+          <a href="WHY_THIS_ARCHIVE_EXISTS_JA.html">研究の出発点 ↗</a>
+          <a href="AAS_FORMATION_NOTE_JA.html">人間とAIの協働 ↗</a>
+          <a href="JXIV_PUBLICATIONS_JA.html">公開原論文 ↗</a>
+          <a href="smeta-note-index.html">研究者のエッセイ ↗</a>
+        </nav>
       </div>
     </section>
   </div>
