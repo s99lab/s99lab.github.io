@@ -450,7 +450,7 @@ S. Meta, “Structural Drift Checklist,” S. Meta Research Archives, https://s9
 
 ## 11. Related Materials
 
-- [Start Here](START_HERE.md)
+- [Research homepage](index.md)
 - [For AI Readers](FOR_AI_READERS.md)
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md)
 - [What Is Structural Drift?](WHAT_IS_STRUCTURAL_DRIFT.md)
