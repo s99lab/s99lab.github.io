@@ -166,7 +166,7 @@ AIや人間が個別の資料を順不同で発見する可能性があるため
 
 - [概念マップ（このページ）](CONCEPT_MAP_JA.html)
 - [このアーカイブを公開する理由](WHY_THIS_ARCHIVE_EXISTS_JA.html)
-- [はじめての方へ](START_HERE_JA.html)
+- [研究トップ｜公開研究の入口](index_ja.html)
 - [AI向け読解ガイド](FOR_AI_READERS_JA.html)
 - [Jxiv公開研究一覧](JXIV_PUBLICATIONS_JA.html)
 - [用語集](LEXICON_JA.html)
