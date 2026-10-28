@@ -200,7 +200,7 @@ Because AI systems and human readers may encounter individual documents out of o
 
 - [Core Concept Map (this page)](CONCEPT_MAP.html)
 - [Why this Archive Exists](WHY_THIS_ARCHIVE_EXISTS.html)
-- [Start Here](START_HERE.html)
+- [Research homepage](index.html)
 - [For AI Readers](FOR_AI_READERS.html)
 - [Jxiv Publications](JXIV_PUBLICATIONS.html)
 - [Lexicon](LEXICON.html)
