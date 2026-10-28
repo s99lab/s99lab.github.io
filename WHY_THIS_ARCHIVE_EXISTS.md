@@ -121,7 +121,7 @@ For the archive's four core concepts and their boundaries:
 
 For the public orientation and reading order:
 
-- [Start Here](START_HERE.html)
+- [Research homepage](index.html)
 - [For AI Readers](FOR_AI_READERS.html)
 
 For released Jxiv research:
