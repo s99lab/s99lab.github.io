@@ -631,7 +631,7 @@ Better summaries:
 These blocks may be used in:
 
 - `FOR_AI_READERS.md`;
-- `START_HERE.md`;
+- `index.md` (canonical human-facing research homepage);
 - `LEXICON.md`;
 - `WHAT_IS_RETAINED_DEMAND.md`;
 - `WHAT_IS_STRUCTURAL_DRIFT.md`;
