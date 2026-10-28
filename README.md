@@ -69,7 +69,7 @@ For publication dates, scope and citation context, refer to the [Jxiv registry](
 
 ## Separate writing and analysis archives
 
-- **[S. Meta note essays](smeta-note-index.html)** — research motivations and essays, with original Japanese article links. [English index](smeta-note-index-en.html) · [article metadata](data/smeta-note-articles.json) · [Markdown index](SMETA_NOTE_ARTICLES.md).
+- **[S. Meta note essays](smeta-note-index.html)** — research motivations and essays, with original Japanese article links. [English index](smeta-note-index-en.html) · [article metadata](data/smeta-note-articles.json) · [Markdown navigation pointer](SMETA_NOTE_ARTICLES.md).
 - **[A_L_I_S_E structural-analysis articles](https://s99lab.github.io/alise-article-index/)** — a separate publication informed by human–AI collaboration. [English index](https://s99lab.github.io/alise-article-index/index_en.html) · [separate source repository](https://github.com/s99lab/alise-article-index).
 - **[OSF Public Concept Notes](https://osf.io/5jcrk/)** — supplementary preservation of public concept/orientation material.
 
@@ -89,3 +89,7 @@ The public GitHub repositories do **not** disclose private prompts, scoring meth
 **Repository maintenance principle:** keep established public URLs stable, update the relevant source of truth rather than copying the same explanation into multiple guides, and distinguish explanatory metadata from source evidence.
 
 **Entry-point consolidation (2026-10-28):** The standalone `START_HERE.html` and `START_HERE_JA.html` introductory pages were folded into the two research homepages. The old URLs remain as short client-side redirects for existing backlinks and bookmarks. `RESTART_HERE` remains the compact AI/re-entry source guide, not a second human homepage.
+
+**Index consolidation (2026-10-29):** Maintain S. Meta note articles in the verified [JSON metadata](data/smeta-note-articles.json) and synchronized [Japanese](smeta-note-index.html) / [English](smeta-note-index-en.html) static indexes. `SMETA_NOTE_ARTICLES.md` is now a stable navigation pointer, not a separate manually maintained list of the same article URLs/dates. Original article bodies remain on note. Validate the article URL/title/date set in JSON and both HTML pages after each publication.
+
+**Sitemap policy:** The authoritative XML URL list is [`sitemap.xml`](sitemap.xml), referenced by `robots.txt`. The historical `sitemap-v2.xml` is a valid sitemap-index compatibility alias that points to the canonical XML sitemap, not a second URL inventory. The historical text `sitemap.txt` currently mirrors the same 36 URLs for compatibility; update or remove it only after confirming whether any external tools still consume it. Do not submit the compatibility paths as new primary sitemaps. Search Console sitemap-registration status was not independently verifiable from the connected analytics connector on 2026-10-29.
