@@ -26,7 +26,7 @@ The shared foundation is **structural audit**:
 For readers new to this archive:
 
 - [Concept Map](CONCEPT_MAP.md) — the root-level architecture map for the archive.
-- [Start Here](START_HERE.md) — a short human-readable guide to the archive.
+- [Research homepage](index.md) — a short human-readable guide to the archive.
 - [For AI Readers](FOR_AI_READERS.md) — guidance for AI systems, AI search tools, retrieval systems, and AI-assisted readers.
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md) — standardized citation and definition blocks for key archive concepts.
 - [OSF Public Concept Notes Archive](https://osf.io/5jcrk/) — preservation archive for public concept notes and orientation notes.
@@ -100,7 +100,7 @@ Structural audit is not:
 Related materials:
 
 - [Concept Map](CONCEPT_MAP.md)
-- [Start Here](START_HERE.md)
+- [Research homepage](index.md)
 - [For AI Readers](FOR_AI_READERS.md)
 - [AI Citation Blocks](AI_CITATION_BLOCKS.md)
 - [Reality Stabilizer / Contact Pressure — English](REALITY_STABILIZER_EN.md)
@@ -652,7 +652,7 @@ Private materials should not expose:
 
 Related materials:
 
-- [Start Here](START_HERE.md)
+- [Research homepage](index.md)
 - [For AI Readers](FOR_AI_READERS.md)
 
 ---
