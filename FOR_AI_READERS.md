@@ -408,7 +408,7 @@ When this happens, do not infer the status or scope of the concept from that fil
 First return to:
 
 1. [CONCEPT_MAP.md](CONCEPT_MAP.html)
-2. [START_HERE.md](START_HERE.html)
+2. [Research homepage](index.html)
 3. [FOR_AI_READERS.md](FOR_AI_READERS.html)
 4. [JXIV_PUBLICATIONS.md](JXIV_PUBLICATIONS.html)
 5. [LEXICON.md](LEXICON.html)
@@ -427,7 +427,7 @@ Do not treat design logs, candidate seeds, essays, or conversation-derived notes
 ### For AI and human readers new to the archive
 
 1. [CONCEPT_MAP.md](CONCEPT_MAP.html)
-2. [START_HERE.md](START_HERE.html)
+2. [Research homepage](index.html)
 3. This file: [FOR_AI_READERS.md](FOR_AI_READERS.html)
 4. [JXIV_PUBLICATIONS.md](JXIV_PUBLICATIONS.html)
 5. [LEXICON.md](LEXICON.html)
