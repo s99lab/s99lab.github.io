@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "last_checked_utc_date": "2026-10-26",
+  "last_checked_utc_date": "2026-11-11",
   "scope": "Public sources and navigation only; not a private project handoff or a claim of validation",
   "publisher": {
     "name": "S. Meta",
@@ -131,7 +131,7 @@
         "en": "https://s99lab.github.io/WHAT_IS_RETAINED_DEMAND.html",
         "ja": "https://s99lab.github.io/WHAT_IS_RETAINED_DEMAND_JA.html"
       },
-      "publication_context": "GitHub/OSF research series; not one of the three Jxiv papers"
+      "publication_context": "GitHub/OSF research series; not among the DOI-linked independent Jxiv preprints"
     },
     {
       "id": "aas",
@@ -142,7 +142,7 @@
         "en": "https://s99lab.github.io/AAS_FORMATION_NOTE_EN.html",
         "ja": "https://s99lab.github.io/AAS_FORMATION_NOTE_JA.html"
       },
-      "publication_context": "GitHub/OSF research series; do not describe as Jxiv-published AAS papers"
+      "publication_context": "GitHub/OSF research series; no published Jxiv AAS paper is claimed"
     }
   ],
   "cross_cutting_concepts": [
@@ -185,6 +185,56 @@
         "en": "https://s99lab.github.io/EMPIRICAL_AUDIT_ARCHITECTURE.html",
         "ja": "https://s99lab.github.io/EMPIRICAL_AUDIT_ARCHITECTURE_JA.html"
       }
+    },
+    {
+      "id": "sc_evidence_audit",
+      "name": "SC Evidence Audit: Separating Structural-Change Observation from Later Determination of Meaning",
+      "title_ja": "構造変化の観測と、その意味の確定をどう分けるか",
+      "subtitle_ja": "Structure-Change Sensor v0.1 の遡及的文書改訂44ペアと証拠監査",
+      "author": "S. Meta",
+      "doi": "10.51094/jxiv.6999",
+      "original": "https://doi.org/10.51094/jxiv.6999",
+      "jxiv_record": "https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/6999",
+      "submitted_utc": "2026-10-29T01:30:25Z",
+      "published_utc": "2026-11-11T05:49:49Z",
+      "publication_date": "2026-11-11",
+      "version": "1",
+      "manuscript_version": "1.3.4",
+      "license": "CC BY-NC-ND 4.0",
+      "public_files": [
+        {
+          "kind": "main_pdf",
+          "pages": 18
+        },
+        {
+          "kind": "Supplement S1 PDF",
+          "pages": 4
+        }
+      ],
+      "study_type": "exploratory retrospective evidence audit",
+      "sample": {
+        "artificial_business_revision_pairs": 8,
+        "natural_science_revision_pairs": 36,
+        "natural_science_source_papers": 31,
+        "total_pairs": 44
+      },
+      "recorded_outcomes": {
+        "CANDIDATE": 11,
+        "STABLE": 25,
+        "AMBIGUOUS": 8,
+        "bookmarks": 11
+      },
+      "non_claims": [
+        "not a new version of SC v0.1 DOI 6215",
+        "no validated SC-specific superiority",
+        "no causal inference established",
+        "no predictive or prospective T0 detection demonstrated"
+      ],
+      "guide": {
+        "en": "https://s99lab.github.io/STRUCTURE_CHANGE_SENSOR.html",
+        "ja": "https://s99lab.github.io/STRUCTURE_CHANGE_SENSOR_JA.html"
+      },
+      "verification": "Bibliographic date, status and files reported from author-shared Jxiv published-page screenshots; independent external fetch of Jxiv page and published PDFs not completed on 2026-11-11."
     }
   ],
   "research_relationships": [
@@ -212,6 +262,11 @@
       "source": "rs",
       "target": "aas",
       "type": "cross_cutting_viewpoint"
+    },
+    {
+      "source": "sc_evidence_audit",
+      "target": "sc",
+      "type": "separate_exploratory_retrospective_audit_of_candidate_records_not_revision_or_validation"
     }
   ],
   "editorial_indexes": [
@@ -262,9 +317,10 @@
   },
   "cautions": [
     "Published on Jxiv does not by itself imply peer review or scientific validation.",
-    "AAS and Retained-Demand are not Jxiv papers; distinguish them from RS, SC and EAA publications.",
+    "AAS and Retained-Demand are not Jxiv papers; distinguish these research series from the four DOI-linked Jxiv publications (RS, SC v0.1, EAA and SC Evidence Audit).",
     "Index entries and English reading subtitles are not translations of the Japanese article body.",
     "SC candidate detection does not establish meaning, causality or the validity of AAS.",
-    "Public documentation is not a source for private instructions, ongoing internal research state or non-public methods."
+    "Public documentation is not a source for private instructions, ongoing internal research state or non-public methods.",
+    "SC Evidence Audit DOI 6999 uses 44 retrospective revision pairs; it does not validate prospective T0 detection or replace SC v0.1 DOI 6215."
   ]
 }
