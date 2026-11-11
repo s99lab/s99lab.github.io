@@ -2,7 +2,7 @@
 <link rel="alternate" hreflang="ja" href="https://s99lab.github.io/index_ja.html">
 <link rel="alternate" hreflang="en" href="https://s99lab.github.io/">
 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"S. Meta Research Archives 日本語版","url":"https://s99lab.github.io/index_ja.html","inLanguage":"ja","description":"現実接触、人間とAIの長期協働、デジタル資産の保持需要を探究するS. Metaの公開研究アーカイブ。","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"WebPage","name":"MAIN｜アーカイブの目的","url":"https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS_JA.html"},{"@type":"CollectionPage","name":"Jxiv公開研究","url":"https://s99lab.github.io/JXIV_PUBLICATIONS_JA.html"},{"@type":"CollectionPage","name":"S. Meta note エッセイ","url":"https://s99lab.github.io/smeta-note-index.html"},{"@type":"CollectionPage","name":"A_L_I_S_E 構造分析","url":"https://s99lab.github.io/alise-article-index/"},{"@type":"WebPage","name":"REFERENCE｜概念マップ","url":"https://s99lab.github.io/CONCEPT_MAP_JA.html"}],"keywords":"MAIN, RESEARCH, WRITING, REFERENCE","about":[{"@type":"Thing","name":"MAIN","description":"公開ネットワーク全体の目的・背景・入口・読書案内"},{"@type":"Thing","name":"RESEARCH","description":"Retained-DemandとAASの研究原本、および別個に公開されたJxiv原論文への案内"},{"@type":"Thing","name":"WRITING / NOTE","description":"S. Metaの研究背景・エッセイと独立したA_L_I_S_E構造分析記事。原文はnote"},{"@type":"Thing","name":"REFERENCE / OTHER","description":"概念マップ、用語集、AI向け引用・出典案内、著者情報。独立した研究原本ではない"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"S. Meta Research Archives 日本語版","url":"https://s99lab.github.io/index_ja.html","inLanguage":"ja","description":"現実接触、人間とAIの長期協働、デジタル資産の保持需要を探究するS. Metaの公開研究アーカイブ。","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"WebPage","name":"MAIN｜アーカイブの目的","url":"https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS_JA.html"},{"@type":"CollectionPage","name":"Jxiv公開研究","url":"https://s99lab.github.io/JXIV_PUBLICATIONS_JA.html"},{"@type":"CollectionPage","name":"S. Meta note エッセイ","url":"https://s99lab.github.io/smeta-note-index.html"},{"@type":"CollectionPage","name":"A_L_I_S_E 構造分析","url":"https://s99lab.github.io/alise-article-index/"},{"@type":"WebPage","name":"REFERENCE｜概念マップ","url":"https://s99lab.github.io/CONCEPT_MAP_JA.html"}],"keywords":"MAIN, RESEARCH, WRITING, REFERENCE","about":[{"@type":"Thing","name":"MAIN","description":"公開ネットワーク全体の目的・背景・入口・読書案内"},{"@type":"Thing","name":"RESEARCH","description":"Retained-DemandとAASの研究原本、および別個に公開されたJxiv原論文への案内"},{"@type":"Thing","name":"WRITING / NOTE","description":"S. Metaの研究背景・エッセイと独立したA_L_I_S_E構造分析記事。原文はnote"},{"@type":"Thing","name":"REFERENCE / OTHER","description":"概念マップ、用語集、AI向け引用・出典案内、著者情報。独立した研究原本ではない"}],"citation":["https://doi.org/10.51094/jxiv.4696","https://doi.org/10.51094/jxiv.6215","https://doi.org/10.51094/jxiv.6148","https://doi.org/10.51094/jxiv.6999"]}</script>
 
 <div class="smeta-landing" lang="ja">
   <header class="smeta-header">
@@ -33,7 +33,7 @@
           <dl>
             <div><dt>研究トラック</dt><dd>02</dd></div>
             <div><dt>横断的な研究概念</dt><dd>01</dd></div>
-            <div><dt>Jxiv公開研究</dt><dd>03</dd></div>
+            <div><dt>Jxiv公開研究</dt><dd>04</dd></div>
           </dl>
         </aside>
       </div>
@@ -62,7 +62,7 @@
           </article>
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>02 / RESEARCH・研究系</span></div>
-            <h3 id="smeta-card-research">研究・論文</h3><p>2つの研究シリーズの原本と、別個にJxiv公開された3つの研究。</p>
+            <h3 id="smeta-card-research">研究・論文</h3><p>2つの研究シリーズの原本と、別個にJxiv公開された4件の研究。</p>
             <div class="smeta-card-links"><a class="smeta-card-link" href="#research-map">研究成果の全体像</a><a class="smeta-card-link" href="RESEARCH_ARCHIVE_DETAILS_JA.html">研究資料の詳細</a></div>
           </article>
           <article class="smeta-card">
@@ -107,8 +107,8 @@
         </div>
         <section class="smeta-jxiv-section" aria-labelledby="smeta-jxiv-title">
           <div class="smeta-series-intro">
-            <h3 id="smeta-jxiv-title">Jxiv公開研究 <span>3件</span></h3>
-            <p>以下はJxivで個別に公開した3つの研究です。上の2研究シリーズの下位論文という意味ではありません。</p>
+            <h3 id="smeta-jxiv-title">Jxiv公開研究 <span>4件</span></h3>
+            <p>以下はJxivで個別に公開した4件の研究です。上の2研究シリーズの下位論文という意味ではありません。</p>
           </div>
           <div class="smeta-jxiv-grid">
             <article class="smeta-jxiv-card">
@@ -128,6 +128,12 @@
               <h4>Empirical Audit Architecture（EAA）</h4>
               <p>複数AIによる証拠の再構成を、比較・追跡できる形に整理する。</p>
               <div class="smeta-jxiv-links"><a href="EMPIRICAL_AUDIT_ARCHITECTURE_JA.html">日本語解説</a><a href="https://doi.org/10.51094/jxiv.6148">原論文 DOI ↗</a></div>
+            </article>
+            <article class="smeta-jxiv-card">
+              <span class="smeta-jxiv-tag">04 / 観測と意味の分離</span>
+              <h4>SC Evidence Audit｜44ペアの証拠監査</h4>
+              <p>構造変化の候補を記録する時点と、後から意味を確定する段階を区別する探索的監査。前向き検証の実証ではありません。</p>
+              <div class="smeta-jxiv-links"><a href="STRUCTURE_CHANGE_SENSOR_JA.html">SCの研究展開</a><a href="https://doi.org/10.51094/jxiv.6999">原論文 DOI ↗</a></div>
             </article>
           </div>
           <p class="smeta-map-caption">公開研究の書誌情報・原文は<a href="JXIV_PUBLICATIONS_JA.html">Jxiv公開研究一覧</a>からも確認できます。</p>
