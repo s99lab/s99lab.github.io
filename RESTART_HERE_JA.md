@@ -11,7 +11,7 @@
 ## まず3つを確認
 
 1. **研究の見取り図：** [日本語トップ](index_ja.html) — MAIN・RESEARCH・WRITING・REFERENCEの4分類。RESEARCHには2研究トラックと別個のJxiv公開研究があります。
-2. **公開状態とDOI：** [Jxiv公開研究一覧](JXIV_PUBLICATIONS_JA.html) — RS、SC、EAAの3件を確認する。
+2. **公開状態とDOI：** [Jxiv公開研究一覧](JXIV_PUBLICATIONS_JA.html) — RS、SC v0.1、EAA、SC Evidence Auditの別個の4件を確認する。
 3. **機械可読の関係図：** [研究ネットワークJSON](data/research-network.json) — 日英URL、研究区分、原資料と索引の対応。
 
 ## 研究を選んで読む
@@ -21,7 +21,8 @@
 | **研究トラック1：Retained-Demand** | デジタル資産の利用は、いつ保持需要として残るのか。 | [概要](WHAT_IS_RETAINED_DEMAND_JA.html) ／ [原資料リポジトリ](https://github.com/s99lab/retained-demand-audit-series) |
 | **研究トラック2：AAS / Tri-Layer** | 長期の人間とAIの協働で、判断・役割・記録をどう保つか。 | [形成ノート](AAS_FORMATION_NOTE_JA.html) ／ [原資料リポジトリ](https://github.com/s99lab/aas-trilayer-ambient-alignment) |
 | **横断概念：Reality Stabilizer** | 筋の通った説明は、現実の制度・責任・費用に触れているか。 | [日本語解説](REALITY_STABILIZER_JA.html) ／ [DOI](https://doi.org/10.51094/jxiv.4696) |
-| **公開方法：SC** | 長い記録の構造変化候補をどこで検出できるか。 | [日本語解説](STRUCTURE_CHANGE_SENSOR_JA.html) ／ [DOI](https://doi.org/10.51094/jxiv.6215) |
+| **公開方法：SC v0.1** | 長い記録の構造変化候補をどこで検出できるか。 | [日本語解説](STRUCTURE_CHANGE_SENSOR_JA.html) ／ [DOI](https://doi.org/10.51094/jxiv.6215) |
+| **独立論文：SC Evidence Audit** | 44件の遡及的改訂ペアで、候補記録と後日の意味確定をどう分離・追跡するか。 | [SCの研究展開](STRUCTURE_CHANGE_SENSOR_JA.html) ／ [DOI](https://doi.org/10.51094/jxiv.6999) |
 | **公開方法：EAA** | 複数AIの証拠再構成をどう比較・監査するか。 | [日本語解説](EMPIRICAL_AUDIT_ARCHITECTURE_JA.html) ／ [DOI](https://doi.org/10.51094/jxiv.6148) |
 
 SCとEAAはAASと問題領域が近い**別個の公開方法**です。AASがJxivに掲載されたと読み替えないでください。
