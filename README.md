@@ -55,15 +55,16 @@ These pages have **different jobs**. The short guides route readers to the refer
 
 ### Separate published methods
 
-**[Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.md)** and **[Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.md)** are distinct, complementary public methods. Their research questions may be related to AAS, but the methods are neither identical to each other nor proof of the AAS research track.
+**[Structure-Change Sensor (SC)](STRUCTURE_CHANGE_SENSOR.md)** and **[Empirical Audit Architecture (EAA)](EMPIRICAL_AUDIT_ARCHITECTURE.md)** are distinct, complementary public methods. SC also has a **separate exploratory retrospective evidence-audit preprint** ([DOI 6999](https://doi.org/10.51094/jxiv.6999)), which does not validate prospective detection or replace the original SC v0.1 paper ([DOI 6215](https://doi.org/10.51094/jxiv.6215)). Their research questions may be related to AAS, but the methods are neither identical to each other nor proof of the AAS research track.
 
-**Three Jxiv releases in the public registry:**
+**Four distinct Jxiv preprints in the public registry (2026-11-11):**
 
 | Research item | DOI |
 |---|---|
 | Reality Stabilizer / Contact Pressure | [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696) |
 | Structure-Change Sensor | [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215) |
 | Empirical Audit Architecture | [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148) |
+| SC Evidence Audit — 44 retrospective revision pairs (separate paper, not SC v0.1 revision) | [10.51094/jxiv.6999](https://doi.org/10.51094/jxiv.6999) |
 
 For publication dates, scope and citation context, refer to the [Jxiv registry](JXIV_PUBLICATIONS.md) and the linked originals. Jxiv availability does not, on its own, establish peer review or independent validation.
 
