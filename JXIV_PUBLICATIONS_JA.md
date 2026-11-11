@@ -2,13 +2,13 @@
 status: public_publication_registry
 category: publication_index
 language: Japanese
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 # Jxiv公開研究｜S. Meta
 
 **言語：日本語** ｜ [English](JXIV_PUBLICATIONS.html) ｜ [日本語トップ](index_ja.html)
 
-S. Meta名義でJxiv（JSTプレプリントサーバ）に公開された3件の研究をまとめています。論文原文はDOIのリンクから確認できます。**論文PDFの言語は原本どおり**です。
+S. Meta名義でJxiv（JSTプレプリントサーバ）に公開された4件の研究をまとめています。論文原文はDOIのリンクから確認できます。**論文PDFの言語は原本どおり**です。
 
 ---
 
@@ -60,6 +60,29 @@ AIが作った説明が論理的に整っていることと、その説明が実
 - [日本語解説](EMPIRICAL_AUDIT_ARCHITECTURE_JA.html)
 - [English](EMPIRICAL_AUDIT_ARCHITECTURE.html)
 
+
+## 4. SC Evidence Audit｜構造変化の観測と意味の確定（独立した新論文）
+
+**正式邦題：** 構造変化の観測と、その意味の確定をどう分けるか  
+**サブタイトル：** Structure-Change Sensor v0.1 の遡及的文書改訂44ペアと証拠監査  
+**著者：** S. Meta（独立研究者）  
+**DOI：** [10.51094/jxiv.6999](https://doi.org/10.51094/jxiv.6999)  
+**Jxiv掲載：** [公開ページ（6999）](https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/6999)  
+**投稿日：** 2026年10月29日 01:30:25 UTC  
+**公開日時：** 2026年11月11日 05:49:49 UTC（日本時間14:49:49）  
+**公開版：** Version 1（提出原稿はv1.3.4）  
+**ライセンス：** CC BY-NC-ND 4.0  
+**公開ファイル：** 本文PDF 18ページ、Supplement S1 PDF 4ページ
+
+**この論文の位置づけ：** 既刊のSC v0.1（DOI 6215）の改版ではなく、**別個の探索的証拠監査論文**。人工業務文書8ペア、自然科学文書36ペア（31論文由来）、計44ペアについて、原文根拠に戻れるか、暫定観測と後日意味が定着する段階を区別できるかを点検しています。
+
+**記録された内訳：** CANDIDATE 11件、STABLE 25件、AMBIGUOUS 8件、Bookmark 11件（合計44ペア）。
+
+**主張しないこと：** SC固有の性能優位、因果関係の成立、将来予測の成功、前向きT0検出の実証。2026年10月28日以降の前向き観測は、独立した進行中の研究として区別します。
+
+**研究間の案内：** [SC v0.1と今回の探索的監査の関係](STRUCTURE_CHANGE_SENSOR_JA.html)
+
+
 ---
 
 ## EAAとSCの関係
@@ -78,6 +101,7 @@ AIが作った説明が論理的に整っていることと、その説明が実
 - S. Meta. (2026). *Reality Stabilizer: 生成AI出力における説明整合性と現実接触の乖離を点検する補助枠*. Jxiv. https://doi.org/10.51094/jxiv.4696
 - S. Meta. (2026). *構造変化センサー（Structure-Change Sensor）：時系列対話・文書における構造変化候補の検出とリアルタイム・ブックマーキング*. Jxiv. https://doi.org/10.51094/jxiv.6215
 - S. Meta. (2026). *実証監査アーキテクチャ（EAA）：複数AIによる証拠再構成を比較可能にする監査方法の開発と前向き検証*. Jxiv. https://doi.org/10.51094/jxiv.6148
+- S. Meta. (2026). *構造変化の観測と、その意味の確定をどう分けるか：Structure-Change Sensor v0.1 の遡及的文書改訂44ペアと証拠監査*. Jxiv, Version 1. https://doi.org/10.51094/jxiv.6999
 
 Jxiv掲載は査読済みであることを意味しません。詳細な根拠、適用範囲、留保は各論文原文を参照してください。
 
