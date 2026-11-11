@@ -40,7 +40,9 @@ S. Metaは公開研究アーカイブの著者名です。長期にわたる人�
 
 **Reality Stabilizer / Contact Pressure** は、整った説明と制度・責任・費用・実装条件への現実接触を分けて点検する横断的な概念です。
 
-**Structure-Change Sensor（SC）** は、長い記録の構造変化候補を検出・保存します。
+**Structure-Change Sensor（SC v0.1）** は、長い記録の構造変化候補を検出・保存します。
+
+**SC Evidence Audit（別論文、DOI 6999）** は、人工8ペア・自然36ペア（合計44件）の遡及的文書改訂を用いた探索的証拠監査です。候補記録と後日の意味確定を区別し、原文追跡や判断保留を扱います。既刊SC v0.1の新バージョンでも、前向きT0検出の性能実証でもありません。
 
 **Empirical Audit Architecture（EAA）** は、複数AIの証拠再構成を、原回答や不確実性を残して比較・追跡できるようにする方法です。
 
@@ -81,7 +83,8 @@ SCとEAAを一つの方法へ統合したり、片方の公開を他方の有効
 Jxivで公開された研究を参照するときは、**論文タイトル・著者・DOI**を優先してください。
 
 - RS: [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)
-- SC: [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215)
+- SC v0.1: [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215)
+- SC Evidence Audit（2026-11-11公開、Version 1）: [10.51094/jxiv.6999](https://doi.org/10.51094/jxiv.6999)
 - EAA: [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148)
 
 ## 9. AI引用ブロック
