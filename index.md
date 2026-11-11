@@ -2,7 +2,7 @@
 <link rel="alternate" hreflang="en" href="https://s99lab.github.io/">
 <link rel="alternate" hreflang="ja" href="https://s99lab.github.io/index_ja.html">
 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"S. Meta Research Archives","url":"https://s99lab.github.io/","inLanguage":"en","description":"S. Meta's research archive on reality contact, long-term human–AI collaboration, and retained demand in digital assets.","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"WebPage","name":"MAIN | Why this archive exists","url":"https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS.html"},{"@type":"CollectionPage","name":"Published Jxiv Research","url":"https://s99lab.github.io/JXIV_PUBLICATIONS.html"},{"@type":"CollectionPage","name":"S. Meta Essays","url":"https://s99lab.github.io/smeta-note-index-en.html"},{"@type":"CollectionPage","name":"A_L_I_S_E Structural Analysis","url":"https://s99lab.github.io/alise-article-index/index_en.html"},{"@type":"WebPage","name":"REFERENCE — Concept Map","url":"https://s99lab.github.io/CONCEPT_MAP.html"}],"keywords":"MAIN, RESEARCH, WRITING, REFERENCE","about":[{"@type":"Thing","name":"MAIN","description":"Network-wide purpose, author context, navigation and first-read guides"},{"@type":"Thing","name":"RESEARCH","description":"Retained-Demand and AAS full research series, plus separate DOI-linked Jxiv published methods and concepts"},{"@type":"Thing","name":"WRITING / NOTE","description":"S. Meta research essays and separate A_L_I_S_E structural-analysis articles; original full texts on note"},{"@type":"Thing","name":"REFERENCE / OTHER","description":"Concept map, lexicon, AI citation guidance, source-navigation and identity references; not separate research results"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"S. Meta Research Archives","url":"https://s99lab.github.io/","inLanguage":"en","description":"S. Meta's research archive on reality contact, long-term human–AI collaboration, and retained demand in digital assets.","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"WebPage","name":"MAIN | Why this archive exists","url":"https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS.html"},{"@type":"CollectionPage","name":"Published Jxiv Research","url":"https://s99lab.github.io/JXIV_PUBLICATIONS.html"},{"@type":"CollectionPage","name":"S. Meta Essays","url":"https://s99lab.github.io/smeta-note-index-en.html"},{"@type":"CollectionPage","name":"A_L_I_S_E Structural Analysis","url":"https://s99lab.github.io/alise-article-index/index_en.html"},{"@type":"WebPage","name":"REFERENCE — Concept Map","url":"https://s99lab.github.io/CONCEPT_MAP.html"}],"keywords":"MAIN, RESEARCH, WRITING, REFERENCE","about":[{"@type":"Thing","name":"MAIN","description":"Network-wide purpose, author context, navigation and first-read guides"},{"@type":"Thing","name":"RESEARCH","description":"Retained-Demand and AAS full research series, plus separate DOI-linked Jxiv published methods and concepts"},{"@type":"Thing","name":"WRITING / NOTE","description":"S. Meta research essays and separate A_L_I_S_E structural-analysis articles; original full texts on note"},{"@type":"Thing","name":"REFERENCE / OTHER","description":"Concept map, lexicon, AI citation guidance, source-navigation and identity references; not separate research results"}],"citation":["https://doi.org/10.51094/jxiv.4696","https://doi.org/10.51094/jxiv.6215","https://doi.org/10.51094/jxiv.6148","https://doi.org/10.51094/jxiv.6999"]}</script>
 
 <div class="smeta-landing" lang="en">
   <header class="smeta-header">
@@ -33,7 +33,7 @@
           <dl>
             <div><dt>Research tracks</dt><dd>02</dd></div>
             <div><dt>Cross-cutting concept</dt><dd>01</dd></div>
-            <div><dt>Jxiv research items</dt><dd>03</dd></div>
+            <div><dt>Jxiv research items</dt><dd>04</dd></div>
           </dl>
         </aside>
       </div>
@@ -62,7 +62,7 @@
           </article>
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>02 / RESEARCH</span></div>
-            <h3 id="smeta-card-research">Research</h3><p>Two full research series in their own repositories, and three distinct Jxiv preprints.</p>
+            <h3 id="smeta-card-research">Research</h3><p>Two full research series in their own repositories, and four distinct Jxiv preprints.</p>
             <div class="smeta-card-links"><a class="smeta-card-link" href="#research-map">Research overview</a><a class="smeta-card-link" href="RESEARCH_ARCHIVE_DETAILS.html">Detailed research archive</a></div>
           </article>
           <article class="smeta-card">
@@ -107,8 +107,8 @@
         </div>
         <section class="smeta-jxiv-section" aria-labelledby="smeta-jxiv-title">
           <div class="smeta-series-intro">
-            <h3 id="smeta-jxiv-title">Jxiv publications <span>3 separate preprints</span></h3>
-            <p>Three distinct studies published on Jxiv. They are not presented as sub-papers of either research series above.</p>
+            <h3 id="smeta-jxiv-title">Jxiv publications <span>4 separate preprints</span></h3>
+            <p>Four distinct studies published on Jxiv. They are not presented as sub-papers of either research series above.</p>
           </div>
           <div class="smeta-jxiv-grid">
             <article class="smeta-jxiv-card">
@@ -128,6 +128,12 @@
               <h4>Empirical Audit Architecture (EAA)</h4>
               <p>Making evidence reconstructions by multiple AI systems comparable and traceable.</p>
               <div class="smeta-jxiv-links"><a href="EMPIRICAL_AUDIT_ARCHITECTURE.html">Overview</a><a href="https://doi.org/10.51094/jxiv.6148">Original DOI ↗</a></div>
+            </article>
+            <article class="smeta-jxiv-card">
+              <span class="smeta-jxiv-tag">04 / OBSERVATION &amp; MEANING</span>
+              <h4>SC Evidence Audit · 44 Revision Pairs</h4>
+              <p>A separate exploratory audit of 44 retrospective revision pairs, distinguishing a structural-change candidate from its later interpretation. Not a prospective validation.</p>
+              <div class="smeta-jxiv-links"><a href="STRUCTURE_CHANGE_SENSOR.html">SC research lineage</a><a href="https://doi.org/10.51094/jxiv.6999">Original DOI ↗</a></div>
             </article>
           </div>
           <p class="smeta-map-caption">See the <a href="JXIV_PUBLICATIONS.html">Jxiv publication register</a> for bibliographic details and original sources.</p>
