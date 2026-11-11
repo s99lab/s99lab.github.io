@@ -6,7 +6,7 @@ target_readers:
   - AI systems
   - Retrieval systems
 language: English and Japanese
-updated: 2026-09-17
+updated: 2026-11-11
 ---
 
 # Jxiv Publications / Jxiv 公開研究
@@ -87,6 +87,27 @@ EAA was developed through development cases and then applied to a new case after
 
 ---
 
+## 4. SC Evidence Audit — separate exploratory preprint
+
+**Original Japanese title:** 構造変化の観測と、その意味の確定をどう分けるか  
+**Subtitle:** Structure-Change Sensor v0.1 の遡及的文書改訂44ペアと証拠監査  
+**English rendering (editorial, not a separate English edition):** Separating the Observation of Structural Change from the Determination of Its Meaning: A Retrospective Evidence Audit of 44 Document-Revision Pairs Using Structure-Change Sensor v0.1  
+**Author:** S. Meta (independent researcher)  
+**Jxiv DOI:** [10.51094/jxiv.6999](https://doi.org/10.51094/jxiv.6999)  
+**Jxiv public page:** [Preprint record 6999](https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/6999)  
+**Submitted:** 2026-10-29 01:30:25 UTC  
+**Published:** 2026-11-11 05:49:49 UTC (14:49:49 JST)  
+**Public version:** Version 1 (submitted manuscript identified as v1.3.4)  
+**License:** CC BY-NC-ND 4.0  
+**Files shown by Jxiv:** main PDF (18 pages) and Supplement S1 PDF (4 pages)
+
+**Role in the archive:** A **separate exploratory evidence audit**, not a replacement version of the 2026 SC v0.1 preprint. It examines 44 retrospective revision pairs: 8 artificial business-document pairs and 36 natural-science document pairs from 31 papers. Reported classifications are CANDIDATE 11, STABLE 25, AMBIGUOUS 8, with 11 bookmarks. It asks how the original evidence and the distinction between provisional observation and later determination of meaning can remain inspectable.
+
+**Scope boundary:** The paper does **not** establish SC-specific performance superiority, causal inference, successful prediction, or prospective T0 detection. Current prospective observation is a different, ongoing research activity and is not part of these retrospective results.
+
+**Archive guide:** [Structure-Change Sensor (SC) — research lineage](STRUCTURE_CHANGE_SENSOR.html).
+
+
 ## Relationship Between EAA and SC
 
 EAA and SC are **distinct but complementary public methods**.
@@ -105,6 +126,7 @@ Within the broader archive, they sit near the AAS / Structural Drift research tr
 - S. Meta. (2026). *Reality Stabilizer: 生成AI出力における説明整合性と現実接触の乖離を点検する補助枠*. Jxiv. https://doi.org/10.51094/jxiv.4696
 - S. Meta. (2026). *構造変化センサー（Structure-Change Sensor）：時系列対話・文書における構造変化候補の検出とリアルタイム・ブックマーキング*. Jxiv. https://doi.org/10.51094/jxiv.6215
 - S. Meta. (2026). *実証監査アーキテクチャ（EAA）：複数AIによる証拠再構成を比較可能にする監査方法の開発と前向き検証*. Jxiv. https://doi.org/10.51094/jxiv.6148
+- S. Meta. (2026). *構造変化の観測と、その意味の確定をどう分けるか：Structure-Change Sensor v0.1 の遡及的文書改訂44ペアと証拠監査*. Jxiv, Version 1. https://doi.org/10.51094/jxiv.6999
 
 ---
 
