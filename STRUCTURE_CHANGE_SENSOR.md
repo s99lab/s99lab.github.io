@@ -115,6 +115,19 @@ The **realtime extension is specified and in prospective trial use**. It is not 
 
 ---
 
+## Research lineage: SC v0.1, the evidence audit, and prospective observation
+
+These are **distinct research activities**, not one cumulative claim of validation:
+
+1. **SC v0.1 (September 8, 2026):** [DOI 10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215) — proposes detection and bookmarking of *candidate* structural changes in long dialogues and documents. A bookmark does not settle the change's meaning.
+2. **SC Evidence Audit (separate paper, November 11, 2026):** [DOI 10.51094/jxiv.6999](https://doi.org/10.51094/jxiv.6999) — *構造変化の観測と、その意味の確定をどう分けるか* (editorial English rendering: *Separating the Observation of Structural Change from the Determination of Its Meaning*). Exploratory retrospective audit of **44 document-revision pairs**: 8 artificial business-document pairs and 36 natural-science pairs drawn from 31 papers. Reported outcomes: **CANDIDATE 11, STABLE 25, AMBIGUOUS 8**; **11 bookmarks**. The submitted working manuscript is identified as v1.3.4; its Jxiv public record is Version 1. This is a new paper, not a revised release of DOI 6215.
+3. **Ongoing prospective observation (from October 28, 2026):** independently conducted and not evidenced by the above 44 retrospective pairs.
+
+The new paper focuses on keeping an audit trail between the *record of a provisional structural-change observation* and the *later determination of what that observation means*. It does not establish SC-specific superior performance, causality, predictive success, or prospective T0 detection.
+
+- [Jxiv publication page for SC Evidence Audit](https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/6999)
+- [All four Jxiv publications and citation forms](JXIV_PUBLICATIONS.html)
+
 ## Relationship to the archive
 
 SC sits near the **AAS / Structural Drift** research track because both are concerned with long-horizon records and later auditability.
