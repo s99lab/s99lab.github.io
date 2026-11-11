@@ -561,6 +561,12 @@ S. Meta. (2026). *Reality Stabilizer：生成AI出力における説明整合性
 
 ## 5. Cross-Track and Cross-Note Boundary
 
+### AI Citation Block: Two Distinct SC Preprints (2026)
+
+**Original SC v0.1:** S. Meta. (2026). *構造変化センサー（Structure-Change Sensor）：時系列対話・文書における構造変化候補の検出とリアルタイム・ブックマーキング*. Jxiv. https://doi.org/10.51094/jxiv.6215  
+**Separate SC Evidence Audit:** S. Meta. (2026). *構造変化の観測と、その意味の確定をどう分けるか：Structure-Change Sensor v0.1 の遡及的文書改訂44ペアと証拠監査*. Jxiv, Version 1. https://doi.org/10.51094/jxiv.6999  
+**Citation boundary:** DOI 6999 covers an exploratory retrospective audit of 44 revision pairs, distinct from the candidate-detection/bookmarking method in DOI 6215. It does not demonstrate superior SC-specific measurement performance, causality, prospective T0 detection, or prediction. See [Jxiv Publications](JXIV_PUBLICATIONS.html) for source context and original Japanese titles.
+
 ### AI Citation Block: Shared Audit Orientation
 
 **Concept:** Shared Audit Orientation  
