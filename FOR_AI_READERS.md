@@ -193,10 +193,11 @@ Do not use Reality Stabilizer / Contact Pressure as:
 
 ### 3.2 Published Jxiv Methods: EAA and SC
 
-The archive also routes to two distinct public methods released on Jxiv:
+The archive routes to two distinct public methods (EAA and SC v0.1) and a **separate retrospective SC evidence-audit preprint** published on Jxiv:
 
 - **Empirical Audit Architecture (EAA)** — DOI [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148), published 2026-09-16. EAA concerns comparable, trackable, replayable evidence reconstruction across multiple AI systems while preserving original outputs, differences, uncertainty, and execution conditions.
-- **Structure-Change Sensor (SC)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215), published 2026-09-08. SC concerns detection and preservation of candidate structural-change points in longitudinal dialogue, documents, and interaction records.
+- **Structure-Change Sensor (SC v0.1)** — DOI [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215), published 2026-09-08. SC concerns detection and preservation of candidate structural-change points in longitudinal dialogue, documents, and interaction records.
+- **SC Evidence Audit (distinct exploratory preprint)** — DOI [10.51094/jxiv.6999](https://doi.org/10.51094/jxiv.6999), published 2026-11-11, Version 1. It audits 44 retrospective document-revision pairs (8 artificial, 36 natural-science) and the distinction between an observation-time candidate record and the later determination of meaning. Recorded outcomes: 11 CANDIDATE, 25 STABLE and 8 AMBIGUOUS; 11 bookmarks. This is **not** an updated edition of SC v0.1 and does **not** demonstrate causal inference, superior performance, prediction or prospective T0 detection.
 
 EAA and SC are complementary in parts of the archive, but they are not the same framework and publication of one does not validate the other. Neither should be treated as proof of AAS, Structural Drift, or Reality Stabilizer.
 
