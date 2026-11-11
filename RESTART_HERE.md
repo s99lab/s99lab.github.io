@@ -11,7 +11,7 @@ For first-time readers and AI retrieval systems, this page is a **short route in
 ## Three steps to start
 
 1. **See the whole map:** [Research home](index.html) — four public categories (MAIN, RESEARCH, WRITING, REFERENCE). Within RESEARCH, there are two research tracks and distinct Jxiv preprints.
-2. **Check publication status:** [Jxiv publication registry](JXIV_PUBLICATIONS.html) — RS, SC and EAA with their DOIs.
+2. **Check publication status:** [Jxiv publication registry](JXIV_PUBLICATIONS.html) — four distinct DOI-linked releases: RS, SC v0.1, EAA, and the SC Evidence Audit.
 3. **Read the machine-readable links:** [Research network JSON](data/research-network.json) — publication types, source URLs, track relationships, and language counterparts.
 
 ## Choose a research path
@@ -21,7 +21,8 @@ For first-time readers and AI retrieval systems, this page is a **short route in
 | **Track 1: Retained-Demand** | When does visible digital-asset usage create a reason to keep holding the asset? | [Overview](WHAT_IS_RETAINED_DEMAND.html) / [research repository](https://github.com/s99lab/retained-demand-audit-series) |
 | **Track 2: AAS / Tri-Layer** | How can human judgment, AI assistance and external records remain distinguishable during sustained collaboration? | [Formation note](AAS_FORMATION_NOTE_EN.html) / [research repository](https://github.com/s99lab/aas-trilayer-ambient-alignment) |
 | **Cross-cutting: Reality Stabilizer** | Does a coherent explanation meet real constraints such as institutions, costs, responsibilities and implementation? | [Overview](REALITY_STABILIZER_EN.html) / [DOI](https://doi.org/10.51094/jxiv.4696) |
-| **Published method: SC** | Where can candidates for structural change be detected in long records? | [Overview](STRUCTURE_CHANGE_SENSOR.html) / [DOI](https://doi.org/10.51094/jxiv.6215) |
+| **Published method: SC v0.1** | Where can candidates for structural change be detected in long records? | [Overview](STRUCTURE_CHANGE_SENSOR.html) / [DOI](https://doi.org/10.51094/jxiv.6215) |
+| **Separate paper: SC Evidence Audit** | How can 44 retrospective revision-pair records keep candidate observations distinct from later meaning? | [SC lineage](STRUCTURE_CHANGE_SENSOR.html) / [DOI](https://doi.org/10.51094/jxiv.6999) |
 | **Published method: EAA** | How can multiple AI evidence reconstructions be compared and audited? | [Overview](EMPIRICAL_AUDIT_ARCHITECTURE.html) / [DOI](https://doi.org/10.51094/jxiv.6148) |
 
 SC and EAA are **distinct published methods** with related questions; they are not evidence that AAS itself was published on Jxiv or independently validated.
