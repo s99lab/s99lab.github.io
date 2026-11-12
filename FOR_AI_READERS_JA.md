@@ -84,7 +84,7 @@ Jxivで公開された研究を参照するときは、**論文タイトル・�
 
 - RS: [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)
 - SC v0.1: [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215)
-- SC Evidence Audit（2026-11-11公開、Version 1）: [10.51094/jxiv.6999](https://doi.org/10.51094/jxiv.6999)
+- SC Evidence Audit（2026-11-11初回公開、2026-11-12改版・Version 2）: [10.51094/jxiv.6999](https://doi.org/10.51094/jxiv.6999)
 - EAA: [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148)
 
 ## 9. AI引用ブロック
