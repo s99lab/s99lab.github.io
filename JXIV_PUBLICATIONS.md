@@ -96,10 +96,12 @@ EAA was developed through development cases and then applied to a new case after
 **Jxiv DOI:** [10.51094/jxiv.6999](https://doi.org/10.51094/jxiv.6999)  
 **Jxiv public page:** [Preprint record 6999](https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/6999)  
 **Submitted:** 2026-10-29 01:30:25 UTC  
-**Published:** 2026-11-11 05:49:49 UTC (14:49:49 JST)  
-**Public version:** Version 1 (submitted manuscript identified as v1.3.4)  
+**Initially published (Version 1):** 2026-11-11 05:49:49 UTC (14:49:49 JST)  
+**Version 2 published:** 2026-11-12 09:12:35 UTC (18:12:35 JST)  
+**Public version:** Version 2 (submitted manuscript identified as v1.3.4; Version 1 retained in Jxiv history)  
 **License:** CC BY-NC-ND 4.0  
-**Files shown by Jxiv:** main PDF (18 pages) and Supplement S1 PDF (4 pages)
+**Files shown by Jxiv:** `PDF_ver.2` (main PDF, 18 pages) and `Supplement_PDF_ver.2` (Supplement S1, 4 pages)  
+**Revision reason:** PDF font-embedding/character-display correction only; Jxiv's public note states that body text, methods, results, tables, appendix and supplement content remain unchanged. Version 2 metadata was checked from an author-shared screenshot; the PDF contents have not been independently fetched.
 
 **Role in the archive:** A **separate exploratory evidence audit**, not a replacement version of the 2026 SC v0.1 preprint. It examines 44 retrospective revision pairs: 8 artificial business-document pairs and 36 natural-science document pairs from 31 papers. Reported classifications are CANDIDATE 11, STABLE 25, AMBIGUOUS 8, with 11 bookmarks. It asks how the original evidence and the distinction between provisional observation and later determination of meaning can remain inspectable.
 
@@ -126,7 +128,7 @@ Within the broader archive, they sit near the AAS / Structural Drift research tr
 - S. Meta. (2026). *Reality Stabilizer: 生成AI出力における説明整合性と現実接触の乖離を点検する補助枠*. Jxiv. https://doi.org/10.51094/jxiv.4696
 - S. Meta. (2026). *構造変化センサー（Structure-Change Sensor）：時系列対話・文書における構造変化候補の検出とリアルタイム・ブックマーキング*. Jxiv. https://doi.org/10.51094/jxiv.6215
 - S. Meta. (2026). *実証監査アーキテクチャ（EAA）：複数AIによる証拠再構成を比較可能にする監査方法の開発と前向き検証*. Jxiv. https://doi.org/10.51094/jxiv.6148
-- S. Meta. (2026). *構造変化の観測と、その意味の確定をどう分けるか：Structure-Change Sensor v0.1 の遡及的文書改訂44ペアと証拠監査*. Jxiv, Version 1. https://doi.org/10.51094/jxiv.6999
+- S. Meta. (2026). *構造変化の観測と、その意味の確定をどう分けるか：Structure-Change Sensor v0.1 の遡及的文書改訂44ペアと証拠監査*. Jxiv, Version 2. https://doi.org/10.51094/jxiv.6999
 
 ---
 
