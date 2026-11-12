@@ -293,4 +293,4 @@ This portal provides research materials, concept notes, reading guides, and arti
 - S. Meta, “Reality Stabilizer / Contact Pressure,” S. Meta Research Archives. Jxiv DOI: [10.51094/jxiv.4696](https://doi.org/10.51094/jxiv.4696)
 - S. Meta, “Structure-Change Sensor,” Jxiv. DOI: [10.51094/jxiv.6215](https://doi.org/10.51094/jxiv.6215).
 - S. Meta, “Empirical Audit Architecture (EAA),” Jxiv. DOI: [10.51094/jxiv.6148](https://doi.org/10.51094/jxiv.6148).
-- S. Meta, “構造変化の観測と、その意味の確定をどう分けるか” (SC Evidence Audit; separate exploratory preprint), Jxiv, Version 1. DOI: [10.51094/jxiv.6999](https://doi.org/10.51094/jxiv.6999).
+- S. Meta, “構造変化の観測と、その意味の確定をどう分けるか” (SC Evidence Audit; separate exploratory preprint), Jxiv, Version 2. DOI: [10.51094/jxiv.6999](https://doi.org/10.51094/jxiv.6999).
