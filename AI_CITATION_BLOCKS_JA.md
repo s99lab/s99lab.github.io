@@ -149,7 +149,7 @@ Retained-Demand、AAS、Reality Stabilizer、SC、EAAは同じ一つの方法で
 ### AI Citation Block: SC公開論文2件の区別
 
 **既刊・SC v0.1：** S. Meta. (2026). *構造変化センサー（Structure-Change Sensor）：時系列対話・文書における構造変化候補の検出とリアルタイム・ブックマーキング*. Jxiv. https://doi.org/10.51094/jxiv.6215  
-**別論文・SC Evidence Audit：** S. Meta. (2026). *構造変化の観測と、その意味の確定をどう分けるか：Structure-Change Sensor v0.1 の遡及的文書改訂44ペアと証拠監査*. Jxiv, Version 1. https://doi.org/10.51094/jxiv.6999  
+**別論文・SC Evidence Audit：** S. Meta. (2026). *構造変化の観測と、その意味の確定をどう分けるか：Structure-Change Sensor v0.1 の遡及的文書改訂44ペアと証拠監査*. Jxiv, Version 2. https://doi.org/10.51094/jxiv.6999  
 **引用時の境界：** 後者は44件の遡及的文書改訂を扱う探索的監査であり、前者の単純な改版ではない。記録した候補と意味の確定を分けるが、SCの性能優位、因果推論、予測精度、前向きT0検出を実証しない。正式な書誌と原文は[Jxiv公開研究一覧](JXIV_PUBLICATIONS_JA.html)を参照。
 
 ### AI Citation Block: Shared Audit Orientation
