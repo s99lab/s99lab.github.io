@@ -1,10 +1,10 @@
 # s99Lab | S. Meta Research Archives — Repository Guide
 
-s99Lab is the independent activity connecting S. Meta research, A_L_I_S_E social observation, and practical tools. This repository is the source for the public [S. Meta Research Archives](https://s99lab.github.io/). It is a **navigation and source-reference hub**, not a replacement for the original research or a private project handoff.
+s99Lab is the independent activity connecting S. Meta research, A_L_I_S_E social observation, development and practical application. This repository is the source for the public [S. Meta Research Archives](https://s99lab.github.io/). It is a **navigation and source-reference hub**, not a replacement for the original research or a private project handoff.
 
 **Japanese portal:** [日本語トップ](https://s99lab.github.io/index_ja.html) · **English portal:** [Research home](https://s99lab.github.io/)
 
-**Public experiments:** [Research updates / RSS](https://s99lab.github.io/updates.html) · [Structural Drift self-review tool](https://s99lab.github.io/structural-drift-tool.html) · [日本語版](https://s99lab.github.io/structural-drift-tool-ja.html)
+**Research updates:** [Research updates / RSS](https://s99lab.github.io/updates.html).
 
 ## Names and attribution
 
@@ -104,3 +104,7 @@ The public GitHub repositories do **not** disclose private prompts, scoring meth
 ## Public reading-page design
 
 The bilingual homepages use `_layouts/s99lab-home.html`. Research, orientation and reference Markdown pages use `_layouts/s99lab-article.html` and `assets/css/smeta-article.css`. Keep Markdown bodies, existing headings, author attribution, DOI references and link destinations intact when changing presentation. Use each page's self canonical URL and reciprocal language alternate for paired pages. `START_HERE` compatibility redirects, static note indexes, generated updates/RSS and interactive tools are maintained separately; do not apply the Markdown reading layout to them. The A_L_I_S_E repository retains its own editorial identity.
+
+## Release policy
+
+Experimental tools are tested by the project owner before any public release. Do not publish or promote prototypes automatically. Explicit owner approval is required after practical evaluation. Existing research and original attribution remain unchanged. The initial self-review tool is withdrawn from the live site; its prior version remains in Git history. Automatic IndexNow notification is paused; feed consistency checks remain active.
