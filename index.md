@@ -159,7 +159,7 @@
   <footer class="smeta-footer">
     <div class="smeta-container smeta-footer-inner">
       <span>For research claims, consult the original papers and their associated evidence.</span>
-      <span>S. Meta · <a href="https://orcid.org/0009-0007-0820-7160">ORCID</a> · <a href="RESTART_HERE.html">Quick re-entry</a> · <a href="FOR_AI_READERS.html">AI reference</a> · <a href="updates.html">Updates / RSS</a></span>
+      <span>S. Meta · <a href="https://orcid.org/0009-0007-0820-7160">ORCID</a> · <a href="RESTART_HERE.html">Quick re-entry</a> · <a href="FOR_AI_READERS.html">AI reference</a> · <a href="updates.html">Updates / RSS</a> · <a href="structural-drift-tool.html">Public Tool</a></span>
     </div>
   </footer>
 </div>
