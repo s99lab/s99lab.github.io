@@ -47,9 +47,13 @@ const paths=["sitemap.xml","sitemap-v2.xml","sitemap.txt","robots.txt","data/res
 const data=Object.fromEntries(paths.map(p=>[p,fs.readFileSync(path.join(root,p),'utf8')]));
 const names=fs.readdirSync(root);
 const result=audit(data,names);
+const firstDoi=JSON.parse(data['data/research-network.json']).jxiv_publications[0].doi;
+const firstNote=JSON.parse(data['data/smeta-note-articles.json']).articles[0].url;
 const negativeCases=[
  ['duplicate sitemap',{'sitemap.xml':data['sitemap.xml'].replace('</urlset>','<url><loc>https://s99lab.github.io/</loc></url></urlset>')},'SITEMAP_EMPTY_OR_DUPLICATE'],
- ['wrong legacy pointer',{'sitemap-v2.xml':data['sitemap-v2.xml'].replace(/<loc>[^<]+<\\/loc>/,'<loc>https://s99lab.github.io/wrong.xml</loc>')},'LEGACY_SITEMAP_POINTER'],
+ ['wrong legacy pointer',{'sitemap-v2.xml':data['sitemap-v2.xml'].replace('<loc>https://s99lab.github.io/sitemap.xml</loc>','<loc>https://s99lab.github.io/wrong.xml</loc>')},'LEGACY_SITEMAP_POINTER'],
+ ['missing DOI',{'JXIV_PUBLICATIONS_JA.md':data['JXIV_PUBLICATIONS_JA.md'].replaceAll('https://doi.org/'+firstDoi,'https://doi.org/10.00000/test-invalid')},'DOI_PAGE_PARITY:JXIV_PUBLICATIONS_JA.md'],
+ ['missing note link',{'smeta-note-index.html':data['smeta-note-index.html'].replaceAll('href="'+firstNote+'"','href="https://note.com/s99lab"')},'NOTE_HTML_LINK_PARITY:smeta-note-index.html'],
  ['bad research JSON',{'data/research-network.json':'{'},'PARSE_OR_INPUT_ERROR']
 ];
 const tests=negativeCases.map(([name,patch,code])=>({name,pass:audit({...data,...patch},names).errors.some(e=>e.startsWith(code))}));
