@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: ja
+title: "S. Meta Research Archives｜コア概念マップ"
+canonical_url: https://s99lab.github.io/CONCEPT_MAP_JA.html
+alternate_url: https://s99lab.github.io/CONCEPT_MAP.html
+alternate_lang: en
+reading_category: REFERENCE
+---
 <style>
 /* Article-page headings: hide generated self-link icons.
    Heading IDs and explicit navigation links remain intact. */

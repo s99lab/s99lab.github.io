@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: en
+title: "What Is Structural Drift?"
+canonical_url: https://s99lab.github.io/WHAT_IS_STRUCTURAL_DRIFT.html
+alternate_url: https://s99lab.github.io/WHAT_IS_STRUCTURAL_DRIFT_JA.html
+alternate_lang: ja
+reading_category: REFERENCE
+---
 # What Is Structural Drift?
 
 **Language: English** ｜ [日本語](WHAT_IS_STRUCTURAL_DRIFT_JA.html) ｜ [Home](index.html)

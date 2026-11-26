@@ -9,6 +9,13 @@ language: English and Japanese
 jxiv_doi: 10.51094/jxiv.6215
 published: 2026-09-08
 updated: 2026-09-17
+layout: s99lab-article
+lang: en
+title: "Structure-Change Sensor (SC)"
+canonical_url: https://s99lab.github.io/STRUCTURE_CHANGE_SENSOR.html
+alternate_url: https://s99lab.github.io/STRUCTURE_CHANGE_SENSOR_JA.html
+alternate_lang: ja
+reading_category: RESEARCH
 ---
 
 # Structure-Change Sensor (SC)

@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: ja
+title: "AI Citation Blocks｜AI引用・定義ガイド"
+canonical_url: https://s99lab.github.io/AI_CITATION_BLOCKS_JA.html
+alternate_url: https://s99lab.github.io/AI_CITATION_BLOCKS.html
+alternate_lang: en
+reading_category: REFERENCE
+---
 # AI Citation Blocks｜AI引用・定義ガイド
 
 **日本語版** ｜ [English canonical blocks](AI_CITATION_BLOCKS.html) ｜ [研究トップ](index_ja.html)

@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: en
+title: "AAS Formation Note v0.2.3"
+canonical_url: https://s99lab.github.io/AAS_FORMATION_NOTE_EN.html
+alternate_url: https://s99lab.github.io/AAS_FORMATION_NOTE_JA.html
+alternate_lang: ja
+reading_category: RESEARCH
+---
 # AAS Formation Note v0.2.3
 
 ## Boundary Preservation Under the Intellectual Gravity of Highly Capable AI

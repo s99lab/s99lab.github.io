@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: en
+title: "AI Citation Blocks"
+canonical_url: https://s99lab.github.io/AI_CITATION_BLOCKS.html
+alternate_url: https://s99lab.github.io/AI_CITATION_BLOCKS_JA.html
+alternate_lang: ja
+reading_category: REFERENCE
+---
 # AI Citation Blocks
 
 **Language: English** ｜ [日本語版](AI_CITATION_BLOCKS_JA.html) ｜ [Research Home](index.html)

@@ -1,0 +1,27 @@
+name: Reading page build check
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  rendered-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Build with GitHub Pages Jekyll
+        uses: actions/jekyll-build-pages@44a6e6beabd48582f863aeeb6cb2151cc1716697
+        with:
+          source: ./
+          destination: ./_site
+      - name: Check rendered reading pages and scope
+        run: node scripts/check-reading-pages.mjs _site
+      - name: Verify unchanged Markdown bodies for initial layout rollout
+        if: github.event_name == 'pull_request' && github.event.pull_request.base.sha == '78648145e175a86a799cc26c1384b5e28fc5a4c1'
+        env:
+          COMPARE_CONTENT_BASE: ${{ github.event.pull_request.base.sha }}
+        run: node scripts/check-reading-pages.mjs _site

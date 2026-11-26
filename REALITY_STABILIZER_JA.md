@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: ja
+title: "説明の整合性と、現実への接触は別物である"
+canonical_url: https://s99lab.github.io/REALITY_STABILIZER_JA.html
+alternate_url: https://s99lab.github.io/REALITY_STABILIZER_EN.html
+alternate_lang: en
+reading_category: RESEARCH
+---
 # 説明の整合性と、現実への接触は別物である
 ## AI時代の監査フレームワークにおける Reality Stabilizer
 

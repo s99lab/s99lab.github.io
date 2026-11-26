@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: en
+title: "Retained-Demand Evidence Checklist"
+canonical_url: https://s99lab.github.io/RETAINED_DEMAND_EVIDENCE_CHECKLIST.html
+alternate_url: https://s99lab.github.io/RETAINED_DEMAND_EVIDENCE_CHECKLIST_JA.html
+alternate_lang: ja
+reading_category: REFERENCE
+---
 # Retained-Demand Evidence Checklist
 
 **Language: English** ｜ [日本語版](RETAINED_DEMAND_EVIDENCE_CHECKLIST_JA.html) ｜ [Research Home](index.html)

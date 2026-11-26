@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: en
+title: "Research Archive Details | S. Meta Research Archives"
+canonical_url: https://s99lab.github.io/RESEARCH_ARCHIVE_DETAILS.html
+alternate_url: https://s99lab.github.io/RESEARCH_ARCHIVE_DETAILS_JA.html
+alternate_lang: ja
+reading_category: RESEARCH
+---
 # Research Archive Details | S. Meta Research Archives
 
 [Research home](index.html) | [日本語](RESEARCH_ARCHIVE_DETAILS_JA.html) | [Jxiv publications](JXIV_PUBLICATIONS.html)

@@ -7,6 +7,13 @@ target_readers:
   - Practitioners
 language: English
 updated: 2026-10-26
+layout: s99lab-article
+lang: en
+title: "S. Meta Research Archives: Core Concept Map / コア概念マップ"
+canonical_url: https://s99lab.github.io/CONCEPT_MAP.html
+alternate_url: https://s99lab.github.io/CONCEPT_MAP_JA.html
+alternate_lang: ja
+reading_category: REFERENCE
 ---
 
 <style>

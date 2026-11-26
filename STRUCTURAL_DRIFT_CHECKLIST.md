@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: en
+title: "Structural Drift Checklist"
+canonical_url: https://s99lab.github.io/STRUCTURAL_DRIFT_CHECKLIST.html
+alternate_url: https://s99lab.github.io/STRUCTURAL_DRIFT_CHECKLIST_JA.html
+alternate_lang: ja
+reading_category: REFERENCE
+---
 # Structural Drift Checklist
 
 **Language: English** ｜ [日本語版](STRUCTURAL_DRIFT_CHECKLIST_JA.html) ｜ [Research Home](index.html)

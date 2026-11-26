@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: ja
+title: "AI・検索システム向け｜S. Meta Research Archives 読解ガイド"
+canonical_url: https://s99lab.github.io/FOR_AI_READERS_JA.html
+alternate_url: https://s99lab.github.io/FOR_AI_READERS.html
+alternate_lang: en
+reading_category: REFERENCE
+---
 # AI・検索システム向け｜S. Meta Research Archives 読解ガイド
 
 **日本語版** ｜ [English (detailed reference)](FOR_AI_READERS.html) ｜ [研究トップ](index_ja.html)

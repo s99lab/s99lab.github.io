@@ -3,6 +3,13 @@ status: public_publication_registry
 category: publication_index
 language: Japanese
 updated: 2026-11-11
+layout: s99lab-article
+lang: ja
+title: "Jxiv公開研究｜S. Meta"
+canonical_url: https://s99lab.github.io/JXIV_PUBLICATIONS_JA.html
+alternate_url: https://s99lab.github.io/JXIV_PUBLICATIONS.html
+alternate_lang: en
+reading_category: RESEARCH
 ---
 # Jxiv公開研究｜S. Meta
 

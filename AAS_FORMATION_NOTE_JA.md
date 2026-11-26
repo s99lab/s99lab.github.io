@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: ja
+title: "AAS Formation Note v0.2.3"
+canonical_url: https://s99lab.github.io/AAS_FORMATION_NOTE_JA.html
+alternate_url: https://s99lab.github.io/AAS_FORMATION_NOTE_EN.html
+alternate_lang: en
+reading_category: RESEARCH
+---
 # AAS Formation Note v0.2.3
 
 ## 高性能AIの知的重力下における境界保存

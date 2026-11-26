@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: ja
+title: "なぜこのアーカイブがあるのか"
+canonical_url: https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS_JA.html
+alternate_url: https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS.html
+alternate_lang: en
+reading_category: MAIN
+---
 # なぜこのアーカイブがあるのか
 
 **日本語版** ｜ [English](WHY_THIS_ARCHIVE_EXISTS.html) ｜ [研究トップ](index_ja.html)

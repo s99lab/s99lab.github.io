@@ -1,3 +1,10 @@
+---
+layout: s99lab-article
+lang: ja
+title: "S. Meta｜note記事の参照案内"
+canonical_url: https://s99lab.github.io/SMETA_NOTE_ARTICLES.html
+reading_category: WRITING / NOTE
+---
 # S. Meta｜note記事の参照案内
 
 **このページは、記事情報の第三の管理台帳ではありません。**

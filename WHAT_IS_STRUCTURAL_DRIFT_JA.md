@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: ja
+title: "Structural Drift（構造的ドリフト）とは何か"
+canonical_url: https://s99lab.github.io/WHAT_IS_STRUCTURAL_DRIFT_JA.html
+alternate_url: https://s99lab.github.io/WHAT_IS_STRUCTURAL_DRIFT.html
+alternate_lang: en
+reading_category: REFERENCE
+---
 # Structural Drift（構造的ドリフト）とは何か
 
 **日本語版** ｜ [English](WHAT_IS_STRUCTURAL_DRIFT.html) ｜ [研究トップ](index_ja.html)
