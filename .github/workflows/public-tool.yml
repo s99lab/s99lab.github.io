@@ -1,51 +1,31 @@
-name: Public tool check
+name: Public tool release gate
 on:
   pull_request:
     branches: [main]
   push:
     branches: [main]
-    paths:
-      - 'structural-drift-tool*.html'
 permissions:
   contents: read
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
         with:
           persist-credentials: false
-      - name: Check bilingual controls and report logic
+      - name: Verify withdrawn tool and preserved discovery scope
         run: |
-          node --input-type=module <<'JS'
-          import fs from 'node:fs';
-          import vm from 'node:vm';
-          import assert from 'node:assert/strict';
-          for(const name of ['structural-drift-tool.html','structural-drift-tool-ja.html']){
-            const html=fs.readFileSync(name,'utf8');
-            const logic=html.split('<script id="report-logic">')[1].split('</script>')[0];
-            const state=html.split('const axes=')[1].split(',lang=')[0];
-            const axes=JSON.parse(state),lang=name.includes('-ja')?'ja':'en';
-            assert.equal(axes.length,8);
-            assert.equal((html.match(/<select /g)||[]).length,8);
-            assert.equal((html.match(/<option /g)||[]).length,32);
-            const report=vm.runInNewContext(logic+';report');
-            const result=report(axes,['review','unknown','confirmed','na','unknown','confirmed','review','unknown'],lang);
-            assert(result.includes(axes[0][lang==='ja'?2:4]));
-            assert(!result.includes(axes[2][lang==='ja'?2:4]));
-            assert(result.includes('Designed by s99Lab'));
-            assert.throws(()=>report(axes,['invalid'],lang));
-            assert(!/<script[^>]+src=|<form[^>]+action=|\bfetch\s*\(|localStorage|sessionStorage/.test(html));
-            console.log(name+': 8 axes, report checks and local-only scope PASS');
-          }
-          JS
           python - <<'PY'
-          import xml.etree.ElementTree as E
+          import pathlib, xml.etree.ElementTree as E
+          for name in ['structural-drift-tool.html','structural-drift-tool-ja.html']:
+              t=pathlib.Path(name).read_text()
+              assert 'content="noindex,follow"' in t
+              assert '<script' not in t and '<form' not in t and '<select' not in t
+          for name in ['index.md','index_ja.md','README.md','sitemap.xml','sitemap.txt']:
+              assert 'structural-drift-tool' not in pathlib.Path(name).read_text(), name
           u=[x.text for x in E.parse('sitemap.xml').getroot().findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}loc')]
-          t=open('sitemap.txt').read().split()
+          t=pathlib.Path('sitemap.txt').read_text().split()
           assert len(u)==len(set(u)) and set(u)==set(t)
-          assert 'https://s99lab.github.io/structural-drift-tool.html' in u
-          assert 'https://s99lab.github.io/structural-drift-tool-ja.html' in u
-          print('Sitemap parity:',len(u))
+          assert 'https://api.indexnow.org/indexnow' not in pathlib.Path('.github/workflows/public-updates.yml').read_text()
+          print('Tool withdrawal and paused automatic notification: PASS; sitemap parity:',len(u))
           PY
