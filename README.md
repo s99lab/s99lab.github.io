@@ -6,6 +6,10 @@ s99Lab is the independent activity connecting S. Meta research, A_L_I_S_E social
 
 **Public experiments:** [Research updates / RSS](https://s99lab.github.io/updates.html) · [Structural Drift self-review tool](https://s99lab.github.io/structural-drift-tool.html) · [日本語版](https://s99lab.github.io/structural-drift-tool-ja.html)
 
+## Names and attribution
+
+**s99Lab** is the public activity and development brand, not a replacement for a personal research author or a claim of institutional affiliation. **S. Meta** is the individual research author (retain the original author name, ORCID and citation). **S. Meta Research Archives** identifies the research archive. **A_L_I_S_E** identifies the distinct structural-analysis publication. **Designed by s99Lab** identifies design/development work where appropriate; it is not a research byline.
+
 ## Public information categories (not a directory of four repositories)
 
 | Public category | What belongs here | Where it is maintained |

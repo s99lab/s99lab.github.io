@@ -12,8 +12,16 @@
     "repository": "https://github.com/s99lab/s99lab.github.io",
     "site_name": "s99Lab",
     "archive_name": "S. Meta Research Archives",
-    "activity_scope_en": "Independent activity connecting S. Meta research, A_L_I_S_E social observation, and research-derived practical tools.",
-    "activity_scope_ja": "S. Metaの研究、A_L_I_S_Eの社会観測、研究に基づく実用ツールの開発をつなぐ独立した活動。"
+    "activity_scope_en": "Independent lab connecting research, social observation, development and practical application.",
+    "activity_scope_ja": "研究・社会観測・技術開発・社会実装をつなぐ独立したラボ。",
+    "identity_roles": {
+      "activity_brand": "s99Lab",
+      "research_author": "S. Meta",
+      "research_archive": "S. Meta Research Archives",
+      "editorial_publication": "A_L_I_S_E",
+      "development_credit": "Designed by s99Lab",
+      "note": "These roles are distinct. The lab name does not replace original research bylines, ORCID, citations, or imply an institutional affiliation."
+    }
   },
   "recommended_first_read": {
     "en": "https://s99lab.github.io/RESTART_HERE.html",
