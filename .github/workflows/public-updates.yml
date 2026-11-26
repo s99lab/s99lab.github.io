@@ -1,0 +1,68 @@
+name: Public updates distribution
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'data/research-network.json'
+      - 'data/smeta-note-articles.json'
+      - 'scripts/generate-public-updates.mjs'
+      - 'feed.xml'
+      - 'updates.html'
+      - 'a3e0d74c8b9512f6c139e620bd8a475f.txt'
+      - '.github/workflows/public-updates.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'updates.html'
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          persist-credentials: false
+      - run: node scripts/generate-public-updates.mjs
+      - name: Check XML and feed identifiers
+        run: |
+          python - <<'PY'
+          import xml.etree.ElementTree as E, json
+          root=E.parse('feed.xml').getroot()
+          assert root.tag=='rss' and root.attrib['version']=='2.0'
+          items=root.findall('./channel/item')
+          expected={x['original'] for x in json.load(open('data/research-network.json'))['jxiv_publications']} | {x['url'] for x in json.load(open('data/smeta-note-articles.json'))['articles']}
+          assert len(items)==len(expected)
+          assert {i.findtext('guid') for i in items}==expected
+          assert all(i.findtext('link')==i.findtext('guid') for i in items)
+          print('RSS XML and item identities:', len(items))
+          PY
+  notify:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: check
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          persist-credentials: false
+      - name: Verify deployed bytes before notifying IndexNow
+        shell: bash
+        run: |
+          set -euo pipefail
+          base=https://s99lab.github.io
+          key=a3e0d74c8b9512f6c139e620bd8a475f
+          ready=0
+          for attempt in 1 2 3 4 5 6; do
+            if curl --fail --silent --show-error --max-time 12 "$base/updates.html" -o /tmp/updates.html && cmp -s updates.html /tmp/updates.html && curl --fail --silent --show-error --max-time 12 "$base/$key.txt" -o /tmp/indexnow-key.txt && cmp -s "$key.txt" /tmp/indexnow-key.txt && curl --fail --silent --show-error --max-time 12 "$base/feed.xml" -o /tmp/feed.xml && cmp -s feed.xml /tmp/feed.xml; then
+              ready=1
+              break
+            fi
+            if [ "$attempt" -lt 6 ]; then sleep 20; fi
+          done
+          test "$ready" -eq 1 || { echo "NOT_SENT: deployment bytes unconfirmed"; exit 1; }
+          echo "LIVE_BYTES_MATCH: updates page, feed, ownership key"
+          status=$(curl --silent --show-error --max-time 25 -o /tmp/indexnow-response.txt -w '%{http_code}' --get 'https://api.indexnow.org/indexnow' --data-urlencode "url=$base/updates.html" --data-urlencode "key=$key" --data-urlencode "keyLocation=$base/$key.txt")
+          echo "IndexNow HTTP $status (receipt, not indexing)"
+          case "$status" in 200|202) ;; *) exit 1;; esac
