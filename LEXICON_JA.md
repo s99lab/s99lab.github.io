@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: ja
+title: "S. Meta Research Lexicon｜研究用語集"
+canonical_url: https://s99lab.github.io/LEXICON_JA.html
+alternate_url: https://s99lab.github.io/LEXICON.html
+alternate_lang: en
+reading_category: REFERENCE
+---
 # S. Meta Research Lexicon｜研究用語集
 
 **日本語版** ｜ [English canonical lexicon](LEXICON.html) ｜ [研究トップ](index_ja.html)

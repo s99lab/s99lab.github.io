@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="{{ page.lang | escape }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} | s99Lab</title>
+  <link rel="canonical" href="{{ page.canonical_url | escape }}">
+  {% if page.alternate_url %}<link rel="alternate" hreflang="{{ page.alternate_lang }}" href="{{ page.alternate_url | escape }}">{% endif %}
+  <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.canonical_url | escape }}">
+  <link rel="alternate" type="application/rss+xml" title="S. Meta research and essays" href="/feed.xml">
+  <link rel="stylesheet" href="/assets/css/smeta-article.css">
+</head>
+<body class="smeta-reading">
+  <header class="reading-header">
+    <div class="reading-container reading-navline">
+      <a class="reading-brand" href="{% if page.lang == 'ja' %}/index_ja.html{% else %}/{% endif %}">s99Lab <span>S. Meta Research Archives</span></a>
+      <nav aria-label="{% if page.lang == 'ja' %}サイト案内{% else %}Site navigation{% endif %}">
+        {% if page.lang == 'ja' %}
+        <a href="/index_ja.html">研究トップ</a><a href="/index_ja.html#research-map">研究成果</a>
+        {% else %}
+        <a href="/">Research home</a><a href="/#research-map">Research</a>
+        {% endif %}
+        {% if page.alternate_url %}<a class="reading-language" href="{{ page.alternate_url | escape }}" hreflang="{{ page.alternate_lang }}">{% if page.lang == 'ja' %}English{% else %}日本語{% endif %}</a>{% endif %}
+      </nav>
+    </div>
+  </header>
+  <main id="reading-content" class="reading-container reading-main">
+    <div class="reading-kicker">{{ page.reading_category | escape }}</div>
+    <article class="reading-article">{{ content }}</article>
+    <nav class="reading-return" aria-label="{% if page.lang == 'ja' %}関連ページ{% else %}Related pages{% endif %}">
+      {% if page.lang == 'ja' %}<a href="/index_ja.html">← 研究トップへ戻る</a><a href="/JXIV_PUBLICATIONS_JA.html">Jxiv公開研究</a><a href="/RESTART_HERE_JA.html">公開資料の案内</a>
+      {% else %}<a href="/">← Research home</a><a href="/JXIV_PUBLICATIONS.html">Jxiv publications</a><a href="/RESTART_HERE.html">Reading guide</a>{% endif %}
+    </nav>
+  </main>
+  <footer class="reading-footer"><div class="reading-container reading-footer-inner">
+    <span>s99Lab / S. Meta Research Archives</span>
+    <span>{% if page.lang == 'ja' %}研究著者：{% else %}Research author: {% endif %}<a href="https://orcid.org/0009-0007-0820-7160">S. Meta (ORCID)</a> · <a href="/updates.html">{% if page.lang == 'ja' %}更新情報 / RSS{% else %}Updates / RSS{% endif %}</a></span>
+  </div></footer>
+</body>
+</html>

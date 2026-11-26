@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: en
+title: "S. Meta Public Research — Quick Re-entry"
+canonical_url: https://s99lab.github.io/RESTART_HERE.html
+alternate_url: https://s99lab.github.io/RESTART_HERE_JA.html
+alternate_lang: ja
+reading_category: MAIN
+---
 # S. Meta Public Research — Quick Re-entry
 
 **English** | [日本語](RESTART_HERE_JA.html) | [Research home](index.html)

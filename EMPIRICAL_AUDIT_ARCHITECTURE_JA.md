@@ -5,6 +5,13 @@ language: Japanese
 jxiv_doi: 10.51094/jxiv.6148
 published: 2026-09-16
 updated: 2026-10-26
+layout: s99lab-article
+lang: ja
+title: "Empirical Audit Architecture（EAA）｜実証監査アーキテクチャ"
+canonical_url: https://s99lab.github.io/EMPIRICAL_AUDIT_ARCHITECTURE_JA.html
+alternate_url: https://s99lab.github.io/EMPIRICAL_AUDIT_ARCHITECTURE.html
+alternate_lang: en
+reading_category: RESEARCH
 ---
 # Empirical Audit Architecture（EAA）｜実証監査アーキテクチャ
 

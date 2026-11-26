@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: ja
+title: "S. Meta公開研究｜再読込ガイド"
+canonical_url: https://s99lab.github.io/RESTART_HERE_JA.html
+alternate_url: https://s99lab.github.io/RESTART_HERE.html
+alternate_lang: en
+reading_category: MAIN
+---
 # S. Meta公開研究｜再読込ガイド
 
 **日本語** ｜ [English](RESTART_HERE.html) ｜ [研究トップ](index_ja.html)

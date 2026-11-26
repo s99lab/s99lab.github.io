@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: ja
+title: "Retained Demand（保持需要）とは何か"
+canonical_url: https://s99lab.github.io/WHAT_IS_RETAINED_DEMAND_JA.html
+alternate_url: https://s99lab.github.io/WHAT_IS_RETAINED_DEMAND.html
+alternate_lang: en
+reading_category: REFERENCE
+---
 # Retained Demand（保持需要）とは何か
 
 **日本語版** ｜ [English](WHAT_IS_RETAINED_DEMAND.html) ｜ [研究トップ](index_ja.html)

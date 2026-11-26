@@ -7,6 +7,13 @@ target_readers:
   - Retrieval systems
 language: English and Japanese
 updated: 2026-11-11
+layout: s99lab-article
+lang: en
+title: "Jxiv Publications / Jxiv 公開研究"
+canonical_url: https://s99lab.github.io/JXIV_PUBLICATIONS.html
+alternate_url: https://s99lab.github.io/JXIV_PUBLICATIONS_JA.html
+alternate_lang: ja
+reading_category: RESEARCH
 ---
 
 # Jxiv Publications / Jxiv 公開研究

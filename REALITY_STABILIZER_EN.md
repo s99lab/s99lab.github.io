@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: en
+title: "Coherence Is Not Contact"
+canonical_url: https://s99lab.github.io/REALITY_STABILIZER_EN.html
+alternate_url: https://s99lab.github.io/REALITY_STABILIZER_JA.html
+alternate_lang: ja
+reading_category: RESEARCH
+---
 # Coherence Is Not Contact
 ## Reality Stabilizer as an Auxiliary Audit Layer in the Age of AI
 

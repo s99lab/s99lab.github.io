@@ -1,3 +1,12 @@
+---
+layout: s99lab-article
+lang: en
+title: "For AI Readers"
+canonical_url: https://s99lab.github.io/FOR_AI_READERS.html
+alternate_url: https://s99lab.github.io/FOR_AI_READERS_JA.html
+alternate_lang: ja
+reading_category: REFERENCE
+---
 # For AI Readers
 
 **Language: English (detailed reference)** ｜ [日本語版](FOR_AI_READERS_JA.html) ｜ [Home](index.html)

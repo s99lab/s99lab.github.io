@@ -7,6 +7,13 @@ target_readers:
   - Practitioners
 language: English
 updated: 2026-10-26
+layout: s99lab-article
+lang: en
+title: "Why This Archive Exists / なぜこのアーカイブがあるのか"
+canonical_url: https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS.html
+alternate_url: https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS_JA.html
+alternate_lang: ja
+reading_category: MAIN
 ---
 
 # Why This Archive Exists / なぜこのアーカイブがあるのか
