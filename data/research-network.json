@@ -9,7 +9,11 @@
   "portal": {
     "en": "https://s99lab.github.io/",
     "ja": "https://s99lab.github.io/index_ja.html",
-    "repository": "https://github.com/s99lab/s99lab.github.io"
+    "repository": "https://github.com/s99lab/s99lab.github.io",
+    "site_name": "s99Lab",
+    "archive_name": "S. Meta Research Archives",
+    "activity_scope_en": "Independent activity connecting S. Meta research, A_L_I_S_E social observation, and research-derived practical tools.",
+    "activity_scope_ja": "S. Metaの研究、A_L_I_S_Eの社会観測、研究に基づく実用ツールの開発をつなぐ独立した活動。"
   },
   "recommended_first_read": {
     "en": "https://s99lab.github.io/RESTART_HERE.html",
@@ -201,8 +205,15 @@
       "version": "2",
       "version_2_published_utc": "2026-11-12T09:12:35Z",
       "version_history": [
-        {"version": "1", "published_utc": "2026-11-11T05:49:49Z"},
-        {"version": "2", "published_utc": "2026-11-12T09:12:35Z", "scope": "PDF font-embedding/character-display correction; research text, methods, results, tables, appendices and supplement content unchanged according to Jxiv revision notice"}
+        {
+          "version": "1",
+          "published_utc": "2026-11-11T05:49:49Z"
+        },
+        {
+          "version": "2",
+          "published_utc": "2026-11-12T09:12:35Z",
+          "scope": "PDF font-embedding/character-display correction; research text, methods, results, tables, appendices and supplement content unchanged according to Jxiv revision notice"
+        }
       ],
       "manuscript_version": "1.3.4",
       "license": "CC BY-NC-ND 4.0",
@@ -239,7 +250,10 @@
         "en": "https://s99lab.github.io/STRUCTURE_CHANGE_SENSOR.html",
         "ja": "https://s99lab.github.io/STRUCTURE_CHANGE_SENSOR_JA.html"
       },
-      "displayed_file_labels_version_2": ["PDF_ver.2", "Supplement_PDF_ver.2"],
+      "displayed_file_labels_version_2": [
+        "PDF_ver.2",
+        "Supplement_PDF_ver.2"
+      ],
       "verification": "Version 2, its timestamp, file labels and stated revision scope confirmed from author-shared Jxiv official-page screenshot on 2026-11-12; independent external fetch of Jxiv page and PDF contents not completed."
     }
   ],

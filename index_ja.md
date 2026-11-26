@@ -1,13 +1,18 @@
+---
+title: "s99Lab｜S. Meta Research Archives 日本語版"
+description: "s99Labの公開ポータル。S. Metaの独立研究・論文、A_L_I_S_Eの社会観測、研究に基づく実用ツールの開発をつなぐ活動です。"
+---
 <link rel="stylesheet" href="assets/css/smeta-home.css">
 <link rel="alternate" hreflang="ja" href="https://s99lab.github.io/index_ja.html">
 <link rel="alternate" hreflang="en" href="https://s99lab.github.io/">
 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"S. Meta Research Archives 日本語版","url":"https://s99lab.github.io/index_ja.html","inLanguage":"ja","description":"現実接触、人間とAIの長期協働、デジタル資産の保持需要を探究するS. Metaの公開研究アーカイブ。","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"WebPage","name":"MAIN｜アーカイブの目的","url":"https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS_JA.html"},{"@type":"CollectionPage","name":"Jxiv公開研究","url":"https://s99lab.github.io/JXIV_PUBLICATIONS_JA.html"},{"@type":"CollectionPage","name":"S. Meta note エッセイ","url":"https://s99lab.github.io/smeta-note-index.html"},{"@type":"CollectionPage","name":"A_L_I_S_E 構造分析","url":"https://s99lab.github.io/alise-article-index/"},{"@type":"WebPage","name":"REFERENCE｜概念マップ","url":"https://s99lab.github.io/CONCEPT_MAP_JA.html"}],"keywords":"MAIN, RESEARCH, WRITING, REFERENCE","about":[{"@type":"Thing","name":"MAIN","description":"公開ネットワーク全体の目的・背景・入口・読書案内"},{"@type":"Thing","name":"RESEARCH","description":"Retained-DemandとAASの研究原本、および別個に公開されたJxiv原論文への案内"},{"@type":"Thing","name":"WRITING / NOTE","description":"S. Metaの研究背景・エッセイと独立したA_L_I_S_E構造分析記事。原文はnote"},{"@type":"Thing","name":"REFERENCE / OTHER","description":"概念マップ、用語集、AI向け引用・出典案内、著者情報。独立した研究原本ではない"}],"citation":["https://doi.org/10.51094/jxiv.4696","https://doi.org/10.51094/jxiv.6215","https://doi.org/10.51094/jxiv.6148","https://doi.org/10.51094/jxiv.6999"]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://s99lab.github.io/#website","name":"s99Lab","alternateName":"S. Meta Research Archives","url":"https://s99lab.github.io/","inLanguage":["en","ja"]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"s99Lab｜S. Meta Research Archives 日本語版","url":"https://s99lab.github.io/index_ja.html","inLanguage":"ja","description":"s99Labの公開ポータル。S. Metaの独立研究・論文、A_L_I_S_Eの社会観測、研究に基づく実用ツールの開発をつなぐ活動です。","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"WebPage","name":"MAIN｜アーカイブの目的","url":"https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS_JA.html"},{"@type":"CollectionPage","name":"Jxiv公開研究","url":"https://s99lab.github.io/JXIV_PUBLICATIONS_JA.html"},{"@type":"CollectionPage","name":"S. Meta note エッセイ","url":"https://s99lab.github.io/smeta-note-index.html"},{"@type":"CollectionPage","name":"A_L_I_S_E 構造分析","url":"https://s99lab.github.io/alise-article-index/"},{"@type":"WebPage","name":"REFERENCE｜概念マップ","url":"https://s99lab.github.io/CONCEPT_MAP_JA.html"},{"@type":"WebPage","name":"研究由来の公開ツール","url":"https://s99lab.github.io/structural-drift-tool-ja.html"},{"@type":"CollectionPage","name":"公開研究・エッセイの更新情報","url":"https://s99lab.github.io/updates.html"}],"keywords":"MAIN, RESEARCH, WRITING, REFERENCE","about":[{"@type":"Thing","name":"MAIN","description":"公開ネットワーク全体の目的・背景・入口・読書案内"},{"@type":"Thing","name":"RESEARCH","description":"Retained-DemandとAASの研究原本、および別個に公開されたJxiv原論文への案内"},{"@type":"Thing","name":"WRITING / NOTE","description":"S. Metaの研究背景・エッセイと独立したA_L_I_S_E構造分析記事。原文はnote"},{"@type":"Thing","name":"REFERENCE / OTHER","description":"概念マップ、用語集、AI向け引用・出典案内、著者情報。独立した研究原本ではない"}],"citation":["https://doi.org/10.51094/jxiv.4696","https://doi.org/10.51094/jxiv.6215","https://doi.org/10.51094/jxiv.6148","https://doi.org/10.51094/jxiv.6999"],"isPartOf":{"@id":"https://s99lab.github.io/#website"}}</script>
 
 <div class="smeta-landing" lang="ja">
   <header class="smeta-header">
     <div class="smeta-container smeta-navline">
-      <a class="smeta-brand" href="index_ja.html">S. META <span>/ RESEARCH ARCHIVES</span></a>
+      <a class="smeta-brand" href="index_ja.html">s99Lab <span>S. Meta Research Archives</span></a>
       <nav class="smeta-nav" aria-label="ページ内の案内">
         <a href="#publications">4つの分類</a>
         <a href="#research-map">研究成果</a>
@@ -20,8 +25,9 @@
     <section class="smeta-hero" aria-labelledby="smeta-main-title">
       <div class="smeta-container smeta-hero-grid">
         <div>
-          <span class="smeta-kicker">INDEPENDENT RESEARCH ARCHIVE</span>
+          <span class="smeta-kicker">RESEARCH / OBSERVATION / DEVELOPMENT</span>
           <h1 id="smeta-main-title" class="smeta-display">見えているものの、<br><em>その先へ。</em></h1>
+          <p class="smeta-lab-intro">s99Labは、S. Metaの研究、A_L_I_S_Eの社会観測、実用ツールの開発をつなぐ独立した活動です。</p>
           <p class="smeta-lead">S. Metaは、AIと人間の協働、現実との接触、デジタル資産の需要を、表面の現象と背後の構造から研究しています。ここには研究成果と、その背景にあるエッセイ、現実社会への構造分析を公開しています。</p>
           <div class="smeta-actions">
             <a class="smeta-btn" href="#research-map">研究成果の全体像を見る <span aria-hidden="true">&nbsp;↘</span></a>
@@ -68,7 +74,7 @@
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>03 / WRITING・note系</span></div>
             <h3 id="smeta-card-writing">エッセイ・構造分析</h3><p>目的の異なる2つのnote。GitHubは記事索引、本文の正本はnoteにあります。</p>
-            <div class="smeta-card-links"><a class="smeta-card-link" href="smeta-note-index.html">S. Meta note（12件）</a><a class="smeta-card-link" href="https://s99lab.github.io/alise-article-index/">A_L_I_S_E（50件）</a></div>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="smeta-note-index.html">S. Meta note（12件）</a><a class="smeta-card-link" href="https://s99lab.github.io/alise-article-index/">A_L_I_S_E（53件）</a></div>
           </article>
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>04 / REFERENCE・その他</span></div>
@@ -159,7 +165,7 @@
   <footer class="smeta-footer">
     <div class="smeta-container smeta-footer-inner">
       <span>公開原資料は個別の研究ページ・論文を参照してください。</span>
-      <span>S. Meta · <a href="https://orcid.org/0009-0007-0820-7160">ORCID</a> · <a href="RESTART_HERE_JA.html">公開資料を再読込</a> · <a href="FOR_AI_READERS_JA.html">AI向け詳細</a> · <a href="updates.html">更新情報 / RSS</a> · <a href="structural-drift-tool-ja.html">公開ツール</a></span>
+      <span>s99Lab · S. Meta · <a href="https://orcid.org/0009-0007-0820-7160">ORCID</a> · <a href="RESTART_HERE_JA.html">公開資料を再読込</a> · <a href="FOR_AI_READERS_JA.html">AI向け詳細</a> · <a href="updates.html">更新情報 / RSS</a> · <a href="structural-drift-tool-ja.html">公開ツール</a></span>
     </div>
   </footer>
 </div>
