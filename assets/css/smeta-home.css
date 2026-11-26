@@ -128,3 +128,9 @@
 .smeta-landing .smeta-jxiv-links a{color:#216e66!important;text-decoration:underline;text-underline-offset:3px}
 .smeta-landing .smeta-map-caption a{color:#216e66!important;text-decoration:underline;text-underline-offset:3px}
 @media(max-width:850px){.smeta-landing .smeta-jxiv-grid{grid-template-columns:1fr}}
+
+/* Lab identity above the research archive label; keep the mobile header compact. */
+.smeta-landing .smeta-brand{font-size:20px;letter-spacing:.01em;line-height:1.25;white-space:normal;flex-shrink:0}
+.smeta-landing .smeta-brand span{display:block;margin-top:3px;font-size:11px;letter-spacing:.015em}
+.smeta-landing .smeta-lab-intro{max-width:670px;font-size:clamp(14px,1.45vw,17px);line-height:1.8;color:#274957;font-weight:600;margin:0 0 11px!important}
+@media(max-width:650px){.smeta-landing .smeta-brand{font-size:17px;flex:0 1 auto;min-width:0}.smeta-landing .smeta-brand span{font-size:10px;max-width:145px}.smeta-landing .smeta-nav{min-width:0;flex-wrap:wrap;justify-content:flex-end}.smeta-landing .smeta-lab-intro{font-size:14px}}

@@ -1,13 +1,18 @@
+---
+title: "s99Lab | S. Meta Research Archives"
+description: "s99Lab connects S. Meta's independent research and publications, A_L_I_S_E social observation, and practical tools developed from public research."
+---
 <link rel="stylesheet" href="assets/css/smeta-home.css">
 <link rel="alternate" hreflang="en" href="https://s99lab.github.io/">
 <link rel="alternate" hreflang="ja" href="https://s99lab.github.io/index_ja.html">
 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"S. Meta Research Archives","url":"https://s99lab.github.io/","inLanguage":"en","description":"S. Meta's research archive on reality contact, long-term human–AI collaboration, and retained demand in digital assets.","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"WebPage","name":"MAIN | Why this archive exists","url":"https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS.html"},{"@type":"CollectionPage","name":"Published Jxiv Research","url":"https://s99lab.github.io/JXIV_PUBLICATIONS.html"},{"@type":"CollectionPage","name":"S. Meta Essays","url":"https://s99lab.github.io/smeta-note-index-en.html"},{"@type":"CollectionPage","name":"A_L_I_S_E Structural Analysis","url":"https://s99lab.github.io/alise-article-index/index_en.html"},{"@type":"WebPage","name":"REFERENCE — Concept Map","url":"https://s99lab.github.io/CONCEPT_MAP.html"}],"keywords":"MAIN, RESEARCH, WRITING, REFERENCE","about":[{"@type":"Thing","name":"MAIN","description":"Network-wide purpose, author context, navigation and first-read guides"},{"@type":"Thing","name":"RESEARCH","description":"Retained-Demand and AAS full research series, plus separate DOI-linked Jxiv published methods and concepts"},{"@type":"Thing","name":"WRITING / NOTE","description":"S. Meta research essays and separate A_L_I_S_E structural-analysis articles; original full texts on note"},{"@type":"Thing","name":"REFERENCE / OTHER","description":"Concept map, lexicon, AI citation guidance, source-navigation and identity references; not separate research results"}],"citation":["https://doi.org/10.51094/jxiv.4696","https://doi.org/10.51094/jxiv.6215","https://doi.org/10.51094/jxiv.6148","https://doi.org/10.51094/jxiv.6999"]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://s99lab.github.io/#website","name":"s99Lab","alternateName":"S. Meta Research Archives","url":"https://s99lab.github.io/","inLanguage":["en","ja"]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"s99Lab | S. Meta Research Archives","url":"https://s99lab.github.io/","inLanguage":"en","description":"s99Lab connects S. Meta's independent research and publications, A_L_I_S_E social observation, and practical tools developed from public research.","creator":{"@type":"Person","name":"S. Meta","sameAs":"https://orcid.org/0009-0007-0820-7160"},"hasPart":[{"@type":"WebPage","name":"MAIN | Why this archive exists","url":"https://s99lab.github.io/WHY_THIS_ARCHIVE_EXISTS.html"},{"@type":"CollectionPage","name":"Published Jxiv Research","url":"https://s99lab.github.io/JXIV_PUBLICATIONS.html"},{"@type":"CollectionPage","name":"S. Meta Essays","url":"https://s99lab.github.io/smeta-note-index-en.html"},{"@type":"CollectionPage","name":"A_L_I_S_E Structural Analysis","url":"https://s99lab.github.io/alise-article-index/index_en.html"},{"@type":"WebPage","name":"REFERENCE — Concept Map","url":"https://s99lab.github.io/CONCEPT_MAP.html"},{"@type":"WebPage","name":"Research-derived public tool","url":"https://s99lab.github.io/structural-drift-tool.html"},{"@type":"CollectionPage","name":"Research and essay updates","url":"https://s99lab.github.io/updates.html"}],"keywords":"MAIN, RESEARCH, WRITING, REFERENCE","about":[{"@type":"Thing","name":"MAIN","description":"Network-wide purpose, author context, navigation and first-read guides"},{"@type":"Thing","name":"RESEARCH","description":"Retained-Demand and AAS full research series, plus separate DOI-linked Jxiv published methods and concepts"},{"@type":"Thing","name":"WRITING / NOTE","description":"S. Meta research essays and separate A_L_I_S_E structural-analysis articles; original full texts on note"},{"@type":"Thing","name":"REFERENCE / OTHER","description":"Concept map, lexicon, AI citation guidance, source-navigation and identity references; not separate research results"}],"citation":["https://doi.org/10.51094/jxiv.4696","https://doi.org/10.51094/jxiv.6215","https://doi.org/10.51094/jxiv.6148","https://doi.org/10.51094/jxiv.6999"],"isPartOf":{"@id":"https://s99lab.github.io/#website"}}</script>
 
 <div class="smeta-landing" lang="en">
   <header class="smeta-header">
     <div class="smeta-container smeta-navline">
-      <a class="smeta-brand" href="index.html">S. META <span>/ RESEARCH ARCHIVES</span></a>
+      <a class="smeta-brand" href="index.html">s99Lab <span>S. Meta Research Archives</span></a>
       <nav class="smeta-nav" aria-label="Site navigation">
         <a href="#publications">Four areas</a>
         <a href="#research-map">Research map</a>
@@ -20,8 +25,9 @@
     <section class="smeta-hero" aria-labelledby="smeta-main-title">
       <div class="smeta-container smeta-hero-grid">
         <div>
-          <span class="smeta-kicker">INDEPENDENT RESEARCH ARCHIVE</span>
+          <span class="smeta-kicker">RESEARCH / OBSERVATION / DEVELOPMENT</span>
           <h1 id="smeta-main-title" class="smeta-display">Look beyond<br><em>the visible.</em></h1>
+          <p class="smeta-lab-intro">s99Lab is an independent initiative connecting S. Meta's research, A_L_I_S_E social observation, and the development of practical tools.</p>
           <p class="smeta-lead">S. Meta studies what lies beneath visible claims and events: human–AI collaboration, contact with reality, and retained demand in digital assets. Explore the published research, the essays behind it, and structural analysis of the wider world.</p>
           <div class="smeta-actions">
             <a class="smeta-btn" href="#research-map">Explore the research map <span aria-hidden="true">&nbsp;↘</span></a>
@@ -159,7 +165,7 @@
   <footer class="smeta-footer">
     <div class="smeta-container smeta-footer-inner">
       <span>For research claims, consult the original papers and their associated evidence.</span>
-      <span>S. Meta · <a href="https://orcid.org/0009-0007-0820-7160">ORCID</a> · <a href="RESTART_HERE.html">Quick re-entry</a> · <a href="FOR_AI_READERS.html">AI reference</a> · <a href="updates.html">Updates / RSS</a> · <a href="structural-drift-tool.html">Public Tool</a></span>
+      <span>s99Lab · S. Meta · <a href="https://orcid.org/0009-0007-0820-7160">ORCID</a> · <a href="RESTART_HERE.html">Quick re-entry</a> · <a href="FOR_AI_READERS.html">AI reference</a> · <a href="updates.html">Updates / RSS</a> · <a href="structural-drift-tool.html">Public Tool</a></span>
     </div>
   </footer>
 </div>

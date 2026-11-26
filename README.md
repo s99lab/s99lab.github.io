@@ -1,8 +1,10 @@
-# S. Meta Research Archives — Repository Guide
+# s99Lab | S. Meta Research Archives — Repository Guide
 
-This repository is the source for the public [S. Meta Research Archives](https://s99lab.github.io/). It is a **navigation and source-reference hub**, not a replacement for the original research or a private project handoff.
+s99Lab is the independent activity connecting S. Meta research, A_L_I_S_E social observation, and practical tools. This repository is the source for the public [S. Meta Research Archives](https://s99lab.github.io/). It is a **navigation and source-reference hub**, not a replacement for the original research or a private project handoff.
 
 **Japanese portal:** [日本語トップ](https://s99lab.github.io/index_ja.html) · **English portal:** [Research home](https://s99lab.github.io/)
+
+**Public experiments:** [Research updates / RSS](https://s99lab.github.io/updates.html) · [Structural Drift self-review tool](https://s99lab.github.io/structural-drift-tool.html) · [日本語版](https://s99lab.github.io/structural-drift-tool-ja.html)
 
 ## Public information categories (not a directory of four repositories)
 
@@ -10,7 +12,7 @@ This repository is the source for the public [S. Meta Research Archives](https:/
 |---|---|---|
 | **MAIN / メイン** | Why the archive exists, the [human-facing research homepage](index.md) and [AI re-entry](RESTART_HERE.md) | This portal |
 | **RESEARCH / 研究系** | Two full series ([Retained-Demand](https://github.com/s99lab/retained-demand-audit-series), [AAS](https://github.com/s99lab/aas-trilayer-ambient-alignment)), and the distinct [Jxiv papers](JXIV_PUBLICATIONS.md) | Original series in their two repositories; Jxiv papers at original DOIs, registry here |
-| **WRITING / note系** | [S. Meta essays](smeta-note-index.html) (12 indexed) and [A_L_I_S_E structural analysis](https://s99lab.github.io/alise-article-index/) (50 indexed) | S. Meta directory in this portal; A_L_I_S_E directory in its own repository; full texts on note |
+| **WRITING / note系** | [S. Meta essays](smeta-note-index.html) (12 indexed) and [A_L_I_S_E structural analysis](https://s99lab.github.io/alise-article-index/) (53 indexed) | S. Meta directory in this portal; A_L_I_S_E directory in its own repository; full texts on note |
 | **REFERENCE / その他** | [Concept map](CONCEPT_MAP.md), [lexicon](LEXICON.md), [AI citation blocks](AI_CITATION_BLOCKS.md), ORCID and source-reading guidance | Reference/navigation pages in this portal, not separate research originals |
 
 **The category is the reader-facing subject area; the repository is the maintenance/source location.** They are deliberately aligned in naming and navigation, not forced into a one-to-one count. S. Meta note needs no new repository and no URL moves. The machine-readable equivalent is [research-network.json](data/research-network.json) under `public_categories`, separate from `repository_roles`.
@@ -93,4 +95,4 @@ The public GitHub repositories do **not** disclose private prompts, scoring meth
 
 **Index consolidation (2026-10-29):** Maintain S. Meta note articles in the verified [JSON metadata](data/smeta-note-articles.json) and synchronized [Japanese](smeta-note-index.html) / [English](smeta-note-index-en.html) static indexes. `SMETA_NOTE_ARTICLES.md` is now a stable navigation pointer, not a separate manually maintained list of the same article URLs/dates. Original article bodies remain on note. Validate the article URL/title/date set in JSON and both HTML pages after each publication.
 
-**Sitemap policy:** The authoritative XML URL list is [`sitemap.xml`](sitemap.xml), referenced by `robots.txt`. The historical `sitemap-v2.xml` is a valid sitemap-index compatibility alias that points to the canonical XML sitemap, not a second URL inventory. The historical text `sitemap.txt` currently mirrors the same 36 URLs for compatibility; update or remove it only after confirming whether any external tools still consume it. Do not submit the compatibility paths as new primary sitemaps. Search Console sitemap-registration status was not independently verifiable from the connected analytics connector on 2026-10-29.
+**Sitemap policy:** The authoritative XML URL list is [`sitemap.xml`](sitemap.xml), referenced by `robots.txt`. The historical `sitemap-v2.xml` is a valid sitemap-index compatibility alias that points to the canonical XML sitemap, not a second URL inventory. The historical text `sitemap.txt` currently mirrors the same URL set for compatibility; update or remove it only after confirming whether any external tools still consume it. Do not submit the compatibility paths as new primary sitemaps. Search Console sitemap-registration status was not independently verifiable from the connected analytics connector on 2026-10-29.
