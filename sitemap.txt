@@ -35,3 +35,5 @@ https://s99lab.github.io/RESEARCH_ARCHIVE_DETAILS_JA.html
 https://s99lab.github.io/RESTART_HERE.html
 https://s99lab.github.io/RESTART_HERE_JA.html
 https://s99lab.github.io/updates.html
+https://s99lab.github.io/structural-drift-tool.html
+https://s99lab.github.io/structural-drift-tool-ja.html
