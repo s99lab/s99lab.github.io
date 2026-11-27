@@ -74,7 +74,7 @@ description: "s99Lab is an independent lab connecting research, social observati
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>03 / WRITING</span></div>
             <h3 id="smeta-card-writing">Essays &amp; analysis</h3><p>Two separate note streams. GitHub indexes the articles; note hosts the original texts.</p>
-            <div class="smeta-card-links"><a class="smeta-card-link" href="smeta-note-index-en.html">S. Meta essays (12)</a><a class="smeta-card-link" href="https://s99lab.github.io/alise-article-index/index_en.html">A_L_I_S_E analysis (50)</a></div>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="smeta-note-index-en.html">S. Meta essays (13)</a><a class="smeta-card-link" href="https://s99lab.github.io/alise-article-index/index_en.html">A_L_I_S_E analysis (53)</a></div>
           </article>
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>04 / REFERENCE</span></div>

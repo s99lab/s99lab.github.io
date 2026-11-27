@@ -4,14 +4,14 @@
   "noteProfile": "https://note.com/s99lab",
   "researchPortal": "https://s99lab.github.io/",
   "status": "verified-link-subset-not-exhaustive",
-  "lastUpdated": "2026-10-21",
+  "lastUpdated": "2026-11-27",
   "editorialPurpose": "Explain public research in accessible language and write about the questions and motivations behind it. Essays are not substitutes for research originals.",
   "canonicalContent": "Original note articles",
   "policy": {
     "linksOnly": true,
     "fullTextCopied": false
   },
-  "count": 12,
+  "count": 13,
   "articles": [
     {
       "id": "future-scope",
@@ -39,6 +39,15 @@
       "category": "essay",
       "collection": null,
       "verification": "note_page"
+    },
+    {
+      "id": "post-knowledge-prologue",
+      "title": "ポスト知識社会 ―― Post-Knowledge Society｜序章・個人的な体験",
+      "url": "https://note.com/s99lab/n/n3e9a355b1a20",
+      "datePublished": "2026-11-27",
+      "category": "series",
+      "collection": "ポスト知識社会 ―― Post-Knowledge Society",
+      "verification": "author_provided_publication_date_and_shared_url; title from author-approved publication manuscript; independent note page fetch pending"
     },
     {
       "id": "intro",
@@ -122,8 +131,8 @@
       "verification": "note_page"
     }
   ],
-  "sortOrder": "Editorial display order: single essays newest first, followed by the nine-part series in narrative reading order (prologue, chapters 1–7, epilogue). Not a unified reverse chronological list.",
-  "seriesReadingOrder": "Prologue, chapter 1 through chapter 7, epilogue. Series dates are retained but are not used to sort series chapters.",
+  "sortOrder": "Standalone essays newest first, then independent series (newest series first), each in narrative reading order.",
+  "seriesReadingOrder": "Each series follows its own narrative chapter order. Only published chapters are indexed.",
   "displayGroups": [
     {
       "id": "essays",
@@ -134,6 +143,15 @@
         "future-scope",
         "at-field-2",
         "at-field"
+      ]
+    },
+    {
+      "id": "post-knowledge-society",
+      "title": "ポスト知識社会 ―― Post-Knowledge Society",
+      "category": "series",
+      "sortOrder": "narrative chapter order",
+      "articleIds": [
+        "post-knowledge-prologue"
       ]
     },
     {

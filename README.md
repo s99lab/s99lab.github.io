@@ -16,7 +16,7 @@ s99Lab is the independent activity connecting S. Meta research, A_L_I_S_E social
 |---|---|---|
 | **MAIN / メイン** | Why the archive exists, the [human-facing research homepage](index.md) and [AI re-entry](RESTART_HERE.md) | This portal |
 | **RESEARCH / 研究系** | Two full series ([Retained-Demand](https://github.com/s99lab/retained-demand-audit-series), [AAS](https://github.com/s99lab/aas-trilayer-ambient-alignment)), and the distinct [Jxiv papers](JXIV_PUBLICATIONS.md) | Original series in their two repositories; Jxiv papers at original DOIs, registry here |
-| **WRITING / note系** | [S. Meta essays](smeta-note-index.html) (12 indexed) and [A_L_I_S_E structural analysis](https://s99lab.github.io/alise-article-index/) (53 indexed) | S. Meta directory in this portal; A_L_I_S_E directory in its own repository; full texts on note |
+| **WRITING / note系** | [S. Meta essays](smeta-note-index.html) (13 indexed) and [A_L_I_S_E structural analysis](https://s99lab.github.io/alise-article-index/) (53 indexed) | S. Meta directory in this portal; A_L_I_S_E directory in its own repository; full texts on note |
 | **REFERENCE / その他** | [Concept map](CONCEPT_MAP.md), [lexicon](LEXICON.md), [AI citation blocks](AI_CITATION_BLOCKS.md), ORCID and source-reading guidance | Reference/navigation pages in this portal, not separate research originals |
 
 **The category is the reader-facing subject area; the repository is the maintenance/source location.** They are deliberately aligned in naming and navigation, not forced into a one-to-one count. S. Meta note needs no new repository and no URL moves. The machine-readable equivalent is [research-network.json](data/research-network.json) under `public_categories`, separate from `repository_roles`.
@@ -80,7 +80,7 @@ For publication dates, scope and citation context, refer to the [Jxiv registry](
 - **[A_L_I_S_E structural-analysis articles](https://s99lab.github.io/alise-article-index/)** — a separate publication informed by human–AI collaboration. [English index](https://s99lab.github.io/alise-article-index/index_en.html) · [separate source repository](https://github.com/s99lab/alise-article-index).
 - **[OSF Public Concept Notes](https://osf.io/5jcrk/)** — supplementary preservation of public concept/orientation material.
 
-As indexed on **2026-10-26**, the S. Meta essay directory covers 12 original article links and the A_L_I_S_E directory covers 50. These indexes are **not automatically synchronized with note**. Consult their current metadata for the actual recorded counts; use the original note pages for article content.
+As indexed on **2026-11-27**, the S. Meta essay directory covers 13 original article links and the A_L_I_S_E directory covers 53. These indexes are **not automatically synchronized with note**. Consult their current metadata for the actual recorded counts; use the original note pages for article content.
 
 ## Source precedence and boundaries
 
