@@ -100,7 +100,7 @@
     <loc>https://s99lab.github.io/smeta-note-index.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/smeta-note-index-en.html"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/smeta-note-index.html"/>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://s99lab.github.io/JXIV_PUBLICATIONS_JA.html</loc>
@@ -130,7 +130,7 @@
     <loc>https://s99lab.github.io/smeta-note-index-en.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://s99lab.github.io/smeta-note-index-en.html"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/smeta-note-index.html"/>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://s99lab.github.io/WHAT_IS_RETAINED_DEMAND_JA.html</loc>
@@ -204,5 +204,5 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://s99lab.github.io/RESTART_HERE_JA.html"/>
     <lastmod>2026-10-26</lastmod>
   </url>
-  <url><loc>https://s99lab.github.io/updates.html</loc></url>
+  <url><loc>https://s99lab.github.io/updates.html</loc><lastmod>2026-11-27</lastmod></url>
 </urlset>

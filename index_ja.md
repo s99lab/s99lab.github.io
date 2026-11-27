@@ -74,7 +74,7 @@ description: "s99Labは研究・社会観測・技術開発・社会実装をつ
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>03 / WRITING・note系</span></div>
             <h3 id="smeta-card-writing">エッセイ・構造分析</h3><p>目的の異なる2つのnote。GitHubは記事索引、本文の正本はnoteにあります。</p>
-            <div class="smeta-card-links"><a class="smeta-card-link" href="smeta-note-index.html">S. Meta note（12件）</a><a class="smeta-card-link" href="https://s99lab.github.io/alise-article-index/">A_L_I_S_E（53件）</a></div>
+            <div class="smeta-card-links"><a class="smeta-card-link" href="smeta-note-index.html">S. Meta note（13件）</a><a class="smeta-card-link" href="https://s99lab.github.io/alise-article-index/">A_L_I_S_E（53件）</a></div>
           </article>
           <article class="smeta-card">
             <div class="smeta-card-meta"><span>04 / REFERENCE・その他</span></div>
