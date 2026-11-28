@@ -309,6 +309,7 @@
         "ja": "https://s99lab.github.io/smeta-note-index.html"
       },
       "original_site": "https://note.com/s99lab",
+      "social_profile": "https://x.com/s99Lab",
       "machine_readable_index": "https://s99lab.github.io/data/smeta-note-articles.json"
     },
     {
@@ -322,6 +323,7 @@
         "ja": "https://s99lab.github.io/alise-article-index/"
       },
       "original_site": "https://note.com/alise_s99lab",
+      "social_profile": "https://x.com/alise_s99lab",
       "machine_readable_index": "https://s99lab.github.io/alise-article-index/data/articles.json"
     }
   ],

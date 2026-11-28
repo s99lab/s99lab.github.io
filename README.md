@@ -10,6 +10,13 @@ s99Lab is the independent activity connecting S. Meta research, A_L_I_S_E social
 
 **s99Lab** is the public activity and development brand, not a replacement for a personal research author or a claim of institutional affiliation. **S. Meta** is the individual research author (retain the original author name, ORCID and citation). **S. Meta Research Archives** identifies the research archive. **A_L_I_S_E** identifies the distinct structural-analysis publication. **Designed by s99Lab** identifies design/development work where appropriate; it is not a research byline.
 
+## Public profiles
+
+- S. Meta (individual researcher and essay author): [note](https://note.com/s99lab) · [X](https://x.com/s99Lab) · [ORCID](https://orcid.org/0009-0007-0820-7160).
+- A_L_I_S_E (distinct structural-analysis publication): [note](https://note.com/alise_s99lab) · [X](https://x.com/alise_s99lab) · [article index](https://s99lab.github.io/alise-article-index/).
+
+These are distinct public channels, not alternate names for the s99Lab organization or substitutes for original research sources.
+
 ## Public information categories (not a directory of four repositories)
 
 | Public category | What belongs here | Where it is maintained |
