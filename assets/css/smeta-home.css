@@ -141,3 +141,6 @@ body.s99lab-home{margin:0;background:#f7f7f3}
 .s99lab-home .smeta-brand{font-size:24px}
 .s99lab-home .smeta-brand span{font-size:11px}
 @media(max-width:650px){.s99lab-home .smeta-navline{display:flex;flex-wrap:wrap;gap:10px 16px;padding:16px 0}.s99lab-home .smeta-brand{font-size:21px;flex:0 0 100%}.s99lab-home .smeta-brand span{max-width:none}.s99lab-home .smeta-nav{width:100%;justify-content:space-between;gap:8px}.s99lab-home .smeta-kicker{letter-spacing:.12em}}
+
+/* Keep the Japanese hero's closing phrase and punctuation together. */
+.smeta-landing .smeta-display .smeta-nowrap{white-space:nowrap}

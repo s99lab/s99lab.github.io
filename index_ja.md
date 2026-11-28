@@ -26,7 +26,7 @@ description: "s99Labは研究・社会観測・技術開発・社会実装をつ
       <div class="smeta-container smeta-hero-grid">
         <div>
           <span class="smeta-kicker">RESEARCH / OBSERVATION / DEVELOPMENT / APPLICATION</span>
-          <h1 id="smeta-main-title" class="smeta-display">見えているものの、<br><em>その先へ</em></h1>
+          <h1 id="smeta-main-title" class="smeta-display">見えているものの、<br><em><span class="smeta-nowrap">その先へ。</span></em></h1>
           <p class="smeta-lab-intro">s99Labは、研究・社会観測・技術開発・社会実装をつなぐ独立したラボです。</p>
           <p class="smeta-lead">個人の研究者 S. Metaによる研究・論文、A_L_I_S_Eによる構造分析を公開しています。</p>
           <div class="smeta-actions">
