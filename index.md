@@ -26,7 +26,7 @@ description: "s99Lab is an independent lab connecting research, social observati
       <div class="smeta-container smeta-hero-grid">
         <div>
           <span class="smeta-kicker">RESEARCH / OBSERVATION / DEVELOPMENT / APPLICATION</span>
-          <h1 id="smeta-main-title" class="smeta-display">Look beyond<br><em>the visible.</em></h1>
+          <h1 id="smeta-main-title" class="smeta-display" translate="no">Look beyond<br><em>the visible</em></h1>
           <p class="smeta-lab-intro">s99Lab is an independent lab connecting research, social observation, development and practical application.</p>
           <p class="smeta-lead">Explore research and publications by the independent researcher S. Meta and structural analysis by A_L_I_S_E.</p>
           <div class="smeta-actions">
